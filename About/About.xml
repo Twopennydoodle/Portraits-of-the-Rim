@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Portraits of the Rim</name>
+	<author>TwoPenny</author>
+	<supportedVersions>
+	<li>1.4</li>
+	</supportedVersions>
+	<packageId>TwoPenny.PortraitsOfTheRim</packageId>
+	<description>.</description>
+</ModMetaData>
