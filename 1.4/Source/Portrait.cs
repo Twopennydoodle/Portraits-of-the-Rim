@@ -39,6 +39,9 @@ namespace PortraitsOfTheRim
         }
 
         public static Dictionary<Pawn, Dictionary<PortraitElementDef, RenderTexture>> cachedRenderTextures = new();
+
+        [TweakValue("0Portrait", 2f, 3f)] public static float zoomValue = 2.402f;
+        [TweakValue("0Portrait", -0.2f, 0f)] public static float zOffset = -0.086f;
         public List<Texture> GetPortraitTextures()
         {
             List<Texture> allTextures = new List<Texture>();    
@@ -62,7 +65,7 @@ namespace PortraitsOfTheRim
                         {
                             dict[matchingElement] = renderTexture = new RenderTexture(mainTexture.width, mainTexture.height, 0);
                         }
-                        renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, -0.1f), 2.51f);
+                        renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, zOffset), zoomValue);
                         allTextures.Add(renderTexture);
                     }
                 }

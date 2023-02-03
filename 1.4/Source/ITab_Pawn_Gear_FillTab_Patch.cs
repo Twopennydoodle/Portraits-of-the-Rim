@@ -35,8 +35,11 @@ namespace PortraitsOfTheRim
 
         public static float FixedWidth(ref Rect rect)
         {
-            return rect.width - 180;
+            return rect.width - portraitSize;
         }
+        [TweakValue("0Portrait", 0f, 300f)] public static float xPos = 254;
+        [TweakValue("0Portrait", 0f, 30f)] public static float yPos = 8;
+        [TweakValue("0Portrait", 0f, 30f)] public static float portraitSize = 180;
 
         public static void Postfix(ITab_Pawn_Gear __instance)
         {
@@ -46,7 +49,7 @@ namespace PortraitsOfTheRim
                 if (pawn != null && pawn.IsColonist)
                 {
                     var portrait = pawn.GetPortrait();
-                    portrait.RenderPortrait(254, 8, 180, 180);
+                    portrait.RenderPortrait(xPos, yPos, portraitSize, portraitSize);
                 }
             }
         }
