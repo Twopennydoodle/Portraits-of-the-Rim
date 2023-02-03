@@ -6,11 +6,13 @@ namespace PortraitsOfTheRim
     public enum Side { Left, Right }
     public class BodyPartType
     {
+        public HediffDef hediffInjury;
         public BodyPartDef bodyPart;
         public Side? side;
         public bool injured;
         public bool scarred;
         public bool destroyed;
+        public bool bandaged;
         public bool Matches(Pawn pawn)
         {
             var bodyParts = pawn.def.race.body.AllParts.Where(x => Matches(x)).ToList();
@@ -20,9 +22,13 @@ namespace PortraitsOfTheRim
             if (destroyed && nonMissingBodyParts.Any())
                 return false;
             var allHediffsWithPart = pawn.health.hediffSet.hediffs.Where(x => x.Part != null && Matches(x.Part)).ToList();
+            if (hediffInjury != null && allHediffsWithPart.Exists(x => x.def == hediffInjury) is false)
+                return false;
             if (scarred && allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
                 return false;
             if (injured && allHediffsWithPart.OfType<Hediff_Injury>().Any() is false)
+                return false;
+            if (bandaged && allHediffsWithPart.OfType<Hediff_Injury>().Any(x => x.IsTended()) is false)
                 return false;
             return true;
         }
@@ -44,12 +50,12 @@ namespace PortraitsOfTheRim
             return true;
         }
 
-        private bool BodyPartHasTag(BodyPartRecord bodyPartRecord, string tag)
+        public static bool BodyPartHasTag(BodyPartRecord bodyPartRecord, string tag)
         {
             return bodyPartRecord.woundAnchorTag.Contains(tag) || ParentsHaveTag(bodyPartRecord, tag);
         }
 
-        public bool ParentsHaveTag(BodyPartRecord bodyPartRecord, string tag)
+        public static bool ParentsHaveTag(BodyPartRecord bodyPartRecord, string tag)
         {
             if (bodyPartRecord.parent is null)
             {

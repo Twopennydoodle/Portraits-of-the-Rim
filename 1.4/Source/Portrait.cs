@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using Verse;
 
 namespace PortraitsOfTheRim
@@ -21,7 +22,7 @@ namespace PortraitsOfTheRim
 
         private Texture CreateTexture()
         {
-            return null;
+            throw new NotImplementedException();
             foreach (var layer in Core.layers)
             {
                 if (Core.portraitElements.TryGetValue(layer, out var elements))
@@ -31,4 +32,6 @@ namespace PortraitsOfTheRim
             }
         }
     }
+
+
 }
