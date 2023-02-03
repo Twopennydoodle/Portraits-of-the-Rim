@@ -201,6 +201,18 @@ namespace PortraitsOfTheRim
 
         private static bool TryToResolveSuffix(string layer, Requirements req, int index, ref string suffix)
         {
+            if (suffix == "gene")
+            {
+                foreach (var def in DefDatabase<GeneDef>.AllDefs)
+                {
+                    if (SuffixMatches(def.label, suffix))
+                    {
+                        req.genes ??= new List<GeneDef>();
+                        req.genes.Add(def);
+                        return true;
+                    }
+                }
+            }
             if (layer == "PR_Neck")
             {
                 if (index == 1)
