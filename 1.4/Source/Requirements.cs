@@ -18,7 +18,7 @@ namespace PortraitsOfTheRim
         public HairDef hair;
         public BeardDef beard;
         public List<BackstoryTrait> traits;
-        public BodyTypeDef body;
+        public GeneticBodyType? body;
         public List<ThingDef> apparels;
         public FloatRange? ageRange;
         public PawnBodyType? bodyType;
@@ -46,7 +46,7 @@ namespace PortraitsOfTheRim
                 return false;
             if (traits != null && pawn.story.traits.allTraits.Any(x => traits.Any(y => y.def == x.def && y.degree == x.degree)) is false)
                 return false;
-            if (body != null && pawn.story.bodyType != body)
+            if (body != null && pawn.story.bodyType != body.Value.ToBodyType(pawn))
                 return false;
             if (apparels != null && pawn.apparel.WornApparel.Any(x => apparels.Any(y => x.def == y) is false))
                 return false;

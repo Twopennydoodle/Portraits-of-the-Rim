@@ -161,6 +161,7 @@ namespace PortraitsOfTheRim
                         case "wclavicle": AddBodyPart(req, "Clavicle", Side.Left); continue;
                         case "eclavicle": AddBodyPart(req, "Clavicle", Side.Right); continue;
                         case "torso": AddBodyPart(req, "Torso"); continue;
+                        case "skull": AddBodyPart(req, "Head"); continue;
                         case "weye": AddBodyPart(req, "Eye", Side.Left); continue;
                         case "eeye": AddBodyPart(req, "Eye", Side.Right); continue;
                         case "neck": AddBodyPart(req, "Neck"); continue;
@@ -183,7 +184,7 @@ namespace PortraitsOfTheRim
                             catch (Exception e)
                             {
                                 errored = true;
-                                Log.Error("Failed to parse suffix: " + suffix + " - index: " + index + " - " + string.Join(", ", data) + " - " + e.ToString());
+                                Log.Error("Failed to parse suffix: " + suffix + " - index: " + index + " - data: " + string.Join(", ", data) + " - " + e.ToString());
                                 RegisterUnknownSuffix(layer, index, suffix);    
                             }
                             break;
@@ -191,7 +192,7 @@ namespace PortraitsOfTheRim
                 }
                 catch (Exception e)
                 {
-                    Log.Error("2 Failed to parse suffix: " + suffix + " - index: " + index + " - " + string.Join(", ", data) + " - " + e.ToString());
+                    Log.Error("2 Failed to parse suffix: " + suffix + " - index: " + index + " - data: " + string.Join(", ", data) + " - " + e.ToString());
                     errored = true;
                 }
             }
@@ -200,6 +201,19 @@ namespace PortraitsOfTheRim
 
         private static bool TryToResolveSuffix(string layer, Requirements req, int index, ref string suffix)
         {
+            if (layer == "PR_Neck")
+            {
+                if (index == 1)
+                {
+                    switch (suffix)
+                    {
+                        case "heavy": req.body = GeneticBodyType.Fat; return true;
+                        case "hulk": req.body = GeneticBodyType.Hulk; return true;
+                        case "thin": req.body = GeneticBodyType.Thin; return true;
+                        case "average": req.body = GeneticBodyType.Standard; return true;
+                    }
+                }
+            }
             if (layer.Contains("Clothing") || layer.Contains("Headgear"))
             {
                 foreach (var def in DefDatabase<ThingDef>.AllDefs)
@@ -306,7 +320,7 @@ namespace PortraitsOfTheRim
                         suffix = "chemicalburn";
                     foreach (var hediffDef in DefDatabase<HediffDef>.AllDefs)
                     {
-                        if (SuffixMatches(hediffDef.defName, suffix))
+                        if (SuffixMatches(hediffDef.defName, suffix) || SuffixMatches(hediffDef.label, suffix))
                         {
                             req.bodyParts.First().hediffInjury = hediffDef;
                             return true;
@@ -359,12 +373,12 @@ namespace PortraitsOfTheRim
             {
                 var folders = file.FullName.Replace(baseDirectory.FullName, "").Split(Path.DirectorySeparatorChar);
                 var layer = folders[0];
-                var source = new Regex("(.*?)_").Match(folders[1]).Groups[1].Value.ToLower();
+                var filename = folders.Last().Replace(".png", "");
+                var source = new Regex("(.*?)_").Match(filename).Groups[1].Value.ToLower();
                 if (source.NullOrEmpty())
                 {
                     source = "NoSource";
                 }
-                var filename = folders.Last().Replace(".png", "");
                 var defName = "PR_" + filename;
                 if (DefDatabase<PortraitElementDef>.GetNamedSilentFail(defName) is null)
                 {
@@ -493,7 +507,7 @@ namespace PortraitsOfTheRim
                         }
                         if (req.body != null)
                         {
-                            sb.AppendLine("\t\t\t" + "<body>" + req.body.defName + "</body>");
+                            sb.AppendLine("\t\t\t" + "<body>" + req.body.Value.ToString() + "</body>");
                         }
                         sb.AppendLine("\t\t" + "</requirements>");
                         sb.AppendLine("\t</PortraitsOfTheRim.PortraitElementDef>");
@@ -503,7 +517,7 @@ namespace PortraitsOfTheRim
                             {
                                 erroredXML[source] = list = new List<string>();
                             }
-                            list.Add(sb.ToString());
+                            list.Add(Regex.Replace(sb.ToString(), @"^\s+$[\r\n]*", string.Empty, RegexOptions.Multiline));
                         }
                         else
                         {
@@ -511,7 +525,7 @@ namespace PortraitsOfTheRim
                             {
                                 resolvedXML[source] = list = new List<string>();
                             }
-                            list.Add(sb.ToString());
+                            list.Add(Regex.Replace(sb.ToString(), @"^\s+$[\r\n]*", string.Empty, RegexOptions.Multiline));
                         }
                     }
                 }
