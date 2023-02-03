@@ -4,6 +4,7 @@ using Verse;
 
 namespace PortraitsOfTheRim
 {
+    [HotSwappable]
     public class PortraitCamera : MonoBehaviour
     {
         public PortraitElementDef portraitElementDef;

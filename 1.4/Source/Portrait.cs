@@ -7,8 +7,10 @@ using Verse;
 namespace PortraitsOfTheRim
 {
     [HotSwappable]
+    [StaticConstructorOnStartup]
     public class Portrait
     {
+        private static readonly Texture2D OutlineTex = SolidColorMaterials.NewSolidColorTexture(new ColorInt(77, 77, 77).ToColor);
         public Pawn pawn;
         private List<Texture> portraitTextures;
         private int lastCreatingTime;
@@ -31,12 +33,14 @@ namespace PortraitsOfTheRim
             var renderRect = new Rect(x, y, width, height);
             foreach (var texture in textures)
             {
-                GUI.DrawTexture(renderRect, texture, ScaleMode.StretchToFill);
+                GUI.DrawTexture(renderRect, texture);
             }
-            Widgets.DrawBox(renderRect);
+            Widgets.DrawBox(renderRect.ExpandedBy(1), 1, OutlineTex);
         }
 
-        [TweakValue("0Portrait", 0, 3f)] public static float zoomValue = 1;
+        [TweakValue("0Portrait", 0, 3f)] public static float zoomValue = 2;
+
+        public static Dictionary<Pawn, Dictionary<PortraitElementDef, RenderTexture>> cachedRenderTextures = new();
         public List<Texture> GetPortraitTextures()
         {
             List<Texture> allTextures = new List<Texture>();    
@@ -50,11 +54,18 @@ namespace PortraitsOfTheRim
                         Rand.PushState();
                         Rand.Seed = pawn.thingIDNumber;
                         var matchingElement = matchingElements.RandomElement();
-                        var texture = matchingElement.graphic.MatSingle.mainTexture;
-                        var output = new RenderTexture(400, 400, 0);
-                        output.RenderElement(matchingElement, pawn, Vector3.zero, zoomValue);
-                        allTextures.Add(output);
                         Rand.PopState();
+                        var mainTexture = matchingElement.graphic.MatSingle.mainTexture;
+                        if (!cachedRenderTextures.TryGetValue(pawn, out var dict))
+                        {
+                            cachedRenderTextures[pawn] = dict = new Dictionary<PortraitElementDef, RenderTexture>();
+                        }
+                        if (!dict.TryGetValue(matchingElement, out var renderTexture))
+                        {
+                            dict[matchingElement] = renderTexture = new RenderTexture(mainTexture.width, mainTexture.height, 0);
+                        }
+                        renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, -0.1f), zoomValue);
+                        allTextures.Add(renderTexture);
                     }
                 }
             }
