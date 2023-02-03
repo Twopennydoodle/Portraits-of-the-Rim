@@ -38,8 +38,6 @@ namespace PortraitsOfTheRim
             Widgets.DrawBox(renderRect.ExpandedBy(1), 1, OutlineTex);
         }
 
-        [TweakValue("0Portrait", 0, 3f)] public static float zoomValue = 2;
-
         public static Dictionary<Pawn, Dictionary<PortraitElementDef, RenderTexture>> cachedRenderTextures = new();
         public List<Texture> GetPortraitTextures()
         {
@@ -64,7 +62,7 @@ namespace PortraitsOfTheRim
                         {
                             dict[matchingElement] = renderTexture = new RenderTexture(mainTexture.width, mainTexture.height, 0);
                         }
-                        renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, -0.1f), zoomValue);
+                        renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, -0.1f), 2.51f);
                         allTextures.Add(renderTexture);
                     }
                 }
