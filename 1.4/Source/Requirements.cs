@@ -1,11 +1,13 @@
 ﻿using RimWorld;
 using System.Collections.Generic;
 using System.Linq;
+using UnityEngine;
 using Verse;
 
 namespace PortraitsOfTheRim
 {
     public enum PawnBodyType { Small, Medium, Large, ExtraLarge };
+    [HotSwappable]
     public class Requirements
     {
         public Gender? gender;
@@ -55,8 +57,39 @@ namespace PortraitsOfTheRim
             if (bodyType != null && Matches(pawn, bodyType.Value) is false)
                 return false;
             if (headType.NullOrEmpty() is false && pawn.story.headType.defName.ToLower().Contains(headType.ToLower()) is false)
+            {
+                Log.Message(headType + " - pawn.story.headType: " + pawn.story.headType);
                 return false;
+            }
             return true;
+        }
+
+        public Color? GetColor(Pawn pawn)
+        {
+            if (this.apparels != null)
+            {
+                foreach (var def in apparels)
+                {
+                    var apparel = pawn.apparel.WornApparel.FirstOrDefault(x => x.def == def);
+                    if (apparel != null)
+                    {
+                        return apparel.DrawColor;
+                    }
+                }
+            }
+            if (headType.NullOrEmpty() is false || head != null)
+            {
+                return pawn.story.SkinColor;
+            }
+            if (hair != null)
+            {
+                return pawn.story.HairColor;
+            }
+            if (this.body != null || this.bodyType != null)
+            {
+                return pawn.story.SkinColor;
+            }
+            return null;
         }
 
         private bool Matches(Pawn pawn, PawnBodyType bodyType)

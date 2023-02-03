@@ -70,6 +70,8 @@
     <Compile Include="PortraitsOfTheRimMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Requirements.cs" />
+    <Compile Include="TextureUtils.cs" />
+    <Compile Include="UIRoot_Play_UIRootOnGUI_Patch.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

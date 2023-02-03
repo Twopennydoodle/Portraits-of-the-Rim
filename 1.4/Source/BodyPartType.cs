@@ -52,16 +52,16 @@ namespace PortraitsOfTheRim
 
         public static bool BodyPartHasTag(BodyPartRecord bodyPartRecord, string tag)
         {
-            return bodyPartRecord.woundAnchorTag.Contains(tag) || ParentsHaveTag(bodyPartRecord, tag);
+            return bodyPartRecord.woundAnchorTag != null && bodyPartRecord.woundAnchorTag.Contains(tag) || ParentsHaveTag(bodyPartRecord, tag);
         }
 
         public static bool ParentsHaveTag(BodyPartRecord bodyPartRecord, string tag)
         {
-            if (bodyPartRecord.parent is null)
+            if (bodyPartRecord?.parent is null)
             {
                 return false;
             }
-            if (bodyPartRecord.parent.woundAnchorTag.Contains(tag))
+            if (bodyPartRecord.parent.woundAnchorTag != null && bodyPartRecord.parent.woundAnchorTag.Contains(tag))
             {
                 return true;
             }

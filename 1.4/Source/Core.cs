@@ -377,7 +377,6 @@ namespace PortraitsOfTheRim
 
         public static void OutputDefs(ModContentPack mod, DirectoryInfo baseDirectory, DirectoryInfo directoryInfo)
         {
-            Log.Message(baseDirectory + " - " + directoryInfo);
             var files = directoryInfo.GetFiles("*.*", SearchOption.AllDirectories);
             Dictionary<string, List<string>> erroredXML = new ();
             Dictionary<string, List<string>> resolvedXML = new ();
@@ -571,12 +570,15 @@ namespace PortraitsOfTheRim
                 var list = new List<PortraitElementDef>();
                 foreach (var elementDef in DefDatabase<PortraitElementDef>.AllDefs)
                 {
-                    list.Add(elementDef);
+                    if (elementDef.portraitLayer == layerDef)
+                    {
+                        list.Add(elementDef);
+                    }
                 }
                 portraitElements[layerDef] = list;
             }
         }
-        public static Texture GetPortrait(this Pawn pawn)
+        public static Portrait GetPortrait(this Pawn pawn)
         {
             if (!pawnPortraits.TryGetValue(pawn, out var portrait))
             {
@@ -585,7 +587,7 @@ namespace PortraitsOfTheRim
                     pawn = pawn,
                 };
             }
-            return portrait.PortraitTexture;
+            return portrait;
         }
     }
 }
