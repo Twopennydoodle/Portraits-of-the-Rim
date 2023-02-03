@@ -24,12 +24,22 @@ namespace PortraitsOfTheRim
             var allHediffsWithPart = pawn.health.hediffSet.hediffs.Where(x => x.Part != null && Matches(x.Part)).ToList();
             if (hediffInjury != null && allHediffsWithPart.Exists(x => x.def == hediffInjury) is false)
                 return false;
-            if (scarred && allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
-                return false;
-            if (injured && allHediffsWithPart.OfType<Hediff_Injury>().Any() is false)
-                return false;
-            if (bandaged && allHediffsWithPart.OfType<Hediff_Injury>().Any(x => x.IsTended()) is false)
-                return false;
+            if (!PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries)
+            {
+                if (scarred && allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
+                    return false;
+                if (injured && allHediffsWithPart.OfType<Hediff_Injury>().Any() is false)
+                    return false;
+                if (bandaged && allHediffsWithPart.OfType<Hediff_Injury>().Any(x => x.IsTended()) is false)
+                    return false;
+            }
+            else
+            {
+                if (allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
+                    return false;
+                if (allHediffsWithPart.OfType<Hediff_Injury>().Any() is false)
+                    return false;
+            }
             return true;
         }
 

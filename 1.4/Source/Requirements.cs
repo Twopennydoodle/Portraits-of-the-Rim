@@ -58,7 +58,6 @@ namespace PortraitsOfTheRim
                 return false;
             if (headType.NullOrEmpty() is false && pawn.story.headType.defName.ToLower().Contains(headType.ToLower()) is false)
             {
-                Log.Message(headType + " - pawn.story.headType: " + pawn.story.headType);
                 return false;
             }
             return true;

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<PR.ReplaceColonistBarPortraits>Replace colonist bar portraits</PR.ReplaceColonistBarPortraits>
-	<PR.ShowPortraitsInGearTab>Show portraits in the gear tab</PR.ShowPortraitsInGearTab>
+
+	<PR.ShowBandagesInsteadOfInjuries>Show bandages instead of injuries</PR.ShowBandagesInsteadOfInjuries>
 </LanguageData>

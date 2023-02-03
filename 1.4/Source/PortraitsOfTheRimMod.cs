@@ -28,21 +28,18 @@ namespace PortraitsOfTheRim
 
     public class PortraitsOfTheRimSettings : ModSettings
     {
-        public static bool replaceColonistBarPortraits = true;
-        public static bool showPortraitsInGearTab = true;
+        public static bool showBandagesInsteadOfInjuries = false;
         public override void ExposeData()
         {
             base.ExposeData();
-            Scribe_Values.Look(ref replaceColonistBarPortraits, "replaceColonistBarPortraits", true);
-            Scribe_Values.Look(ref showPortraitsInGearTab, "showPortraitsInGearTab", true);
+            Scribe_Values.Look(ref showBandagesInsteadOfInjuries, "showBandagesInsteadOfInjuries", false);
         }
 
         public void DoSettingsWindowContents(Rect inRect)
         {
             var ls = new Listing_Standard();
             ls.Begin(inRect);
-            ls.CheckboxLabeled("PR.ReplaceColonistBarPortraits".Translate(), ref replaceColonistBarPortraits);
-            ls.CheckboxLabeled("PR.ShowPortraitsInGearTab".Translate(), ref showPortraitsInGearTab);
+            ls.CheckboxLabeled("PR.ShowBandagesInsteadOfInjuries".Translate(), ref showBandagesInsteadOfInjuries);
             ls.End();
         }
     }
