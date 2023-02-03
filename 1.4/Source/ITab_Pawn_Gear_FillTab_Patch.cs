@@ -43,14 +43,11 @@ namespace PortraitsOfTheRim
 
         public static void Postfix(ITab_Pawn_Gear __instance)
         {
-            if (PortraitsOfTheRimSettings.showPortraitsInGearTab)
+            Pawn pawn = __instance.SelPawnForGear;
+            if (pawn != null && pawn.IsColonist)
             {
-                Pawn pawn = __instance.SelPawnForGear;
-                if (pawn != null && pawn.IsColonist)
-                {
-                    var portrait = pawn.GetPortrait();
-                    portrait.RenderPortrait(xPos, yPos, portraitSize, portraitSize);
-                }
+                var portrait = pawn.GetPortrait();
+                portrait.RenderPortrait(xPos, yPos, portraitSize, portraitSize);
             }
         }
     }
