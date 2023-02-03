@@ -36,7 +36,7 @@ namespace PortraitsOfTheRim
             Widgets.DrawBox(renderRect);
         }
 
-        [TweakValue("0Portraits", 0, 5f)] public static float zoomValue = 1f;
+        [TweakValue("0Portrait", 0, 3f)] public static float zoomValue = 1;
         public List<Texture> GetPortraitTextures()
         {
             List<Texture> allTextures = new List<Texture>();    
@@ -51,38 +51,14 @@ namespace PortraitsOfTheRim
                         Rand.Seed = pawn.thingIDNumber;
                         var matchingElement = matchingElements.RandomElement();
                         var texture = matchingElement.graphic.MatSingle.mainTexture;
-                        var renderTexture = new RenderTexture(400, 400, 0);
-                        TextureUtils.renderCamera.GetComponent<RenderCamera>().RenderPortraitElement(matchingElement, pawn, renderTexture, 
-                            Vector3.zero, zoomValue);
-                        allTextures.Add(renderTexture);
+                        var output = new RenderTexture(400, 400, 0);
+                        output.RenderElement(matchingElement, pawn, Vector3.zero, zoomValue);
+                        allTextures.Add(output);
                         Rand.PopState();
                     }
                 }
             }
             return allTextures;
-        }
-    }
-
-    public class PortraitCamera : MonoBehaviour
-    {
-        private Pawn pawn;
-        public void RenderPawn(Pawn pawn, RenderTexture renderTexture)
-        {
-            Camera camera = new Camera();
-            Vector3 position = camera.transform.position;
-            float orthographicSize = camera.orthographicSize;
-            this.pawn = pawn;
-            camera.SetTargetBuffers(renderTexture.colorBuffer, renderTexture.depthBuffer);
-            camera.Render();
-            this.pawn = null;
-            camera.transform.position = position;
-            camera.orthographicSize = orthographicSize;
-            camera.targetTexture = null;
-        }
-
-        public void OnPostRender()
-        {
-
         }
     }
 }
