@@ -81,6 +81,12 @@ namespace PortraitsOfTheRim
         public const string AdultFemale = "af";
         public const string AdultMale = "am";
 
+        public static List<string> allSuffices = new List<string>
+        {
+            Large, Small, Medium, ExtraLarge, AdultAllGender, ChildAllGender, ChildFemale, ChildMale, TeenFemale, TeenMale, YoungFemale,
+            YoungMale, ElderFemale, ElderMale, MiddleAgedFemale, MiddleAgedMale, AdultFemale, AdultMale,
+        };
+
         public static FloatRange childAge = new FloatRange(7f, 13f);
         public static FloatRange teenAge = new FloatRange(13f, 19f);
         public static FloatRange youngAdultAge = new FloatRange(19f, 39f);
@@ -175,7 +181,7 @@ namespace PortraitsOfTheRim
                         default:
                             try
                             {
-                                if (TryToResolveSuffix(layer, req, index, ref suffix) is false)
+                                if (TryToResolveSuffix(layer, req, ref index, ref suffix, data) is false)
                                 {
                                     errored = true;
                                     RegisterUnknownSuffix(layer, index, suffix);
@@ -199,13 +205,23 @@ namespace PortraitsOfTheRim
             return req;
         }
 
-        private static bool TryToResolveSuffix(string layer, Requirements req, int index, ref string suffix)
+        private static bool TryToResolveSuffix(string layer, Requirements req, ref int index, ref string suffix, List<string> data)
         {
             if (suffix == "gene")
             {
+                for (int i = index + 1; i < data.Count; i++)
+                {
+                    suffix = data[i];
+                    if (allSuffices.Contains(suffix) is false)
+                    {
+                        index = i;
+                        break;
+                    }
+                }
+                suffix = data[index];
                 foreach (var def in DefDatabase<GeneDef>.AllDefs)
                 {
-                    if (SuffixMatches(def.label, suffix))
+                    if (SuffixMatches(def, suffix))
                     {
                         req.genes ??= new List<GeneDef>();
                         req.genes.Add(def);
@@ -232,7 +248,7 @@ namespace PortraitsOfTheRim
                 {
                     if (def.IsApparel)
                     {
-                        if (SuffixMatches(def.label, suffix))
+                        if (SuffixMatches(def, suffix))
                         {
                             req.apparels ??= new List<ThingDef>();
                             req.apparels.Add(def);
@@ -246,7 +262,7 @@ namespace PortraitsOfTheRim
             {
                 foreach (var def in DefDatabase<HairDef>.AllDefs)
                 {
-                    if (SuffixMatches(def.label, suffix))
+                    if (SuffixMatches(def, suffix))
                     {
                         req.hair = def;
                         return true;
@@ -257,7 +273,7 @@ namespace PortraitsOfTheRim
             {
                 foreach (var def in DefDatabase<BeardDef>.AllDefs)
                 {
-                    if (SuffixMatches(def.label, suffix))
+                    if (SuffixMatches(def, suffix))
                     {
                         req.beard = def;
                         return true;
@@ -269,7 +285,7 @@ namespace PortraitsOfTheRim
             {
                 foreach (var def in DefDatabase<TattooDef>.AllDefs)
                 {
-                    if (def.tattooType == TattooType.Face && SuffixMatches(def.label, suffix.ToString()))
+                    if (def.tattooType == TattooType.Face && SuffixMatches(def, suffix))
                     {
                         req.faceTattoo = def;
                         return true;
@@ -281,7 +297,7 @@ namespace PortraitsOfTheRim
             {
                 foreach (var def in DefDatabase<TattooDef>.AllDefs)
                 {
-                    if (def.tattooType == TattooType.Body && SuffixMatches(def.label, suffix))
+                    if (def.tattooType == TattooType.Body && SuffixMatches(def, suffix))
                     {
                         req.bodyTattoo = def;
                         return true;
@@ -322,35 +338,50 @@ namespace PortraitsOfTheRim
                     }
                 }
             }
-            if (layer == "PR_OuterHediffNeck" || layer == "PR_MiddleHediffHead")
+            var firstBodyPart = req.bodyParts?.FirstOrDefault();
+            if (firstBodyPart != null)
             {
-                if (index == 2)
+                if (suffix == "shred")
+                    suffix = "shredded";
+                else if (suffix == "chemburn")
+                    suffix = "chemicalburn";
+                foreach (var hediffDef in DefDatabase<HediffDef>.AllDefs)
                 {
-                    if (suffix == "shred")
-                        suffix = "shredded";
-                    else if (suffix == "chemburn")
-                        suffix = "chemicalburn";
-                    foreach (var hediffDef in DefDatabase<HediffDef>.AllDefs)
+                    if (SuffixMatches(hediffDef, suffix))
                     {
-                        if (SuffixMatches(hediffDef.defName, suffix) || SuffixMatches(hediffDef.label, suffix))
-                        {
-                            req.bodyParts.First().hediffInjury = hediffDef;
-                            return true;
-                        }
+                        firstBodyPart.hediffInjury = hediffDef;
+                        return true;
+                    }
+                }
+            }
+            else if (layer.Contains("Hediff"))
+            {
+                foreach (var hediffDef in DefDatabase<HediffDef>.AllDefs)
+                {
+                    if (SuffixMatches(hediffDef, suffix))
+                    {
+                        req.hediffs ??= new List<HediffDef>();
+                        req.hediffs.Add(hediffDef);
+                        return true;
                     }
                 }
             }
             return false;
         }
 
+        private static bool SuffixMatches(Def def, string suffix)
+        {
+            var suffixUnified = UnifyString(suffix);
+            return UnifyString(def.defName) == suffixUnified || UnifyString(def.label) == suffixUnified;
+        }
         private static bool SuffixMatches(string label, string suffix)
         {
-            return UnifyString(label) == UnifyString(suffix);
+            var suffixUnified = UnifyString(suffix);
+            return UnifyString(label) == suffixUnified;
         }
-
         private static string UnifyString(string label)
         {
-            return label.ToLower().Replace(" ", "").Replace("-", "");
+            return label.ToLower().Replace(" ", "").Replace("-", "").Replace("'", "");
         }
 
         private static void RegisterUnknownSuffix(string layer, int index, string suffix)
@@ -402,7 +433,8 @@ namespace PortraitsOfTheRim
                     sb.AppendLine("\t\t\t" + "<texPath>" + file.FullName.Replace(baseDirectory.FullName, "").Replace("\\", "/").Replace(".png", "") + "</texPath>");
                     sb.AppendLine("\t\t" + "</graphicData>");
                     sb.AppendLine("\t\t" + "<requirements>");
-                    var data = filename.Split('_').Skip(2).ToList();
+                    var data = filename.Split('_').Skip(1).Where(x => x.ToLower() != layer.ToLower()).ToList();
+
                     Requirements req = CreateRequirements(layerDef.defName, data, out var errored);
                     if (req.ageRange != null)
                     {
@@ -490,6 +522,10 @@ namespace PortraitsOfTheRim
                             sb.AppendLine("\t\t\t\t" + "<li>" + apparel.defName + "</li>");
                         }
                         sb.AppendLine("\t\t\t" + "</apparels>");
+                    }
+                    if (req.xenotype != null)
+                    {
+                        sb.AppendLine("\t\t\t" + "<xenotype>" + req.xenotype.defName + "</xenotype>");
                     }
                     if (req.head != null)
                     {
