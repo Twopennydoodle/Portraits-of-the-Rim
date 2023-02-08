@@ -25,7 +25,7 @@ namespace PortraitsOfTheRim
         public FloatRange? ageRange;
         public PawnBodyType? bodyType;
         public string headType;
-
+        public XenotypeDef xenotype;
         public bool Matches(Pawn pawn)
         {
             if (gender != null && pawn.gender != gender.Value)
@@ -57,9 +57,9 @@ namespace PortraitsOfTheRim
             if (bodyType != null && Matches(pawn, bodyType.Value) is false)
                 return false;
             if (headType.NullOrEmpty() is false && pawn.story.headType.defName.ToLower().Contains(headType.ToLower()) is false)
-            {
                 return false;
-            }
+            if (xenotype != null && xenotype != pawn.genes.xenotype)
+                return false;
             return true;
         }
 
