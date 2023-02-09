@@ -416,7 +416,7 @@ namespace PortraitsOfTheRim
                 var folders = file.FullName.Replace(baseDirectory.FullName, "").Split(Path.DirectorySeparatorChar);
                 var layer = folders[0];
                 var filename = folders.Last().Replace(".png", "");
-                var source = new Regex("(.*?)_").Match(filename).Groups[1].Value.ToLower();
+                var source = new Regex("(.*?)-").Match(filename).Groups[1].Value.ToLower();
                 if (source.NullOrEmpty())
                 {
                     source = "NoSource";
@@ -433,7 +433,7 @@ namespace PortraitsOfTheRim
                     sb.AppendLine("\t\t\t" + "<texPath>" + file.FullName.Replace(baseDirectory.FullName, "").Replace("\\", "/").Replace(".png", "") + "</texPath>");
                     sb.AppendLine("\t\t" + "</graphicData>");
                     sb.AppendLine("\t\t" + "<requirements>");
-                    var data = filename.Split('_').Skip(1).Where(x => x.ToLower() != layer.ToLower()).ToList();
+                    var data = filename.Split('-').Skip(1).Where(x => x.ToLower() != layer.ToLower()).ToList();
 
                     Requirements req = CreateRequirements(layerDef.defName, data, out var errored);
                     if (req.ageRange != null)
