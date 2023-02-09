@@ -26,26 +26,37 @@ namespace PortraitsOfTheRim
             {
                 if (mod.textures?.contentList != null)
                 {
+                    HashSet<string> folders = new HashSet<string>();
                     outerList.Add(new DebugMenuOption(mod.Name, DebugMenuOptionMode.Action, delegate
                     {
                         var innerList = new List<DebugMenuOption>();
-                        foreach (var folderName in mod.foldersToLoadDescendingOrder)
+                        foreach (var folderName in mod.foldersToLoadDescendingOrder.Distinct())
                         {
                             DirectoryInfo baseDirectory = new DirectoryInfo(folderName);
                             if (baseDirectory.Exists)
                             {
-                                innerList.Add(new DebugMenuOption(baseDirectory.FullName.Replace(mod.RootDir, ""), 
-                                    DebugMenuOptionMode.Action, delegate
+                                var innerFolderName = baseDirectory.FullName.Replace(mod.RootDir, "");
+                                if (!folders.Contains(folderName))
                                 {
-                                    OutputDefs(mod, baseDirectory, baseDirectory);
-                                }));
+                                    folders.Add(innerFolderName);
+                                    innerList.Add(new DebugMenuOption(innerFolderName, DebugMenuOptionMode.Action, delegate
+                                    {
+                                        OutputDefs(mod, baseDirectory, baseDirectory);
+                                    }));
+                                }
+
                                 var directories = Directory.GetDirectories(baseDirectory.FullName);
                                 foreach (var directory in directories)
                                 {
-                                    innerList.Add(new DebugMenuOption(directory.Replace(mod.RootDir, ""), DebugMenuOptionMode.Action, delegate
+                                    innerFolderName = directory.Replace(mod.RootDir, "");
+                                    if (!folders.Contains(innerFolderName))
                                     {
-                                        OutputDefs(mod, baseDirectory, new DirectoryInfo(directory));
-                                    }));
+                                        folders.Add(innerFolderName);
+                                        innerList.Add(new DebugMenuOption(innerFolderName, DebugMenuOptionMode.Action, delegate
+                                        {
+                                            OutputDefs(mod, baseDirectory, new DirectoryInfo(directory));
+                                        }));
+                                    }
                                 }
                             }
                         }
@@ -365,7 +376,7 @@ namespace PortraitsOfTheRim
                     }
                 }
             }
-            Log.Message("Failed to parse " + suffix + " - " + index);
+            Log.Error("Failed to parse " + suffix + " - " + index);
             Log.ResetMessageCount();
             return false;
         }
@@ -412,11 +423,13 @@ namespace PortraitsOfTheRim
             var files = directoryInfo.GetFiles("*.*", SearchOption.AllDirectories);
             Dictionary<string, List<string>> erroredXML = new ();
             Dictionary<string, List<string>> resolvedXML = new ();
+            var source = "Unknown";
             foreach (var file in files)
             {
-                var path = file.FullName.Replace(baseDirectory.FullName, "").Replace("\\Mods\\", "").Replace("\\Textures", "");
-                var folders = path.Split(Path.DirectorySeparatorChar);
-                var source = folders[0];
+                var path = file.FullName.Replace("\\", "/").Replace(file.Extension, "");
+                path = new Regex(@"(.*/)?(.*)/Textures(.*)").Replace(path, "$2$3");
+                var folders = path.Split('/').Where(x => x.NullOrEmpty() is false).ToList();
+                source = folders[0];
                 var layer = folders[1];
                 var filename = folders.Last().Replace(".png", "");
                 var defName = "PR_" + layer + "_" + filename;
@@ -585,12 +598,23 @@ namespace PortraitsOfTheRim
                 Log.ResetMessageCount();
             }
 
-            Log.Message("Resolved xml: \n");
-            foreach (var data in resolvedXML)
+            var defsFolder = new DirectoryInfo(Path.Combine(directoryInfo.FullName, "Defs"));
+            if (!defsFolder.Exists)
             {
-                Log.Message("<!-- " + data.Key + " (" + data.Value.Count + ") -->\n" + string.Join("\n", data.Value));
+                defsFolder.Create();
             }
-            Log.Message("=================================");
+
+            var defsFile = Path.Combine(defsFolder.FullName, source + "_PortraitElementDefs.xml");
+            File.AppendAllText(defsFile, "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Defs>\r\n");
+            foreach (var defs in resolvedXML.Values)
+            {
+                foreach (var line in defs)
+                {
+                    File.AppendAllText(defsFile, line);
+                }
+            }
+            File.AppendAllText(defsFile, "</Defs>");
+            Log.Message("Resolved xml: " + defsFile); 
             Log.Message("Errored xml: \n");
             foreach (var data in erroredXML)
             {
