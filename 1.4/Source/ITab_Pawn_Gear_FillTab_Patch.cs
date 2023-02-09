@@ -37,7 +37,7 @@ namespace PortraitsOfTheRim
         {
             return rect.width - portraitSize;
         }
-        [TweakValue("0Portrait", 0f, 300f)] public static float xPos = 254;
+        [TweakValue("0Portrait", 0f, 300f)] public static float xPos = 247;
         [TweakValue("0Portrait", 0f, 30f)] public static float yPos = 8;
         [TweakValue("0Portrait", 0f, 30f)] public static float portraitSize = 180;
 
@@ -47,7 +47,11 @@ namespace PortraitsOfTheRim
             if (pawn != null && pawn.IsColonist)
             {
                 var portrait = pawn.GetPortrait();
-                portrait.RenderPortrait(xPos, yPos, portraitSize, portraitSize);
+                if (portrait.ShouldShow)
+                {
+                    portrait.RenderPortrait(xPos, yPos, portraitSize, portraitSize);
+                }
+                portrait.DrawButtons(xPos + portraitSize + 5, yPos + portraitSize - 80);
             }
         }
     }

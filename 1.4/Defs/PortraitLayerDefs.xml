@@ -82,10 +82,6 @@
 		<layer>19</layer>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
-		<defName>PR_FacepaintHead</defName>
-		<layer>20</layer>
-	</PortraitsOfTheRim.PortraitLayerDef>
-	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_MiddleHair</defName>
 		<layer>21</layer>
 	</PortraitsOfTheRim.PortraitLayerDef>

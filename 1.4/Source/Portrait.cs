@@ -8,13 +8,18 @@ namespace PortraitsOfTheRim
 {
     [HotSwappable]
     [StaticConstructorOnStartup]
-    public class Portrait
+    public class Portrait : IExposable
     {
         private static readonly Texture2D OutlineTex = SolidColorMaterials.NewSolidColorTexture(new ColorInt(77, 77, 77).ToColor);
         public Pawn pawn;
-        private List<Texture> portraitTextures;
+        private List<(PortraitElementDef, Texture)> portraitTextures;
         private int lastCreatingTime;
-        private List<Texture> PortraitTextures
+
+        public bool hidePortrait;
+        public bool hideHeadgear;
+        public string currentStyle;
+
+        private List<(PortraitElementDef, Texture)> PortraitTextures
         {
             get
             {
@@ -27,29 +32,70 @@ namespace PortraitsOfTheRim
             }
         }
 
+        public bool ShouldShow => hidePortrait is false;
         public void RenderPortrait(float x, float y, float width, float height)
         {
             var textures = PortraitTextures;
+            var missingLayers = PortraitUtils.layers.Where(x => textures.Any(y => y.Item1.portraitLayer == x) is false);
+            foreach (var texture in missingLayers)
+            {
+                Log.Message("missing layer: " + texture);
+            }
             var renderRect = new Rect(x, y, width, height);
             foreach (var texture in textures)
             {
-                GUI.DrawTexture(renderRect, texture);
+                if (this.hideHeadgear && PortraitUtils.HeadgearLayers.Contains(texture.Item1.portraitLayer))
+                    continue;
+                GUI.DrawTexture(renderRect, texture.Item2);
             }
             Widgets.DrawBox(renderRect.ExpandedBy(1), 1, OutlineTex);
         }
 
+        public void DrawButtons(float x, float y)
+        {
+            var hidePortraitRect = new Rect(x, y, 24, 24);
+            TooltipHandler.TipRegion(hidePortraitRect, "PR.HidePortrait".Translate());
+            if (Widgets.ButtonImage(hidePortraitRect, TexButton.CloseXBig))
+            {
+                this.hidePortrait = !this.hidePortrait;
+            }
+            var hideHeadgear = new Rect(hidePortraitRect.x, hidePortraitRect.yMax + 5, 24, 24);
+            if (Widgets.ButtonImage(hideHeadgear, TexButton.Add))
+            {
+                this.hideHeadgear = !this.hideHeadgear;
+            }
+
+            var selectStyle = new Rect(hidePortraitRect.x, hideHeadgear.yMax + 5, 24, 24);
+            if (Widgets.ButtonImage(selectStyle, TexButton.Banish))
+            {
+                var floatList = new List<FloatMenuOption>();
+                foreach (var style in PortraitUtils.allStyles)
+                {
+                    floatList.Add(new FloatMenuOption(style.CapitalizeFirst(), delegate
+                    {
+                        this.currentStyle = style;
+                    }));
+                }
+                floatList.Add(new FloatMenuOption("None".Translate(), delegate
+                {
+                    this.currentStyle = null;
+                }));
+                Find.WindowStack.Add(new FloatMenu(floatList));
+            }
+        }
+
         public static Dictionary<Pawn, Dictionary<PortraitElementDef, RenderTexture>> cachedRenderTextures = new();
 
-        [TweakValue("0Portrait", 2f, 3f)] public static float zoomValue = 2.402f;
-        [TweakValue("0Portrait", -0.2f, 0f)] public static float zOffset = -0.086f;
-        public List<Texture> GetPortraitTextures()
+        public static float zoomValue = 2.402f;
+        public static float zOffset = -0.086f;
+        public List<(PortraitElementDef, Texture)> GetPortraitTextures()
         {
-            List<Texture> allTextures = new List<Texture>();    
-            foreach (var layer in Core.layers)
+            List<(PortraitElementDef, Texture)> allTextures = new ();    
+            foreach (var layer in PortraitUtils.layers)
             {
-                if (Core.portraitElements.TryGetValue(layer, out var elements))
+                if (PortraitUtils.portraitElements.TryGetValue(layer, out var elements))
                 {
-                    var matchingElements = elements.Where(x => x.Matches(pawn)).ToList();
+                    var matchingElements = elements.Where(x => x.Matches(this)).ToList();
                     if (matchingElements.Any())
                     {
                         Rand.PushState();
@@ -66,11 +112,18 @@ namespace PortraitsOfTheRim
                             dict[matchingElement] = renderTexture = new RenderTexture(mainTexture.width, mainTexture.height, 0);
                         }
                         renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, zOffset), zoomValue);
-                        allTextures.Add(renderTexture);
+                        allTextures.Add((matchingElement, renderTexture));
                     }
                 }
             }
             return allTextures;
+        }
+
+        public void ExposeData()
+        {
+            Scribe_Values.Look(ref hidePortrait, "hidePortrait");
+            Scribe_Values.Look(ref hideHeadgear, "hideHeadgear");
+            Scribe_Values.Look(ref currentStyle, "currentStyle");
         }
     }
 }

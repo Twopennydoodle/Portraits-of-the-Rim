@@ -26,8 +26,10 @@ namespace PortraitsOfTheRim
         public PawnBodyType? bodyType;
         public string headType;
         public XenotypeDef xenotype;
-        public bool Matches(Pawn pawn)
+        public string style;
+        public bool Matches(Portrait portrait)
         {
+            var pawn = portrait.pawn;
             if (gender != null && pawn.gender != gender.Value)
                 return false;
             if (bodyParts != null && bodyParts.Exists(x => x.Matches(pawn)) is false)
@@ -59,6 +61,8 @@ namespace PortraitsOfTheRim
             if (headType.NullOrEmpty() is false && pawn.story.headType.defName.ToLower().Contains(headType.ToLower()) is false)
                 return false;
             if (xenotype != null && xenotype != pawn.genes.xenotype)
+                return false;
+            if (style.NullOrEmpty() is false && portrait.currentStyle.NullOrEmpty() is false && style != portrait.currentStyle)
                 return false;
             return true;
         }
@@ -111,7 +115,7 @@ namespace PortraitsOfTheRim
                 }
                 else if (pawn.gender == Gender.Male)
                 {
-                    if (pawn.story.bodyType == BodyTypeDefOf.Thin && Core.teenAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat))
+                    if (pawn.story.bodyType == BodyTypeDefOf.Thin && TextureParser.teenAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat))
                     {
                         return true;
                     }
@@ -123,7 +127,7 @@ namespace PortraitsOfTheRim
                 {
                     return true;
                 }
-                else if (pawn.gender == Gender.Male && Core.teenAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat))
+                else if (pawn.gender == Gender.Male && TextureParser.teenAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat))
                 {
                     if (pawn.story.bodyType == BodyTypeDefOf.Male || pawn.story.bodyType == BodyTypeDefOf.Hulk)
                     {
