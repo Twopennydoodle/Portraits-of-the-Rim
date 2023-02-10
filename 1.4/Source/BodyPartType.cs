@@ -21,6 +21,8 @@ namespace PortraitsOfTheRim
             var nonMissingBodyParts = pawn.health.hediffSet.GetNotMissingParts().Where(x => Matches(x)).ToList();
             if (destroyed && nonMissingBodyParts.Any())
                 return false;
+            else if (!destroyed && nonMissingBodyParts.Any() is false)
+                return false;
             var allHediffsWithPart = pawn.health.hediffSet.hediffs.Where(x => x.Part != null && Matches(x.Part)).ToList();
             if (hediffInjury != null && allHediffsWithPart.Exists(x => x.def == hediffInjury) is false)
                 return false;

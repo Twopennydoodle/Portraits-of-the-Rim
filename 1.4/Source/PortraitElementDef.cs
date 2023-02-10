@@ -12,26 +12,22 @@ namespace PortraitsOfTheRim
         public Requirements requirements;
         public PortraitLayerDef portraitLayer;
         public PortraitElementDef connectedElement;
-        public bool inheritsColor = true;
         public bool Matches(Portrait portrait)
         {
             var req = requirements ?? connectedElement?.requirements;
             if (req != null)
             {
-                return req.Matches(portrait);
+                return req.Matches(portrait, this, true);
             }
             return true;
         }
 
         public Color? GetRecolor(Pawn pawn)
         {
-            if (inheritsColor)
+            var newColor = requirements.GetColor(pawn, this);
+            if (newColor != null)
             {
-                var newColor = requirements.GetColor(pawn);
-                if (newColor != null)
-                {
-                    return newColor.Value;
-                }
+                return newColor.Value;
             }
             return null;
         }

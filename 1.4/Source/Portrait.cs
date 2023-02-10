@@ -27,6 +27,13 @@ namespace PortraitsOfTheRim
                 {
                     lastCreatingTime = Time.frameCount;
                     portraitTextures = GetPortraitTextures();
+                    var missingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x) is false);
+                    var existingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x));
+                    if (!missingLayers.Contains(PR_DefOf.PR_InnerFace))
+                    {
+                        Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
+                    }
+                    Log.Message("Existing layers: " + string.Join(", ", existingLayers));
                 }
                 return portraitTextures;
             }

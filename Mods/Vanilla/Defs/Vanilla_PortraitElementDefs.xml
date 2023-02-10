@@ -362,6 +362,23 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Ear_Vanilla-eear-Baseliner</defName>
+		<portraitLayer>PR_Ear</portraitLayer>
+		<graphicData>
+			<texPath>Ear/Vanilla-eear-Baseliner</texPath>
+		</graphicData>
+		<requirements>
+			<bodyParts>
+				<li>
+					<bodyPart>Ear</bodyPart>
+					<side>Right</side>
+				</li>
+			</bodyParts>
+			<xenotype>Baseliner</xenotype>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Ear_Vanilla-eear-BionicEar</defName>
 		<portraitLayer>PR_Ear</portraitLayer>
 		<graphicData>
@@ -379,15 +396,19 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Ear_Vanilla-gene-Ears_Human</defName>
+		<defName>PR_Ear_Vanilla-wear-Baseliner</defName>
 		<portraitLayer>PR_Ear</portraitLayer>
 		<graphicData>
-			<texPath>Ear/Vanilla-gene-Ears_Human</texPath>
+			<texPath>Ear/Vanilla-wear-Baseliner</texPath>
 		</graphicData>
 		<requirements>
-			<genes>
-				<li>Ears_Human</li>
-			</genes>
+			<bodyParts>
+				<li>
+					<bodyPart>Ear</bodyPart>
+					<side>Left</side>
+				</li>
+			</bodyParts>
+			<xenotype>Baseliner</xenotype>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

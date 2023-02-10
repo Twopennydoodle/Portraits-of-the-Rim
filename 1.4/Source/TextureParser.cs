@@ -376,6 +376,14 @@ namespace PortraitsOfTheRim
                     }
                 }
             }
+            foreach (var xenotypeDef in DefDatabase<XenotypeDef>.AllDefs)
+            {
+                if (SuffixMatches(xenotypeDef, suffix))
+                {
+                    req.xenotype = xenotypeDef;
+                    return true;
+                }
+            }
             Log.Error("Failed to parse " + suffix + " - " + index);
             Log.ResetMessageCount();
             return false;
