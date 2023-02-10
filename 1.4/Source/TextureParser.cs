@@ -447,7 +447,7 @@ namespace PortraitsOfTheRim
                     sb.AppendLine("\t\t\t" + "<texPath>" + texPath + "</texPath>");
                     sb.AppendLine("\t\t" + "</graphicData>");
                     sb.AppendLine("\t\t" + "<requirements>");
-                    var data = filename.Split('-').ToList();
+                    var data = filename.Split('-').Where(x => x != source).ToList();
                 
                     Requirements req = CreateRequirements(layerDef, data, out var errored);
                     if (req.ageRange != null)
