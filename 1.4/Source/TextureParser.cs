@@ -420,13 +420,15 @@ namespace PortraitsOfTheRim
 
         public static void OutputDefs(ModContentPack mod, DirectoryInfo baseDirectory, DirectoryInfo directoryInfo)
         {
-            var files = directoryInfo.GetFiles("*.*", SearchOption.AllDirectories);
+            var files = baseDirectory.GetFiles("*.*", SearchOption.AllDirectories);
             Dictionary<string, List<string>> erroredXML = new ();
             Dictionary<string, List<string>> resolvedXML = new ();
             var source = "Unknown";
             foreach (var file in files)
             {
+                var basePath = new Regex(@"(.*).Textures.*").Replace(file.FullName, "$1");
                 var path = file.FullName.Replace("\\", "/").Replace(file.Extension, "");
+                var texPath = new Regex("Textures.(.*)").Replace(path, "$1");
                 path = new Regex(@"(.*/)?(.*)/Textures(.*)").Replace(path, "$2$3");
                 var folders = path.Split('/').Where(x => x.NullOrEmpty() is false).ToList();
                 source = folders[0];
@@ -441,7 +443,7 @@ namespace PortraitsOfTheRim
                     sb.AppendLine("\t\t" + "<defName>" + defName + "</defName>");
                     sb.AppendLine("\t\t" + "<portraitLayer>" + layerDef.defName + "</portraitLayer>");
                     sb.AppendLine("\t\t" + "<graphicData>");
-                    sb.AppendLine("\t\t\t" + "<texPath>" + file.FullName.Replace(baseDirectory.FullName, "").Replace("\\", "/").Replace(".png", "") + "</texPath>");
+                    sb.AppendLine("\t\t\t" + "<texPath>" + texPath + "</texPath>");
                     sb.AppendLine("\t\t" + "</graphicData>");
                     sb.AppendLine("\t\t" + "<requirements>");
                     var data = filename.Split('-').ToList();
@@ -579,9 +581,9 @@ namespace PortraitsOfTheRim
                     }
                     else
                     {
-                        if (!resolvedXML.TryGetValue(source, out var list))
+                        if (!resolvedXML.TryGetValue(basePath, out var list))
                         {
-                            resolvedXML[source] = list = new List<string>();
+                            resolvedXML[basePath] = list = new List<string>();
                         }
                         list.Add(Regex.Replace(sb.ToString(), @"^\s+$[\r\n]*", string.Empty, RegexOptions.Multiline));
                     }
@@ -598,27 +600,44 @@ namespace PortraitsOfTheRim
                 Log.ResetMessageCount();
             }
 
-            var defsFolder = new DirectoryInfo(Path.Combine(directoryInfo.FullName, "Defs"));
-            if (!defsFolder.Exists)
+            foreach (var kvp in resolvedXML)
             {
-                defsFolder.Create();
-            }
-
-            var defsFile = Path.Combine(defsFolder.FullName, source + "_PortraitElementDefs.xml");
-            File.AppendAllText(defsFile, "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Defs>\r\n");
-            foreach (var defs in resolvedXML.Values)
-            {
-                foreach (var line in defs)
+                source = kvp.Key.Split(Path.DirectorySeparatorChar).Last();
+                var defsFolder = new DirectoryInfo(Path.Combine(kvp.Key, "Defs"));
+                if (!defsFolder.Exists)
                 {
-                    File.AppendAllText(defsFile, line);
+                    defsFolder.Create();
                 }
+
+                var defsFile = Path.Combine(defsFolder.FullName, source + "_PortraitElementDefs.xml");
+                bool fileExists = new FileInfo(defsFile).Exists;
+                if (!fileExists)
+                {
+                    File.AppendAllText(defsFile, "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Defs>\r\n");
+                }
+                else
+                {
+                    var lines = File.ReadAllLines(defsFile);
+                    File.WriteAllLines(defsFile, lines.Take(lines.Length - 1).ToArray());
+                }
+                foreach (var def in kvp.Value)
+                {
+                    File.AppendAllText(defsFile, "\r\n");
+                    File.AppendAllText(defsFile, def);
+                }
+                if (!fileExists)
+                {
+                    File.AppendAllText(defsFile, "</Defs>");
+                }
+                Log.Message("Created defs in " + defsFile);
             }
-            File.AppendAllText(defsFile, "</Defs>");
-            Log.Message("Resolved xml: " + defsFile); 
-            Log.Message("Errored xml: \n");
-            foreach (var data in erroredXML)
+            if (erroredXML.Any())
             {
-                Log.Message("<!-- " + data.Key + " (" + data.Value.Count + ") -->\n" + string.Join("\n", data.Value));
+                Log.Message("Errored xml: \n");
+                foreach (var data in erroredXML)
+                {
+                    Log.Message("<!-- " + data.Key + " (" + data.Value.Count + ") -->\n" + string.Join("\n", data.Value));
+                }
             }
         }
     }

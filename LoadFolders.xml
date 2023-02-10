@@ -3,7 +3,62 @@
 		<li>1.4</li>
 		<li>Mods</li>
 		<li>Mods/Vanilla</li>
-		<li IfModActive="Ludeon.RimWorld.Royalty">Mods/Royalty</li>
 		<li IfModActive="Ludeon.RimWorld.Ideology">Mods/Ideology</li>
+		<li IfModActive="Ludeon.RimWorld.Royalty">Mods/Royalty</li>
+		<li IfModActive="Ludeon.RimWorld.Biotech">Mods/Biotech</li>
+        <li IfModActive="oskarpotocki.vanillafactionsexpanded.medievalmodule">Mods/VEMedieval</li>
+        <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">Mods/VESettlers</li>
+        <li IfModActive="oskarpotocki.vfe.classical">Mods/VEClassical</li>
+        <li IfModActive="oskarpotocki.vfe.insectoid">Mods/VEInsectoids</li>
+        <li IfModActive="oskarpotocki.vfe.mechanoid">Mods/VEMechanoids</li>
+        <li IfModActive="oskarpotocki.vfe.pirates">Mods/VEPirates</li>
+        <li IfModActive="oskarpotocki.vfe.vikings">Mods/VEVikings</li>
+        <li IfModActive="vanillaexpanded.vaeaccessories">Mods/VEAccessories</li>
+        <li IfModActive="vanillaexpanded.vanillatraitsexpanded">Mods/VETraits</li>
+        <li IfModActive="vanillaexpanded.vappe">Mods/VEApparel</li>
+        <li IfModActive="vanillaexpanded.varme">Mods/VEArmour</li>
+        <li IfModActive="vanillaexpanded.vgeneticse">Mods/VEGenetics</li>
+        <li IfModActive="vanillaexpanded.vhe">Mods/VEHair</li>
+        <li IfModActive="vanillaexpanded.viehar">Mods/VEhatsandrags</li>
+        <li IfModActive="vanillaracesexpanded.genie">Mods/VEGenies</li>
+        <li IfModActive="vanillaracesexpanded.hussar">Mods/VEHussars</li>
+        <li IfModActive="vanillaracesexpanded.phytokin">Mods/VEPhytokin</li>
+        <li IfModActive="vanillaracesexpanded.saurid">Mods/VESaurids</li>
+        <li IfModActive="oskarpotocki.vanillafactionsexpanded.medievalmodule_local">Mods/VEMedieval</li>
+        <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule_local">Mods/VESettlers</li>
+        <li IfModActive="oskarpotocki.vfe.classical_local">Mods/VEClassical</li>
+        <li IfModActive="oskarpotocki.vfe.insectoid_local">Mods/VEInsectoids</li>
+        <li IfModActive="oskarpotocki.vfe.mechanoid_local">Mods/VEMechanoids</li>
+        <li IfModActive="oskarpotocki.vfe.pirates_local">Mods/VEPirates</li>
+        <li IfModActive="oskarpotocki.vfe.vikings_local">Mods/VEVikings</li>
+        <li IfModActive="vanillaexpanded.vaeaccessories_local">Mods/VEAccessories</li>
+        <li IfModActive="vanillaexpanded.vanillatraitsexpanded_local">Mods/VETraits</li>
+        <li IfModActive="vanillaexpanded.vappe_local">Mods/VEApparel</li>
+        <li IfModActive="vanillaexpanded.varme_local">Mods/VEArmour</li>
+        <li IfModActive="vanillaexpanded.vgeneticse_local">Mods/VEGenetics</li>
+        <li IfModActive="vanillaexpanded.vhe_local">Mods/VEHair</li>
+        <li IfModActive="vanillaexpanded.viehar_local">Mods/VEhatsandrags</li>
+        <li IfModActive="vanillaracesexpanded.genie_local">Mods/VEGenies</li>
+        <li IfModActive="vanillaracesexpanded.hussar_local">Mods/VEHussars</li>
+        <li IfModActive="vanillaracesexpanded.phytokin_local">Mods/VEPhytokin</li>
+        <li IfModActive="vanillaracesexpanded.saurid_local">Mods/VESaurids</li>
+        <li IfModActive="oskarpotocki.vanillafactionsexpanded.medievalmodule_steam">Mods/VEMedieval</li>
+        <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule_steam">Mods/VESettlers</li>
+        <li IfModActive="oskarpotocki.vfe.classical_steam">Mods/VEClassical</li>
+        <li IfModActive="oskarpotocki.vfe.insectoid_steam">Mods/VEInsectoids</li>
+        <li IfModActive="oskarpotocki.vfe.mechanoid_steam">Mods/VEMechanoids</li>
+        <li IfModActive="oskarpotocki.vfe.pirates_steam">Mods/VEPirates</li>
+        <li IfModActive="oskarpotocki.vfe.vikings_steam">Mods/VEVikings</li>
+        <li IfModActive="vanillaexpanded.vaeaccessories_steam">Mods/VEAccessories</li>
+        <li IfModActive="vanillaexpanded.vanillatraitsexpanded_steam">Mods/VETraits</li>
+        <li IfModActive="vanillaexpanded.vappe_steam">Mods/VEApparel</li>
+        <li IfModActive="vanillaexpanded.varme_steam">Mods/VEArmour</li>
+        <li IfModActive="vanillaexpanded.vgeneticse_steam">Mods/VEGenetics</li>
+        <li IfModActive="vanillaexpanded.vhe_steam">Mods/VEHair</li>
+        <li IfModActive="vanillaexpanded.viehar_steam">Mods/VEhatsandrags</li>
+        <li IfModActive="vanillaracesexpanded.genie_steam">Mods/VEGenies</li>
+        <li IfModActive="vanillaracesexpanded.hussar_steam">Mods/VEHussars</li>
+        <li IfModActive="vanillaracesexpanded.phytokin_steam">Mods/VEPhytokin</li>
+        <li IfModActive="vanillaracesexpanded.saurid_steam">Mods/VESaurids</li>
 	</v1.4>
 </loadFolders>
