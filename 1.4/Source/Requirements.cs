@@ -30,7 +30,7 @@ namespace PortraitsOfTheRim
         public bool Matches(Portrait portrait, PortraitElementDef portraitElementDef, bool logging = false)
         {
             var pawn = portrait.pawn;
-            if (bodyParts.NullOrEmpty() is false && bodyParts.Exists(x => x.Matches(pawn)) is false)
+            if (bodyParts.NullOrEmpty() is false && bodyParts.Exists(x => x.Matches(pawn, portraitElementDef)) is false)
                 return false;
             if (hediffs.NullOrEmpty() is false && hediffs.Exists(x => pawn.health.hediffSet.hediffs.Exists(hediff => hediff.def == x)) is false)
                 return false;
