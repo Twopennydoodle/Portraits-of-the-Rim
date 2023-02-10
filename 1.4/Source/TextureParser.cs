@@ -36,7 +36,7 @@ namespace PortraitsOfTheRim
                             if (baseDirectory.Exists)
                             {
                                 var innerFolderName = baseDirectory.FullName.Replace(mod.RootDir, "");
-                                if (!folders.Contains(folderName))
+                                if (!folders.Contains(folderName) && innerFolderName.Contains("Defs") is false)
                                 {
                                     folders.Add(innerFolderName);
                                     innerList.Add(new DebugMenuOption(innerFolderName, DebugMenuOptionMode.Action, delegate
@@ -49,7 +49,7 @@ namespace PortraitsOfTheRim
                                 foreach (var directory in directories)
                                 {
                                     innerFolderName = directory.Replace(mod.RootDir, "");
-                                    if (!folders.Contains(innerFolderName))
+                                    if (!folders.Contains(innerFolderName) && innerFolderName.Contains("Defs") is false)
                                     {
                                         folders.Add(innerFolderName);
                                         innerList.Add(new DebugMenuOption(innerFolderName, DebugMenuOptionMode.Action, delegate
@@ -428,10 +428,11 @@ namespace PortraitsOfTheRim
             {
                 var basePath = new Regex(@"(.*).Textures.*").Replace(file.FullName, "$1");
                 var path = file.FullName.Replace("\\", "/").Replace(file.Extension, "");
-                var texPath = new Regex("Textures.(.*)").Replace(path, "$1");
+                var texPath = new Regex(".*Textures.(.*)").Replace(path, "$1");
                 path = new Regex(@"(.*/)?(.*)/Textures(.*)").Replace(path, "$2$3");
                 var folders = path.Split('/').Where(x => x.NullOrEmpty() is false).ToList();
                 source = folders[0];
+
                 var layer = folders[1];
                 var filename = folders.Last().Replace(".png", "");
                 var defName = "PR_" + layer + "_" + filename;
@@ -447,7 +448,7 @@ namespace PortraitsOfTheRim
                     sb.AppendLine("\t\t" + "</graphicData>");
                     sb.AppendLine("\t\t" + "<requirements>");
                     var data = filename.Split('-').ToList();
-
+                
                     Requirements req = CreateRequirements(layerDef, data, out var errored);
                     if (req.ageRange != null)
                     {
@@ -568,7 +569,7 @@ namespace PortraitsOfTheRim
                     {
                         sb.AppendLine("\t\t\t" + "<style>" + req.style + "</style>");
                     }
-
+                
                     sb.AppendLine("\t\t" + "</requirements>");
                     sb.AppendLine("\t</PortraitsOfTheRim.PortraitElementDef>");
                     if (errored)
@@ -592,7 +593,7 @@ namespace PortraitsOfTheRim
                 {
                     Log.Error(defName + " not found");
                 }
-            }   
+            }
 
             foreach (var suff in suffices.OrderByDescending(x => x.Value))
             {
