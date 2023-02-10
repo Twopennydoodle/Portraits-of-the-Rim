@@ -33,14 +33,22 @@ namespace PortraitsOfTheRim
         }
 
         public bool ShouldShow => hidePortrait is false;
+        public bool HasImportantLayers
+        {
+            get
+            {
+                var textures = PortraitTextures;
+                var missingLayers = PortraitUtils.layers.Where(x => textures.Any(y => y.Item1.portraitLayer == x) is false);
+                if (!missingLayers.Contains(PR_DefOf.PR_InnerFace))
+                {
+                    return true;
+                }
+                return false;
+            }
+        }
         public void RenderPortrait(float x, float y, float width, float height)
         {
             var textures = PortraitTextures;
-            var missingLayers = PortraitUtils.layers.Where(x => textures.Any(y => y.Item1.portraitLayer == x) is false);
-            foreach (var texture in missingLayers)
-            {
-                Log.Message("missing layer: " + texture);
-            }
             var renderRect = new Rect(x, y, width, height);
             foreach (var texture in textures)
             {
@@ -54,18 +62,20 @@ namespace PortraitsOfTheRim
         public void DrawButtons(float x, float y)
         {
             var hidePortraitRect = new Rect(x, y, 24, 24);
-            TooltipHandler.TipRegion(hidePortraitRect, "PR.HidePortrait".Translate());
-            if (Widgets.ButtonImage(hidePortraitRect, TexButton.CloseXBig))
+            TooltipHandler.TipRegion(hidePortraitRect, this.hidePortrait ? "PR.ShowPortrait".Translate() : "PR.HidePortrait".Translate());
+            if (Widgets.ButtonImage(hidePortraitRect, this.hidePortrait ? TexButton.OpenInspector : TexButton.CloseXBig))
             {
                 this.hidePortrait = !this.hidePortrait;
             }
             var hideHeadgear = new Rect(hidePortraitRect.x, hidePortraitRect.yMax + 5, 24, 24);
-            if (Widgets.ButtonImage(hideHeadgear, TexButton.Add))
+            TooltipHandler.TipRegion(hideHeadgear, this.hideHeadgear ? "PR.ShowHeadgear".Translate() : "PR.HideHeadgear".Translate());
+            if (Widgets.ButtonImage(hideHeadgear, this.hideHeadgear ? TexButton.Add : TexButton.Minus))
             {
                 this.hideHeadgear = !this.hideHeadgear;
             }
 
             var selectStyle = new Rect(hidePortraitRect.x, hideHeadgear.yMax + 5, 24, 24);
+            TooltipHandler.TipRegion(selectStyle, "PR.SelectStyle".Translate());
             if (Widgets.ButtonImage(selectStyle, TexButton.Banish))
             {
                 var floatList = new List<FloatMenuOption>();

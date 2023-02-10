@@ -2,4 +2,9 @@
 <LanguageData>
 
 	<PR.ShowBandagesInsteadOfInjuries>Show bandages instead of injuries</PR.ShowBandagesInsteadOfInjuries>
+	<PR.HidePortrait>Hide portrait</PR.HidePortrait>
+	<PR.ShowPortrait>Show portrait</PR.ShowPortrait>
+	<PR.HideHeadgear>Hide headgear</PR.HideHeadgear>
+	<PR.ShowHeadgear>Show headgear</PR.ShowHeadgear>
+	<PR.SelectStyle>Select style</PR.SelectStyle>
 </LanguageData>
