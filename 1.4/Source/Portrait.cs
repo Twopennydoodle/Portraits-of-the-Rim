@@ -34,6 +34,7 @@ namespace PortraitsOfTheRim
                         Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
                     }
                     Log.Message("Existing layers: " + string.Join(", ", existingLayers));
+                    Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2)));
                 }
                 return portraitTextures;
             }

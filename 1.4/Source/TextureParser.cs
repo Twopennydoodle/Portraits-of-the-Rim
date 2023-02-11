@@ -451,162 +451,34 @@ namespace PortraitsOfTheRim
                 var layer = folders[1];
                 var filename = folders.Last().Replace(".png", "");
                 var defName = "PR_" + layer + "_" + filename;
-                var layerDefName = "PR_" + layer;
-                var layerDef = DefDatabase<PortraitLayerDef>.AllDefs.FirstOrDefault(x => x.defName.ToLower() == layerDefName.ToLower());
-                if (layerDef != null)
+                if (DefDatabase<PortraitElementDef>.GetNamedSilentFail(defName) is null)
                 {
-                    var sb = new StringBuilder("\t<PortraitsOfTheRim.PortraitElementDef>\n");
-                    sb.AppendLine("\t\t" + "<defName>" + defName + "</defName>");
-                    sb.AppendLine("\t\t" + "<portraitLayer>" + layerDef.defName + "</portraitLayer>");
-                    sb.AppendLine("\t\t" + "<graphicData>");
-                    sb.AppendLine("\t\t\t" + "<texPath>" + texPath + "</texPath>");
-                    sb.AppendLine("\t\t" + "</graphicData>");
-                    sb.AppendLine("\t\t" + "<requirements>");
-                    var data = filename.Split('-').Where(x => x.ToLower() != source.ToLower()).ToList();
-                
-                    Requirements req = CreateRequirements(layerDef, data, out var errored);
-                    if (req.ageRange != null)
+                    var layerDefName = "PR_" + layer;
+                    var layerDef = DefDatabase<PortraitLayerDef>.AllDefs.FirstOrDefault(x => x.defName.ToLower() == layerDefName.ToLower());
+                    if (layerDef != null)
                     {
-                        sb.AppendLine("\t\t\t" + "<ageRange>" + req.ageRange.Value.min + "~" + req.ageRange.Value.max + "</ageRange>");
-                    }
-                    if (req.gender != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<gender>" + req.gender.ToString() + "</gender>");
-                    }
-                    if (req.bodyType != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<bodyType>" + req.bodyType.ToString() + "</bodyType>");
-                    }
-                    if (req.headType.NullOrEmpty() is false)
-                    {
-                        sb.AppendLine("\t\t\t" + "<headType>" + req.headType.ToString() + "</headType>");
-                    }
-                    if (req.traits != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<traits>");
-                        foreach (var trait in req.traits)
+                        var xml = CreateXml(source, texPath, filename, defName, layerDef, out bool errored);
+                        if (errored)
                         {
-                            sb.AppendLine("\t\t\t\t" + "<" + trait.def.defName + ">" + trait.degree + "</" + trait.def.defName + ">");
+                            if (!erroredXML.TryGetValue(source, out var list))
+                            {
+                                erroredXML[source] = list = new List<string>();
+                            }
+                            list.Add(Regex.Replace(xml, @"^\s+$[\r\n]*", string.Empty, RegexOptions.Multiline));
                         }
-                        sb.AppendLine("\t\t\t" + "</traits>");
-                    }
-                    if (req.bodyParts != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<bodyParts>");
-                        foreach (var part in req.bodyParts)
+                        else
                         {
-                            sb.AppendLine("\t\t\t\t" + "<li>");
-                            if (part.hediffInjury != null)
+                            if (!resolvedXML.TryGetValue(basePath, out var list))
                             {
-                                sb.AppendLine("\t\t\t\t\t" + "<hediffInjury>" + part.hediffInjury + "</hediffInjury>");
+                                resolvedXML[basePath] = list = new List<string>();
                             }
-                            sb.AppendLine("\t\t\t\t\t" + "<bodyPart>" + part.bodyPart + "</bodyPart>");
-                            if (part.side != null)
-                            {
-                                sb.AppendLine("\t\t\t\t\t" + "<side>" + part.side + "</side>");
-                            }
-                            if (part.injured)
-                            {
-                                sb.AppendLine("\t\t\t\t\t" + "<injured>" + part.injured + "</injured>");
-                            }
-                            if (part.bandaged)
-                            {
-                                sb.AppendLine("\t\t\t\t\t" + "<bandaged>" + part.bandaged + "</bandaged>");
-                            }
-                            if (part.scarred)
-                            {
-                                sb.AppendLine("\t\t\t\t\t" + "<scarred>" + part.scarred + "</scarred>");
-                            }
-                            if (part.destroyed)
-                            {
-                                sb.AppendLine("\t\t\t\t\t" + "<destroyed>" + part.destroyed + "</destroyed>");
-                            }
-                            sb.AppendLine("\t\t\t\t" + "</li>");
+                            list.Add(Regex.Replace(xml, @"^\s+$[\r\n]*", string.Empty, RegexOptions.Multiline));
                         }
-                        sb.AppendLine("\t\t\t" + "</bodyParts>");
-                    }
-                    if (req.hediffs != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<hediffs>");
-                        foreach (var hediff in req.hediffs)
-                        {
-                            sb.AppendLine("\t\t\t\t" + "<li>" + hediff.defName + "</li>");
-                        }
-                        sb.AppendLine("\t\t\t" + "</hediffs>");
-                    }
-                    if (req.genes != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<genes>");
-                        foreach (var gene in req.genes)
-                        {
-                            sb.AppendLine("\t\t\t\t" + "<li>" + gene.defName + "</li>");
-                        }
-                        sb.AppendLine("\t\t\t" + "</genes>");
-                    }
-                    if (req.apparels != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<apparels>");
-                        foreach (var apparel in req.apparels)
-                        {
-                            sb.AppendLine("\t\t\t\t" + "<li>" + apparel.defName + "</li>");
-                        }
-                        sb.AppendLine("\t\t\t" + "</apparels>");
-                    }
-                    if (req.xenotype != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<xenotype>" + req.xenotype.defName + "</xenotype>");
-                    }
-                    if (req.head != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<head>" + req.head.defName + "</head>");
-                    }
-                    if (req.faceTattoo != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<faceTattoo>" + req.faceTattoo.defName + "</faceTattoo>");
-                    }
-                    if (req.bodyTattoo != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<bodyTattoo>" + req.bodyTattoo.defName + "</bodyTattoo>");
-                    }
-                    if (req.hair != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<hair>" + req.hair.defName + "</hair>");
-                    }
-                    if (req.beard != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<beard>" + req.beard.defName + "</beard>");
-                    }
-                    if (req.body != null)
-                    {
-                        sb.AppendLine("\t\t\t" + "<body>" + req.body.Value.ToString() + "</body>");
-                    }
-                    if (req.style.NullOrEmpty() is false)
-                    {
-                        sb.AppendLine("\t\t\t" + "<style>" + req.style + "</style>");
-                    }
-                
-                    sb.AppendLine("\t\t" + "</requirements>");
-                    sb.AppendLine("\t</PortraitsOfTheRim.PortraitElementDef>");
-                    if (errored)
-                    {
-                        if (!erroredXML.TryGetValue(source, out var list))
-                        {
-                            erroredXML[source] = list = new List<string>();
-                        }
-                        list.Add(Regex.Replace(sb.ToString(), @"^\s+$[\r\n]*", string.Empty, RegexOptions.Multiline));
                     }
                     else
                     {
-                        if (!resolvedXML.TryGetValue(basePath, out var list))
-                        {
-                            resolvedXML[basePath] = list = new List<string>();
-                        }
-                        list.Add(Regex.Replace(sb.ToString(), @"^\s+$[\r\n]*", string.Empty, RegexOptions.Multiline));
+                        Log.Error(defName + " not found");
                     }
-                }
-                else
-                {
-                    Log.Error(defName + " not found");
                 }
             }
 
@@ -658,6 +530,142 @@ namespace PortraitsOfTheRim
                     Log.Message("<!-- " + data.Key + " (" + data.Value.Count + ") -->\n" + string.Join("\n", data.Value));
                 }
             }
+        }
+
+        private static string CreateXml(string source, string texPath, string filename, string defName, PortraitLayerDef layerDef, out bool errored)
+        {
+            var sb = new StringBuilder("\t<PortraitsOfTheRim.PortraitElementDef>\n");
+            sb.AppendLine("\t\t" + "<defName>" + defName + "</defName>");
+            sb.AppendLine("\t\t" + "<portraitLayer>" + layerDef.defName + "</portraitLayer>");
+            sb.AppendLine("\t\t" + "<graphicData>");
+            sb.AppendLine("\t\t\t" + "<texPath>" + texPath + "</texPath>");
+            sb.AppendLine("\t\t" + "</graphicData>");
+            sb.AppendLine("\t\t" + "<requirements>");
+            var data = filename.Split('-').Where(x => x.ToLower() != source.ToLower()).ToList();
+            var req = CreateRequirements(layerDef, data, out errored);
+            if (req.ageRange != null)
+            {
+                sb.AppendLine("\t\t\t" + "<ageRange>" + req.ageRange.Value.min + "~" + req.ageRange.Value.max + "</ageRange>");
+            }
+            if (req.gender != null)
+            {
+                sb.AppendLine("\t\t\t" + "<gender>" + req.gender.ToString() + "</gender>");
+            }
+            if (req.bodyType != null)
+            {
+                sb.AppendLine("\t\t\t" + "<bodyType>" + req.bodyType.ToString() + "</bodyType>");
+            }
+            if (req.headType.NullOrEmpty() is false)
+            {
+                sb.AppendLine("\t\t\t" + "<headType>" + req.headType.ToString() + "</headType>");
+            }
+            if (req.traits != null)
+            {
+                sb.AppendLine("\t\t\t" + "<traits>");
+                foreach (var trait in req.traits)
+                {
+                    sb.AppendLine("\t\t\t\t" + "<" + trait.def.defName + ">" + trait.degree + "</" + trait.def.defName + ">");
+                }
+                sb.AppendLine("\t\t\t" + "</traits>");
+            }
+            if (req.bodyParts != null)
+            {
+                sb.AppendLine("\t\t\t" + "<bodyParts>");
+                foreach (var part in req.bodyParts)
+                {
+                    sb.AppendLine("\t\t\t\t" + "<li>");
+                    if (part.hediffInjury != null)
+                    {
+                        sb.AppendLine("\t\t\t\t\t" + "<hediffInjury>" + part.hediffInjury + "</hediffInjury>");
+                    }
+                    sb.AppendLine("\t\t\t\t\t" + "<bodyPart>" + part.bodyPart + "</bodyPart>");
+                    if (part.side != null)
+                    {
+                        sb.AppendLine("\t\t\t\t\t" + "<side>" + part.side + "</side>");
+                    }
+                    if (part.injured)
+                    {
+                        sb.AppendLine("\t\t\t\t\t" + "<injured>" + part.injured + "</injured>");
+                    }
+                    if (part.bandaged)
+                    {
+                        sb.AppendLine("\t\t\t\t\t" + "<bandaged>" + part.bandaged + "</bandaged>");
+                    }
+                    if (part.scarred)
+                    {
+                        sb.AppendLine("\t\t\t\t\t" + "<scarred>" + part.scarred + "</scarred>");
+                    }
+                    if (part.destroyed)
+                    {
+                        sb.AppendLine("\t\t\t\t\t" + "<destroyed>" + part.destroyed + "</destroyed>");
+                    }
+                    sb.AppendLine("\t\t\t\t" + "</li>");
+                }
+                sb.AppendLine("\t\t\t" + "</bodyParts>");
+            }
+            if (req.hediffs != null)
+            {
+                sb.AppendLine("\t\t\t" + "<hediffs>");
+                foreach (var hediff in req.hediffs)
+                {
+                    sb.AppendLine("\t\t\t\t" + "<li>" + hediff.defName + "</li>");
+                }
+                sb.AppendLine("\t\t\t" + "</hediffs>");
+            }
+            if (req.genes != null)
+            {
+                sb.AppendLine("\t\t\t" + "<genes>");
+                foreach (var gene in req.genes)
+                {
+                    sb.AppendLine("\t\t\t\t" + "<li>" + gene.defName + "</li>");
+                }
+                sb.AppendLine("\t\t\t" + "</genes>");
+            }
+            if (req.apparels != null)
+            {
+                sb.AppendLine("\t\t\t" + "<apparels>");
+                foreach (var apparel in req.apparels)
+                {
+                    sb.AppendLine("\t\t\t\t" + "<li>" + apparel.defName + "</li>");
+                }
+                sb.AppendLine("\t\t\t" + "</apparels>");
+            }
+            if (req.xenotype != null)
+            {
+                sb.AppendLine("\t\t\t" + "<xenotype>" + req.xenotype.defName + "</xenotype>");
+            }
+            if (req.head != null)
+            {
+                sb.AppendLine("\t\t\t" + "<head>" + req.head.defName + "</head>");
+            }
+            if (req.faceTattoo != null)
+            {
+                sb.AppendLine("\t\t\t" + "<faceTattoo>" + req.faceTattoo.defName + "</faceTattoo>");
+            }
+            if (req.bodyTattoo != null)
+            {
+                sb.AppendLine("\t\t\t" + "<bodyTattoo>" + req.bodyTattoo.defName + "</bodyTattoo>");
+            }
+            if (req.hair != null)
+            {
+                sb.AppendLine("\t\t\t" + "<hair>" + req.hair.defName + "</hair>");
+            }
+            if (req.beard != null)
+            {
+                sb.AppendLine("\t\t\t" + "<beard>" + req.beard.defName + "</beard>");
+            }
+            if (req.body != null)
+            {
+                sb.AppendLine("\t\t\t" + "<body>" + req.body.Value.ToString() + "</body>");
+            }
+            if (req.style.NullOrEmpty() is false)
+            {
+                sb.AppendLine("\t\t\t" + "<style>" + req.style + "</style>");
+            }
+
+            sb.AppendLine("\t\t" + "</requirements>");
+            sb.AppendLine("\t</PortraitsOfTheRim.PortraitElementDef>");
+            return sb.ToString();
         }
     }
 }

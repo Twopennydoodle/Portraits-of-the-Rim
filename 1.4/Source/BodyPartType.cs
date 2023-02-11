@@ -71,32 +71,28 @@ namespace PortraitsOfTheRim
             if (side != null)
             {
                 if (side.Value == Side.Left && BodyPartHasTag(bodyPartRecord, "Left"))
-                    return true;
-                if (side.Value == Side.Right && BodyPartHasTag(bodyPartRecord, "Right"))
-                    return true;
-                else
                 {
-                    Log.Message("Failed to get side for " + bodyPartRecord + " -  " + side.Value);
+                    return true;
+                }
+                if (side.Value == Side.Right && BodyPartHasTag(bodyPartRecord, "Right"))
+                {
+                    return true;
                 }
                 if (bodyPartRecord.parent.parts != null)
                 {
                     var allSameParts = bodyPartRecord.parent.parts.Where(x => x.def == bodyPartRecord.def);
-                    Log.Message("Checking for " + bodyPartRecord.def + " - " + string.Join(", ", allSameParts) + " - parent: " + bodyPartRecord.parent);
                     if (allSameParts.Count() == 2)
                     {
                         if (side.Value == Side.Left && allSameParts.First() == bodyPartRecord)
                         {
-                            Log.Message(side + " - Success " + bodyPartRecord + " - " + portraitElementDef);
                             return true;
                         }
                         else if (side.Value == Side.Right && allSameParts.Last() == bodyPartRecord)
                         {
-                            Log.Message(side + " - Success " + bodyPartRecord + " - " + portraitElementDef);
                             return true;
                         }
                     }
                 }
-                Log.Message(side + " - Failed " + bodyPartRecord + " - " + portraitElementDef);
                 return false;
             }
             return true;
@@ -104,7 +100,6 @@ namespace PortraitsOfTheRim
 
         public static bool BodyPartHasTag(BodyPartRecord bodyPartRecord, string tag)
         {
-            Log.Message(bodyPartRecord + " - bodyPartRecord.woundAnchorTag: " + bodyPartRecord.woundAnchorTag);
             return bodyPartRecord.woundAnchorTag != null && bodyPartRecord.woundAnchorTag.ToLower().Contains(tag.ToLower()) 
                 || bodyPartRecord.parent != null && BodyPartHasTag(bodyPartRecord.parent, tag);
         }
