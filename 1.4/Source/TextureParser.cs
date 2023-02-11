@@ -201,6 +201,11 @@ namespace PortraitsOfTheRim
                                     errored = true;
                                     RegisterUnknownSuffix(layer.defName, index, suffix);
                                 }
+                                else
+                                {
+                                    Log.Error("Failed to parse " + suffix + " - " + index);
+                                    Log.ResetMessageCount();
+                                }
                             }
                             catch (Exception e)
                             {
@@ -228,6 +233,7 @@ namespace PortraitsOfTheRim
                 req.style = style;
                 return true;
             }
+
             if (suffix == "gene")
             {
                 for (int i = index + 1; i < data.Count; i++)
@@ -249,6 +255,7 @@ namespace PortraitsOfTheRim
                         return true;
                     }
                 }
+                return false;
             }
             if (layer == PR_DefOf.PR_Neck && index == 1)
             {
@@ -259,39 +266,13 @@ namespace PortraitsOfTheRim
                     case "thin": req.body = GeneticBodyType.Thin; return true;
                     case "average": req.body = GeneticBodyType.Standard; return true;
                 }
+                return false;
             }
 
             if (layer == PR_DefOf.PR_Head && index == 1)
             {
                 req.headType = suffix;
                 return true;
-            }
-            if (layer.defName.Contains("Clothing") || layer.defName.Contains("Headgear"))
-            {
-                foreach (var def in DefDatabase<ThingDef>.AllDefs)
-                {
-                    if (def.IsApparel)
-                    {
-                        if (SuffixMatches(def, suffix))
-                        {
-                            req.apparels ??= new List<ThingDef>();
-                            req.apparels.Add(def);
-                            return true;
-                        }
-                    }
-                }
-            }
-
-            if (layer.defName.Contains("Hair"))
-            {
-                foreach (var def in DefDatabase<HairDef>.AllDefs)
-                {
-                    if (SuffixMatches(def, suffix))
-                    {
-                        req.hair = def;
-                        return true;
-                    }
-                }
             }
             if (layer == PR_DefOf.PR_Beard)
             {
@@ -303,6 +284,7 @@ namespace PortraitsOfTheRim
                         return true;
                     }
                 }
+                return false;
             }
 
             if (layer == PR_DefOf.PR_TattooHead)
@@ -315,6 +297,7 @@ namespace PortraitsOfTheRim
                         return true;
                     }
                 }
+                return false;
             }
 
             if (layer == PR_DefOf.PR_TattooNeck)
@@ -327,6 +310,7 @@ namespace PortraitsOfTheRim
                         return true;
                     }
                 }
+                return false;
             }
             if (layer == PR_DefOf.PR_OuterFace || layer == PR_DefOf.PR_InnerFace)
             {
@@ -354,7 +338,38 @@ namespace PortraitsOfTheRim
                             }
                         }
                     }
+                    return false;
                 }
+            }
+
+            if (layer.defName.Contains("Clothing") || layer.defName.Contains("Headgear"))
+            {
+                foreach (var def in DefDatabase<ThingDef>.AllDefs)
+                {
+                    if (def.IsApparel)
+                    {
+                        if (SuffixMatches(def, suffix))
+                        {
+                            req.apparels ??= new List<ThingDef>();
+                            req.apparels.Add(def);
+                            return true;
+                        }
+                    }
+                }
+                return false;
+            }
+
+            if (layer.defName.Contains("Hair"))
+            {
+                foreach (var def in DefDatabase<HairDef>.AllDefs)
+                {
+                    if (SuffixMatches(def, suffix))
+                    {
+                        req.hair = def;
+                        return true;
+                    }
+                }
+                return false;
             }
             var firstBodyPart = req.bodyParts?.FirstOrDefault();
             if (firstBodyPart != null)
@@ -371,6 +386,7 @@ namespace PortraitsOfTheRim
                         return true;
                     }
                 }
+                return false;
             }
             else if (layer.defName.Contains("Hediff"))
             {
@@ -383,6 +399,7 @@ namespace PortraitsOfTheRim
                         return true;
                     }
                 }
+                return false;
             }
             foreach (var xenotypeDef in DefDatabase<XenotypeDef>.AllDefs)
             {
@@ -392,8 +409,6 @@ namespace PortraitsOfTheRim
                     return true;
                 }
             }
-            Log.Error("Failed to parse " + suffix + " - " + index);
-            Log.ResetMessageCount();
             return false;
         }
 

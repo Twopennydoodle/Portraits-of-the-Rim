@@ -34,7 +34,7 @@ namespace PortraitsOfTheRim
                         Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
                     }
                     Log.Message("Existing layers: " + string.Join(", ", existingLayers));
-                    Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2)));
+                    Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2.name)));
                 }
                 return portraitTextures;
             }
@@ -130,6 +130,7 @@ namespace PortraitsOfTheRim
                             dict[matchingElement] = renderTexture = new RenderTexture(mainTexture.width, mainTexture.height, 0);
                         }
                         renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, zOffset), zoomValue);
+                        renderTexture.name = matchingElement.defName;
                         allTextures.Add((matchingElement, renderTexture));
                     }
                 }
