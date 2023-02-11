@@ -486,10 +486,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cf-averagenormal</defName>
+		<defName>PR_Head_vanilla-cf-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cf-averagenormal</texPath>
+			<texPath>Head/vanilla-cf-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -499,10 +499,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cf-averagepointy</defName>
+		<defName>PR_Head_vanilla-cf-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cf-averagepointy</texPath>
+			<texPath>Head/vanilla-cf-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -512,10 +512,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cf-averagewide</defName>
+		<defName>PR_Head_vanilla-cf-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cf-averagewide</texPath>
+			<texPath>Head/vanilla-cf-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -525,10 +525,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cf-narrownormal</defName>
+		<defName>PR_Head_vanilla-cf-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cf-narrownormal</texPath>
+			<texPath>Head/vanilla-cf-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -538,10 +538,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cf-narrowpointy</defName>
+		<defName>PR_Head_vanilla-cf-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cf-narrowpointy</texPath>
+			<texPath>Head/vanilla-cf-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -551,10 +551,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cf-narrowwide</defName>
+		<defName>PR_Head_vanilla-cf-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cf-narrowwide</texPath>
+			<texPath>Head/vanilla-cf-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -564,10 +564,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cm-averagenormal</defName>
+		<defName>PR_Head_vanilla-cm-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cm-averagenormal</texPath>
+			<texPath>Head/vanilla-cm-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -577,10 +577,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cm-averagepointy</defName>
+		<defName>PR_Head_vanilla-cm-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cm-averagepointy</texPath>
+			<texPath>Head/vanilla-cm-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -590,10 +590,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cm-averagewide</defName>
+		<defName>PR_Head_vanilla-cm-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cm-averagewide</texPath>
+			<texPath>Head/vanilla-cm-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -603,10 +603,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cm-narrownormal</defName>
+		<defName>PR_Head_vanilla-cm-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cm-narrownormal</texPath>
+			<texPath>Head/vanilla-cm-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -616,10 +616,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cm-narrowpointy</defName>
+		<defName>PR_Head_vanilla-cm-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cm-narrowpointy</texPath>
+			<texPath>Head/vanilla-cm-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -629,10 +629,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-cm-narrowwide</defName>
+		<defName>PR_Head_vanilla-cm-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-cm-narrowwide</texPath>
+			<texPath>Head/vanilla-cm-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -642,10 +642,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ef-averagenormal</defName>
+		<defName>PR_Head_vanilla-ef-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ef-averagenormal</texPath>
+			<texPath>Head/vanilla-ef-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -655,10 +655,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ef-averagepointy</defName>
+		<defName>PR_Head_vanilla-ef-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ef-averagepointy</texPath>
+			<texPath>Head/vanilla-ef-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -668,10 +668,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ef-averagewide</defName>
+		<defName>PR_Head_vanilla-ef-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ef-averagewide</texPath>
+			<texPath>Head/vanilla-ef-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -681,10 +681,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ef-narrownormal</defName>
+		<defName>PR_Head_vanilla-ef-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ef-narrownormal</texPath>
+			<texPath>Head/vanilla-ef-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -694,10 +694,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ef-narrowpointy</defName>
+		<defName>PR_Head_vanilla-ef-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ef-narrowpointy</texPath>
+			<texPath>Head/vanilla-ef-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -707,10 +707,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ef-narrowwide</defName>
+		<defName>PR_Head_vanilla-ef-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ef-narrowwide</texPath>
+			<texPath>Head/vanilla-ef-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -720,10 +720,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-em-averagenormal</defName>
+		<defName>PR_Head_vanilla-em-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-em-averagenormal</texPath>
+			<texPath>Head/vanilla-em-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -733,10 +733,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-em-averagepointy</defName>
+		<defName>PR_Head_vanilla-em-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-em-averagepointy</texPath>
+			<texPath>Head/vanilla-em-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -746,10 +746,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-em-averagewide</defName>
+		<defName>PR_Head_vanilla-em-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-em-averagewide</texPath>
+			<texPath>Head/vanilla-em-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -759,10 +759,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-em-narrownormal</defName>
+		<defName>PR_Head_vanilla-em-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-em-narrownormal</texPath>
+			<texPath>Head/vanilla-em-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -772,10 +772,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-em-narrowpointy</defName>
+		<defName>PR_Head_vanilla-em-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-em-narrowpointy</texPath>
+			<texPath>Head/vanilla-em-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -785,10 +785,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-em-narrowwide</defName>
+		<defName>PR_Head_vanilla-em-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-em-narrowwide</texPath>
+			<texPath>Head/vanilla-em-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -798,10 +798,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mf-averagenormal</defName>
+		<defName>PR_Head_vanilla-mf-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mf-averagenormal</texPath>
+			<texPath>Head/vanilla-mf-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -811,10 +811,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mf-averagepointy</defName>
+		<defName>PR_Head_vanilla-mf-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mf-averagepointy</texPath>
+			<texPath>Head/vanilla-mf-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -824,10 +824,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mf-averagewide</defName>
+		<defName>PR_Head_vanilla-mf-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mf-averagewide</texPath>
+			<texPath>Head/vanilla-mf-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -837,10 +837,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mf-narrownormal</defName>
+		<defName>PR_Head_vanilla-mf-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mf-narrownormal</texPath>
+			<texPath>Head/vanilla-mf-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -850,10 +850,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mf-narrowpointy</defName>
+		<defName>PR_Head_vanilla-mf-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mf-narrowpointy</texPath>
+			<texPath>Head/vanilla-mf-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -863,10 +863,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mf-narrowwide</defName>
+		<defName>PR_Head_vanilla-mf-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mf-narrowwide</texPath>
+			<texPath>Head/vanilla-mf-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -876,10 +876,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mm-averagenormal</defName>
+		<defName>PR_Head_vanilla-mm-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mm-averagenormal</texPath>
+			<texPath>Head/vanilla-mm-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -889,10 +889,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mm-averagepointy</defName>
+		<defName>PR_Head_vanilla-mm-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mm-averagepointy</texPath>
+			<texPath>Head/vanilla-mm-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -902,10 +902,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mm-averagewide</defName>
+		<defName>PR_Head_vanilla-mm-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mm-averagewide</texPath>
+			<texPath>Head/vanilla-mm-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -915,10 +915,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mm-narrownormal</defName>
+		<defName>PR_Head_vanilla-mm-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mm-narrownormal</texPath>
+			<texPath>Head/vanilla-mm-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -928,10 +928,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mm-narrowpointy</defName>
+		<defName>PR_Head_vanilla-mm-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mm-narrowpointy</texPath>
+			<texPath>Head/vanilla-mm-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -941,10 +941,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-mm-narrowwide</defName>
+		<defName>PR_Head_vanilla-mm-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-mm-narrowwide</texPath>
+			<texPath>Head/vanilla-mm-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -954,10 +954,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tf-averagenormal</defName>
+		<defName>PR_Head_vanilla-tf-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tf-averagenormal</texPath>
+			<texPath>Head/vanilla-tf-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -967,10 +967,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tf-averagepointy</defName>
+		<defName>PR_Head_vanilla-tf-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tf-averagepointy</texPath>
+			<texPath>Head/vanilla-tf-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -980,10 +980,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tf-averagewide</defName>
+		<defName>PR_Head_vanilla-tf-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tf-averagewide</texPath>
+			<texPath>Head/vanilla-tf-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -993,10 +993,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tf-narrownormal</defName>
+		<defName>PR_Head_vanilla-tf-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tf-narrownormal</texPath>
+			<texPath>Head/vanilla-tf-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1006,10 +1006,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tf-narrowpointy</defName>
+		<defName>PR_Head_vanilla-tf-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tf-narrowpointy</texPath>
+			<texPath>Head/vanilla-tf-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1019,10 +1019,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tf-narrowwide</defName>
+		<defName>PR_Head_vanilla-tf-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tf-narrowwide</texPath>
+			<texPath>Head/vanilla-tf-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1032,10 +1032,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tm-averagenormal</defName>
+		<defName>PR_Head_vanilla-tm-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tm-averagenormal</texPath>
+			<texPath>Head/vanilla-tm-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1045,10 +1045,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tm-averagepointy</defName>
+		<defName>PR_Head_vanilla-tm-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tm-averagepointy</texPath>
+			<texPath>Head/vanilla-tm-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1058,10 +1058,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tm-averagewide</defName>
+		<defName>PR_Head_vanilla-tm-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tm-averagewide</texPath>
+			<texPath>Head/vanilla-tm-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1071,10 +1071,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tm-narrownormal</defName>
+		<defName>PR_Head_vanilla-tm-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tm-narrownormal</texPath>
+			<texPath>Head/vanilla-tm-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1084,10 +1084,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tm-narrowpointy</defName>
+		<defName>PR_Head_vanilla-tm-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tm-narrowpointy</texPath>
+			<texPath>Head/vanilla-tm-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1097,10 +1097,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-tm-narrowwide</defName>
+		<defName>PR_Head_vanilla-tm-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-tm-narrowwide</texPath>
+			<texPath>Head/vanilla-tm-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -1110,10 +1110,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-yf-averagenormal</defName>
+		<defName>PR_Head_vanilla-yf-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-yf-averagenormal</texPath>
+			<texPath>Head/vanilla-yf-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1123,10 +1123,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-yf-averagepointy</defName>
+		<defName>PR_Head_vanilla-yf-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-yf-averagepointy</texPath>
+			<texPath>Head/vanilla-yf-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1136,10 +1136,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-yf-averagewide</defName>
+		<defName>PR_Head_vanilla-yf-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-yf-averagewide</texPath>
+			<texPath>Head/vanilla-yf-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1149,10 +1149,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-yf-narrownormal</defName>
+		<defName>PR_Head_vanilla-yf-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-yf-narrownormal</texPath>
+			<texPath>Head/vanilla-yf-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1162,10 +1162,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-yf-narrowpointy</defName>
+		<defName>PR_Head_vanilla-yf-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-yf-narrowpointy</texPath>
+			<texPath>Head/vanilla-yf-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1175,10 +1175,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-yf-narrowwide</defName>
+		<defName>PR_Head_vanilla-yf-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-yf-narrowwide</texPath>
+			<texPath>Head/vanilla-yf-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1188,10 +1188,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ym-averagenormal</defName>
+		<defName>PR_Head_vanilla-ym-averagenormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ym-averagenormal</texPath>
+			<texPath>Head/vanilla-ym-averagenormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1201,10 +1201,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ym-averagepointy</defName>
+		<defName>PR_Head_vanilla-ym-averagepointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ym-averagepointy</texPath>
+			<texPath>Head/vanilla-ym-averagepointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1214,10 +1214,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ym-averagewide</defName>
+		<defName>PR_Head_vanilla-ym-averagewide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ym-averagewide</texPath>
+			<texPath>Head/vanilla-ym-averagewide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1227,10 +1227,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ym-narrownormal</defName>
+		<defName>PR_Head_vanilla-ym-narrownormal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ym-narrownormal</texPath>
+			<texPath>Head/vanilla-ym-narrownormal</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1240,10 +1240,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ym-narrowpointy</defName>
+		<defName>PR_Head_vanilla-ym-narrowpointy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ym-narrowpointy</texPath>
+			<texPath>Head/vanilla-ym-narrowpointy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -1253,10 +1253,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Vanilla-ym-narrowwide</defName>
+		<defName>PR_Head_vanilla-ym-narrowwide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Vanilla-ym-narrowwide</texPath>
+			<texPath>Head/vanilla-ym-narrowwide</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>

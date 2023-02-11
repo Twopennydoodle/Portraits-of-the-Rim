@@ -35,27 +35,35 @@ namespace PortraitsOfTheRim
                             DirectoryInfo baseDirectory = new DirectoryInfo(folderName);
                             if (baseDirectory.Exists)
                             {
-                                var innerFolderName = baseDirectory.FullName.Replace(mod.RootDir, "");
-                                if (!folders.Contains(folderName) && innerFolderName.Contains("Defs") is false)
+                                var files = baseDirectory.GetFiles("*.png", SearchOption.AllDirectories);
+                                if (files.Any())
                                 {
-                                    folders.Add(innerFolderName);
-                                    innerList.Add(new DebugMenuOption(innerFolderName, DebugMenuOptionMode.Action, delegate
-                                    {
-                                        OutputDefs(mod, baseDirectory, baseDirectory);
-                                    }));
-                                }
-
-                                var directories = Directory.GetDirectories(baseDirectory.FullName);
-                                foreach (var directory in directories)
-                                {
-                                    innerFolderName = directory.Replace(mod.RootDir, "");
-                                    if (!folders.Contains(innerFolderName) && innerFolderName.Contains("Defs") is false)
+                                    var innerFolderName = baseDirectory.FullName.Replace(mod.RootDir, "");
+                                    if (!folders.Contains(folderName) && innerFolderName.Contains("Defs") is false)
                                     {
                                         folders.Add(innerFolderName);
                                         innerList.Add(new DebugMenuOption(innerFolderName, DebugMenuOptionMode.Action, delegate
                                         {
-                                            OutputDefs(mod, baseDirectory, new DirectoryInfo(directory));
+                                            OutputDefs(baseDirectory, files);
                                         }));
+                                    }
+
+                                    var directories = Directory.GetDirectories(baseDirectory.FullName);
+                                    foreach (var directory in directories)
+                                    {
+                                        var directoryFiles = new DirectoryInfo(directory).GetFiles("*.png", SearchOption.AllDirectories);
+                                        if (directoryFiles.Any())
+                                        {
+                                            innerFolderName = directory.Replace(mod.RootDir, "");
+                                            if (!folders.Contains(innerFolderName) && innerFolderName.Contains("Defs") is false)
+                                            {
+                                                folders.Add(innerFolderName);
+                                                innerList.Add(new DebugMenuOption(innerFolderName, DebugMenuOptionMode.Action, delegate
+                                                {
+                                                    OutputDefs(baseDirectory, directoryFiles);
+                                                }));
+                                            }
+                                        }
                                     }
                                 }
                             }
@@ -426,9 +434,8 @@ namespace PortraitsOfTheRim
             req.bodyParts.Add(bodyPartType);
         }
 
-        public static void OutputDefs(ModContentPack mod, DirectoryInfo baseDirectory, DirectoryInfo directoryInfo)
+        public static void OutputDefs(DirectoryInfo baseDirectory, FileInfo[] files)
         {
-            var files = baseDirectory.GetFiles("*.*", SearchOption.AllDirectories);
             Dictionary<string, List<string>> erroredXML = new ();
             Dictionary<string, List<string>> resolvedXML = new ();
             var source = "Unknown";
@@ -455,7 +462,7 @@ namespace PortraitsOfTheRim
                     sb.AppendLine("\t\t\t" + "<texPath>" + texPath + "</texPath>");
                     sb.AppendLine("\t\t" + "</graphicData>");
                     sb.AppendLine("\t\t" + "<requirements>");
-                    var data = filename.Split('-').Where(x => x != source).ToList();
+                    var data = filename.Split('-').Where(x => x.ToLower() != source.ToLower()).ToList();
                 
                     Requirements req = CreateRequirements(layerDef, data, out var errored);
                     if (req.ageRange != null)
@@ -608,37 +615,40 @@ namespace PortraitsOfTheRim
                 Log.Message("Unknown: " + suff.Key + " - " + suff.Value);
                 Log.ResetMessageCount();
             }
-
             foreach (var kvp in resolvedXML)
             {
-                source = kvp.Key.Split(Path.DirectorySeparatorChar).Last();
-                var defsFolder = new DirectoryInfo(Path.Combine(kvp.Key, "Defs"));
-                if (!defsFolder.Exists)
+                if (kvp.Value.Any())
                 {
-                    defsFolder.Create();
-                }
+                    source = kvp.Key.Split(Path.DirectorySeparatorChar).Last();
+                    var defsFolder = new DirectoryInfo(Path.Combine(kvp.Key, "Defs"));
+                    if (!defsFolder.Exists)
+                    {
+                        defsFolder.Create();
+                    }
 
-                var defsFile = Path.Combine(defsFolder.FullName, source + "_PortraitElementDefs.xml");
-                bool fileExists = new FileInfo(defsFile).Exists;
-                if (!fileExists)
-                {
-                    File.AppendAllText(defsFile, "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Defs>\r\n");
+                    var defsFile = Path.Combine(defsFolder.FullName, source + "_PortraitElementDefs.xml");
+                    bool fileExists = new FileInfo(defsFile).Exists;
+                    if (!fileExists)
+                    {
+                        File.AppendAllText(defsFile, "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<Defs>\r\n");
+                    }
+                    else
+                    {
+                        var lines = File.ReadAllLines(defsFile);
+                        File.WriteAllLines(defsFile, lines.Take(lines.Length - 1).ToArray());
+                    }
+                    Log.Message("resolvedXML: " + kvp.Value.Count);
+                    foreach (var def in kvp.Value)
+                    {
+                        File.AppendAllText(defsFile, "\r\n");
+                        File.AppendAllText(defsFile, def);
+                    }
+                    if (!fileExists)
+                    {
+                        File.AppendAllText(defsFile, "</Defs>");
+                    }
+                    Log.Message("Created defs in " + defsFile);
                 }
-                else
-                {
-                    var lines = File.ReadAllLines(defsFile);
-                    File.WriteAllLines(defsFile, lines.Take(lines.Length - 1).ToArray());
-                }
-                foreach (var def in kvp.Value)
-                {
-                    File.AppendAllText(defsFile, "\r\n");
-                    File.AppendAllText(defsFile, def);
-                }
-                if (!fileExists)
-                {
-                    File.AppendAllText(defsFile, "</Defs>");
-                }
-                Log.Message("Created defs in " + defsFile);
             }
             if (erroredXML.Any())
             {

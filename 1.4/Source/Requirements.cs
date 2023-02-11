@@ -105,9 +105,13 @@ namespace PortraitsOfTheRim
             {
                 return pawn.story.SkinColor;
             }
-            if (elementDef.portraitLayer == PR_DefOf.PR_Ear)
+            if (elementDef.portraitLayer.inheritsSkinColor)
             {
                 return pawn.story.SkinColor;
+            }
+            else if (elementDef.portraitLayer.inheritsHairColor)
+            {
+                return pawn.story.HairColor;
             }
             return null;
         }

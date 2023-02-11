@@ -644,6 +644,18 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VEHair-an-HighTop</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VEHair-an-HighTop</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~999</ageRange>
+			<hair>VHE_HighTop</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_VEHair-an-hunter</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
@@ -1744,6 +1756,18 @@
 		<requirements>
 			<ageRange>7~19</ageRange>
 			<hair>VHE_Hideout</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VEHair-cn-HighTop</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VEHair-cn-HighTop</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~19</ageRange>
+			<hair>VHE_HighTop</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

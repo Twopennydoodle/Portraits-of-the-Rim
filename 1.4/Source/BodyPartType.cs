@@ -4,6 +4,7 @@ using Verse;
 namespace PortraitsOfTheRim
 {
     public enum Side { Left, Right }
+    [HotSwappable]
     public class BodyPartType
     {
         public HediffDef hediffInjury;
@@ -73,11 +74,14 @@ namespace PortraitsOfTheRim
                     return true;
                 if (side.Value == Side.Right && BodyPartHasTag(bodyPartRecord, "Right"))
                     return true;
-
+                else
+                {
+                    Log.Message("Failed to get side for " + bodyPartRecord + " -  " + side.Value);
+                }
                 if (bodyPartRecord.parent.parts != null)
                 {
                     var allSameParts = bodyPartRecord.parent.parts.Where(x => x.def == bodyPartRecord.def);
-                    Log.Message("Checking for " + bodyPartRecord.def + " - " + string.Join(", ", allSameParts));
+                    Log.Message("Checking for " + bodyPartRecord.def + " - " + string.Join(", ", allSameParts) + " - parent: " + bodyPartRecord.parent);
                     if (allSameParts.Count() == 2)
                     {
                         if (side.Value == Side.Left && allSameParts.First() == bodyPartRecord)
@@ -100,20 +104,9 @@ namespace PortraitsOfTheRim
 
         public static bool BodyPartHasTag(BodyPartRecord bodyPartRecord, string tag)
         {
-            return bodyPartRecord.woundAnchorTag != null && bodyPartRecord.woundAnchorTag.Contains(tag) || ParentsHaveTag(bodyPartRecord, tag);
-        }
-
-        public static bool ParentsHaveTag(BodyPartRecord bodyPartRecord, string tag)
-        {
-            if (bodyPartRecord?.parent is null)
-            {
-                return false;
-            }
-            if (bodyPartRecord.parent.woundAnchorTag != null && bodyPartRecord.parent.woundAnchorTag.Contains(tag))
-            {
-                return true;
-            }
-            return ParentsHaveTag(bodyPartRecord.parent, tag);
+            Log.Message(bodyPartRecord + " - bodyPartRecord.woundAnchorTag: " + bodyPartRecord.woundAnchorTag);
+            return bodyPartRecord.woundAnchorTag != null && bodyPartRecord.woundAnchorTag.ToLower().Contains(tag.ToLower()) 
+                || bodyPartRecord.parent != null && BodyPartHasTag(bodyPartRecord.parent, tag);
         }
     }
 }
