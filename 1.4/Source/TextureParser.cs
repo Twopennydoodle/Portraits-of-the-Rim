@@ -120,102 +120,89 @@ namespace PortraitsOfTheRim
                 var suffix = data[index];
                 try
                 {
-                    switch (suffix)
+                    if (TryToResolveSuffix(layer, req, ref index, ref suffix, data) is false)
                     {
-                        case AdultAllGender: req.ageRange = totalAdultAge; continue;
-                        case ChildAllGender: req.ageRange = totalChildAge; continue;
-                        case Large: req.bodyType = PawnBodyType.Large; continue;
-                        case Small: req.bodyType = PawnBodyType.Small; continue;
-                        case Medium: req.bodyType = PawnBodyType.Medium; continue;
-                        case ExtraLarge: req.bodyType = PawnBodyType.ExtraLarge; continue;
-                        case ChildFemale:
-                            req.gender = Gender.Female;
-                            req.ageRange = childAge;
-                            continue;
-                        case ChildMale:
-                            req.gender = Gender.Male;
-                            req.ageRange = childAge;
-                            continue;
-                        case TeenFemale:
-                            req.gender = Gender.Female;
-                            req.ageRange = teenAge;
-                            continue;
-                        case TeenMale:
-                            req.gender = Gender.Male;
-                            req.ageRange = teenAge;
-                            continue;
-                        case YoungFemale:
-                            req.gender = Gender.Female;
-                            req.ageRange = youngAdultAge;
-                            continue;
-                        case YoungMale:
-                            req.gender = Gender.Male;
-                            req.ageRange = youngAdultAge;
-                            continue;
-                        case ElderFemale:
-                            req.gender = Gender.Female;
-                            req.ageRange = elderAge;
-                            continue;
-                        case ElderMale:
-                            req.gender = Gender.Male;
-                            req.ageRange = elderAge;
-                            continue;
-                        case MiddleAgedFemale:
-                            req.gender = Gender.Female;
-                            req.ageRange = middleAged;
-                            continue;
-                        case MiddleAgedMale:
-                            req.gender = Gender.Male;
-                            req.ageRange = middleAged;
-                            continue;
-                        case AdultFemale:
-                            req.gender = Gender.Female;
-                            req.ageRange = totalAdultAge;
-                            continue;
-                        case AdultMale:
-                            req.gender = Gender.Male;
-                            req.ageRange = totalAdultAge;
-                            continue;
-                        case "wshoulder": AddBodyPart(req, "Shoulder", Side.Left); continue;
-                        case "eshoulder": AddBodyPart(req, "Shoulder", Side.Right); continue;
-                        case "wclavicle": AddBodyPart(req, "Clavicle", Side.Left); continue;
-                        case "eclavicle": AddBodyPart(req, "Clavicle", Side.Right); continue;
-                        case "torso": AddBodyPart(req, "Torso"); continue;
-                        case "skull": AddBodyPart(req, "Head"); continue;
-                        case "head": AddBodyPart(req, "Head"); continue;
-                        case "weye": AddBodyPart(req, "Eye", Side.Left); continue;
-                        case "eeye": AddBodyPart(req, "Eye", Side.Right); continue;
-                        case "neck": AddBodyPart(req, "Neck"); continue;
-                        case "jaw": AddBodyPart(req, "Jaw"); continue;
-                        case "nose": AddBodyPart(req, "Nose"); continue;
-                        case "wear": AddBodyPart(req, "Ear", Side.Left); continue;
-                        case "eear": AddBodyPart(req, "Ear", Side.Right); continue;
-                        case "scar": req.bodyParts.First().scarred = true; continue;
-                        case "missing": req.bodyParts.First().destroyed = true; continue;
-                        case "bandage": req.bodyParts.First().bandaged = true; continue;
-                        default:
-                            try
-                            {
-                                if (TryToResolveSuffix(layer, req, ref index, ref suffix, data) is false)
-                                {
-                                    errored = true;
-                                    RegisterUnknownSuffix(layer.defName, index, suffix);
-                                }
-                                else
-                                {
-                                    Log.Error("Failed to parse " + suffix + " - " + index);
-                                    Log.ResetMessageCount();
-                                }
-                            }
-                            catch (Exception e)
-                            {
+                        switch (suffix)
+                        {
+                            case AdultAllGender: req.ageRange = totalAdultAge; continue;
+                            case ChildAllGender: req.ageRange = totalChildAge; continue;
+                            case Large: req.bodyType = PawnBodyType.Large; continue;
+                            case Small: req.bodyType = PawnBodyType.Small; continue;
+                            case Medium: req.bodyType = PawnBodyType.Medium; continue;
+                            case ExtraLarge: req.bodyType = PawnBodyType.ExtraLarge; continue;
+                            case ChildFemale:
+                                req.gender = Gender.Female;
+                                req.ageRange = childAge;
+                                continue;
+                            case ChildMale:
+                                req.gender = Gender.Male;
+                                req.ageRange = childAge;
+                                continue;
+                            case TeenFemale:
+                                req.gender = Gender.Female;
+                                req.ageRange = teenAge;
+                                continue;
+                            case TeenMale:
+                                req.gender = Gender.Male;
+                                req.ageRange = teenAge;
+                                continue;
+                            case YoungFemale:
+                                req.gender = Gender.Female;
+                                req.ageRange = youngAdultAge;
+                                continue;
+                            case YoungMale:
+                                req.gender = Gender.Male;
+                                req.ageRange = youngAdultAge;
+                                continue;
+                            case ElderFemale:
+                                req.gender = Gender.Female;
+                                req.ageRange = elderAge;
+                                continue;
+                            case ElderMale:
+                                req.gender = Gender.Male;
+                                req.ageRange = elderAge;
+                                continue;
+                            case MiddleAgedFemale:
+                                req.gender = Gender.Female;
+                                req.ageRange = middleAged;
+                                continue;
+                            case MiddleAgedMale:
+                                req.gender = Gender.Male;
+                                req.ageRange = middleAged;
+                                continue;
+                            case AdultFemale:
+                                req.gender = Gender.Female;
+                                req.ageRange = totalAdultAge;
+                                continue;
+                            case AdultMale:
+                                req.gender = Gender.Male;
+                                req.ageRange = totalAdultAge;
+                                continue;
+                            case "wshoulder": AddBodyPart(req, "Shoulder", Side.Left); continue;
+                            case "eshoulder": AddBodyPart(req, "Shoulder", Side.Right); continue;
+                            case "wclavicle": AddBodyPart(req, "Clavicle", Side.Left); continue;
+                            case "eclavicle": AddBodyPart(req, "Clavicle", Side.Right); continue;
+                            case "torso": AddBodyPart(req, "Torso"); continue;
+                            case "skull": AddBodyPart(req, "Head"); continue;
+                            case "head": AddBodyPart(req, "Head"); continue;
+                            case "weye": AddBodyPart(req, "Eye", Side.Left); continue;
+                            case "eeye": AddBodyPart(req, "Eye", Side.Right); continue;
+                            case "neck": AddBodyPart(req, "Neck"); continue;
+                            case "jaw": AddBodyPart(req, "Jaw"); continue;
+                            case "nose": AddBodyPart(req, "Nose"); continue;
+                            case "wear": AddBodyPart(req, "Ear", Side.Left); continue;
+                            case "eear": AddBodyPart(req, "Ear", Side.Right); continue;
+                            case "scar": req.bodyParts.First().scarred = true; continue;
+                            case "missing": req.bodyParts.First().destroyed = true; continue;
+                            case "bandage": req.bodyParts.First().bandaged = true; continue;
+                            default:
                                 errored = true;
-                                Log.Error("Failed to parse suffix: " + suffix + " - index: " + index + " - data: " + string.Join(", ", data) + " - " + e.ToString());
-                                RegisterUnknownSuffix(layer.defName, index, suffix);    
-                            }
-                            break;
+                                Log.Error("Failed to parse suffix: " + suffix + " - index: " + index + " - data: " + string.Join(", ", data));
+                                RegisterUnknownSuffix(layer.defName, index, suffix);
+                                break;
+                        }
                     }
-                }
+                 }
                 catch (Exception e)
                 {
                     Log.Error("2 Failed to parse suffix: " + suffix + " - index: " + index + " - data: " + string.Join(", ", data) + " - " + e.ToString());
@@ -257,6 +244,8 @@ namespace PortraitsOfTheRim
                 }
                 return false;
             }
+
+
             if (layer == PR_DefOf.PR_Neck && index == 1)
             {
                 switch (suffix)
@@ -371,6 +360,14 @@ namespace PortraitsOfTheRim
                 }
                 return false;
             }
+            foreach (var xenotypeDef in DefDatabase<XenotypeDef>.AllDefs)
+            {
+                if (SuffixMatches(xenotypeDef, suffix))
+                {
+                    req.xenotype = xenotypeDef;
+                    return true;
+                }
+            }
             var firstBodyPart = req.bodyParts?.FirstOrDefault();
             if (firstBodyPart != null)
             {
@@ -400,14 +397,6 @@ namespace PortraitsOfTheRim
                     }
                 }
                 return false;
-            }
-            foreach (var xenotypeDef in DefDatabase<XenotypeDef>.AllDefs)
-            {
-                if (SuffixMatches(xenotypeDef, suffix))
-                {
-                    req.xenotype = xenotypeDef;
-                    return true;
-                }
             }
             return false;
         }
@@ -524,7 +513,6 @@ namespace PortraitsOfTheRim
                         var lines = File.ReadAllLines(defsFile);
                         File.WriteAllLines(defsFile, lines.Take(lines.Length - 1).ToArray());
                     }
-                    Log.Message("resolvedXML: " + kvp.Value.Count);
                     foreach (var def in kvp.Value)
                     {
                         File.AppendAllText(defsFile, "\r\n");

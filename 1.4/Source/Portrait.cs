@@ -29,10 +29,7 @@ namespace PortraitsOfTheRim
                     portraitTextures = GetPortraitTextures();
                     var missingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x) is false);
                     var existingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x));
-                    if (!missingLayers.Contains(PR_DefOf.PR_InnerFace))
-                    {
-                        Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
-                    }
+                    Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
                     Log.Message("Existing layers: " + string.Join(", ", existingLayers));
                     Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2.name)));
                 }

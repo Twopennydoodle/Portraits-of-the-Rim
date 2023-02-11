@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VEInsectoids-an-riothelmet</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VEInsectoids-an-riothelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~999</ageRange>
+			<apparels>
+				<li>VFE_Apparel_RiotHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VEInsectoids-cn-riothelmet</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VEInsectoids-cn-riothelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~19</ageRange>
+			<apparels>
+				<li>VFE_Apparel_RiotHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEInsectoids-l-RiotArmor</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEInsectoids-l-RiotArmor</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VFE_Apparel_RiotArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEInsectoids-m-RiotArmor</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEInsectoids-m-RiotArmor</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VFE_Apparel_RiotArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEInsectoids-s-RiotArmor</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEInsectoids-s-RiotArmor</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VFE_Apparel_RiotArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEInsectoids-xl-RiotArmor</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEInsectoids-xl-RiotArmor</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VFE_Apparel_RiotArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+</Defs>
