@@ -17,7 +17,20 @@ namespace PortraitsOfTheRim
             var req = requirements ?? connectedElement?.requirements;
             if (req != null)
             {
-                return req.Matches(portrait, this, true);
+                var boolReport = req.Matches(portrait, this);
+                if (portraitLayer == PR_DefOf.PR_Ear)
+                {
+                    if (boolReport.result is false)
+                    {
+                        Log.Message("Cannot get " + this + " for " + portrait.pawn + " because of " + boolReport.report);
+                    }
+                    else
+                    {
+                        Log.Message("Can get " + this + " for " + portrait.pawn);
+                    }
+                }
+                
+                return boolReport.result;
             }
             return true;
         }

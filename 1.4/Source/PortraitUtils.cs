@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using RimWorld;
+using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using Verse;
@@ -13,13 +14,19 @@ namespace PortraitsOfTheRim
         public static Dictionary<Pawn, Portrait> pawnPortraits = new Dictionary<Pawn, Portrait>();
         public static List<PortraitLayerDef> layers;
         public static Dictionary<PortraitLayerDef, List<PortraitElementDef>> portraitElements;
-
         public static HashSet<PortraitLayerDef> HeadgearLayers = new HashSet<PortraitLayerDef>
         {
             PR_DefOf.PR_FullHeadgear, PR_DefOf.PR_InnerHeadgear, PR_DefOf.PR_OuterHeadgear, PR_DefOf.PR_UnderHeadgear
         };
 
         public static HashSet<string> allStyles;
+        public static FloatRange childAge = new FloatRange(7f, 13f);
+        public static FloatRange teenAge = new FloatRange(13f, 19f);
+        public static FloatRange youngAdultAge = new FloatRange(19f, 39f);
+        public static FloatRange middleAged = new FloatRange(39f, 64f);
+        public static FloatRange elderAge = new FloatRange(64, 999f);
+        public static FloatRange totalChildAge = new FloatRange(7f, 19);
+        public static FloatRange totalAdultAge = new FloatRange(19f, 999);
         static PortraitUtils()
         {
             layers = DefDatabase<PortraitLayerDef>.AllDefs.OrderBy(x => x.layer).ToList();
@@ -64,6 +71,23 @@ namespace PortraitsOfTheRim
             portraitCamera = component;
         }
 
+        public static bool IsAdult(this Pawn pawn)
+        {
+            return totalAdultAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat);
+        }
+        public static bool IsTeen(this Pawn pawn)
+        {
+            return teenAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat);
+        }
+        public static bool IsChild(this Pawn pawn)
+        {
+            return childAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat);
+        }
+
+        public static bool MatchesAnyBodyType(this Pawn pawn, params BodyTypeDef[] bodyTypes)
+        {
+            return bodyTypes.Contains(pawn.story.bodyType);
+        }
         public static Portrait GetPortrait(this Pawn pawn)
         {
             if (!pawnPortraits.TryGetValue(pawn, out var portrait))

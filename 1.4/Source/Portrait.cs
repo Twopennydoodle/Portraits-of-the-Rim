@@ -38,19 +38,6 @@ namespace PortraitsOfTheRim
         }
 
         public bool ShouldShow => hidePortrait is false;
-        public bool HasImportantLayers
-        {
-            get
-            {
-                var textures = PortraitTextures;
-                var missingLayers = PortraitUtils.layers.Where(x => textures.Any(y => y.Item1.portraitLayer == x) is false);
-                if (!missingLayers.Contains(PR_DefOf.PR_InnerFace))
-                {
-                    return true;
-                }
-                return false;
-            }
-        }
         public void RenderPortrait(float x, float y, float width, float height)
         {
             var textures = PortraitTextures;

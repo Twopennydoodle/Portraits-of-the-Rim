@@ -101,16 +101,7 @@ namespace PortraitsOfTheRim
             YoungMale, ElderFemale, ElderMale, MiddleAgedFemale, MiddleAgedMale, AdultFemale, AdultMale,
         };
 
-        public static FloatRange childAge = new FloatRange(7f, 13f);
-        public static FloatRange teenAge = new FloatRange(13f, 19f);
-        public static FloatRange youngAdultAge = new FloatRange(19f, 39f);
-        public static FloatRange middleAged = new FloatRange(39f, 64f);
-        public static FloatRange elderAge = new FloatRange(64, 999f);
-        public static FloatRange totalChildAge = new FloatRange(7f, 19);
-        public static FloatRange totalAdultAge = new FloatRange(19f, 999);
-
         public static Dictionary<string, int> suffices = new Dictionary<string, int>();
-
         private static Requirements CreateRequirements(PortraitLayerDef layer, List<string> data, out bool errored)
         {
             errored = false;
@@ -124,59 +115,59 @@ namespace PortraitsOfTheRim
                     {
                         switch (suffix)
                         {
-                            case AdultAllGender: req.ageRange = totalAdultAge; continue;
-                            case ChildAllGender: req.ageRange = totalChildAge; continue;
+                            case AdultAllGender: req.ageRange = PortraitUtils.totalAdultAge; continue;
+                            case ChildAllGender: req.ageRange = PortraitUtils.totalChildAge; continue;
                             case Large: req.bodyType = PawnBodyType.Large; continue;
                             case Small: req.bodyType = PawnBodyType.Small; continue;
                             case Medium: req.bodyType = PawnBodyType.Medium; continue;
                             case ExtraLarge: req.bodyType = PawnBodyType.ExtraLarge; continue;
                             case ChildFemale:
                                 req.gender = Gender.Female;
-                                req.ageRange = childAge;
+                                req.ageRange = PortraitUtils.childAge;
                                 continue;
                             case ChildMale:
                                 req.gender = Gender.Male;
-                                req.ageRange = childAge;
+                                req.ageRange = PortraitUtils.childAge;
                                 continue;
                             case TeenFemale:
                                 req.gender = Gender.Female;
-                                req.ageRange = teenAge;
+                                req.ageRange = PortraitUtils.teenAge;
                                 continue;
                             case TeenMale:
                                 req.gender = Gender.Male;
-                                req.ageRange = teenAge;
+                                req.ageRange = PortraitUtils.teenAge;
                                 continue;
                             case YoungFemale:
                                 req.gender = Gender.Female;
-                                req.ageRange = youngAdultAge;
+                                req.ageRange = PortraitUtils.youngAdultAge;
                                 continue;
                             case YoungMale:
                                 req.gender = Gender.Male;
-                                req.ageRange = youngAdultAge;
+                                req.ageRange = PortraitUtils.youngAdultAge;
                                 continue;
                             case ElderFemale:
                                 req.gender = Gender.Female;
-                                req.ageRange = elderAge;
+                                req.ageRange = PortraitUtils.elderAge;
                                 continue;
                             case ElderMale:
                                 req.gender = Gender.Male;
-                                req.ageRange = elderAge;
+                                req.ageRange = PortraitUtils.elderAge;
                                 continue;
                             case MiddleAgedFemale:
                                 req.gender = Gender.Female;
-                                req.ageRange = middleAged;
+                                req.ageRange = PortraitUtils.middleAged;
                                 continue;
                             case MiddleAgedMale:
                                 req.gender = Gender.Male;
-                                req.ageRange = middleAged;
+                                req.ageRange = PortraitUtils.middleAged;
                                 continue;
                             case AdultFemale:
                                 req.gender = Gender.Female;
-                                req.ageRange = totalAdultAge;
+                                req.ageRange = PortraitUtils.totalAdultAge;
                                 continue;
                             case AdultMale:
                                 req.gender = Gender.Male;
-                                req.ageRange = totalAdultAge;
+                                req.ageRange = PortraitUtils.totalAdultAge;
                                 continue;
                             case "wshoulder": AddBodyPart(req, "Shoulder", Side.Left); continue;
                             case "eshoulder": AddBodyPart(req, "Shoulder", Side.Right); continue;

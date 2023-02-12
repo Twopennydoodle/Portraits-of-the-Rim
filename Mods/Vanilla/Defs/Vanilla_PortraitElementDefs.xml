@@ -396,40 +396,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Ear_Vanilla-wear-Baseliner</defName>
-		<portraitLayer>PR_Ear</portraitLayer>
-		<graphicData>
-			<texPath>Ear/Vanilla-wear-Baseliner</texPath>
-		</graphicData>
-		<requirements>
-			<bodyParts>
-				<li>
-					<bodyPart>Ear</bodyPart>
-					<side>Left</side>
-				</li>
-			</bodyParts>
-			<xenotype>Baseliner</xenotype>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Ear_Vanilla-wear-BionicEar</defName>
-		<portraitLayer>PR_Ear</portraitLayer>
-		<graphicData>
-			<texPath>Ear/Vanilla-wear-BionicEar</texPath>
-		</graphicData>
-		<requirements>
-			<bodyParts>
-				<li>
-					<hediffInjury>BionicEar</hediffInjury>
-					<bodyPart>Ear</bodyPart>
-					<side>Left</side>
-				</li>
-			</bodyParts>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_Vanilla-an-marinehelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
