@@ -18,17 +18,17 @@ namespace PortraitsOfTheRim
             if (req != null)
             {
                 var boolReport = req.Matches(portrait, this);
-                if (portraitLayer == PR_DefOf.PR_Ear)
-                {
-                    if (boolReport.result is false)
-                    {
-                        Log.Message("Cannot get " + this + " for " + portrait.pawn + " because of " + boolReport.report);
-                    }
-                    else
-                    {
-                        Log.Message("Can get " + this + " for " + portrait.pawn);
-                    }
-                }
+                //if (portraitLayer == PR_DefOf.PR_Ear)
+                //{
+                //    if (boolReport.result is false)
+                //    {
+                //        Log.Message("Cannot get " + this + " for " + portrait.pawn + " because of " + boolReport.report);
+                //    }
+                //    else
+                //    {
+                //        Log.Message("Can get " + this + " for " + portrait.pawn);
+                //    }
+                //}
                 
                 return boolReport.result;
             }
