@@ -15,47 +15,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHediffHead_VESaurids-an-gene-VRESaurids_ScaleSkin</defName>
-		<portraitLayer>PR_InnerHediffHead</portraitLayer>
-		<graphicData>
-			<texPath>InnerHediffHead/VESaurids-an-gene-VRESaurids_ScaleSkin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>19~999</ageRange>
-			<genes>
-				<li>VRESaurids_ScaleSkin</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHediffHead_VESaurids-cn-gene-VRESaurids_ScaleSkin</defName>
-		<portraitLayer>PR_InnerHediffHead</portraitLayer>
-		<graphicData>
-			<texPath>InnerHediffHead/VESaurids-cn-gene-VRESaurids_ScaleSkin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~19</ageRange>
-			<genes>
-				<li>VRESaurids_ScaleSkin</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHediffNeck_VESaurids-gene-VRESaurids_ScaleSkin</defName>
-		<portraitLayer>PR_InnerHediffNeck</portraitLayer>
-		<graphicData>
-			<texPath>InnerHediffNeck/VESaurids-gene-VRESaurids_ScaleSkin</texPath>
-		</graphicData>
-		<requirements>
-			<genes>
-				<li>VRESaurids_ScaleSkin</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_VESaurids-an-crush</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
@@ -227,7 +186,7 @@
 		<defName>PR_Head_VESaurids-cf-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-cf-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-cf-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -240,7 +199,7 @@
 		<defName>PR_Head_VESaurids-cf-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-cf-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-cf-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -253,7 +212,7 @@
 		<defName>PR_Head_VESaurids-cf-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-cf-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-cf-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -266,7 +225,7 @@
 		<defName>PR_Head_VESaurids-cf-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-cf-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-cf-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -279,7 +238,7 @@
 		<defName>PR_Head_VESaurids-cm-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-cm-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-cm-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -292,7 +251,7 @@
 		<defName>PR_Head_VESaurids-cm-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-cm-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-cm-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -305,7 +264,7 @@
 		<defName>PR_Head_VESaurids-cm-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-cm-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-cm-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -318,7 +277,7 @@
 		<defName>PR_Head_VESaurids-cm-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-cm-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-cm-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -331,7 +290,7 @@
 		<defName>PR_Head_VESaurids-tf-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-tf-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-tf-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -344,7 +303,7 @@
 		<defName>PR_Head_VESaurids-tf-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-tf-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-tf-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -357,7 +316,7 @@
 		<defName>PR_Head_VESaurids-tf-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-tf-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-tf-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -370,7 +329,7 @@
 		<defName>PR_Head_VESaurids-tf-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-tf-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-tf-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -383,7 +342,7 @@
 		<defName>PR_Head_VESaurids-tm-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-tm-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-tm-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -396,7 +355,7 @@
 		<defName>PR_Head_VESaurids-tm-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-tm-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-tm-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -409,7 +368,7 @@
 		<defName>PR_Head_VESaurids-tm-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-tm-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-tm-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -422,7 +381,7 @@
 		<defName>PR_Head_VESaurids-tm-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-tm-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-tm-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
@@ -435,7 +394,7 @@
 		<defName>PR_Head_VESaurids-yf-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-yf-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-yf-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -448,7 +407,7 @@
 		<defName>PR_Head_VESaurids-yf-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-yf-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-yf-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -461,7 +420,7 @@
 		<defName>PR_Head_VESaurids-yf-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-yf-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-yf-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -474,7 +433,7 @@
 		<defName>PR_Head_VESaurids-yf-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-yf-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-yf-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -487,7 +446,7 @@
 		<defName>PR_Head_VESaurids-ym-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-ym-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-ym-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -500,7 +459,7 @@
 		<defName>PR_Head_VESaurids-ym-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-ym-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-ym-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -513,7 +472,7 @@
 		<defName>PR_Head_VESaurids-ym-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-ym-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-ym-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -526,7 +485,7 @@
 		<defName>PR_Head_VESaurids-ym-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-ym-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-ym-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
@@ -539,7 +498,7 @@
 		<defName>PR_Head_VESaurids-mf-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-mf-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-mf-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -552,7 +511,7 @@
 		<defName>PR_Head_VESaurids-mf-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-mf-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-mf-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -565,7 +524,7 @@
 		<defName>PR_Head_VESaurids-mf-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-mf-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-mf-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -578,7 +537,7 @@
 		<defName>PR_Head_VESaurids-mf-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-mf-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-mf-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -591,7 +550,7 @@
 		<defName>PR_Head_VESaurids-mm-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-mm-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-mm-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -604,7 +563,7 @@
 		<defName>PR_Head_VESaurids-mm-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-mm-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-mm-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -617,7 +576,7 @@
 		<defName>PR_Head_VESaurids-mm-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-mm-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-mm-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -630,7 +589,7 @@
 		<defName>PR_Head_VESaurids-mm-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-mm-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-mm-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
@@ -643,7 +602,7 @@
 		<defName>PR_Head_VESaurids-ef-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-ef-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-ef-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -656,7 +615,7 @@
 		<defName>PR_Head_VESaurids-ef-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-ef-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-ef-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -669,7 +628,7 @@
 		<defName>PR_Head_VESaurids-ef-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-ef-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-ef-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -682,7 +641,7 @@
 		<defName>PR_Head_VESaurids-ef-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-ef-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-ef-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -695,7 +654,7 @@
 		<defName>PR_Head_VESaurids-em-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-em-VRESaurids_ScaleSkin_Average</texPath>
+			<texPath>Head/VESaurids-em-VRESaurids_ScaleSkin_Average</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -708,7 +667,7 @@
 		<defName>PR_Head_VESaurids-em-VRESaurids_ScaleSkin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-em-VRESaurids_ScaleSkin_Gaunt</texPath>
+			<texPath>Head/VESaurids-em-VRESaurids_ScaleSkin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -721,7 +680,7 @@
 		<defName>PR_Head_VESaurids-em-VRESaurids_ScaleSkin_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-em-VRESaurids_ScaleSkin_Heavy</texPath>
+			<texPath>Head/VESaurids-em-VRESaurids_ScaleSkin_Heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
@@ -734,7 +693,7 @@
 		<defName>PR_Head_VESaurids-em-VRESaurids_ScaleSkin_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/VEPhytokin-em-VRESaurids_ScaleSkin_Narrow</texPath>
+			<texPath>Head/VESaurids-em-VRESaurids_ScaleSkin_Narrow</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
