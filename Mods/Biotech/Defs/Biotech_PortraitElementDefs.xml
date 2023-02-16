@@ -354,34 +354,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_innerhair_Biotech-an-gene-furskin</defName>
-		<portraitLayer>PR_InnerHair</portraitLayer>
-		<graphicData>
-			<texPath>innerhair/Biotech-an-gene-furskin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>19~999</ageRange>
-			<genes>
-				<li>Furskin</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_innerhair_Biotech-cn-gene-furskin</defName>
-		<portraitLayer>PR_InnerHair</portraitLayer>
-		<graphicData>
-			<texPath>innerhair/Biotech-cn-gene-furskin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~19</ageRange>
-			<genes>
-				<li>Furskin</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerHeadgear_Biotech-an-Apparel_ClothMask</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
