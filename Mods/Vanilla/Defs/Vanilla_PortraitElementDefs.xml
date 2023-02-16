@@ -28910,4 +28910,35 @@
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet-stylespikecore</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-flakhelmet-stylespikecore</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~19</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>spikecore</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet-stylespikecore</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-flakhelmet-stylespikecore</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~999</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>spikecore</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
 </Defs>
