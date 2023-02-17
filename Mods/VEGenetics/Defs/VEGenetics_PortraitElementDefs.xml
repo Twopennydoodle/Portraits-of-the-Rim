@@ -43,10 +43,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHediffNeck_VEGenetics-GR_iguanascales</defName>
+		<defName>PR_InnerHediffNeck_VEGenetics-GR_IguanaScales</defName>
 		<portraitLayer>PR_InnerHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>InnerHediffNeck/VEGenetics-GR_iguanascales</texPath>
+			<texPath>InnerHediffNeck/VEGenetics-GR_IguanaScales</texPath>
 		</graphicData>
 		<requirements>
 			<hediffs>

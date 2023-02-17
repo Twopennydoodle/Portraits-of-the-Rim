@@ -261,31 +261,4 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_innerhair_VEGenies-an-gene-VRE_ElongatedHead</defName>
-		<portraitLayer>PR_InnerHair</portraitLayer>
-		<graphicData>
-			<texPath>innerhair/VEGenies-an-gene-VRE_ElongatedHead</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>19~999</ageRange>
-			<genes>
-				<li>VRE_ElongatedHead</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_innerhair_VEGenies-cn-gene-VRE_ElongatedHead</defName>
-		<portraitLayer>PR_InnerHair</portraitLayer>
-		<graphicData>
-			<texPath>innerhair/VEGenies-cn-gene-VRE_ElongatedHead</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~19</ageRange>
-			<genes>
-				<li>VRE_ElongatedHead</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
 </Defs>
