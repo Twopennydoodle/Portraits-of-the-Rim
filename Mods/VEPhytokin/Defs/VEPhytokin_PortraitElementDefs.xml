@@ -2,34 +2,6 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_innerhair_VEPhytokin-an-gene-VRE_BarkSkin</defName>
-		<portraitLayer>PR_InnerHair</portraitLayer>
-		<graphicData>
-			<texPath>innerhair/VEPhytokin-an-gene-VRE_BarkSkin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>19~999</ageRange>
-			<genes>
-				<li>VRE_BarkSkin</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_innerhair_VEPhytokin-cn-gene-VRE_BarkSkin</defName>
-		<portraitLayer>PR_InnerHair</portraitLayer>
-		<graphicData>
-			<texPath>innerhair/VEPhytokin-cn-gene-VRE_BarkSkin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~19</ageRange>
-			<genes>
-				<li>VRE_BarkSkin</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_VEPhytokin-an-VRE_FoliageHairEve</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
