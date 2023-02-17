@@ -5,6 +5,7 @@
 		<defName>PR_UnderHediff</defName>
 		<layer>0</layer>
 		<inheritsHairColor>true</inheritsHairColor>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_UnderHeadgear</defName>
@@ -23,6 +24,7 @@
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_InnerHediffNeck</defName>
 		<layer>4</layer>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_TattooNeck</defName>
@@ -32,6 +34,7 @@
 		<defName>PR_OuterHediffNeck</defName>
 		<layer>6</layer>
 		<inheritsSkinColor>true</inheritsSkinColor>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_InnerClothingTorso</defName>
@@ -85,6 +88,7 @@
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_InnerHediffHead</defName>
 		<layer>19</layer>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_MiddleHair</defName>
@@ -98,6 +102,7 @@
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_HediffFace</defName>
 		<layer>23</layer>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterFace</defName>
@@ -112,6 +117,7 @@
 		<defName>PR_MiddleHediffHead</defName>
 		<layer>26</layer>
 		<inheritsSkinColor>true</inheritsSkinColor>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_Beard</defName>
@@ -135,6 +141,7 @@
 		<defName>PR_OuterHediffHead</defName>
 		<layer>31</layer>
 		<inheritsHairColor>true</inheritsHairColor>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_FullHeadgear</defName>

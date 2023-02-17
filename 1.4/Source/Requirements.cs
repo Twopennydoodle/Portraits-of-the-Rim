@@ -72,6 +72,15 @@ namespace PortraitsOfTheRim
             {
                 if (xenotype != pawn.genes.xenotype)
                 {
+                    if (portraitElementDef.portraitLayer == PR_DefOf.PR_Ear)
+                    {
+                        var geneEars = pawn.genes.GenesListForReading.Where(x => x.Active && x.def.endogeneCategory == EndogeneCategory.Ears);
+                        if (geneEars.Any())
+                        {
+                            return new BoolReport(false, "xenotype fail 2");
+                        }
+                        return new BoolReport(true, "xenotype success 2");
+                    }
                     return new BoolReport(false, "xenotype fail");
                 }
                 else

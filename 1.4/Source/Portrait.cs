@@ -98,28 +98,48 @@ namespace PortraitsOfTheRim
                 if (PortraitUtils.portraitElements.TryGetValue(layer, out var elements))
                 {
                     var matchingElements = elements.Where(x => x.Matches(this)).ToList();
+                    if (this.currentStyle.NullOrEmpty() is false && matchingElements.Any(x => x.requirements.style.NullOrEmpty() is false))
+                    {
+                        matchingElements = matchingElements.Where(x => x.requirements.style == this.currentStyle).ToList();
+                    }
                     if (matchingElements.Any())
                     {
-                        Rand.PushState();
-                        Rand.Seed = pawn.thingIDNumber;
-                        var matchingElement = matchingElements.RandomElement();
-                        Rand.PopState();
-                        var mainTexture = matchingElement.graphic.MatSingle.mainTexture;
-                        if (!cachedRenderTextures.TryGetValue(pawn, out var dict))
+                        Log.Message("Matching elements: " + string.Join(", ", matchingElements));
+                        if (layer.acceptAllMatchingElements)
                         {
-                            cachedRenderTextures[pawn] = dict = new Dictionary<PortraitElementDef, RenderTexture>();
+                            foreach (var matchingElement in matchingElements)
+                            {
+                                GetTexture(allTextures, matchingElement);
+                            }
                         }
-                        if (!dict.TryGetValue(matchingElement, out var renderTexture))
+                        else
                         {
-                            dict[matchingElement] = renderTexture = new RenderTexture(mainTexture.width, mainTexture.height, 0);
+                            Rand.PushState();
+                            Rand.Seed = pawn.thingIDNumber;
+                            var matchingElement = matchingElements.RandomElement();
+                            Rand.PopState();
+                            GetTexture(allTextures, matchingElement);
                         }
-                        renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, zOffset), zoomValue);
-                        renderTexture.name = matchingElement.defName;
-                        allTextures.Add((matchingElement, renderTexture));
                     }
                 }
             }
             return allTextures;
+        }
+
+        private void GetTexture(List<(PortraitElementDef, Texture)> allTextures, PortraitElementDef matchingElement)
+        {
+            var mainTexture = matchingElement.graphic.MatSingle.mainTexture;
+            if (!cachedRenderTextures.TryGetValue(pawn, out var dict))
+            {
+                cachedRenderTextures[pawn] = dict = new Dictionary<PortraitElementDef, RenderTexture>();
+            }
+            if (!dict.TryGetValue(matchingElement, out var renderTexture))
+            {
+                dict[matchingElement] = renderTexture = new RenderTexture(mainTexture.width, mainTexture.height, 0);
+            }
+            renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, zOffset), zoomValue);
+            renderTexture.name = matchingElement.defName;
+            allTextures.Add((matchingElement, renderTexture));
         }
 
         public void ExposeData()

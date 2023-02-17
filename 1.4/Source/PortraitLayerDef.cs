@@ -7,5 +7,6 @@ namespace PortraitsOfTheRim
         public float layer;
         public bool inheritsSkinColor;
         public bool inheritsHairColor;
+        public bool acceptAllMatchingElements;
     }
 }
