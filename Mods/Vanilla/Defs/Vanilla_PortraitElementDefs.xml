@@ -28941,4 +28941,125 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-an-marinehelmet-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-an-marinehelmet-stylemorbid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~999</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-an-reconhelmet-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-an-reconhelmet-stylemorbid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-cn-marinehelmet-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-cn-marinehelmet-stylemorbid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~19</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-cn-reconhelmet-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-cn-reconhelmet-stylemorbid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~19</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet-stylehindu</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-flakhelmet-stylehindu</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~999</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-simplehelmet-stylehindu</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-simplehelmet-stylehindu</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~999</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet-stylehindu</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-flakhelmet-stylehindu</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~19</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-simplehelmet-stylehindu</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-simplehelmet-stylehindu</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~19</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
 </Defs>

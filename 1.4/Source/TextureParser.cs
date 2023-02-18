@@ -509,10 +509,8 @@ namespace PortraitsOfTheRim
                         File.AppendAllText(defsFile, "\r\n");
                         File.AppendAllText(defsFile, def);
                     }
-                    if (!fileExists)
-                    {
-                        File.AppendAllText(defsFile, "</Defs>");
-                    }
+
+                    File.AppendAllText(defsFile, "\r\n</Defs>");
                     Log.Message("Created defs in " + defsFile);
                 }
             }

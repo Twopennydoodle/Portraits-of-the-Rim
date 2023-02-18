@@ -1638,4 +1638,35 @@
 			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Royalty-an-cataphracthelmet-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Royalty-an-cataphracthelmet-stylemorbid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetCataphract</li>
+			</apparels>
+			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Royalty-cn-cataphracthelmet-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Royalty-cn-cataphracthelmet-stylemorbid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~19</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetCataphract</li>
+			</apparels>
+			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
 </Defs>
