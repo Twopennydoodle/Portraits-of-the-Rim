@@ -12155,46 +12155,7 @@
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<body>Standard</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-cf-heavy</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-cf-heavy</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
-			<body>Fat</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-cf-hulk</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-cf-hulk</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
-			<body>Hulk</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-cf-thin</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-cf-thin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
-			<body>Thin</body>
+			<body>Child</body>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -12207,46 +12168,7 @@
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<body>Standard</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-cm-heavy</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-cm-heavy</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<gender>Male</gender>
-			<body>Fat</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-cm-hulk</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-cm-hulk</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<gender>Male</gender>
-			<body>Hulk</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-cm-thin</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-cm-thin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<gender>Male</gender>
-			<body>Thin</body>
+			<body>Child</body>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -28910,37 +28832,6 @@
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet-stylespikecore</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-flakhelmet-stylespikecore</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~19</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-			<style>spikecore</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-	
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet-stylespikecore</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-flakhelmet-stylespikecore</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>19~999</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-			<style>spikecore</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_Vanilla-an-marinehelmet-stylemorbid</defName>
