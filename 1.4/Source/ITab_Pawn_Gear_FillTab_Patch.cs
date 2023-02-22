@@ -49,7 +49,7 @@ namespace PortraitsOfTheRim
         public static void Postfix(ITab_Pawn_Gear __instance)
         {
             Pawn pawn = __instance.SelPawnForGear;
-            if (pawn != null && pawn.RaceProps.Humanlike)
+            if (pawn != null && pawn.RaceProps.Humanlike && pawn.ageTracker.AgeBiologicalYearsFloat >= 7)
             {
                 var portrait = pawn.GetPortrait();
                 if (portrait.ShouldShow)

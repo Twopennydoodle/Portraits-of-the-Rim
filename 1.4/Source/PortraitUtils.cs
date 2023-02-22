@@ -25,8 +25,8 @@ namespace PortraitsOfTheRim
         public static FloatRange youngAdultAge = new FloatRange(19f, 39f);
         public static FloatRange middleAged = new FloatRange(39f, 64f);
         public static FloatRange elderAge = new FloatRange(64, 999f);
-        public static FloatRange totalChildAge = new FloatRange(7f, 19);
-        public static FloatRange totalAdultAge = new FloatRange(19f, 999);
+        public static FloatRange totalChildAge = new FloatRange(7f, 13f);
+        public static FloatRange totalAdultAge = new FloatRange(13f, 999);
         static PortraitUtils()
         {
             layers = DefDatabase<PortraitLayerDef>.AllDefs.OrderBy(x => x.layer).ToList();

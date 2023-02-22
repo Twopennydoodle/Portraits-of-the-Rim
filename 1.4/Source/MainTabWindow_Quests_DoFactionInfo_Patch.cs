@@ -55,10 +55,13 @@ namespace PortraitsOfTheRim
 
         private static void DrawPortrait(Rect rect, ref float curY, Pawn pawn)
         {
-            var portrait = pawn.GetPortrait();
-            portrait.RenderPortrait(rect.width - ITab_Pawn_Gear_FillTab_Patch.portraitSize, curY + 15,
-                ITab_Pawn_Gear_FillTab_Patch.portraitSize, ITab_Pawn_Gear_FillTab_Patch.portraitSize);
-            curY += ITab_Pawn_Gear_FillTab_Patch.portraitSize;
+            if (pawn.RaceProps.Humanlike && pawn.ageTracker.AgeBiologicalYearsFloat >= 7)
+            {
+                var portrait = pawn.GetPortrait();
+                portrait.RenderPortrait(rect.width - ITab_Pawn_Gear_FillTab_Patch.portraitSize, curY + 15,
+                    ITab_Pawn_Gear_FillTab_Patch.portraitSize, ITab_Pawn_Gear_FillTab_Patch.portraitSize);
+                curY += ITab_Pawn_Gear_FillTab_Patch.portraitSize;
+            }
         }
     }
 }

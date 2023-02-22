@@ -504,6 +504,7 @@ namespace PortraitsOfTheRim
                         var lines = File.ReadAllLines(defsFile);
                         File.WriteAllLines(defsFile, lines.Take(lines.Length - 1).ToArray());
                     }
+
                     foreach (var def in kvp.Value)
                     {
                         File.AppendAllText(defsFile, "\r\n");
