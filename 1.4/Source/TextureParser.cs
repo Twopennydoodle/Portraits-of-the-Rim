@@ -241,6 +241,7 @@ namespace PortraitsOfTheRim
             {
                 switch (suffix)
                 {
+                    case "child": req.bodyType = PawnBodyType.Small; return true;
                     case "heavy": req.body = GeneticBodyType.Fat; return true;
                     case "hulk": req.body = GeneticBodyType.Hulk; return true;
                     case "thin": req.body = GeneticBodyType.Thin; return true;
