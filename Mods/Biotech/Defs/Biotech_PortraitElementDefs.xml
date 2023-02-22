@@ -148,132 +148,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cf-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-cf-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cf-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-cf-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -291,132 +291,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-cm-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-cm-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-cm-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-cm-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -460,132 +460,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ef-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-ef-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ef-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-ef-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -603,132 +603,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-em-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-em-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-em-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-em-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-em-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-em-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-em-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-em-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-em-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-em-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-em-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-em-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-em-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -772,132 +772,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mf-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-mf-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mf-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-mf-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -915,132 +915,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1084,132 +1084,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tf-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-tf-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tf-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-tf-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1227,132 +1227,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-tm-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-tm-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-tm-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-tm-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1396,132 +1396,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-yf-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-yf-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-yf-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-yf-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1539,132 +1539,132 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Average1</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Average1</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Average1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average1</headType>
+			<headType>Furskin_Average1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Average2</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Average2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Average2</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Average2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average2</headType>
+			<headType>Furskin_Average2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Average3</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Average3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Average3</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Average3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Average3</headType>
+			<headType>Furskin_Average3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Gaunt</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Gaunt</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Gaunt</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Gaunt</headType>
+			<headType>Furskin_Gaunt</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Heavy1</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Heavy1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>Furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>Furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>Furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>Furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-ym-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-ym-Furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-ym-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-ym-Furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>Furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
