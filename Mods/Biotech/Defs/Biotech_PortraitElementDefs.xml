@@ -2080,25 +2080,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_Biotech-an-jaw-gene-Jaw_Heavy</defName>
-		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
-		<graphicData>
-			<texPath>MiddleHediffHead/adult/Biotech-an-jaw-gene-Jaw_Heavy</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<bodyParts>
-				<li>
-					<bodyPart>Jaw</bodyPart>
-				</li>
-			</bodyParts>
-			<genes>
-				<li>Jaw_Heavy</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Biotech-an-nose-gene-nose_pig</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -2132,25 +2113,6 @@
 			</bodyParts>
 			<genes>
 				<li>Brow_Heavy</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_Biotech-cn-jaw-gene-Jaw_Heavy</defName>
-		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
-		<graphicData>
-			<texPath>MiddleHediffHead/child/Biotech-cn-jaw-gene-Jaw_Heavy</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<bodyParts>
-				<li>
-					<bodyPart>Jaw</bodyPart>
-				</li>
-			</bodyParts>
-			<genes>
-				<li>Jaw_Heavy</li>
 			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
