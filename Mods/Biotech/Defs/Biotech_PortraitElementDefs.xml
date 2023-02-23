@@ -993,45 +993,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furskin_Average1</defName>
-		<portraitLayer>PR_Head</portraitLayer>
-		<graphicData>
-			<texPath>Head/Biotech-mm-Furskin_Average1</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>39~64</ageRange>
-			<gender>Male</gender>
-			<headType>Furskin_Average1</headType>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furskin_Average2</defName>
-		<portraitLayer>PR_Head</portraitLayer>
-		<graphicData>
-			<texPath>Head/Biotech-mm-Furskin_Average2</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>39~64</ageRange>
-			<gender>Male</gender>
-			<headType>Furskin_Average2</headType>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furskin_Average3</defName>
-		<portraitLayer>PR_Head</portraitLayer>
-		<graphicData>
-			<texPath>Head/Biotech-mm-Furskin_Average3</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>39~64</ageRange>
-			<gender>Male</gender>
-			<headType>Furskin_Average3</headType>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Biotech-mm-Furskin_Gaunt</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
