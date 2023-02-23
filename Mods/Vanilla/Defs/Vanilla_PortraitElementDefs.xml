@@ -426,6 +426,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_vanilla-an-marinehelmet-styletotemic</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/vanilla-an-marinehelmet-styletotemic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>totemic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_Vanilla-an-marinehelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
@@ -466,6 +481,21 @@
 				<li>Apparel_ArmorHelmetRecon</li>
 			</apparels>
 			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_vanilla-an-reconhelmet-styletotemic</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/vanilla-an-reconhelmet-styletotemic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>totemic</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -514,6 +544,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_vanilla-cn-marinehelmet-styletotemic</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/vanilla-cn-marinehelmet-styletotemic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>totemic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_Vanilla-cn-marinehelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
@@ -554,6 +599,21 @@
 				<li>Apparel_ArmorHelmetRecon</li>
 			</apparels>
 			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_vanilla-cn-reconhelmet-styletotemic</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/vanilla-cn-reconhelmet-styletotemic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>totemic</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -19444,6 +19504,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet-stylerustic</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-flakhelmet-stylerustic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>rustic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet-stylespikecore</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
@@ -19512,6 +19587,21 @@
 				<li>Apparel_SimpleHelmet</li>
 			</apparels>
 			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-simplehelmet-stylerustic</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-simplehelmet-stylerustic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>rustic</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -19645,6 +19735,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet-stylerustic</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-flakhelmet-stylerustic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>rustic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet-stylespikecore</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
@@ -19713,6 +19818,21 @@
 				<li>Apparel_SimpleHelmet</li>
 			</apparels>
 			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-simplehelmet-stylerustic</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-simplehelmet-stylerustic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>rustic</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

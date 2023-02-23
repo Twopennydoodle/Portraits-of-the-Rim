@@ -32,6 +32,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Royalty-an-cataphracthelmet-styletotemic</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Royalty-an-cataphracthelmet-styletotemic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetCataphract</li>
+			</apparels>
+			<style>totemic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_Royalty-an-cataphracthelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
@@ -114,6 +129,21 @@
 				<li>Apparel_ArmorHelmetCataphract</li>
 			</apparels>
 			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Royalty-cn-cataphracthelmet-styletotemic</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Royalty-cn-cataphracthelmet-styletotemic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetCataphract</li>
+			</apparels>
+			<style>totemic</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
