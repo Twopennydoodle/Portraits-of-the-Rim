@@ -10,6 +10,11 @@ namespace PortraitsOfTheRim
     [StaticConstructorOnStartup]
     public class Portrait : IExposable
     {
+        private static readonly Texture2D ChangeStyles = ContentFinder<Texture2D>.Get("UI/ChangeStyles");
+        private static readonly Texture2D ShowHideHatOff = ContentFinder<Texture2D>.Get("UI/ShowHideHat");
+        private static readonly Texture2D ShowHidePortraitOff = ContentFinder<Texture2D>.Get("UI/ShowHidePortrait");
+        private static readonly Texture2D ShowHideHatOn = ContentFinder<Texture2D>.Get("UI/ShowHideHaton");
+        private static readonly Texture2D ShowHidePortraitOn = ContentFinder<Texture2D>.Get("UI/ShowHidePortraiton");
         private static readonly Texture2D OutlineTex = SolidColorMaterials.NewSolidColorTexture(new ColorInt(77, 77, 77).ToColor);
         public Pawn pawn;
         private List<(PortraitElementDef, Texture)> portraitTextures;
@@ -55,20 +60,20 @@ namespace PortraitsOfTheRim
         {
             var hidePortraitRect = new Rect(x, y, 24, 24);
             TooltipHandler.TipRegion(hidePortraitRect, this.hidePortrait ? "PR.ShowPortrait".Translate() : "PR.HidePortrait".Translate());
-            if (Widgets.ButtonImage(hidePortraitRect, this.hidePortrait ? TexButton.OpenInspector : TexButton.CloseXBig))
+            if (Widgets.ButtonImage(hidePortraitRect, this.hidePortrait ? ShowHidePortraitOff : ShowHidePortraitOn))
             {
                 this.hidePortrait = !this.hidePortrait;
             }
             var hideHeadgear = new Rect(hidePortraitRect.x, hidePortraitRect.yMax + 5, 24, 24);
             TooltipHandler.TipRegion(hideHeadgear, this.hideHeadgear ? "PR.ShowHeadgear".Translate() : "PR.HideHeadgear".Translate());
-            if (Widgets.ButtonImage(hideHeadgear, this.hideHeadgear ? TexButton.Add : TexButton.Minus))
+            if (Widgets.ButtonImage(hideHeadgear, this.hideHeadgear ? ShowHideHatOff : ShowHideHatOn))
             {
                 this.hideHeadgear = !this.hideHeadgear;
             }
 
             var selectStyle = new Rect(hidePortraitRect.x, hideHeadgear.yMax + 5, 24, 24);
             TooltipHandler.TipRegion(selectStyle, "PR.SelectStyle".Translate());
-            if (Widgets.ButtonImage(selectStyle, TexButton.Banish))
+            if (Widgets.ButtonImage(selectStyle, ChangeStyles))
             {
                 var floatList = new List<FloatMenuOption>();
                 foreach (var style in PortraitUtils.allStyles)

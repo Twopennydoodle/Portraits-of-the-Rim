@@ -60,6 +60,11 @@ namespace PortraitsOfTheRim
                 }
                 else
                 {
+                    if (!bandaged)
+                    {
+                        failReport = "No bandage";
+                        return false;
+                    }
                     if (allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
                     {
                         failReport = "No permanent hediff injuries: " + hediffInjury;
