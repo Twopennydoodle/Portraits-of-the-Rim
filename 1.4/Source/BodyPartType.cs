@@ -14,53 +14,66 @@ namespace PortraitsOfTheRim
         public bool scarred;
         public bool destroyed;
         public bool bandaged;
-        public bool Matches(Pawn pawn, PortraitElementDef def)
+        public bool Matches(Pawn pawn, PortraitElementDef def, out string failReport)
         {
+            failReport = bodyPart + " - ";
             var bodyParts = pawn.def.race.body.AllParts.Where(x => Matches(x, def)).ToList();
             if (bodyParts.Any() is false)
             {
+                failReport = "No pawn matching parts";
                 return false;
             }
             var nonMissingBodyParts = pawn.health.hediffSet.GetNotMissingParts().Where(x => Matches(x, def)).ToList();
             if (destroyed && nonMissingBodyParts.Any())
             {
+                failReport = "No pawn matching destroyed parts";
                 return false;
             }
             else if (!destroyed && nonMissingBodyParts.Any() is false)
             {
+                failReport = "No pawn matching injured parts";
                 return false;
             }
             var allHediffsWithPart = pawn.health.hediffSet.hediffs.Where(x => x.Part != null && Matches(x.Part, def)).ToList();
             if (hediffInjury != null && allHediffsWithPart.Exists(x => x.def == hediffInjury) is false)
             {
+                failReport = "No pawn matching injured parts to hediff: " + hediffInjury;
                 return false;
             }
-            if (!PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries)
+            if (destroyed || scarred || injured || bandaged)
             {
-                if (scarred && allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
+                if (!PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries)
                 {
-                    return false;
+                    if (scarred && allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
+                    {
+                        return false;
+                    }
+                    if (injured && allHediffsWithPart.OfType<Hediff_Injury>().Any() is false)
+                    {
+                        return false;
+                    }
+                    if (bandaged && allHediffsWithPart.OfType<Hediff_Injury>().Any(x => x.IsTended()) is false)
+                    {
+                        return false;
+                    }
+                    return true;
                 }
-                if (injured && allHediffsWithPart.OfType<Hediff_Injury>().Any() is false)
+                else
                 {
-                    return false;
-                }
-                if (bandaged && allHediffsWithPart.OfType<Hediff_Injury>().Any(x => x.IsTended()) is false)
-                {
-                    return false;
+                    if (allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
+                    {
+                        failReport = "No permanent hediff injuries: " + hediffInjury;
+                        return false;
+                    }
+                    if (allHediffsWithPart.OfType<Hediff_Injury>().Any() is false)
+                    {
+                        failReport = "No hediff injuries: " + hediffInjury;
+                        return false;
+                    }
+                    return true;
                 }
             }
-            else
-            {
-                if (allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
-                {
-                    return false;
-                }
-                if (allHediffsWithPart.OfType<Hediff_Injury>().Any() is false)
-                {
-                    return false;
-                }
-            }
+
             return true;
         }
 

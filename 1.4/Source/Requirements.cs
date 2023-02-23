@@ -40,8 +40,17 @@ namespace PortraitsOfTheRim
         public BoolReport Matches(Portrait portrait, PortraitElementDef portraitElementDef)
         {
             var pawn = portrait.pawn;
-            if (bodyParts.NullOrEmpty() is false && bodyParts.Exists(x => x.Matches(pawn, portraitElementDef)) is false)
-                return new BoolReport(false, "bodyParts fail");
+            List<string> failReports = new List<string>();
+            if (bodyParts.NullOrEmpty() is false && bodyParts.Exists(delegate (BodyPartType x)
+            {
+                var result = x.Matches(pawn, portraitElementDef, out var bodyPartFailReport);
+                if (!result)
+                {
+                    failReports.Add(bodyPartFailReport);
+                }
+                return result;
+            }) is false)
+                return new BoolReport(false, "bodyParts fail: " + string.Join(", ", failReports));
             if (hediffs.NullOrEmpty() is false && hediffs.Exists(x => pawn.health.hediffSet.hediffs.Exists(hediff => hediff.def == x)) is false)
                 return new BoolReport(false, "hediffs fail");
             if (head != null && pawn.story.headType != head)
