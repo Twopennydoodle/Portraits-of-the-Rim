@@ -918,77 +918,77 @@
 		<defName>PR_Head_Biotech-mm-Furskin_Average1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Heavy1</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Heavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy1</headType>
+			<headType>Furskin_Heavy1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Heavy2</defName>
+		<defName>PR_Head_Biotech-mm-Furskin_Heavy2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Heavy2</texPath>
+			<texPath>Head/Biotech-mm-Furskin_Heavy2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy2</headType>
+			<headType>furskin_Heavy2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Heavy3</defName>
+		<defName>PR_Head_Biotech-mm-furskin_Heavy3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Heavy3</texPath>
+			<texPath>Head/Biotech-mm-furskin_Heavy3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Heavy3</headType>
+			<headType>furskin_Heavy3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Narrow1</defName>
+		<defName>PR_Head_Biotech-mm-furskin_Narrow1</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Narrow1</texPath>
+			<texPath>Head/Biotech-mm-furskin_Narrow1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow1</headType>
+			<headType>furskin_Narrow1</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Narrow2</defName>
+		<defName>PR_Head_Biotech-mm-furskin_Narrow2</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Narrow2</texPath>
+			<texPath>Head/Biotech-mm-furskin_Narrow2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow2</headType>
+			<headType>furskin_Narrow2</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_Biotech-mm-Furksin_Narrow3</defName>
+		<defName>PR_Head_Biotech-mm-furskin_Narrow3</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/Biotech-mm-Furksin_Narrow3</texPath>
+			<texPath>Head/Biotech-mm-furskin_Narrow3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>Furksin_Narrow3</headType>
+			<headType>furskin_Narrow3</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2693,6 +2693,116 @@
 			<genes>
 				<li>Ears_Pig</li>
 			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_Biotech-mm-furskin_Heavy1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/Biotech-mm-furskin_Heavy1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Male</gender>
+			<headType>furskin_Heavy1</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_Biotech-mm-Furskin_Average2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/Biotech-mm-Furskin_Average2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Male</gender>
+			<headType>Furskin_Average2</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_Biotech-mm-Furskin_Average3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/Biotech-mm-Furskin_Average3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Male</gender>
+			<headType>Furskin_Average3</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_Biotech-s-Apparel_KidRomper</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/Biotech-s-Apparel_KidRomper</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_KidRomper</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_Biotech-s-Apparel_KidShirt</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/Biotech-s-Apparel_KidShirt</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_KidShirt</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_Biotech-s-Apparel_KidTribal</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/Biotech-s-Apparel_KidTribal</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_KidTribal</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Biotech-s-Apparel_KidParka</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Biotech-s-Apparel_KidParka</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_KidParka</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Biotech-cn-Apparel_KidHelmet</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Biotech-cn-Apparel_KidHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_KidHelmet</li>
+			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
