@@ -28,7 +28,7 @@ namespace PortraitsOfTheRim
         {
             get
             {
-                if (portraitTextures is null || Time.frameCount % 60 == 0 && lastCreatingTime != Time.frameCount)
+                if (portraitTextures is null || Time.frameCount % 20 == 0 && lastCreatingTime != Time.frameCount)
                 {
                     lastCreatingTime = Time.frameCount;
                     portraitTextures = GetPortraitTextures();
