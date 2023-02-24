@@ -21,6 +21,10 @@ namespace PortraitsOfTheRim
                     float statValue2 = pawn.GetStatValue(StatDefOf.ComfyTemperatureMax);
                     Widgets.Label(rect, "ComfyTemperatureRange".Translate() + ": " + statValue.ToStringTemperature("F0") + " ~ " + statValue2.ToStringTemperature("F0"));
                     curY += 44f;
+                    if (PortraitUtils.CELoaded)
+                    {
+                        curY += 110f;
+                    }
                     return false;
                 }
             }

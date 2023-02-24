@@ -43,12 +43,15 @@ namespace PortraitsOfTheRim
             return rect.width;
         }
 
-        [TweakValue("0Portrait", 0f, 300f)] public static float xPos = 247;
-        [TweakValue("0Portrait", 0f, 30f)] public static float yPos = 30;
-        [TweakValue("0Portrait", 0f, 30f)] public static float portraitSize = 180;
+        public static float xPos = 247;
+        public static float yPos = 30;
+        public static float portraitSize = 180;
         public static void Postfix(ITab_Pawn_Gear __instance)
         {
-            Pawn pawn = __instance.SelPawnForGear;
+            DrawPortraitArea(__instance.SelPawnForGear, xPos, yPos, portraitSize);
+        }
+        public static void DrawPortraitArea(Pawn pawn, float xPos, float yPos, float portraitSize)
+        {
             if (pawn != null && pawn.RaceProps.Humanlike && pawn.ageTracker.AgeBiologicalYearsFloat >= 7)
             {
                 var portrait = pawn.GetPortrait();

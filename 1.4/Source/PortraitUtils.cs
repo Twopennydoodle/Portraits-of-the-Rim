@@ -1,4 +1,5 @@
-﻿using RimWorld;
+﻿using HarmonyLib;
+using RimWorld;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -14,6 +15,7 @@ namespace PortraitsOfTheRim
         public static Dictionary<Pawn, Portrait> pawnPortraits = new Dictionary<Pawn, Portrait>();
         public static List<PortraitLayerDef> layers;
         public static Dictionary<PortraitLayerDef, List<PortraitElementDef>> portraitElements;
+        public static bool CELoaded = ModsConfig.IsActive("CETeam.CombatExtended");
         public static HashSet<PortraitLayerDef> HeadgearLayers = new HashSet<PortraitLayerDef>
         {
             PR_DefOf.PR_FullHeadgear, PR_DefOf.PR_InnerHeadgear, PR_DefOf.PR_OuterHeadgear, PR_DefOf.PR_UnderHeadgear
@@ -29,6 +31,7 @@ namespace PortraitsOfTheRim
         public static FloatRange totalAdultAge = new FloatRange(13f, 999);
         static PortraitUtils()
         {
+            new Harmony("PortraitsOfTheRimMod").PatchAll();
             layers = DefDatabase<PortraitLayerDef>.AllDefs.OrderBy(x => x.layer).ToList();
             portraitElements = new();
             foreach (var layerDef in layers)

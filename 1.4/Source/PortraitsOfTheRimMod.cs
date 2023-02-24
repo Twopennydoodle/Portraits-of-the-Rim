@@ -12,7 +12,6 @@ namespace PortraitsOfTheRim
         public PortraitsOfTheRimMod(ModContentPack pack) : base(pack)
         {
             settings = GetSettings<PortraitsOfTheRimSettings>();
-            new Harmony("PortraitsOfTheRimMod").PatchAll();
         }
         public override void DoSettingsWindowContents(Rect inRect)
         {

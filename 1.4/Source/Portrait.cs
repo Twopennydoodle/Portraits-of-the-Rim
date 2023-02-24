@@ -47,6 +47,7 @@ namespace PortraitsOfTheRim
         {
             var textures = PortraitTextures;
             var renderRect = new Rect(x, y, width, height);
+            Widgets.DrawBoxSolid(renderRect, Widgets.WindowBGFillColor);
             foreach (var texture in textures)
             {
                 if (this.hideHeadgear && PortraitUtils.HeadgearLayers.Contains(texture.Item1.portraitLayer))
