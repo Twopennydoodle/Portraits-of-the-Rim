@@ -1782,7 +1782,7 @@
 			<texPath>InnerFace/af/Biotech-af-delicate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Delicate>0</Delicate>
@@ -1797,7 +1797,7 @@
 			<texPath>InnerFace/af/Biotech-af-recluse</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Recluse>0</Recluse>
@@ -1812,7 +1812,7 @@
 			<texPath>InnerFace/am/Biotech-am-delicate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Delicate>0</Delicate>
@@ -1827,7 +1827,7 @@
 			<texPath>InnerFace/am/Biotech-am-recluse</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Recluse>0</Recluse>
@@ -2246,7 +2246,7 @@
 			<texPath>OuterFace/af/Biotech-af-delicate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Delicate>0</Delicate>
@@ -2261,7 +2261,7 @@
 			<texPath>OuterFace/af/Biotech-af-recluse</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Recluse>0</Recluse>
@@ -2276,7 +2276,7 @@
 			<texPath>OuterFace/am/Biotech-am-delicate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Delicate>0</Delicate>
@@ -2291,7 +2291,7 @@
 			<texPath>OuterFace/am/Biotech-am-recluse</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Recluse>0</Recluse>
