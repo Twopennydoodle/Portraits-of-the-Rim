@@ -43,6 +43,7 @@ namespace PortraitsOfTheRim
                 }
             }
         }
+
         public static void DrawPortrait(Pawn pawn)
         {
             ITab_Pawn_Gear_FillTab_Patch.DrawPortraitArea(pawn, xPos, 1, 159);

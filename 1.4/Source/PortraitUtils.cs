@@ -16,6 +16,7 @@ namespace PortraitsOfTheRim
         public static List<PortraitLayerDef> layers;
         public static Dictionary<PortraitLayerDef, List<PortraitElementDef>> portraitElements;
         public static bool CELoaded = ModsConfig.IsActive("CETeam.CombatExtended");
+        public static bool AppearanceClothesLoaded = ModsConfig.IsActive("tammybee.appearanceclothes");
         public static HashSet<PortraitLayerDef> HeadgearLayers = new HashSet<PortraitLayerDef>
         {
             PR_DefOf.PR_FullHeadgear, PR_DefOf.PR_InnerHeadgear, PR_DefOf.PR_OuterHeadgear, PR_DefOf.PR_UnderHeadgear

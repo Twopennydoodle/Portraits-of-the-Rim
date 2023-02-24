@@ -1,4 +1,5 @@
-﻿using RimWorld;
+﻿using HarmonyLib;
+using RimWorld;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -106,20 +107,40 @@ namespace PortraitsOfTheRim
             }
             if (gender != null && pawn.gender != gender.Value)
                 return new BoolReport(false, "gender fail");
-            if (apparels.NullOrEmpty() is false && pawn.apparel.WornApparel.Exists(x => apparels.Exists(y => x.def == y)) is false)
+            if (apparels.NullOrEmpty() is false && GetApparels(pawn).Exists(x => apparels.Exists(y => x.def == y)) is false)
                 return new BoolReport(false, "apparels fail");
             if (style.NullOrEmpty() is false && portrait.currentStyle.NullOrEmpty() is false && style != portrait.currentStyle)
                 return new BoolReport(false, "style fail");
             return new BoolReport(true);
         }
 
+        public List<Thing> GetApparels(Pawn pawn)
+        {
+            if (PortraitUtils.AppearanceClothesLoaded)
+            {
+                var comp = pawn.AllComps.FirstOrDefault(x => x.GetType().Name == "CompAppearanceClothes");
+                if (comp != null)
+                {
+                    var traverse = Traverse.Create(comp);
+                    if ((bool)traverse.Field("showAppearanceClothes").GetValue() == true)
+                    {
+                        var apparels = traverse.Field("appearanceClothes").GetValue() as List<Thing>;
+                        if (apparels != null)
+                        {
+                            return apparels;
+                        }
+                    }
+                }
+            }
+            return pawn.apparel.WornApparel.Cast<Thing>().ToList();
+        }
         public Color? GetColor(Pawn pawn, PortraitElementDef elementDef)
         {
             if (this.apparels != null)
             {
                 foreach (var def in apparels)
                 {
-                    var apparel = pawn.apparel.WornApparel.FirstOrDefault(x => x.def == def);
+                    var apparel = GetApparels(pawn).FirstOrDefault(x => x.def == def);
                     if (apparel != null)
                     {
                         return apparel.DrawColor;
