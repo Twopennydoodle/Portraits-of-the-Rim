@@ -111,8 +111,15 @@ namespace PortraitsOfTheRim
             }
             if (gender != null && pawn.gender != gender.Value)
                 return new BoolReport(false, "gender fail");
-            if (apparels.NullOrEmpty() is false && GetApparels(pawn).Exists(x => apparels.Exists(y => x.def == y)) is false)
-                return new BoolReport(false, "apparels fail");
+            if (apparels.NullOrEmpty() is false)
+            {
+                var pawnApparels = GetApparels(pawn);
+                var exists = pawnApparels.Exists(x => apparels.Exists(y => x.def == y));
+                if (!exists)
+                {
+                    return new BoolReport(false, "apparels fail");
+                }
+            }
             if (style.NullOrEmpty() is false && portrait.currentStyle.NullOrEmpty() is false && style != portrait.currentStyle)
                 return new BoolReport(false, "style fail");
             return new BoolReport(true);
