@@ -14,6 +14,7 @@
         <li IfModActive="oskarpotocki.vfe.mechanoid">Mods/VEMechanoids</li>
         <li IfModActive="oskarpotocki.vfe.pirates">Mods/VEPirates</li>
         <li IfModActive="oskarpotocki.vfe.vikings">Mods/VEVikings</li>
+        <li IfModActive="oskarpotocki.vfe.empire">Mods/VEEmpire</li>
         <li IfModActive="vanillaexpanded.vaeaccessories">Mods/VEAccessories</li>
         <li IfModActive="vanillaexpanded.vanillatraitsexpanded">Mods/VETraits</li>
         <li IfModActive="vanillaexpanded.vappe">Mods/VEApparel</li>
@@ -32,6 +33,7 @@
         <li IfModActive="oskarpotocki.vfe.mechanoid_local">Mods/VEMechanoids</li>
         <li IfModActive="oskarpotocki.vfe.pirates_local">Mods/VEPirates</li>
         <li IfModActive="oskarpotocki.vfe.vikings_local">Mods/VEVikings</li>
+        <li IfModActive="oskarpotocki.vfe.empire_local">Mods/VEEmpire</li>
         <li IfModActive="vanillaexpanded.vaeaccessories_local">Mods/VEAccessories</li>
         <li IfModActive="vanillaexpanded.vanillatraitsexpanded_local">Mods/VETraits</li>
         <li IfModActive="vanillaexpanded.vappe_local">Mods/VEApparel</li>
@@ -50,6 +52,7 @@
         <li IfModActive="oskarpotocki.vfe.mechanoid_steam">Mods/VEMechanoids</li>
         <li IfModActive="oskarpotocki.vfe.pirates_steam">Mods/VEPirates</li>
         <li IfModActive="oskarpotocki.vfe.vikings_steam">Mods/VEVikings</li>
+        <li IfModActive="oskarpotocki.vfe.empire_steam">Mods/VEEmpire</li>
         <li IfModActive="vanillaexpanded.vaeaccessories_steam">Mods/VEAccessories</li>
         <li IfModActive="vanillaexpanded.vanillatraitsexpanded_steam">Mods/VETraits</li>
         <li IfModActive="vanillaexpanded.vappe_steam">Mods/VEApparel</li>

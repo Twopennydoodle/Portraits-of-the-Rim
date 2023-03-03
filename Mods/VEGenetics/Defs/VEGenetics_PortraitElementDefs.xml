@@ -56,20 +56,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_VEGenetics-an-compoundeye</defName>
-		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
-		<graphicData>
-			<texPath>MiddleHediffHead/adult/VEGenetics-an-compoundeye</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<hediffs>
-				<li>VFEI_CompoundEye</li>
-			</hediffs>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_VEGenetics-an-GR_BoomalopeNodules</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -79,6 +65,20 @@
 			<ageRange>13~999</ageRange>
 			<hediffs>
 				<li>GR_BoomalopeNodules</li>
+			</hediffs>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_VEGenetics-an-GR_CompoundEye</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/adult/VEGenetics-an-GR_CompoundEye</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hediffs>
+				<li>GR_CompoundEye</li>
 			</hediffs>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -98,20 +98,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_VEGenetics-cn-compoundeye</defName>
-		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
-		<graphicData>
-			<texPath>MiddleHediffHead/child/VEGenetics-cn-compoundeye</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<hediffs>
-				<li>VFEI_CompoundEye</li>
-			</hediffs>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_VEGenetics-cn-GR_BoomalopeNodules</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -121,6 +107,20 @@
 			<ageRange>7~13</ageRange>
 			<hediffs>
 				<li>GR_BoomalopeNodules</li>
+			</hediffs>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_VEGenetics-cn-GR_CompoundEye</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/child/VEGenetics-cn-GR_CompoundEye</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hediffs>
+				<li>GR_CompoundEye</li>
 			</hediffs>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
