@@ -356,7 +356,7 @@ namespace PortraitsOfTheRim
             {
                 if (SuffixMatches(xenotypeDef, suffix))
                 {
-                    req.xenotype = xenotypeDef;
+                    req.xenotype = xenotypeDef.defName;
                     return true;
                 }
             }
@@ -626,7 +626,7 @@ namespace PortraitsOfTheRim
             }
             if (req.xenotype != null)
             {
-                sb.AppendLine("\t\t\t" + "<xenotype>" + req.xenotype.defName + "</xenotype>");
+                sb.AppendLine("\t\t\t" + "<xenotype>" + req.xenotype + "</xenotype>");
             }
             if (req.head != null)
             {

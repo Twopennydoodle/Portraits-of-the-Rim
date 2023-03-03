@@ -54,6 +54,10 @@ namespace PortraitsOfTheRim
                 {
                     allStyles.Add(elementDef.requirements.style);
                 }
+                if (elementDef.requirements.apparels != null)
+                {
+                    elementDef.requirements.apparels.RemoveAll(x => x is null);
+                }
             }
 
             GameObject gameObject = new GameObject("PortraitCamera", typeof(Camera));

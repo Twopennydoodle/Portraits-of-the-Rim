@@ -8,7 +8,7 @@
 			<texPath>InnerFace/af/VETraits-af-absentminded</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_AbsentMinded>0</VTE_AbsentMinded>
@@ -23,7 +23,7 @@
 			<texPath>InnerFace/af/VETraits-af-academian</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Academian>0</VTE_Academian>
@@ -38,7 +38,7 @@
 			<texPath>InnerFace/af/VETraits-af-animalhater</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_AnimalHater>0</VTE_AnimalHater>
@@ -53,7 +53,7 @@
 			<texPath>InnerFace/af/VETraits-af-animallover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_AnimalLover>0</VTE_AnimalLover>
@@ -68,7 +68,7 @@
 			<texPath>InnerFace/af/VETraits-af-anxious</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Anxious>0</VTE_Anxious>
@@ -83,7 +83,7 @@
 			<texPath>InnerFace/af/VETraits-af-bigboned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_BigBoned>0</VTE_BigBoned>
@@ -98,7 +98,7 @@
 			<texPath>InnerFace/af/VETraits-af-brave</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Brave>0</VTE_Brave>
@@ -113,7 +113,7 @@
 			<texPath>InnerFace/af/VETraits-af-catperson</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_CatPerson>0</VTE_CatPerson>
@@ -128,7 +128,7 @@
 			<texPath>InnerFace/af/VETraits-af-clumsy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Clumsy>0</VTE_Clumsy>
@@ -143,7 +143,7 @@
 			<texPath>InnerFace/af/VETraits-af-coldinclined</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ColdInclined>0</VTE_ColdInclined>
@@ -158,7 +158,7 @@
 			<texPath>InnerFace/af/VETraits-af-couchpotato</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_CouchPotato>0</VTE_CouchPotato>
@@ -173,7 +173,7 @@
 			<texPath>InnerFace/af/VETraits-af-coward</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Coward>0</VTE_Coward>
@@ -188,7 +188,7 @@
 			<texPath>InnerFace/af/VETraits-af-desensitized</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Desensitized>0</VTE_Desensitized>
@@ -203,7 +203,7 @@
 			<texPath>InnerFace/af/VETraits-af-dogperson</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_DogPerson>0</VTE_DogPerson>
@@ -218,7 +218,7 @@
 			<texPath>InnerFace/af/VETraits-af-drunkenmaster</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_DrunkenMaster>0</VTE_DrunkenMaster>
@@ -233,7 +233,7 @@
 			<texPath>InnerFace/af/VETraits-af-dunce</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Dunce>0</VTE_Dunce>
@@ -248,7 +248,7 @@
 			<texPath>InnerFace/af/VETraits-af-eccentric</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Eccentric>0</VTE_Eccentric>
@@ -263,7 +263,7 @@
 			<texPath>InnerFace/af/VETraits-af-ecologist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Ecologist>0</VTE_Ecologist>
@@ -278,7 +278,7 @@
 			<texPath>InnerFace/af/VETraits-af-funloving</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_FunLoving>0</VTE_FunLoving>
@@ -293,7 +293,7 @@
 			<texPath>InnerFace/af/VETraits-af-gastronomist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Gastronomist>0</VTE_Gastronomist>
@@ -308,7 +308,7 @@
 			<texPath>InnerFace/af/VETraits-af-groundbreaker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Groundbreaker>0</VTE_Groundbreaker>
@@ -323,7 +323,7 @@
 			<texPath>InnerFace/af/VETraits-af-heatinclined</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_HeatInclined>0</VTE_HeatInclined>
@@ -338,7 +338,7 @@
 			<texPath>InnerFace/af/VETraits-af-insatiable</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Insatiable>0</VTE_Insatiable>
@@ -353,7 +353,7 @@
 			<texPath>InnerFace/af/VETraits-af-insomniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Insomniac>0</VTE_Insomniac>
@@ -368,7 +368,7 @@
 			<texPath>InnerFace/af/VETraits-af-ironstomach</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_IronStomach>0</VTE_IronStomach>
@@ -383,7 +383,7 @@
 			<texPath>InnerFace/af/VETraits-af-kleptomaniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Kleptomaniac>0</VTE_Kleptomaniac>
@@ -398,7 +398,7 @@
 			<texPath>InnerFace/af/VETraits-af-lush</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Lush>0</VTE_Lush>
@@ -413,7 +413,7 @@
 			<texPath>InnerFace/af/VETraits-af-madsurgeon</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_MadSurgeon>0</VTE_MadSurgeon>
@@ -428,7 +428,7 @@
 			<texPath>InnerFace/af/VETraits-af-martialartist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_MartialArtist>0</VTE_MartialArtist>
@@ -443,7 +443,7 @@
 			<texPath>InnerFace/af/VETraits-af-menagerist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Menagerist>0</VTE_Menagerist>
@@ -458,7 +458,7 @@
 			<texPath>InnerFace/af/VETraits-af-mountainlover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ChildOfMountain>0</VTE_ChildOfMountain>
@@ -473,7 +473,7 @@
 			<texPath>InnerFace/af/VETraits-af-neat</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Neat>0</VTE_Neat>
@@ -488,7 +488,7 @@
 			<texPath>InnerFace/af/VETraits-af-oceanlover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ChildOfSea>0</VTE_ChildOfSea>
@@ -503,7 +503,7 @@
 			<texPath>InnerFace/af/VETraits-af-perfectionist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Perfectionist>0</VTE_Perfectionist>
@@ -518,7 +518,7 @@
 			<texPath>InnerFace/af/VETraits-af-prodigy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Prodigy>0</VTE_Prodigy>
@@ -533,7 +533,7 @@
 			<texPath>InnerFace/af/VETraits-af-prude</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Prude>0</VTE_Prude>
@@ -548,7 +548,7 @@
 			<texPath>InnerFace/af/VETraits-af-rebel</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Rebel>0</VTE_Rebel>
@@ -563,7 +563,7 @@
 			<texPath>InnerFace/af/VETraits-af-refinedpalate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_RefinedPalate>0</VTE_RefinedPalate>
@@ -578,7 +578,7 @@
 			<texPath>InnerFace/af/VETraits-af-slob</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Slob>0</VTE_Slob>
@@ -593,7 +593,7 @@
 			<texPath>InnerFace/af/VETraits-af-snob</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Snob>0</VTE_Snob>
@@ -608,7 +608,7 @@
 			<texPath>InnerFace/af/VETraits-af-squeamish</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Squeamish>0</VTE_Squeamish>
@@ -623,7 +623,7 @@
 			<texPath>InnerFace/af/VETraits-af-stoner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Stoner>0</VTE_Stoner>
@@ -638,7 +638,7 @@
 			<texPath>InnerFace/af/VETraits-af-submissive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Submissive>0</VTE_Submissive>
@@ -653,7 +653,7 @@
 			<texPath>InnerFace/af/VETraits-af-technophobe</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Technophobe>0</VTE_Technophobe>
@@ -668,7 +668,7 @@
 			<texPath>InnerFace/af/VETraits-af-thickskinned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ThickSkinned>0</VTE_ThickSkinned>
@@ -683,7 +683,7 @@
 			<texPath>InnerFace/af/VETraits-af-thinskinned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ThinSkinned>0</VTE_ThinSkinned>
@@ -698,7 +698,7 @@
 			<texPath>InnerFace/af/VETraits-af-tycoon</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Tycoon>0</VTE_Tycoon>
@@ -713,7 +713,7 @@
 			<texPath>InnerFace/af/VETraits-af-vengeful</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Vengeful>0</VTE_Vengeful>
@@ -728,7 +728,7 @@
 			<texPath>InnerFace/af/VETraits-af-wanderlust</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Wanderlust>0</VTE_Wanderlust>
@@ -743,7 +743,7 @@
 			<texPath>InnerFace/af/VETraits-af-workaholic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Workaholic>0</VTE_Workaholic>
@@ -758,7 +758,7 @@
 			<texPath>InnerFace/af/VETraits-af-worldweary</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_WorldWeary>0</VTE_WorldWeary>
@@ -773,7 +773,7 @@
 			<texPath>InnerFace/am/VETraits-am-absentminded</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_AbsentMinded>0</VTE_AbsentMinded>
@@ -788,7 +788,7 @@
 			<texPath>InnerFace/am/VETraits-am-academian</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Academian>0</VTE_Academian>
@@ -803,7 +803,7 @@
 			<texPath>InnerFace/am/VETraits-am-animalhater</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_AnimalHater>0</VTE_AnimalHater>
@@ -818,7 +818,7 @@
 			<texPath>InnerFace/am/VETraits-am-animallover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_AnimalLover>0</VTE_AnimalLover>
@@ -833,7 +833,7 @@
 			<texPath>InnerFace/am/VETraits-am-anxious</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Anxious>0</VTE_Anxious>
@@ -848,7 +848,7 @@
 			<texPath>InnerFace/am/VETraits-am-bigboned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_BigBoned>0</VTE_BigBoned>
@@ -863,7 +863,7 @@
 			<texPath>InnerFace/am/VETraits-am-brave</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Brave>0</VTE_Brave>
@@ -878,7 +878,7 @@
 			<texPath>InnerFace/am/VETraits-am-catperson</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_CatPerson>0</VTE_CatPerson>
@@ -893,7 +893,7 @@
 			<texPath>InnerFace/am/VETraits-am-clumsy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Clumsy>0</VTE_Clumsy>
@@ -908,7 +908,7 @@
 			<texPath>InnerFace/am/VETraits-am-coldinclined</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ColdInclined>0</VTE_ColdInclined>
@@ -923,7 +923,7 @@
 			<texPath>InnerFace/am/VETraits-am-couchpotato</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_CouchPotato>0</VTE_CouchPotato>
@@ -938,7 +938,7 @@
 			<texPath>InnerFace/am/VETraits-am-coward</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Coward>0</VTE_Coward>
@@ -953,7 +953,7 @@
 			<texPath>InnerFace/am/VETraits-am-desensitized</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Desensitized>0</VTE_Desensitized>
@@ -968,7 +968,7 @@
 			<texPath>InnerFace/am/VETraits-am-dogperson</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_DogPerson>0</VTE_DogPerson>
@@ -983,7 +983,7 @@
 			<texPath>InnerFace/am/VETraits-am-drunkenmaster</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_DrunkenMaster>0</VTE_DrunkenMaster>
@@ -998,7 +998,7 @@
 			<texPath>InnerFace/am/VETraits-am-dunce</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Dunce>0</VTE_Dunce>
@@ -1013,7 +1013,7 @@
 			<texPath>InnerFace/am/VETraits-am-eccentric</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Eccentric>0</VTE_Eccentric>
@@ -1028,7 +1028,7 @@
 			<texPath>InnerFace/am/VETraits-am-ecologist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Ecologist>0</VTE_Ecologist>
@@ -1043,7 +1043,7 @@
 			<texPath>InnerFace/am/VETraits-am-funloving</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_FunLoving>0</VTE_FunLoving>
@@ -1058,7 +1058,7 @@
 			<texPath>InnerFace/am/VETraits-am-gastronomist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Gastronomist>0</VTE_Gastronomist>
@@ -1073,7 +1073,7 @@
 			<texPath>InnerFace/am/VETraits-am-groundbreaker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Groundbreaker>0</VTE_Groundbreaker>
@@ -1088,7 +1088,7 @@
 			<texPath>InnerFace/am/VETraits-am-heatinclined</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_HeatInclined>0</VTE_HeatInclined>
@@ -1103,7 +1103,7 @@
 			<texPath>InnerFace/am/VETraits-am-insatiable</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Insatiable>0</VTE_Insatiable>
@@ -1118,7 +1118,7 @@
 			<texPath>InnerFace/am/VETraits-am-insomniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Insomniac>0</VTE_Insomniac>
@@ -1133,7 +1133,7 @@
 			<texPath>InnerFace/am/VETraits-am-ironstomach</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_IronStomach>0</VTE_IronStomach>
@@ -1148,7 +1148,7 @@
 			<texPath>InnerFace/am/VETraits-am-kleptomaniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Kleptomaniac>0</VTE_Kleptomaniac>
@@ -1163,7 +1163,7 @@
 			<texPath>InnerFace/am/VETraits-am-lush</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Lush>0</VTE_Lush>
@@ -1178,7 +1178,7 @@
 			<texPath>InnerFace/am/VETraits-am-madsurgeon</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_MadSurgeon>0</VTE_MadSurgeon>
@@ -1193,7 +1193,7 @@
 			<texPath>InnerFace/am/VETraits-am-martialartist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_MartialArtist>0</VTE_MartialArtist>
@@ -1208,7 +1208,7 @@
 			<texPath>InnerFace/am/VETraits-am-menagerist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Menagerist>0</VTE_Menagerist>
@@ -1223,7 +1223,7 @@
 			<texPath>InnerFace/am/VETraits-am-mountainlover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ChildOfMountain>0</VTE_ChildOfMountain>
@@ -1238,7 +1238,7 @@
 			<texPath>InnerFace/am/VETraits-am-neat</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Neat>0</VTE_Neat>
@@ -1253,7 +1253,7 @@
 			<texPath>InnerFace/am/VETraits-am-oceanlover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ChildOfSea>0</VTE_ChildOfSea>
@@ -1268,7 +1268,7 @@
 			<texPath>InnerFace/am/VETraits-am-perfectionist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Perfectionist>0</VTE_Perfectionist>
@@ -1283,7 +1283,7 @@
 			<texPath>InnerFace/am/VETraits-am-prodigy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Prodigy>0</VTE_Prodigy>
@@ -1298,7 +1298,7 @@
 			<texPath>InnerFace/am/VETraits-am-prude</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Prude>0</VTE_Prude>
@@ -1313,7 +1313,7 @@
 			<texPath>InnerFace/am/VETraits-am-rebel</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Rebel>0</VTE_Rebel>
@@ -1328,7 +1328,7 @@
 			<texPath>InnerFace/am/VETraits-am-refinedpalate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_RefinedPalate>0</VTE_RefinedPalate>
@@ -1343,7 +1343,7 @@
 			<texPath>InnerFace/am/VETraits-am-slob</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Slob>0</VTE_Slob>
@@ -1358,7 +1358,7 @@
 			<texPath>InnerFace/am/VETraits-am-snob</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Snob>0</VTE_Snob>
@@ -1373,7 +1373,7 @@
 			<texPath>InnerFace/am/VETraits-am-squeamish</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Squeamish>0</VTE_Squeamish>
@@ -1388,7 +1388,7 @@
 			<texPath>InnerFace/am/VETraits-am-stoner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Stoner>0</VTE_Stoner>
@@ -1403,7 +1403,7 @@
 			<texPath>InnerFace/am/VETraits-am-submissive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Submissive>0</VTE_Submissive>
@@ -1418,7 +1418,7 @@
 			<texPath>InnerFace/am/VETraits-am-technophobe</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Technophobe>0</VTE_Technophobe>
@@ -1433,7 +1433,7 @@
 			<texPath>InnerFace/am/VETraits-am-thickskinned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ThickSkinned>0</VTE_ThickSkinned>
@@ -1448,7 +1448,7 @@
 			<texPath>InnerFace/am/VETraits-am-thinskinned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ThinSkinned>0</VTE_ThinSkinned>
@@ -1463,7 +1463,7 @@
 			<texPath>InnerFace/am/VETraits-am-tycoon</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Tycoon>0</VTE_Tycoon>
@@ -1478,7 +1478,7 @@
 			<texPath>InnerFace/am/VETraits-am-vengeful</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Vengeful>0</VTE_Vengeful>
@@ -1493,7 +1493,7 @@
 			<texPath>InnerFace/am/VETraits-am-wanderlust</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Wanderlust>0</VTE_Wanderlust>
@@ -1508,7 +1508,7 @@
 			<texPath>InnerFace/am/VETraits-am-workaholic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Workaholic>0</VTE_Workaholic>
@@ -1523,7 +1523,7 @@
 			<texPath>InnerFace/am/VETraits-am-worldweary</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_WorldWeary>0</VTE_WorldWeary>
@@ -4598,7 +4598,7 @@
 			<texPath>OuterFace/af/VETraits-af-absentminded</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_AbsentMinded>0</VTE_AbsentMinded>
@@ -4613,7 +4613,7 @@
 			<texPath>OuterFace/af/VETraits-af-academian</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Academian>0</VTE_Academian>
@@ -4628,7 +4628,7 @@
 			<texPath>OuterFace/af/VETraits-af-animalhater</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_AnimalHater>0</VTE_AnimalHater>
@@ -4643,7 +4643,7 @@
 			<texPath>OuterFace/af/VETraits-af-animallover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_AnimalLover>0</VTE_AnimalLover>
@@ -4658,7 +4658,7 @@
 			<texPath>OuterFace/af/VETraits-af-anxious</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Anxious>0</VTE_Anxious>
@@ -4673,7 +4673,7 @@
 			<texPath>OuterFace/af/VETraits-af-bigboned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_BigBoned>0</VTE_BigBoned>
@@ -4688,7 +4688,7 @@
 			<texPath>OuterFace/af/VETraits-af-brave</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Brave>0</VTE_Brave>
@@ -4703,7 +4703,7 @@
 			<texPath>OuterFace/af/VETraits-af-catperson</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_CatPerson>0</VTE_CatPerson>
@@ -4718,7 +4718,7 @@
 			<texPath>OuterFace/af/VETraits-af-clumsy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Clumsy>0</VTE_Clumsy>
@@ -4733,7 +4733,7 @@
 			<texPath>OuterFace/af/VETraits-af-coldinclined</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ColdInclined>0</VTE_ColdInclined>
@@ -4748,7 +4748,7 @@
 			<texPath>OuterFace/af/VETraits-af-couchpotato</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_CouchPotato>0</VTE_CouchPotato>
@@ -4763,7 +4763,7 @@
 			<texPath>OuterFace/af/VETraits-af-coward</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Coward>0</VTE_Coward>
@@ -4778,7 +4778,7 @@
 			<texPath>OuterFace/af/VETraits-af-desensitized</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Desensitized>0</VTE_Desensitized>
@@ -4793,7 +4793,7 @@
 			<texPath>OuterFace/af/VETraits-af-dogperson</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_DogPerson>0</VTE_DogPerson>
@@ -4808,7 +4808,7 @@
 			<texPath>OuterFace/af/VETraits-af-drunkenmaster</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_DrunkenMaster>0</VTE_DrunkenMaster>
@@ -4823,7 +4823,7 @@
 			<texPath>OuterFace/af/VETraits-af-dunce</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Dunce>0</VTE_Dunce>
@@ -4838,7 +4838,7 @@
 			<texPath>OuterFace/af/VETraits-af-eccentric</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Eccentric>0</VTE_Eccentric>
@@ -4853,7 +4853,7 @@
 			<texPath>OuterFace/af/VETraits-af-ecologist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Ecologist>0</VTE_Ecologist>
@@ -4868,7 +4868,7 @@
 			<texPath>OuterFace/af/VETraits-af-funloving</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_FunLoving>0</VTE_FunLoving>
@@ -4883,7 +4883,7 @@
 			<texPath>OuterFace/af/VETraits-af-gastronomist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Gastronomist>0</VTE_Gastronomist>
@@ -4898,7 +4898,7 @@
 			<texPath>OuterFace/af/VETraits-af-groundbreaker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Groundbreaker>0</VTE_Groundbreaker>
@@ -4913,7 +4913,7 @@
 			<texPath>OuterFace/af/VETraits-af-heatinclined</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_HeatInclined>0</VTE_HeatInclined>
@@ -4928,7 +4928,7 @@
 			<texPath>OuterFace/af/VETraits-af-insatiable</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Insatiable>0</VTE_Insatiable>
@@ -4943,7 +4943,7 @@
 			<texPath>OuterFace/af/VETraits-af-insomniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Insomniac>0</VTE_Insomniac>
@@ -4958,7 +4958,7 @@
 			<texPath>OuterFace/af/VETraits-af-ironstomach</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_IronStomach>0</VTE_IronStomach>
@@ -4973,7 +4973,7 @@
 			<texPath>OuterFace/af/VETraits-af-kleptomaniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Kleptomaniac>0</VTE_Kleptomaniac>
@@ -4988,7 +4988,7 @@
 			<texPath>OuterFace/af/VETraits-af-lush</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Lush>0</VTE_Lush>
@@ -5003,7 +5003,7 @@
 			<texPath>OuterFace/af/VETraits-af-madsurgeon</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_MadSurgeon>0</VTE_MadSurgeon>
@@ -5018,7 +5018,7 @@
 			<texPath>OuterFace/af/VETraits-af-martialartist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_MartialArtist>0</VTE_MartialArtist>
@@ -5033,7 +5033,7 @@
 			<texPath>OuterFace/af/VETraits-af-menagerist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Menagerist>0</VTE_Menagerist>
@@ -5048,7 +5048,7 @@
 			<texPath>OuterFace/af/VETraits-af-mountainlover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ChildOfMountain>0</VTE_ChildOfMountain>
@@ -5063,7 +5063,7 @@
 			<texPath>OuterFace/af/VETraits-af-neat</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Neat>0</VTE_Neat>
@@ -5078,7 +5078,7 @@
 			<texPath>OuterFace/af/VETraits-af-oceanlover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ChildOfSea>0</VTE_ChildOfSea>
@@ -5093,7 +5093,7 @@
 			<texPath>OuterFace/af/VETraits-af-perfectionist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Perfectionist>0</VTE_Perfectionist>
@@ -5108,7 +5108,7 @@
 			<texPath>OuterFace/af/VETraits-af-prodigy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Prodigy>0</VTE_Prodigy>
@@ -5123,7 +5123,7 @@
 			<texPath>OuterFace/af/VETraits-af-prude</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Prude>0</VTE_Prude>
@@ -5138,7 +5138,7 @@
 			<texPath>OuterFace/af/VETraits-af-rebel</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Rebel>0</VTE_Rebel>
@@ -5153,7 +5153,7 @@
 			<texPath>OuterFace/af/VETraits-af-refinedpalate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_RefinedPalate>0</VTE_RefinedPalate>
@@ -5168,7 +5168,7 @@
 			<texPath>OuterFace/af/VETraits-af-slob</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Slob>0</VTE_Slob>
@@ -5183,7 +5183,7 @@
 			<texPath>OuterFace/af/VETraits-af-snob</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Snob>0</VTE_Snob>
@@ -5198,7 +5198,7 @@
 			<texPath>OuterFace/af/VETraits-af-squeamish</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Squeamish>0</VTE_Squeamish>
@@ -5213,7 +5213,7 @@
 			<texPath>OuterFace/af/VETraits-af-stoner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Stoner>0</VTE_Stoner>
@@ -5228,7 +5228,7 @@
 			<texPath>OuterFace/af/VETraits-af-submissive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Submissive>0</VTE_Submissive>
@@ -5243,7 +5243,7 @@
 			<texPath>OuterFace/af/VETraits-af-technophobe</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Technophobe>0</VTE_Technophobe>
@@ -5258,7 +5258,7 @@
 			<texPath>OuterFace/af/VETraits-af-thickskinned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ThickSkinned>0</VTE_ThickSkinned>
@@ -5273,7 +5273,7 @@
 			<texPath>OuterFace/af/VETraits-af-thinskinned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_ThinSkinned>0</VTE_ThinSkinned>
@@ -5288,7 +5288,7 @@
 			<texPath>OuterFace/af/VETraits-af-tycoon</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Tycoon>0</VTE_Tycoon>
@@ -5303,7 +5303,7 @@
 			<texPath>OuterFace/af/VETraits-af-vengeful</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Vengeful>0</VTE_Vengeful>
@@ -5318,7 +5318,7 @@
 			<texPath>OuterFace/af/VETraits-af-wanderlust</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Wanderlust>0</VTE_Wanderlust>
@@ -5333,7 +5333,7 @@
 			<texPath>OuterFace/af/VETraits-af-workaholic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_Workaholic>0</VTE_Workaholic>
@@ -5348,7 +5348,7 @@
 			<texPath>OuterFace/af/VETraits-af-worldweary</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<VTE_WorldWeary>0</VTE_WorldWeary>
@@ -5363,7 +5363,7 @@
 			<texPath>OuterFace/am/VETraits-am-absentminded</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_AbsentMinded>0</VTE_AbsentMinded>
@@ -5378,7 +5378,7 @@
 			<texPath>OuterFace/am/VETraits-am-academian</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Academian>0</VTE_Academian>
@@ -5393,7 +5393,7 @@
 			<texPath>OuterFace/am/VETraits-am-animalhater</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_AnimalHater>0</VTE_AnimalHater>
@@ -5408,7 +5408,7 @@
 			<texPath>OuterFace/am/VETraits-am-animallover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_AnimalLover>0</VTE_AnimalLover>
@@ -5423,7 +5423,7 @@
 			<texPath>OuterFace/am/VETraits-am-anxious</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Anxious>0</VTE_Anxious>
@@ -5438,7 +5438,7 @@
 			<texPath>OuterFace/am/VETraits-am-bigboned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_BigBoned>0</VTE_BigBoned>
@@ -5453,7 +5453,7 @@
 			<texPath>OuterFace/am/VETraits-am-brave</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Brave>0</VTE_Brave>
@@ -5468,7 +5468,7 @@
 			<texPath>OuterFace/am/VETraits-am-catperson</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_CatPerson>0</VTE_CatPerson>
@@ -5483,7 +5483,7 @@
 			<texPath>OuterFace/am/VETraits-am-clumsy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Clumsy>0</VTE_Clumsy>
@@ -5498,7 +5498,7 @@
 			<texPath>OuterFace/am/VETraits-am-coldinclined</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ColdInclined>0</VTE_ColdInclined>
@@ -5513,7 +5513,7 @@
 			<texPath>OuterFace/am/VETraits-am-couchpotato</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_CouchPotato>0</VTE_CouchPotato>
@@ -5528,7 +5528,7 @@
 			<texPath>OuterFace/am/VETraits-am-coward</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Coward>0</VTE_Coward>
@@ -5543,7 +5543,7 @@
 			<texPath>OuterFace/am/VETraits-am-desensitized</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Desensitized>0</VTE_Desensitized>
@@ -5558,7 +5558,7 @@
 			<texPath>OuterFace/am/VETraits-am-dogperson</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_DogPerson>0</VTE_DogPerson>
@@ -5573,7 +5573,7 @@
 			<texPath>OuterFace/am/VETraits-am-drunkenmaster</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_DrunkenMaster>0</VTE_DrunkenMaster>
@@ -5588,7 +5588,7 @@
 			<texPath>OuterFace/am/VETraits-am-dunce</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Dunce>0</VTE_Dunce>
@@ -5603,7 +5603,7 @@
 			<texPath>OuterFace/am/VETraits-am-eccentric</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Eccentric>0</VTE_Eccentric>
@@ -5618,7 +5618,7 @@
 			<texPath>OuterFace/am/VETraits-am-ecologist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Ecologist>0</VTE_Ecologist>
@@ -5633,7 +5633,7 @@
 			<texPath>OuterFace/am/VETraits-am-funloving</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_FunLoving>0</VTE_FunLoving>
@@ -5648,7 +5648,7 @@
 			<texPath>OuterFace/am/VETraits-am-gastronomist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Gastronomist>0</VTE_Gastronomist>
@@ -5663,7 +5663,7 @@
 			<texPath>OuterFace/am/VETraits-am-groundbreaker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Groundbreaker>0</VTE_Groundbreaker>
@@ -5678,7 +5678,7 @@
 			<texPath>OuterFace/am/VETraits-am-heatinclined</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_HeatInclined>0</VTE_HeatInclined>
@@ -5693,7 +5693,7 @@
 			<texPath>OuterFace/am/VETraits-am-insatiable</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Insatiable>0</VTE_Insatiable>
@@ -5708,7 +5708,7 @@
 			<texPath>OuterFace/am/VETraits-am-insomniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Insomniac>0</VTE_Insomniac>
@@ -5723,7 +5723,7 @@
 			<texPath>OuterFace/am/VETraits-am-ironstomach</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_IronStomach>0</VTE_IronStomach>
@@ -5738,7 +5738,7 @@
 			<texPath>OuterFace/am/VETraits-am-kleptomaniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Kleptomaniac>0</VTE_Kleptomaniac>
@@ -5753,7 +5753,7 @@
 			<texPath>OuterFace/am/VETraits-am-lush</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Lush>0</VTE_Lush>
@@ -5768,7 +5768,7 @@
 			<texPath>OuterFace/am/VETraits-am-madsurgeon</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_MadSurgeon>0</VTE_MadSurgeon>
@@ -5783,7 +5783,7 @@
 			<texPath>OuterFace/am/VETraits-am-martialartist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_MartialArtist>0</VTE_MartialArtist>
@@ -5798,7 +5798,7 @@
 			<texPath>OuterFace/am/VETraits-am-menagerist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Menagerist>0</VTE_Menagerist>
@@ -5813,7 +5813,7 @@
 			<texPath>OuterFace/am/VETraits-am-mountainlover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ChildOfMountain>0</VTE_ChildOfMountain>
@@ -5828,7 +5828,7 @@
 			<texPath>OuterFace/am/VETraits-am-neat</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Neat>0</VTE_Neat>
@@ -5843,7 +5843,7 @@
 			<texPath>OuterFace/am/VETraits-am-oceanlover</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ChildOfSea>0</VTE_ChildOfSea>
@@ -5858,7 +5858,7 @@
 			<texPath>OuterFace/am/VETraits-am-perfectionist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Perfectionist>0</VTE_Perfectionist>
@@ -5873,7 +5873,7 @@
 			<texPath>OuterFace/am/VETraits-am-prodigy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Prodigy>0</VTE_Prodigy>
@@ -5888,7 +5888,7 @@
 			<texPath>OuterFace/am/VETraits-am-prude</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Prude>0</VTE_Prude>
@@ -5903,7 +5903,7 @@
 			<texPath>OuterFace/am/VETraits-am-rebel</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Rebel>0</VTE_Rebel>
@@ -5918,7 +5918,7 @@
 			<texPath>OuterFace/am/VETraits-am-refinedpalate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_RefinedPalate>0</VTE_RefinedPalate>
@@ -5933,7 +5933,7 @@
 			<texPath>OuterFace/am/VETraits-am-slob</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Slob>0</VTE_Slob>
@@ -5948,7 +5948,7 @@
 			<texPath>OuterFace/am/VETraits-am-snob</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Snob>0</VTE_Snob>
@@ -5963,7 +5963,7 @@
 			<texPath>OuterFace/am/VETraits-am-squeamish</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Squeamish>0</VTE_Squeamish>
@@ -5978,7 +5978,7 @@
 			<texPath>OuterFace/am/VETraits-am-stoner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Stoner>0</VTE_Stoner>
@@ -5993,7 +5993,7 @@
 			<texPath>OuterFace/am/VETraits-am-submissive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Submissive>0</VTE_Submissive>
@@ -6008,7 +6008,7 @@
 			<texPath>OuterFace/am/VETraits-am-technophobe</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Technophobe>0</VTE_Technophobe>
@@ -6023,7 +6023,7 @@
 			<texPath>OuterFace/am/VETraits-am-thickskinned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ThickSkinned>0</VTE_ThickSkinned>
@@ -6038,7 +6038,7 @@
 			<texPath>OuterFace/am/VETraits-am-thinskinned</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_ThinSkinned>0</VTE_ThinSkinned>
@@ -6053,7 +6053,7 @@
 			<texPath>OuterFace/am/VETraits-am-tycoon</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Tycoon>0</VTE_Tycoon>
@@ -6068,7 +6068,7 @@
 			<texPath>OuterFace/am/VETraits-am-vengeful</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Vengeful>0</VTE_Vengeful>
@@ -6083,7 +6083,7 @@
 			<texPath>OuterFace/am/VETraits-am-wanderlust</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Wanderlust>0</VTE_Wanderlust>
@@ -6098,7 +6098,7 @@
 			<texPath>OuterFace/am/VETraits-am-workaholic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_Workaholic>0</VTE_Workaholic>
@@ -6113,7 +6113,7 @@
 			<texPath>OuterFace/am/VETraits-am-worldweary</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>19~999</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<VTE_WorldWeary>0</VTE_WorldWeary>

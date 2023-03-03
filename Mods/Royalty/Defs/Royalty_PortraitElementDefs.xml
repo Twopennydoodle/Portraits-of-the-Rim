@@ -388,6 +388,62 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleClothingShoulder_Royalty-l-cape</defName>
+		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingShoulder/Royalty-l-cape</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>Apparel_Cape</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleClothingShoulder_Royalty-m-cape</defName>
+		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingShoulder/Royalty-m-cape</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>Apparel_Cape</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleClothingShoulder_Royalty-s-cape</defName>
+		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingShoulder/Royalty-s-cape</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_Cape</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleClothingShoulder_Royalty-xl-cape</defName>
+		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingShoulder/Royalty-xl-cape</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>Apparel_Cape</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleClothingTorso_Royalty-l-eltexvest</defName>
 		<portraitLayer>PR_MiddleClothingTorso</portraitLayer>
 		<graphicData>
@@ -1658,6 +1714,150 @@
 			<apparels>
 				<li>Apparel_HatTop</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Royalty-l-eshoulder-drillarm</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/Royalty-l-eshoulder-drillarm</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>DrillArm</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Right</side>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Royalty-l-wshoulder-drillarm</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/Royalty-l-wshoulder-drillarm</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>DrillArm</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Left</side>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Royalty-m-eshoulder-drillarm</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/Royalty-m-eshoulder-drillarm</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>DrillArm</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Right</side>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Royalty-m-wshoulder-drillarm</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/Royalty-m-wshoulder-drillarm</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>DrillArm</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Left</side>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Royalty-s-eshoulder-drillarm</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/Royalty-s-eshoulder-drillarm</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>DrillArm</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Right</side>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Royalty-s-wshoulder-drillarm</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/Royalty-s-wshoulder-drillarm</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>DrillArm</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Left</side>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Royalty-xl-eshoulder-drillarm</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/Royalty-xl-eshoulder-drillarm</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>DrillArm</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Right</side>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Royalty-xl-wshoulder-drillarm</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/Royalty-xl-wshoulder-drillarm</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>DrillArm</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Left</side>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

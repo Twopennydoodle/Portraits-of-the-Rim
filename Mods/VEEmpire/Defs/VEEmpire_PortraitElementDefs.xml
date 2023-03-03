@@ -114,6 +114,62 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEEmpire-l-VFEE_Apparel_JanissaryCuirass</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEEmpire-l-VFEE_Apparel_JanissaryCuirass</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VFEE_Apparel_JanissaryCuirass</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEEmpire-m-VFEE_Apparel_JanissaryCuirass</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEEmpire-m-VFEE_Apparel_JanissaryCuirass</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VFEE_Apparel_JanissaryCuirass</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEEmpire-s-VFEE_Apparel_JanissaryCuirass</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEEmpire-s-VFEE_Apparel_JanissaryCuirass</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VFEE_Apparel_JanissaryCuirass</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEEmpire-xl-VFEE_Apparel_JanissaryCuirass</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEEmpire-xl-VFEE_Apparel_JanissaryCuirass</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VFEE_Apparel_JanissaryCuirass</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_VEEmpire-l-VFEE_Apparel_ArmorAbsolver</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>

@@ -36,7 +36,7 @@ namespace PortraitsOfTheRim
         public FloatRange? ageRange;
         public PawnBodyType? bodyType;
         public string headType;
-        public XenotypeDef xenotype;
+        public string xenotype;
         public string style;
         public BoolReport Matches(Portrait portrait, PortraitElementDef portraitElementDef)
         {
@@ -78,9 +78,13 @@ namespace PortraitsOfTheRim
                 return new BoolReport(false, "bodyType fail: " + bodyTypeReport + " - gender: " + pawn.gender + " - body: " + pawn.story.bodyType + " - age: " + pawn.ageTracker.AgeBiologicalYearsFloat);
             if (headType.NullOrEmpty() is false && pawn.story.headType.defName.ToLower().Contains(headType.ToLower()) is false)
                 return new BoolReport(false, "headType fail");
-            if (xenotype != null)
+            if (xenotype.NullOrEmpty() is false)
             {
-                if (xenotype != pawn.genes.xenotype)
+                if (ModsConfig.BiotechActive is false && xenotype == "Baseliner")
+                {
+                    return new BoolReport(true, "xenotype success 1");
+                }
+                if (xenotype != pawn.genes.xenotype.defName)
                 {
                     if (portraitElementDef.portraitLayer == PR_DefOf.PR_Ear)
                     {

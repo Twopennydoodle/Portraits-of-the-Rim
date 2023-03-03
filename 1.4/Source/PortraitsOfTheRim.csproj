@@ -63,18 +63,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BodyPartType.cs" />
-    <Compile Include="HarmonyPatches\AwesomeInventory_DrawComfyTemperatureRow_Patch.cs" />
-    <Compile Include="HarmonyPatches\AwesomeInventory_DrawJealous_Patch.cs" />
-    <Compile Include="HarmonyPatches\AwesomeInventory_FillTab_Patch.cs" />
-    <Compile Include="HarmonyPatches\AwesomeInventory_UpdateSize_Patch.cs" />
+    <Compile Include="HarmonyPatches\CombatExtended_FillTab_Patch.cs" />
     <Compile Include="HarmonyPatches\ITab_Pawn_Gear_TryDrawComfyTemperatureRange_Patch.cs" />
     <Compile Include="HarmonyPatches\MainTabWindow_Quests_DoFactionInfo_Patch.cs" />
-    <Compile Include="HarmonyPatches\CombatExtended_FillTab_Patch.cs" />
     <Compile Include="Portrait.cs" />
     <Compile Include="PortraitElementDef.cs" />
     <Compile Include="PortraitLayerDef.cs" />
     <Compile Include="PR_DefOf.cs" />
-    <Compile Include="HarmonyPatches\RPGInventory_FillTab_Patch.cs" />
+    <Compile Include="HarmonyPatches\InspectTabBase_DoTabGUI_Patch.cs" />
     <Compile Include="TextureParser.cs" />
     <Compile Include="PortraitsOfTheRimMod.cs" />
     <Compile Include="PortraitUtils.cs" />
