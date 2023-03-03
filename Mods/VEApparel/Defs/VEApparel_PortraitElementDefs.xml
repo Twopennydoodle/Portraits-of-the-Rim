@@ -72,20 +72,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerClothingTorso_VEApparel-l-gambeson</defName>
-		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>InnerClothingTorso/VEApparel-l-gambeson</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Large</bodyType>
-			<apparels>
-				<li>VAE_Apparel_Gambeson</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingTorso_VEApparel-l-jumpsuit</defName>
 		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
 		<graphicData>
@@ -235,20 +221,6 @@
 			<bodyType>Medium</bodyType>
 			<apparels>
 				<li>VAE_Apparel_FleeceShirt</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerClothingTorso_VEApparel-m-gambeson</defName>
-		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>InnerClothingTorso/VEApparel-m-gambeson</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Medium</bodyType>
-			<apparels>
-				<li>VAE_Apparel_Gambeson</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -408,20 +380,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerClothingTorso_VEApparel-s-gambeson</defName>
-		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>InnerClothingTorso/VEApparel-s-gambeson</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Small</bodyType>
-			<apparels>
-				<li>VAE_Apparel_Gambeson</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingTorso_VEApparel-s-jumpsuit</defName>
 		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
 		<graphicData>
@@ -571,20 +529,6 @@
 			<bodyType>ExtraLarge</bodyType>
 			<apparels>
 				<li>VAE_Apparel_FleeceShirt</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerClothingTorso_VEApparel-xl-gambeson</defName>
-		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>InnerClothingTorso/VEApparel-xl-gambeson</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>ExtraLarge</bodyType>
-			<apparels>
-				<li>VAE_Apparel_Gambeson</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>

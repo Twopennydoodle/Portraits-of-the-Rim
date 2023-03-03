@@ -114,6 +114,62 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEArmour-l-gambeson</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEArmour-l-gambeson</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VAE_Apparel_Gambeson</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEArmour-m-gambeson</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEArmour-m-gambeson</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VAE_Apparel_Gambeson</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEArmour-s-gambeson</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEArmour-s-gambeson</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VAE_Apparel_Gambeson</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEArmour-xl-gambeson</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEArmour-xl-gambeson</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VAE_Apparel_Gambeson</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleClothingTorso_VEArmour-l-Chainmail</defName>
 		<portraitLayer>PR_MiddleClothingTorso</portraitLayer>
 		<graphicData>

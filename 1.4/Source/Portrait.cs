@@ -36,7 +36,7 @@ namespace PortraitsOfTheRim
                     var existingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x));
                     //Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
                     //Log.Message("Existing layers: " + string.Join(", ", existingLayers));
-                    //Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2.name)));
+                    Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2.name)));
                 }
                 return portraitTextures;
             }

@@ -54,9 +54,12 @@ namespace PortraitsOfTheRim
                 {
                     allStyles.Add(elementDef.requirements.style);
                 }
-                if (elementDef.requirements.apparels != null)
+                if (elementDef.requirements.apparels.NullOrEmpty() is false)
                 {
-                    elementDef.requirements.apparels.RemoveAll(x => x is null);
+                    if (elementDef.requirements.apparels.Any(x => x is null))
+                    {
+                        Log.Error(elementDef + " - Should be removed");
+                    }
                 }
             }
 
