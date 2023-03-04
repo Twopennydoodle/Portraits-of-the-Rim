@@ -36,7 +36,8 @@ namespace PortraitsOfTheRim
 
         public static float FixedWidth(ref Rect rect, ITab_Pawn_Gear tab)
         {
-            if (tab.SelPawnForGear.RaceProps.Humanlike)
+            var portrait = tab.SelPawnForGear.GetPortrait();
+            if (portrait.ShouldShow && tab.SelPawnForGear.ShouldShowPortrait())
             {
                 return rect.width - portraitSize - 7;
             }
@@ -50,16 +51,27 @@ namespace PortraitsOfTheRim
         {
             DrawPortraitArea(__instance.SelPawnForGear, xPos, yPos, portraitSize);
         }
-        public static void DrawPortraitArea(Pawn pawn, float xPos, float yPos, float portraitSize)
+        public static void DrawPortraitArea(Pawn pawn, float xPos, float yPos, float portraitSize, bool putShowPortraitToLeft = false)
         {
-            if (pawn != null && pawn.RaceProps.Humanlike && pawn.ageTracker.AgeBiologicalYearsFloat >= 7)
+            if (pawn.ShouldShowPortrait())
             {
                 var portrait = pawn.GetPortrait();
                 if (portrait.ShouldShow)
                 {
                     portrait.RenderPortrait(xPos, yPos, portraitSize, portraitSize);
+                    portrait.DrawButtons(xPos + portraitSize + 5, yPos + portraitSize - 85);
                 }
-                portrait.DrawButtons(xPos + portraitSize + 5, yPos + portraitSize - 85);
+                else
+                {
+                    if (putShowPortraitToLeft)
+                    {
+                        portrait.HidePortraitButton(xPos, yPos + portraitSize - 24);
+                    }
+                    else
+                    {
+                        portrait.HidePortraitButton(xPos + portraitSize + 5, yPos + portraitSize - 85);
+                    }
+                }
             }
         }
     }

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.RegularExpressions;
 using UnityEngine;
 using Verse;
 
@@ -36,7 +37,7 @@ namespace PortraitsOfTheRim
                     var existingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x));
                     //Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
                     //Log.Message("Existing layers: " + string.Join(", ", existingLayers));
-                    Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2.name)));
+                    //Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2.name)));
                 }
                 return portraitTextures;
             }
@@ -59,14 +60,10 @@ namespace PortraitsOfTheRim
 
         public void DrawButtons(float x, float y)
         {
-            var hidePortraitRect = new Rect(x, y, 24, 24);
-            TooltipHandler.TipRegion(hidePortraitRect, this.hidePortrait ? "PR.ShowPortrait".Translate() : "PR.HidePortrait".Translate());
-            if (Widgets.ButtonImage(hidePortraitRect, this.hidePortrait ? ShowHidePortraitOff : ShowHidePortraitOn))
-            {
-                this.hidePortrait = !this.hidePortrait;
-            }
+            Rect hidePortraitRect = HidePortraitButton(x, y);
             var hideHeadgear = new Rect(hidePortraitRect.x, hidePortraitRect.yMax + 5, 24, 24);
             TooltipHandler.TipRegion(hideHeadgear, this.hideHeadgear ? "PR.ShowHeadgear".Translate() : "PR.HideHeadgear".Translate());
+            Widgets.DrawBoxSolidWithOutline(hideHeadgear, Color.black, Color.grey);
             if (Widgets.ButtonImage(hideHeadgear, this.hideHeadgear ? ShowHideHatOff : ShowHideHatOn))
             {
                 this.hideHeadgear = !this.hideHeadgear;
@@ -74,6 +71,7 @@ namespace PortraitsOfTheRim
 
             var selectStyle = new Rect(hidePortraitRect.x, hideHeadgear.yMax + 5, 24, 24);
             TooltipHandler.TipRegion(selectStyle, "PR.SelectStyle".Translate());
+            Widgets.DrawBoxSolidWithOutline(selectStyle, Color.black, Color.grey);
             if (Widgets.ButtonImage(selectStyle, ChangeStyles))
             {
                 var floatList = new List<FloatMenuOption>();
@@ -92,16 +90,32 @@ namespace PortraitsOfTheRim
             }
         }
 
+        public Rect HidePortraitButton(float x, float y)
+        {
+            var hidePortraitRect = new Rect(x, y, 24, 24);
+            TooltipHandler.TipRegion(hidePortraitRect, this.hidePortrait ? "PR.ShowPortrait".Translate() : "PR.HidePortrait".Translate());
+            Widgets.DrawBoxSolidWithOutline(hidePortraitRect, Color.black, Color.grey);
+            if (Widgets.ButtonImage(hidePortraitRect, this.hidePortrait ? ShowHidePortraitOff : ShowHidePortraitOn))
+            {
+                this.hidePortrait = !this.hidePortrait;
+            }
+
+            return hidePortraitRect;
+        }
+
         public static Dictionary<Pawn, Dictionary<PortraitElementDef, RenderTexture>> cachedRenderTextures = new();
 
         public static float zoomValue = 2.402f;
         public static float zOffset = -0.086f;
         public List<(PortraitElementDef, Texture)> GetPortraitTextures()
         {
-            List<(PortraitElementDef, Texture)> allTextures = new ();    
+            List<(PortraitElementDef, Texture)> allTextures = new ();
+            List<PortraitLayerDef> resolvedLayers = new List<PortraitLayerDef>();
             foreach (var layer in PortraitUtils.layers)
             {
-                if (PortraitUtils.portraitElements.TryGetValue(layer, out var elements))
+                if (resolvedLayers.Contains(layer))
+                    continue;
+                if (PortraitUtils.portraitElements.TryGetValue(layer, out var elements) && elements.Any())
                 {
                     var matchingElements = elements.Where(x => x.Matches(this)).ToList();
                     if (this.currentStyle.NullOrEmpty() is false && matchingElements.Any(x => x.requirements.style.NullOrEmpty() is false))
@@ -119,16 +133,66 @@ namespace PortraitsOfTheRim
                         }
                         else
                         {
-                            Rand.PushState();
-                            Rand.Seed = pawn.thingIDNumber;
-                            var matchingElement = matchingElements.RandomElement();
-                            Rand.PopState();
-                            GetTexture(allTextures, matchingElement);
+                            GetTextureFrom(allTextures, matchingElements);
+                        }
+                    }
+                    else if (PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
+                    {
+                        if (layer == PR_DefOf.PR_Head || layer == PR_DefOf.PR_Neck)
+                        {
+                            GetTextureFrom(allTextures, elements);
+                        }
+                        else if (layer == PR_DefOf.PR_InnerFace)
+                        {
+                            var pickedElement = GetTextureFrom(allTextures, elements);
+                            var outerFace = DefDatabase<PortraitElementDef>.GetNamedSilentFail(pickedElement.defName.Replace(layer.defName,
+                                PR_DefOf.PR_OuterFace.defName));
+                            if (outerFace != null)
+                            {
+                                GetTexture(allTextures, outerFace);
+                                resolvedLayers.Add(PR_DefOf.PR_OuterFace);
+                            }
+                        }
+                        else if (layer == PR_DefOf.PR_MiddleHair)
+                        {
+                            var pickedElement = GetTextureFrom(allTextures, elements);
+                            var outerHairs = new List<PortraitElementDef>();
+                            var baseName = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_OuterHair.defName);
+                            var postfix = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$2");
+                            foreach (var suffix in TextureParser.allSuffices)
+                            {
+                                var newDefName = baseName + "-" + suffix + "-" + postfix;
+                                var def = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefName);
+                                if (def != null)
+                                {
+                                    outerHairs.Add(def);
+                                }
+                            }
+                            if (outerHairs.Any())
+                            {
+                                var outerHair = outerHairs.FirstOrDefault(x => x.requirements.ageRange is null 
+                                || x.requirements.ageRange.Value.Includes(pawn.ageTracker.AgeBiologicalYearsFloat));
+                                if (outerHair != null)
+                                {
+                                    GetTexture(allTextures, outerHair);
+                                    resolvedLayers.Add(PR_DefOf.PR_OuterHair);
+                                }
+                            }
                         }
                     }
                 }
             }
             return allTextures;
+        }
+
+        private PortraitElementDef GetTextureFrom(List<(PortraitElementDef, Texture)> allTextures, List<PortraitElementDef> elements)
+        {
+            Rand.PushState();
+            Rand.Seed = pawn.thingIDNumber;
+            var element = elements.RandomElement();
+            Rand.PopState();
+            GetTexture(allTextures, element);
+            return element;
         }
 
         private void GetTexture(List<(PortraitElementDef, Texture)> allTextures, PortraitElementDef matchingElement)
