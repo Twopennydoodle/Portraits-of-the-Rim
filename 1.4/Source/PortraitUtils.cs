@@ -48,7 +48,7 @@ namespace PortraitsOfTheRim
                 portraitElements[layerDef] = list;
             }
             allStyles = new HashSet<string>();
-            foreach (var elementDef in DefDatabase<PortraitElementDef>.AllDefs)
+            foreach (var elementDef in DefDatabase<PortraitElementDef>.AllDefs.ToList())
             {
                 if (elementDef.requirements.style.NullOrEmpty() is false)
                 {
@@ -58,7 +58,11 @@ namespace PortraitsOfTheRim
                 {
                     if (elementDef.requirements.apparels.Any(x => x is null))
                     {
-                        Log.Error(elementDef + " - Should be removed");
+                        foreach (var kvp in portraitElements.ToList())
+                        {
+                            kvp.Value.Remove(elementDef);
+                            Log.Error("Wrong PortraitElementDef: " + elementDef + ", removed it");
+                        }
                     }
                 }
             }
@@ -81,7 +85,10 @@ namespace PortraitsOfTheRim
             component.farClipPlane = camera.farClipPlane;
             portraitCamera = component;
         }
-
+        public static bool ShouldShowPortrait(this Pawn pawn)
+        {
+            return pawn != null && pawn.RaceProps.Humanlike && pawn.ageTracker.AgeBiologicalYearsFloat >= 7;
+        }
         public static bool IsAdult(this Pawn pawn)
         {
             return totalAdultAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat);

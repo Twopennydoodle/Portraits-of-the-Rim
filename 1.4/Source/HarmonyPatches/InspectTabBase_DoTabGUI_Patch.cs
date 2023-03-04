@@ -17,7 +17,8 @@ namespace PortraitsOfTheRim
         {
             if (__instance is ITab_Pawn_Gear tab)
             {
-                ITab_Pawn_Gear_FillTab_Patch.DrawPortraitArea(tab.SelPawnForGear, __instance.TabRect.x, __instance.TabRect.y - ITab_Pawn_Gear_FillTab_Patch.portraitSize, ITab_Pawn_Gear_FillTab_Patch.portraitSize);
+                ITab_Pawn_Gear_FillTab_Patch.DrawPortraitArea(tab.SelPawnForGear, __instance.TabRect.x, 
+                    __instance.TabRect.y - ITab_Pawn_Gear_FillTab_Patch.portraitSize, ITab_Pawn_Gear_FillTab_Patch.portraitSize, putShowPortraitToLeft: true);
             }
         } 
     }

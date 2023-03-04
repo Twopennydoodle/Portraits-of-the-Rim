@@ -14,7 +14,8 @@ namespace PortraitsOfTheRim
             var pawn = __instance.SelPawnForGear;
             if (!pawn.Dead)
             {
-                if (pawn.RaceProps.Humanlike)
+                var portrait = pawn.GetPortrait();
+                if (pawn.ShouldShowPortrait() && portrait.ShouldShow)
                 {
                     Rect rect = new Rect(0f, curY, width - ITab_Pawn_Gear_FillTab_Patch.portraitSize - 20, 44);
                     float statValue = pawn.GetStatValue(StatDefOf.ComfyTemperatureMin);
@@ -28,6 +29,7 @@ namespace PortraitsOfTheRim
                     return false;
                 }
             }
+
             return true;
         }
     }

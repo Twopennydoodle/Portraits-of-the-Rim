@@ -28,10 +28,12 @@ namespace PortraitsOfTheRim
     public class PortraitsOfTheRimSettings : ModSettings
     {
         public static bool showBandagesInsteadOfInjuries = false;
+        public static bool randomizeFaceAndHairAssetsInPlaceOfMissingAssets = true;
         public override void ExposeData()
         {
             base.ExposeData();
             Scribe_Values.Look(ref showBandagesInsteadOfInjuries, "showBandagesInsteadOfInjuries", false);
+            Scribe_Values.Look(ref randomizeFaceAndHairAssetsInPlaceOfMissingAssets, "randomizeFaceAndHairAssetsInPlaceOfMissingAssets", true);
         }
 
         public void DoSettingsWindowContents(Rect inRect)
@@ -39,6 +41,7 @@ namespace PortraitsOfTheRim
             var ls = new Listing_Standard();
             ls.Begin(inRect);
             ls.CheckboxLabeled("PR.ShowBandagesInsteadOfInjuries".Translate(), ref showBandagesInsteadOfInjuries);
+            ls.CheckboxLabeled("PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets".Translate(), ref randomizeFaceAndHairAssetsInPlaceOfMissingAssets);
             ls.End();
         }
     }

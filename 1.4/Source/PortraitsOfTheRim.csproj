@@ -64,6 +64,7 @@
   <ItemGroup>
     <Compile Include="BodyPartType.cs" />
     <Compile Include="HarmonyPatches\CombatExtended_FillTab_Patch.cs" />
+    <Compile Include="HarmonyPatches\InspectPaneUtility_DoTabs_Patch.cs" />
     <Compile Include="HarmonyPatches\ITab_Pawn_Gear_TryDrawComfyTemperatureRange_Patch.cs" />
     <Compile Include="HarmonyPatches\MainTabWindow_Quests_DoFactionInfo_Patch.cs" />
     <Compile Include="Portrait.cs" />
