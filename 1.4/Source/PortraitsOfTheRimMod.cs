@@ -29,11 +29,13 @@ namespace PortraitsOfTheRim
     {
         public static bool showBandagesInsteadOfInjuries = false;
         public static bool randomizeFaceAndHairAssetsInPlaceOfMissingAssets = true;
+        public static bool showPortraitByDefault = true;
         public override void ExposeData()
         {
             base.ExposeData();
             Scribe_Values.Look(ref showBandagesInsteadOfInjuries, "showBandagesInsteadOfInjuries", false);
             Scribe_Values.Look(ref randomizeFaceAndHairAssetsInPlaceOfMissingAssets, "randomizeFaceAndHairAssetsInPlaceOfMissingAssets", true);
+            Scribe_Values.Look(ref showPortraitByDefault, "showPortraitsByDefault", true);
         }
 
         public void DoSettingsWindowContents(Rect inRect)
@@ -42,6 +44,7 @@ namespace PortraitsOfTheRim
             ls.Begin(inRect);
             ls.CheckboxLabeled("PR.ShowBandagesInsteadOfInjuries".Translate(), ref showBandagesInsteadOfInjuries);
             ls.CheckboxLabeled("PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets".Translate(), ref randomizeFaceAndHairAssetsInPlaceOfMissingAssets);
+            ls.CheckboxLabeled("PR.ShowPortraitsByDefault".Translate(), ref showPortraitByDefault);
             ls.End();
         }
     }

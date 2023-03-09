@@ -3,6 +3,7 @@
 
 	<PR.ShowBandagesInsteadOfInjuries>Show bandages instead of injuries</PR.ShowBandagesInsteadOfInjuries>
 	<PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets>Randomize face and hair assets in place of missing assets</PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets>
+	<PR.ShowPortraitsByDefault>Portraits show by default (Toggling this in the main menu may reset all individual portrait show/hide settings)</PR.ShowPortraitsByDefault>
 	<PR.HidePortrait>Hide portrait</PR.HidePortrait>
 	<PR.ShowPortrait>Show portrait</PR.ShowPortrait>
 	<PR.HideHeadgear>Hide headgear</PR.HideHeadgear>

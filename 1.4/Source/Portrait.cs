@@ -21,7 +21,7 @@ namespace PortraitsOfTheRim
         private List<(PortraitElementDef, Texture)> portraitTextures;
         private int lastCreatingTime;
 
-        public bool hidePortrait;
+        public bool hidePortrait = !PortraitsOfTheRimSettings.showPortraitByDefault;
         public bool hideHeadgear;
         public string currentStyle;
 
@@ -213,7 +213,7 @@ namespace PortraitsOfTheRim
 
         public void ExposeData()
         {
-            Scribe_Values.Look(ref hidePortrait, "hidePortrait");
+            Scribe_Values.Look(ref hidePortrait, "hidePortrait", !PortraitsOfTheRimSettings.showPortraitByDefault);
             Scribe_Values.Look(ref hideHeadgear, "hideHeadgear");
             Scribe_Values.Look(ref currentStyle, "currentStyle");
         }
