@@ -139,11 +139,15 @@ namespace PortraitsOfTheRim
                     }
                     else if (PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
                     {
+                        // Temporarily disabling randominzation of head and neck. Some issues with randomization
+                        // where human necks may have insectoid heads, etc.
+                        /*
                         if (layer == PR_DefOf.PR_Head || layer == PR_DefOf.PR_Neck)
                         {
                             GetTextureFrom(allTextures, elements);
                         }
-                        else if (layer == PR_DefOf.PR_InnerFace)
+                        */
+                        if (layer == PR_DefOf.PR_InnerFace)
                         {
                             var pickedElement = GetTextureFrom(allTextures, elements);
                             var outerFace = DefDatabase<PortraitElementDef>.GetNamedSilentFail(pickedElement.defName.Replace(layer.defName,
