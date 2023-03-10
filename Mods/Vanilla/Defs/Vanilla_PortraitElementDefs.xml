@@ -18673,6 +18673,18 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_Vanilla-an-bald</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/Vanilla-an-bald</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Bald</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+		<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Vanilla-an-scatman</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
@@ -18825,6 +18837,18 @@
 		<requirements>
 			<ageRange>13~999</ageRange>
 			<hair>Wavy</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_Vanilla-cn-bald</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/Vanilla-cn-bald</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Bald</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
