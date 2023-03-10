@@ -111,6 +111,7 @@ namespace PortraitsOfTheRim
         {
             List<(PortraitElementDef, Texture)> allTextures = new ();
             List<PortraitLayerDef> resolvedLayers = new List<PortraitLayerDef>();
+            bool noMiddleHair = false;
             foreach (var layer in PortraitUtils.layers)
             {
                 if (resolvedLayers.Contains(layer))
@@ -155,27 +156,33 @@ namespace PortraitsOfTheRim
                         }
                         else if (layer == PR_DefOf.PR_MiddleHair)
                         {
-                            var pickedElement = GetTextureFrom(allTextures, elements);
-                            var outerHairs = new List<PortraitElementDef>();
-                            var baseName = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_OuterHair.defName);
-                            var postfix = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$2");
-                            foreach (var suffix in TextureParser.allSuffices)
+                            noMiddleHair = true;
+                        }
+                        else if (layer == PR_DefOf.PR_OuterHair)
+                        {
+                            if (noMiddleHair)
                             {
-                                var newDefName = baseName + "-" + suffix + "-" + postfix;
-                                var def = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefName);
-                                if (def != null)
+                                var pickedElement = GetTextureFrom(allTextures, elements);
+                                var middleHairs = new List<PortraitElementDef>();
+                                var baseName = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_MiddleHair.defName);
+                                var postfix = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$2");
+                                foreach (var suffix in TextureParser.allSuffices)
                                 {
-                                    outerHairs.Add(def);
+                                    var newDefName = baseName + "-" + suffix + "-" + postfix;
+                                    var def = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefName);
+                                    if (def != null)
+                                    {
+                                        middleHairs.Add(def);
+                                    }
                                 }
-                            }
-                            if (outerHairs.Any())
-                            {
-                                var outerHair = outerHairs.FirstOrDefault(x => x.requirements.ageRange is null 
-                                || x.requirements.ageRange.Value.Includes(pawn.ageTracker.AgeBiologicalYearsFloat));
-                                if (outerHair != null)
+                                if (middleHairs.Any())
                                 {
-                                    GetTexture(allTextures, outerHair);
-                                    resolvedLayers.Add(PR_DefOf.PR_OuterHair);
+                                    var middleHair = middleHairs.FirstOrDefault(x => x.requirements.ageRange is null
+                                    || x.requirements.ageRange.Value.Includes(pawn.ageTracker.AgeBiologicalYearsFloat));
+                                    if (middleHair != null)
+                                    {
+                                        GetTexture(allTextures, middleHair);
+                                    }
                                 }
                             }
                         }
