@@ -80,7 +80,7 @@ namespace PortraitsOfTheRim
         public const string Small = "s";
         public const string Medium = "m";
         public const string ExtraLarge = "xl";
-        public const string AdultAllGender = "an";
+        public const string AdultAllGender = "an"; // 13-999 for general use
         public const string ChildAllGender = "cn";
         public const string ChildFemale = "cf";
         public const string ChildMale = "cm";
@@ -92,13 +92,15 @@ namespace PortraitsOfTheRim
         public const string ElderMale = "em";
         public const string MiddleAgedFemale = "mf";
         public const string MiddleAgedMale = "mm";
-        public const string AdultFemale = "af";
-        public const string AdultMale = "am";
+        public const string AdultFemale = "af"; // Just used for faces, 19-999 (Different from AdultAllGender above) 
+        public const string AdultMale = "am"; // Just used for faces, 19-999 (Different from AdultAllGender above)
+        public const string TeenAdultMale = "tam"; // Just used for necks, 13-999 male
+        public const string TeenAdultFemale = "taf"; // Just used for necks, 13-999 female
 
         public static List<string> allSuffices = new List<string>
         {
             Large, Small, Medium, ExtraLarge, AdultAllGender, ChildAllGender, ChildFemale, ChildMale, TeenFemale, TeenMale, YoungFemale,
-            YoungMale, ElderFemale, ElderMale, MiddleAgedFemale, MiddleAgedMale, AdultFemale, AdultMale,
+            YoungMale, ElderFemale, ElderMale, MiddleAgedFemale, MiddleAgedMale, AdultFemale, AdultMale,TeenAdultMale, TeenAdultFemale,
         };
 
         public static Dictionary<string, int> suffices = new Dictionary<string, int>();
@@ -163,10 +165,18 @@ namespace PortraitsOfTheRim
                                 continue;
                             case AdultFemale:
                                 req.gender = Gender.Female;
-                                req.ageRange = PortraitUtils.totalAdultAge;
+                                req.ageRange = PortraitUtils.teenAdultAge;
                                 continue;
                             case AdultMale:
                                 req.gender = Gender.Male;
+                                req.ageRange = PortraitUtils.teenAdultAge;
+                                continue;
+                            case TeenAdultMale:
+                                req.gender = Gender.Male;
+                                req.ageRange = PortraitUtils.totalAdultAge;
+                                continue;
+                            case TeenAdultFemale:
+                                req.gender = Gender.Female;
                                 req.ageRange = PortraitUtils.totalAdultAge;
                                 continue;
                             case "wshoulder": AddBodyPart(req, "Shoulder", Side.Left); continue;

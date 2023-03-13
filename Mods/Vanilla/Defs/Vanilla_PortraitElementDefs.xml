@@ -1654,7 +1654,7 @@
 			<texPath>InnerFace/af/Vanilla-af-abrasive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Abrasive>0</Abrasive>
@@ -1669,7 +1669,7 @@
 			<texPath>InnerFace/af/Vanilla-af-annoyingvoice</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<AnnoyingVoice>0</AnnoyingVoice>
@@ -1684,7 +1684,7 @@
 			<texPath>InnerFace/af/Vanilla-af-ascetic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Ascetic>0</Ascetic>
@@ -1699,7 +1699,7 @@
 			<texPath>InnerFace/af/Vanilla-af-bloodlust</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Bloodlust>0</Bloodlust>
@@ -1714,7 +1714,7 @@
 			<texPath>InnerFace/af/Vanilla-af-bodymodder</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Transhumanist>0</Transhumanist>
@@ -1729,7 +1729,7 @@
 			<texPath>InnerFace/af/Vanilla-af-bodypurist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<BodyPurist>0</BodyPurist>
@@ -1744,7 +1744,7 @@
 			<texPath>InnerFace/af/Vanilla-af-brawler</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Brawler>0</Brawler>
@@ -1759,7 +1759,7 @@
 			<texPath>InnerFace/af/Vanilla-af-cannibal</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Cannibal>0</Cannibal>
@@ -1774,7 +1774,7 @@
 			<texPath>InnerFace/af/Vanilla-af-carefulshooter</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<ShootingAccuracy>1</ShootingAccuracy>
@@ -1789,7 +1789,7 @@
 			<texPath>InnerFace/af/Vanilla-af-chemicalfascination</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DrugDesire>2</DrugDesire>
@@ -1804,7 +1804,7 @@
 			<texPath>InnerFace/af/Vanilla-af-chemicalinterest</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DrugDesire>1</DrugDesire>
@@ -1819,7 +1819,7 @@
 			<texPath>InnerFace/af/Vanilla-af-creepybreathing</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<CreepyBreathing>0</CreepyBreathing>
@@ -1834,7 +1834,7 @@
 			<texPath>InnerFace/af/Vanilla-af-depressive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NaturalMood>-2</NaturalMood>
@@ -1849,7 +1849,7 @@
 			<texPath>InnerFace/af/Vanilla-af-fastlearner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<FastLearner>0</FastLearner>
@@ -1864,7 +1864,7 @@
 			<texPath>InnerFace/af/Vanilla-af-fastwalker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<SpeedOffset>1</SpeedOffset>
@@ -1879,7 +1879,7 @@
 			<texPath>InnerFace/af/Vanilla-af-gourmand</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Gourmand>0</Gourmand>
@@ -1894,7 +1894,7 @@
 			<texPath>InnerFace/af/Vanilla-af-greatmemory</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<GreatMemory>0</GreatMemory>
@@ -1909,7 +1909,7 @@
 			<texPath>InnerFace/af/Vanilla-af-greedy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Greedy>0</Greedy>
@@ -1924,7 +1924,7 @@
 			<texPath>InnerFace/af/Vanilla-af-hardworker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Industriousness>1</Industriousness>
@@ -1939,7 +1939,7 @@
 			<texPath>InnerFace/af/Vanilla-af-industrious</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Industriousness>2</Industriousness>
@@ -1954,7 +1954,7 @@
 			<texPath>InnerFace/af/Vanilla-af-ironwilled</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nerves>2</Nerves>
@@ -1969,7 +1969,7 @@
 			<texPath>InnerFace/af/Vanilla-af-jealous</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Jealous>0</Jealous>
@@ -1984,7 +1984,7 @@
 			<texPath>InnerFace/af/Vanilla-af-jogger</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<SpeedOffset>2</SpeedOffset>
@@ -1999,7 +1999,7 @@
 			<texPath>InnerFace/af/Vanilla-af-kind</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Kind>0</Kind>
@@ -2014,7 +2014,7 @@
 			<texPath>InnerFace/af/Vanilla-af-lazy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Industriousness>-1</Industriousness>
@@ -2029,7 +2029,7 @@
 			<texPath>InnerFace/af/Vanilla-af-masochist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Masochist>0</Masochist>
@@ -2044,7 +2044,7 @@
 			<texPath>InnerFace/af/Vanilla-af-misandrist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DislikesMen>0</DislikesMen>
@@ -2059,7 +2059,7 @@
 			<texPath>InnerFace/af/Vanilla-af-misogynist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DislikesWomen>0</DislikesWomen>
@@ -2074,7 +2074,7 @@
 			<texPath>InnerFace/af/Vanilla-af-nervous</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nerves>-1</Nerves>
@@ -2089,7 +2089,7 @@
 			<texPath>InnerFace/af/Vanilla-af-neurotic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Neurotic>1</Neurotic>
@@ -2104,7 +2104,7 @@
 			<texPath>InnerFace/af/Vanilla-af-nightowl</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NightOwl>0</NightOwl>
@@ -2119,7 +2119,7 @@
 			<texPath>InnerFace/af/Vanilla-af-nimble</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nimble>0</Nimble>
@@ -2134,7 +2134,7 @@
 			<texPath>InnerFace/af/Vanilla-af-nudist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nudist>0</Nudist>
@@ -2149,7 +2149,7 @@
 			<texPath>InnerFace/af/Vanilla-af-optimist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NaturalMood>1</NaturalMood>
@@ -2164,7 +2164,7 @@
 			<texPath>InnerFace/af/Vanilla-af-pessimist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NaturalMood>-1</NaturalMood>
@@ -2179,7 +2179,7 @@
 			<texPath>InnerFace/af/Vanilla-af-psychicallydeaf</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<PsychicSensitivity>-2</PsychicSensitivity>
@@ -2194,7 +2194,7 @@
 			<texPath>InnerFace/af/Vanilla-af-psychicallydull</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<PsychicSensitivity>-1</PsychicSensitivity>
@@ -2209,7 +2209,7 @@
 			<texPath>InnerFace/af/Vanilla-af-psychicallyhypersensitive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<PsychicSensitivity>2</PsychicSensitivity>
@@ -2224,7 +2224,7 @@
 			<texPath>InnerFace/af/Vanilla-af-psychicallysensitive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<PsychicSensitivity>1</PsychicSensitivity>
@@ -2239,7 +2239,7 @@
 			<texPath>InnerFace/af/Vanilla-af-psychopath</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Psychopath>0</Psychopath>
@@ -2254,7 +2254,7 @@
 			<texPath>InnerFace/af/Vanilla-af-pyromaniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Pyromaniac>0</Pyromaniac>
@@ -2269,7 +2269,7 @@
 			<texPath>InnerFace/af/Vanilla-af-quicksleeper</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<QuickSleeper>0</QuickSleeper>
@@ -2284,7 +2284,7 @@
 			<texPath>InnerFace/af/Vanilla-af-sanguine</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NaturalMood>2</NaturalMood>
@@ -2299,7 +2299,7 @@
 			<texPath>InnerFace/af/Vanilla-af-sickly</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Immunity>-1</Immunity>
@@ -2314,7 +2314,7 @@
 			<texPath>InnerFace/af/Vanilla-af-slothful</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Industriousness>-2</Industriousness>
@@ -2329,7 +2329,7 @@
 			<texPath>InnerFace/af/Vanilla-af-slowlearner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<SlowLearner>0</SlowLearner>
@@ -2344,7 +2344,7 @@
 			<texPath>InnerFace/af/Vanilla-af-slowpoke</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<SpeedOffset>-1</SpeedOffset>
@@ -2359,7 +2359,7 @@
 			<texPath>InnerFace/af/Vanilla-af-steadfast</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nerves>1</Nerves>
@@ -2374,7 +2374,7 @@
 			<texPath>InnerFace/af/Vanilla-af-superimmune</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Immunity>1</Immunity>
@@ -2389,7 +2389,7 @@
 			<texPath>InnerFace/af/Vanilla-af-teetotaler</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DrugDesire>-1</DrugDesire>
@@ -2404,7 +2404,7 @@
 			<texPath>InnerFace/af/Vanilla-af-toosmart</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<TooSmart>0</TooSmart>
@@ -2419,7 +2419,7 @@
 			<texPath>InnerFace/af/Vanilla-af-torturedartist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<TorturedArtist>0</TorturedArtist>
@@ -2434,7 +2434,7 @@
 			<texPath>InnerFace/af/Vanilla-af-tough</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Tough>0</Tough>
@@ -2449,7 +2449,7 @@
 			<texPath>InnerFace/af/Vanilla-af-triggerhappy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<ShootingAccuracy>-1</ShootingAccuracy>
@@ -2464,7 +2464,7 @@
 			<texPath>InnerFace/af/Vanilla-af-undergrounder</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Undergrounder>0</Undergrounder>
@@ -2479,7 +2479,7 @@
 			<texPath>InnerFace/af/Vanilla-af-veryneurotic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Neurotic>2</Neurotic>
@@ -2494,7 +2494,7 @@
 			<texPath>InnerFace/af/Vanilla-af-volatile</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nerves>-2</Nerves>
@@ -2509,7 +2509,7 @@
 			<texPath>InnerFace/af/Vanilla-af-wimp</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Wimp>0</Wimp>
@@ -2524,7 +2524,7 @@
 			<texPath>InnerFace/am/Vanilla-am-abrasive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Abrasive>0</Abrasive>
@@ -2539,7 +2539,7 @@
 			<texPath>InnerFace/am/Vanilla-am-annoyingvoice</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<AnnoyingVoice>0</AnnoyingVoice>
@@ -2554,7 +2554,7 @@
 			<texPath>InnerFace/am/Vanilla-am-ascetic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Ascetic>0</Ascetic>
@@ -2569,7 +2569,7 @@
 			<texPath>InnerFace/am/Vanilla-am-bloodlust</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Bloodlust>0</Bloodlust>
@@ -2584,7 +2584,7 @@
 			<texPath>InnerFace/am/Vanilla-am-bodymodder</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Transhumanist>0</Transhumanist>
@@ -2599,7 +2599,7 @@
 			<texPath>InnerFace/am/Vanilla-am-bodypurist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<BodyPurist>0</BodyPurist>
@@ -2614,7 +2614,7 @@
 			<texPath>InnerFace/am/Vanilla-am-brawler</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Brawler>0</Brawler>
@@ -2629,7 +2629,7 @@
 			<texPath>InnerFace/am/Vanilla-am-cannibal</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Cannibal>0</Cannibal>
@@ -2644,7 +2644,7 @@
 			<texPath>InnerFace/am/Vanilla-am-carefulshooter</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<ShootingAccuracy>1</ShootingAccuracy>
@@ -2659,7 +2659,7 @@
 			<texPath>InnerFace/am/Vanilla-am-chemicalfascination</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DrugDesire>2</DrugDesire>
@@ -2674,7 +2674,7 @@
 			<texPath>InnerFace/am/Vanilla-am-chemicalinterest</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DrugDesire>1</DrugDesire>
@@ -2689,7 +2689,7 @@
 			<texPath>InnerFace/am/Vanilla-am-creepybreathing</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<CreepyBreathing>0</CreepyBreathing>
@@ -2704,7 +2704,7 @@
 			<texPath>InnerFace/am/Vanilla-am-depressive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NaturalMood>-2</NaturalMood>
@@ -2719,7 +2719,7 @@
 			<texPath>InnerFace/am/Vanilla-am-fastlearner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<FastLearner>0</FastLearner>
@@ -2734,7 +2734,7 @@
 			<texPath>InnerFace/am/Vanilla-am-fastwalker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<SpeedOffset>1</SpeedOffset>
@@ -2749,7 +2749,7 @@
 			<texPath>InnerFace/am/Vanilla-am-gourmand</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Gourmand>0</Gourmand>
@@ -2764,7 +2764,7 @@
 			<texPath>InnerFace/am/Vanilla-am-greatmemory</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<GreatMemory>0</GreatMemory>
@@ -2779,7 +2779,7 @@
 			<texPath>InnerFace/am/Vanilla-am-greedy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Greedy>0</Greedy>
@@ -2794,7 +2794,7 @@
 			<texPath>InnerFace/am/Vanilla-am-hardworker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Industriousness>1</Industriousness>
@@ -2809,7 +2809,7 @@
 			<texPath>InnerFace/am/Vanilla-am-industrious</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Industriousness>2</Industriousness>
@@ -2824,7 +2824,7 @@
 			<texPath>InnerFace/am/Vanilla-am-ironwilled</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nerves>2</Nerves>
@@ -2839,7 +2839,7 @@
 			<texPath>InnerFace/am/Vanilla-am-jealous</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Jealous>0</Jealous>
@@ -2854,7 +2854,7 @@
 			<texPath>InnerFace/am/Vanilla-am-jogger</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<SpeedOffset>2</SpeedOffset>
@@ -2869,7 +2869,7 @@
 			<texPath>InnerFace/am/Vanilla-am-kind</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Kind>0</Kind>
@@ -2884,7 +2884,7 @@
 			<texPath>InnerFace/am/Vanilla-am-lazy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Industriousness>-1</Industriousness>
@@ -2899,7 +2899,7 @@
 			<texPath>InnerFace/am/Vanilla-am-masochist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Masochist>0</Masochist>
@@ -2914,7 +2914,7 @@
 			<texPath>InnerFace/am/Vanilla-am-misandrist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DislikesMen>0</DislikesMen>
@@ -2929,7 +2929,7 @@
 			<texPath>InnerFace/am/Vanilla-am-misogynist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DislikesWomen>0</DislikesWomen>
@@ -2944,7 +2944,7 @@
 			<texPath>InnerFace/am/Vanilla-am-nervous</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nerves>-1</Nerves>
@@ -2959,7 +2959,7 @@
 			<texPath>InnerFace/am/Vanilla-am-neurotic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Neurotic>1</Neurotic>
@@ -2974,7 +2974,7 @@
 			<texPath>InnerFace/am/Vanilla-am-nightowl</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NightOwl>0</NightOwl>
@@ -2989,7 +2989,7 @@
 			<texPath>InnerFace/am/Vanilla-am-nimble</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nimble>0</Nimble>
@@ -3004,7 +3004,7 @@
 			<texPath>InnerFace/am/Vanilla-am-nudist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nudist>0</Nudist>
@@ -3019,7 +3019,7 @@
 			<texPath>InnerFace/am/Vanilla-am-optimist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NaturalMood>1</NaturalMood>
@@ -3034,7 +3034,7 @@
 			<texPath>InnerFace/am/Vanilla-am-pessimist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NaturalMood>-1</NaturalMood>
@@ -3049,7 +3049,7 @@
 			<texPath>InnerFace/am/Vanilla-am-psychicallydeaf</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<PsychicSensitivity>-2</PsychicSensitivity>
@@ -3064,7 +3064,7 @@
 			<texPath>InnerFace/am/Vanilla-am-psychicallydull</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<PsychicSensitivity>-1</PsychicSensitivity>
@@ -3079,7 +3079,7 @@
 			<texPath>InnerFace/am/Vanilla-am-psychicallyhypersensitive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<PsychicSensitivity>2</PsychicSensitivity>
@@ -3094,7 +3094,7 @@
 			<texPath>InnerFace/am/Vanilla-am-psychicallysensitive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<PsychicSensitivity>1</PsychicSensitivity>
@@ -3109,7 +3109,7 @@
 			<texPath>InnerFace/am/Vanilla-am-psychopath</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Psychopath>0</Psychopath>
@@ -3124,7 +3124,7 @@
 			<texPath>InnerFace/am/Vanilla-am-pyromaniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Pyromaniac>0</Pyromaniac>
@@ -3139,7 +3139,7 @@
 			<texPath>InnerFace/am/Vanilla-am-quicksleeper</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<QuickSleeper>0</QuickSleeper>
@@ -3154,7 +3154,7 @@
 			<texPath>InnerFace/am/Vanilla-am-sanguine</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NaturalMood>2</NaturalMood>
@@ -3169,7 +3169,7 @@
 			<texPath>InnerFace/am/Vanilla-am-sickly</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Immunity>-1</Immunity>
@@ -3184,7 +3184,7 @@
 			<texPath>InnerFace/am/Vanilla-am-slothful</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Industriousness>-2</Industriousness>
@@ -3199,7 +3199,7 @@
 			<texPath>InnerFace/am/Vanilla-am-slowlearner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<SlowLearner>0</SlowLearner>
@@ -3214,7 +3214,7 @@
 			<texPath>InnerFace/am/Vanilla-am-slowpoke</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<SpeedOffset>-1</SpeedOffset>
@@ -3229,7 +3229,7 @@
 			<texPath>InnerFace/am/Vanilla-am-steadfast</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nerves>1</Nerves>
@@ -3244,7 +3244,7 @@
 			<texPath>InnerFace/am/Vanilla-am-superimmune</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Immunity>1</Immunity>
@@ -3259,7 +3259,7 @@
 			<texPath>InnerFace/am/Vanilla-am-teetotaler</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DrugDesire>-1</DrugDesire>
@@ -3274,7 +3274,7 @@
 			<texPath>InnerFace/am/Vanilla-am-toosmart</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<TooSmart>0</TooSmart>
@@ -3289,7 +3289,7 @@
 			<texPath>InnerFace/am/Vanilla-am-torturedartist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<TorturedArtist>0</TorturedArtist>
@@ -3304,7 +3304,7 @@
 			<texPath>InnerFace/am/Vanilla-am-tough</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Tough>0</Tough>
@@ -3319,7 +3319,7 @@
 			<texPath>InnerFace/am/Vanilla-am-triggerhappy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<ShootingAccuracy>-1</ShootingAccuracy>
@@ -3334,7 +3334,7 @@
 			<texPath>InnerFace/am/Vanilla-am-undergrounder</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Undergrounder>0</Undergrounder>
@@ -3349,7 +3349,7 @@
 			<texPath>InnerFace/am/Vanilla-am-veryneurotic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Neurotic>2</Neurotic>
@@ -3364,7 +3364,7 @@
 			<texPath>InnerFace/am/Vanilla-am-volatile</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nerves>-2</Nerves>
@@ -3379,7 +3379,7 @@
 			<texPath>InnerFace/am/Vanilla-am-wimp</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Wimp>0</Wimp>
@@ -12167,236 +12167,76 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-af-average</defName>
+		<defName>PR_Neck_Vanilla-an-heavy</defName>
 		<portraitLayer>PR_Neck</portraitLayer>
 		<graphicData>
-			<texPath>Neck/Vanilla-af-average</texPath>
+			<texPath>Neck/Vanilla-an-heavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<gender>Female</gender>
-			<body>Standard</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-af-heavy</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-af-heavy</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<gender>Female</gender>
 			<body>Fat</body>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-af-hulk</defName>
+		<defName>PR_Neck_Vanilla-an-hulk</defName>
 		<portraitLayer>PR_Neck</portraitLayer>
 		<graphicData>
-			<texPath>Neck/Vanilla-af-hulk</texPath>
+			<texPath>Neck/Vanilla-an-hulk</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<gender>Female</gender>
 			<body>Hulk</body>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-af-thin</defName>
+		<defName>PR_Neck_Vanilla-an-thin</defName>
 		<portraitLayer>PR_Neck</portraitLayer>
 		<graphicData>
-			<texPath>Neck/Vanilla-af-thin</texPath>
+			<texPath>Neck/Vanilla-an-thin</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<gender>Female</gender>
 			<body>Thin</body>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-am-average</defName>
+		<defName>PR_Neck_Vanilla-cn-child</defName>
 		<portraitLayer>PR_Neck</portraitLayer>
 		<graphicData>
-			<texPath>Neck/Vanilla-am-average</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<gender>Male</gender>
-			<body>Standard</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-am-heavy</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-am-heavy</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<gender>Male</gender>
-			<body>Fat</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-am-hulk</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-am-hulk</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<gender>Male</gender>
-			<body>Hulk</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-am-thin</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-am-thin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<gender>Male</gender>
-			<body>Thin</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-cf-child</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-cf-child</texPath>
+			<texPath>Neck/Vanilla-cn-child</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
 			<bodyType>Small</bodyType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-cm-child</defName>
+		<defName>PR_Neck_Vanilla-taf-average</defName>
 		<portraitLayer>PR_Neck</portraitLayer>
 		<graphicData>
-			<texPath>Neck/Vanilla-cm-child</texPath>
+			<texPath>Neck/Vanilla-taf-average</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
-			<gender>Male</gender>
-			<bodyType>Small</bodyType>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-tf-average</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-tf-average</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~19</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Female</gender>
 			<body>Standard</body>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-tf-heavy</defName>
+		<defName>PR_Neck_Vanilla-tam-average</defName>
 		<portraitLayer>PR_Neck</portraitLayer>
 		<graphicData>
-			<texPath>Neck/Vanilla-tf-heavy</texPath>
+			<texPath>Neck/Vanilla-tam-average</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
-			<body>Fat</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-tf-hulk</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-tf-hulk</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
-			<body>Hulk</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-tf-thin</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-tf-thin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
-			<body>Thin</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-tm-average</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-tm-average</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~19</ageRange>
+			<ageRange>13~999</ageRange>
 			<gender>Male</gender>
 			<body>Standard</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-tm-heavy</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-tm-heavy</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~19</ageRange>
-			<gender>Male</gender>
-			<body>Fat</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-tm-hulk</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-tm-hulk</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~19</ageRange>
-			<gender>Male</gender>
-			<body>Hulk</body>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Neck_Vanilla-tm-thin</defName>
-		<portraitLayer>PR_Neck</portraitLayer>
-		<graphicData>
-			<texPath>Neck/Vanilla-tm-thin</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~19</ageRange>
-			<gender>Male</gender>
-			<body>Thin</body>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -13039,7 +12879,7 @@
 			<texPath>OuterFace/af/Vanilla-af-abrasive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Abrasive>0</Abrasive>
@@ -13054,7 +12894,7 @@
 			<texPath>OuterFace/af/Vanilla-af-annoyingvoice</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<AnnoyingVoice>0</AnnoyingVoice>
@@ -13069,7 +12909,7 @@
 			<texPath>OuterFace/af/Vanilla-af-ascetic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Ascetic>0</Ascetic>
@@ -13084,7 +12924,7 @@
 			<texPath>OuterFace/af/Vanilla-af-bloodlust</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Bloodlust>0</Bloodlust>
@@ -13099,7 +12939,7 @@
 			<texPath>OuterFace/af/Vanilla-af-bodymodder</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Transhumanist>0</Transhumanist>
@@ -13114,7 +12954,7 @@
 			<texPath>OuterFace/af/Vanilla-af-bodypurist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<BodyPurist>0</BodyPurist>
@@ -13129,7 +12969,7 @@
 			<texPath>OuterFace/af/Vanilla-af-brawler</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Brawler>0</Brawler>
@@ -13144,7 +12984,7 @@
 			<texPath>OuterFace/af/Vanilla-af-cannibal</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Cannibal>0</Cannibal>
@@ -13159,7 +12999,7 @@
 			<texPath>OuterFace/af/Vanilla-af-carefulshooter</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<ShootingAccuracy>1</ShootingAccuracy>
@@ -13174,7 +13014,7 @@
 			<texPath>OuterFace/af/Vanilla-af-chemicalfascination</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DrugDesire>2</DrugDesire>
@@ -13189,7 +13029,7 @@
 			<texPath>OuterFace/af/Vanilla-af-chemicalinterest</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DrugDesire>1</DrugDesire>
@@ -13204,7 +13044,7 @@
 			<texPath>OuterFace/af/Vanilla-af-creepybreathing</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<CreepyBreathing>0</CreepyBreathing>
@@ -13219,7 +13059,7 @@
 			<texPath>OuterFace/af/Vanilla-af-depressive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NaturalMood>-2</NaturalMood>
@@ -13234,7 +13074,7 @@
 			<texPath>OuterFace/af/Vanilla-af-fastlearner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<FastLearner>0</FastLearner>
@@ -13249,7 +13089,7 @@
 			<texPath>OuterFace/af/Vanilla-af-fastwalker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<SpeedOffset>1</SpeedOffset>
@@ -13264,7 +13104,7 @@
 			<texPath>OuterFace/af/Vanilla-af-gourmand</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Gourmand>0</Gourmand>
@@ -13279,7 +13119,7 @@
 			<texPath>OuterFace/af/Vanilla-af-greatmemory</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<GreatMemory>0</GreatMemory>
@@ -13294,7 +13134,7 @@
 			<texPath>OuterFace/af/Vanilla-af-greedy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Greedy>0</Greedy>
@@ -13309,7 +13149,7 @@
 			<texPath>OuterFace/af/Vanilla-af-hardworker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Industriousness>1</Industriousness>
@@ -13324,7 +13164,7 @@
 			<texPath>OuterFace/af/Vanilla-af-industrious</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Industriousness>2</Industriousness>
@@ -13339,7 +13179,7 @@
 			<texPath>OuterFace/af/Vanilla-af-ironwilled</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nerves>2</Nerves>
@@ -13354,7 +13194,7 @@
 			<texPath>OuterFace/af/Vanilla-af-jealous</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Jealous>0</Jealous>
@@ -13369,7 +13209,7 @@
 			<texPath>OuterFace/af/Vanilla-af-jogger</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<SpeedOffset>2</SpeedOffset>
@@ -13384,7 +13224,7 @@
 			<texPath>OuterFace/af/Vanilla-af-kind</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Kind>0</Kind>
@@ -13399,7 +13239,7 @@
 			<texPath>OuterFace/af/Vanilla-af-lazy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Industriousness>-1</Industriousness>
@@ -13414,7 +13254,7 @@
 			<texPath>OuterFace/af/Vanilla-af-masochist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Masochist>0</Masochist>
@@ -13429,7 +13269,7 @@
 			<texPath>OuterFace/af/Vanilla-af-misandrist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DislikesMen>0</DislikesMen>
@@ -13444,7 +13284,7 @@
 			<texPath>OuterFace/af/Vanilla-af-misogynist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DislikesWomen>0</DislikesWomen>
@@ -13459,7 +13299,7 @@
 			<texPath>OuterFace/af/Vanilla-af-nervous</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nerves>-1</Nerves>
@@ -13474,7 +13314,7 @@
 			<texPath>OuterFace/af/Vanilla-af-neurotic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Neurotic>1</Neurotic>
@@ -13489,7 +13329,7 @@
 			<texPath>OuterFace/af/Vanilla-af-nightowl</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NightOwl>0</NightOwl>
@@ -13504,7 +13344,7 @@
 			<texPath>OuterFace/af/Vanilla-af-nimble</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nimble>0</Nimble>
@@ -13519,7 +13359,7 @@
 			<texPath>OuterFace/af/Vanilla-af-nudist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nudist>0</Nudist>
@@ -13534,7 +13374,7 @@
 			<texPath>OuterFace/af/Vanilla-af-optimist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NaturalMood>1</NaturalMood>
@@ -13549,7 +13389,7 @@
 			<texPath>OuterFace/af/Vanilla-af-pessimist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NaturalMood>-1</NaturalMood>
@@ -13564,7 +13404,7 @@
 			<texPath>OuterFace/af/Vanilla-af-psychicallydeaf</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<PsychicSensitivity>-2</PsychicSensitivity>
@@ -13579,7 +13419,7 @@
 			<texPath>OuterFace/af/Vanilla-af-psychicallydull</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<PsychicSensitivity>-1</PsychicSensitivity>
@@ -13594,7 +13434,7 @@
 			<texPath>OuterFace/af/Vanilla-af-psychicallyhypersensitive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<PsychicSensitivity>2</PsychicSensitivity>
@@ -13609,7 +13449,7 @@
 			<texPath>OuterFace/af/Vanilla-af-psychicallysensitive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<PsychicSensitivity>1</PsychicSensitivity>
@@ -13624,7 +13464,7 @@
 			<texPath>OuterFace/af/Vanilla-af-psychopath</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Psychopath>0</Psychopath>
@@ -13639,7 +13479,7 @@
 			<texPath>OuterFace/af/Vanilla-af-pyromaniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Pyromaniac>0</Pyromaniac>
@@ -13654,7 +13494,7 @@
 			<texPath>OuterFace/af/Vanilla-af-quicksleeper</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<QuickSleeper>0</QuickSleeper>
@@ -13669,7 +13509,7 @@
 			<texPath>OuterFace/af/Vanilla-af-sanguine</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<NaturalMood>2</NaturalMood>
@@ -13684,7 +13524,7 @@
 			<texPath>OuterFace/af/Vanilla-af-sickly</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Immunity>-1</Immunity>
@@ -13699,7 +13539,7 @@
 			<texPath>OuterFace/af/Vanilla-af-slothful</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Industriousness>-2</Industriousness>
@@ -13714,7 +13554,7 @@
 			<texPath>OuterFace/af/Vanilla-af-slowlearner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<SlowLearner>0</SlowLearner>
@@ -13729,7 +13569,7 @@
 			<texPath>OuterFace/af/Vanilla-af-slowpoke</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<SpeedOffset>-1</SpeedOffset>
@@ -13744,7 +13584,7 @@
 			<texPath>OuterFace/af/Vanilla-af-steadfast</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nerves>1</Nerves>
@@ -13759,7 +13599,7 @@
 			<texPath>OuterFace/af/Vanilla-af-superimmune</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Immunity>1</Immunity>
@@ -13774,7 +13614,7 @@
 			<texPath>OuterFace/af/Vanilla-af-teetotaler</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<DrugDesire>-1</DrugDesire>
@@ -13789,7 +13629,7 @@
 			<texPath>OuterFace/af/Vanilla-af-toosmart</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<TooSmart>0</TooSmart>
@@ -13804,7 +13644,7 @@
 			<texPath>OuterFace/af/Vanilla-af-torturedartist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<TorturedArtist>0</TorturedArtist>
@@ -13819,7 +13659,7 @@
 			<texPath>OuterFace/af/Vanilla-af-tough</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Tough>0</Tough>
@@ -13834,7 +13674,7 @@
 			<texPath>OuterFace/af/Vanilla-af-triggerhappy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<ShootingAccuracy>-1</ShootingAccuracy>
@@ -13849,7 +13689,7 @@
 			<texPath>OuterFace/af/Vanilla-af-undergrounder</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Undergrounder>0</Undergrounder>
@@ -13864,7 +13704,7 @@
 			<texPath>OuterFace/af/Vanilla-af-veryneurotic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Neurotic>2</Neurotic>
@@ -13879,7 +13719,7 @@
 			<texPath>OuterFace/af/Vanilla-af-volatile</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Nerves>-2</Nerves>
@@ -13894,7 +13734,7 @@
 			<texPath>OuterFace/af/Vanilla-af-wimp</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Wimp>0</Wimp>
@@ -13909,7 +13749,7 @@
 			<texPath>OuterFace/am/Vanilla-am-abrasive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Abrasive>0</Abrasive>
@@ -13924,7 +13764,7 @@
 			<texPath>OuterFace/am/Vanilla-am-annoyingvoice</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<AnnoyingVoice>0</AnnoyingVoice>
@@ -13939,7 +13779,7 @@
 			<texPath>OuterFace/am/Vanilla-am-ascetic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Ascetic>0</Ascetic>
@@ -13954,7 +13794,7 @@
 			<texPath>OuterFace/am/Vanilla-am-bloodlust</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Bloodlust>0</Bloodlust>
@@ -13969,7 +13809,7 @@
 			<texPath>OuterFace/am/Vanilla-am-bodymodder</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Transhumanist>0</Transhumanist>
@@ -13984,7 +13824,7 @@
 			<texPath>OuterFace/am/Vanilla-am-bodypurist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<BodyPurist>0</BodyPurist>
@@ -13999,7 +13839,7 @@
 			<texPath>OuterFace/am/Vanilla-am-brawler</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Brawler>0</Brawler>
@@ -14014,7 +13854,7 @@
 			<texPath>OuterFace/am/Vanilla-am-cannibal</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Cannibal>0</Cannibal>
@@ -14029,7 +13869,7 @@
 			<texPath>OuterFace/am/Vanilla-am-carefulshooter</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<ShootingAccuracy>1</ShootingAccuracy>
@@ -14044,7 +13884,7 @@
 			<texPath>OuterFace/am/Vanilla-am-chemicalfascination</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DrugDesire>2</DrugDesire>
@@ -14059,7 +13899,7 @@
 			<texPath>OuterFace/am/Vanilla-am-chemicalinterest</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DrugDesire>1</DrugDesire>
@@ -14074,7 +13914,7 @@
 			<texPath>OuterFace/am/Vanilla-am-creepybreathing</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<CreepyBreathing>0</CreepyBreathing>
@@ -14089,7 +13929,7 @@
 			<texPath>OuterFace/am/Vanilla-am-depressive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NaturalMood>-2</NaturalMood>
@@ -14104,7 +13944,7 @@
 			<texPath>OuterFace/am/Vanilla-am-fastlearner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<FastLearner>0</FastLearner>
@@ -14119,7 +13959,7 @@
 			<texPath>OuterFace/am/Vanilla-am-fastwalker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<SpeedOffset>1</SpeedOffset>
@@ -14134,7 +13974,7 @@
 			<texPath>OuterFace/am/Vanilla-am-gourmand</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Gourmand>0</Gourmand>
@@ -14149,7 +13989,7 @@
 			<texPath>OuterFace/am/Vanilla-am-greatmemory</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<GreatMemory>0</GreatMemory>
@@ -14164,7 +14004,7 @@
 			<texPath>OuterFace/am/Vanilla-am-greedy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Greedy>0</Greedy>
@@ -14179,7 +14019,7 @@
 			<texPath>OuterFace/am/Vanilla-am-hardworker</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Industriousness>1</Industriousness>
@@ -14194,7 +14034,7 @@
 			<texPath>OuterFace/am/Vanilla-am-industrious</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Industriousness>2</Industriousness>
@@ -14209,7 +14049,7 @@
 			<texPath>OuterFace/am/Vanilla-am-ironwilled</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nerves>2</Nerves>
@@ -14224,7 +14064,7 @@
 			<texPath>OuterFace/am/Vanilla-am-jealous</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Jealous>0</Jealous>
@@ -14239,7 +14079,7 @@
 			<texPath>OuterFace/am/Vanilla-am-jogger</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<SpeedOffset>2</SpeedOffset>
@@ -14254,7 +14094,7 @@
 			<texPath>OuterFace/am/Vanilla-am-kind</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Kind>0</Kind>
@@ -14269,7 +14109,7 @@
 			<texPath>OuterFace/am/Vanilla-am-lazy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Industriousness>-1</Industriousness>
@@ -14284,7 +14124,7 @@
 			<texPath>OuterFace/am/Vanilla-am-masochist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Masochist>0</Masochist>
@@ -14299,7 +14139,7 @@
 			<texPath>OuterFace/am/Vanilla-am-misandrist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DislikesMen>0</DislikesMen>
@@ -14314,7 +14154,7 @@
 			<texPath>OuterFace/am/Vanilla-am-misogynist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DislikesWomen>0</DislikesWomen>
@@ -14329,7 +14169,7 @@
 			<texPath>OuterFace/am/Vanilla-am-nervous</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nerves>-1</Nerves>
@@ -14344,7 +14184,7 @@
 			<texPath>OuterFace/am/Vanilla-am-neurotic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Neurotic>1</Neurotic>
@@ -14359,7 +14199,7 @@
 			<texPath>OuterFace/am/Vanilla-am-nightowl</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NightOwl>0</NightOwl>
@@ -14374,7 +14214,7 @@
 			<texPath>OuterFace/am/Vanilla-am-nimble</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nimble>0</Nimble>
@@ -14389,7 +14229,7 @@
 			<texPath>OuterFace/am/Vanilla-am-nudist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nudist>0</Nudist>
@@ -14404,7 +14244,7 @@
 			<texPath>OuterFace/am/Vanilla-am-optimist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NaturalMood>1</NaturalMood>
@@ -14419,7 +14259,7 @@
 			<texPath>OuterFace/am/Vanilla-am-pessimist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NaturalMood>-1</NaturalMood>
@@ -14434,7 +14274,7 @@
 			<texPath>OuterFace/am/Vanilla-am-psychicallydeaf</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<PsychicSensitivity>-2</PsychicSensitivity>
@@ -14449,7 +14289,7 @@
 			<texPath>OuterFace/am/Vanilla-am-psychicallydull</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<PsychicSensitivity>-1</PsychicSensitivity>
@@ -14464,7 +14304,7 @@
 			<texPath>OuterFace/am/Vanilla-am-psychicallyhypersensitive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<PsychicSensitivity>2</PsychicSensitivity>
@@ -14479,7 +14319,7 @@
 			<texPath>OuterFace/am/Vanilla-am-psychicallysensitive</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<PsychicSensitivity>1</PsychicSensitivity>
@@ -14494,7 +14334,7 @@
 			<texPath>OuterFace/am/Vanilla-am-psychopath</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Psychopath>0</Psychopath>
@@ -14509,7 +14349,7 @@
 			<texPath>OuterFace/am/Vanilla-am-pyromaniac</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Pyromaniac>0</Pyromaniac>
@@ -14524,7 +14364,7 @@
 			<texPath>OuterFace/am/Vanilla-am-quicksleeper</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<QuickSleeper>0</QuickSleeper>
@@ -14539,7 +14379,7 @@
 			<texPath>OuterFace/am/Vanilla-am-sanguine</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<NaturalMood>2</NaturalMood>
@@ -14554,7 +14394,7 @@
 			<texPath>OuterFace/am/Vanilla-am-sickly</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Immunity>-1</Immunity>
@@ -14569,7 +14409,7 @@
 			<texPath>OuterFace/am/Vanilla-am-slothful</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Industriousness>-2</Industriousness>
@@ -14584,7 +14424,7 @@
 			<texPath>OuterFace/am/Vanilla-am-slowlearner</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<SlowLearner>0</SlowLearner>
@@ -14599,7 +14439,7 @@
 			<texPath>OuterFace/am/Vanilla-am-slowpoke</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<SpeedOffset>-1</SpeedOffset>
@@ -14614,7 +14454,7 @@
 			<texPath>OuterFace/am/Vanilla-am-steadfast</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nerves>1</Nerves>
@@ -14629,7 +14469,7 @@
 			<texPath>OuterFace/am/Vanilla-am-superimmune</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Immunity>1</Immunity>
@@ -14644,7 +14484,7 @@
 			<texPath>OuterFace/am/Vanilla-am-teetotaler</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<DrugDesire>-1</DrugDesire>
@@ -14659,7 +14499,7 @@
 			<texPath>OuterFace/am/Vanilla-am-toosmart</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<TooSmart>0</TooSmart>
@@ -14674,7 +14514,7 @@
 			<texPath>OuterFace/am/Vanilla-am-torturedartist</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<TorturedArtist>0</TorturedArtist>
@@ -14689,7 +14529,7 @@
 			<texPath>OuterFace/am/Vanilla-am-tough</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Tough>0</Tough>
@@ -14704,7 +14544,7 @@
 			<texPath>OuterFace/am/Vanilla-am-triggerhappy</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<ShootingAccuracy>-1</ShootingAccuracy>
@@ -14719,7 +14559,7 @@
 			<texPath>OuterFace/am/Vanilla-am-undergrounder</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Undergrounder>0</Undergrounder>
@@ -14734,7 +14574,7 @@
 			<texPath>OuterFace/am/Vanilla-am-veryneurotic</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Neurotic>2</Neurotic>
@@ -14749,7 +14589,7 @@
 			<texPath>OuterFace/am/Vanilla-am-volatile</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Nerves>-2</Nerves>
@@ -14764,7 +14604,7 @@
 			<texPath>OuterFace/am/Vanilla-am-wimp</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Wimp>0</Wimp>
