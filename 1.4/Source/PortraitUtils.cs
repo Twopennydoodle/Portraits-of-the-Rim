@@ -30,6 +30,7 @@ namespace PortraitsOfTheRim
         public static FloatRange elderAge = new FloatRange(64, 999f);
         public static FloatRange totalChildAge = new FloatRange(7f, 13f);
         public static FloatRange totalAdultAge = new FloatRange(13f, 999);
+        public static FloatRange teenAdultAge = new FloatRange(19f, 999);
         static PortraitUtils()
         {
             new Harmony("PortraitsOfTheRimMod").PatchAll();

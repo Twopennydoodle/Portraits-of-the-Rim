@@ -196,11 +196,7 @@ namespace PortraitsOfTheRim
                     }
                 case PawnBodyType.Medium:
                     {
-                        if (pawn.gender == Gender.Female && (pawn.story.bodyType == BodyTypeDefOf.Female || pawn.story.bodyType == BodyTypeDefOf.Thin))
-                        {
-                            return true;
-                        }
-                        else if (pawn.IsTeen() && pawn.gender == Gender.Male && pawn.MatchesAnyBodyType(BodyTypeDefOf.Thin))
+                        if (pawn.IsAdult() && (pawn.story.bodyType == BodyTypeDefOf.Female || pawn.story.bodyType == BodyTypeDefOf.Thin))
                         {
                             return true;
                         }
@@ -209,34 +205,16 @@ namespace PortraitsOfTheRim
                     }
                 case PawnBodyType.Large:
                     {           
-                        if (pawn.IsTeen())
+                        if (pawn.IsAdult() && pawn.story.bodyType == BodyTypeDefOf.Male)
                         {
-                            if (pawn.gender == Gender.Female && pawn.story.bodyType == BodyTypeDefOf.Fat)
-                            {
-                                return true;
-                            }
-                            else if (pawn.gender == Gender.Male && pawn.story.bodyType == BodyTypeDefOf.Fat)
-                            {
-                                return true;
-                            }
-                        }
-                        else if (pawn.IsAdult())
-                        {
-                            if (pawn.gender == Gender.Female && pawn.MatchesAnyBodyType(BodyTypeDefOf.Hulk, BodyTypeDefOf.Fat))
-                            {
-                                return true;
-                            }
-                            else if (pawn.gender == Gender.Male && pawn.MatchesAnyBodyType(BodyTypeDefOf.Male, BodyTypeDefOf.Hulk, BodyTypeDefOf.Thin))
-                            {
-                                return true;
-                            }
+                            return true;
                         }
                         failReport = "Not Large";
                         return false;
                     }
                 case PawnBodyType.ExtraLarge:
                     {
-                        if (pawn.IsAdult() && pawn.gender == Gender.Male && pawn.MatchesAnyBodyType(BodyTypeDefOf.Hulk, BodyTypeDefOf.Fat))
+                        if (pawn.IsAdult() && pawn.MatchesAnyBodyType(BodyTypeDefOf.Hulk, BodyTypeDefOf.Fat))
                         {
                             return true;
                         }
