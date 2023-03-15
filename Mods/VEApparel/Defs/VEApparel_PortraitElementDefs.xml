@@ -618,20 +618,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHeadgear_VEApparel-an-gasmask</defName>
-		<portraitLayer>PR_InnerHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>InnerHeadgear/VEApparel-an-gasmask</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_GasMask</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerHeadgear_VEApparel-an-glasses</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
@@ -655,20 +641,6 @@
 			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VAE_Headgear_Sunglasses</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHeadgear_VEApparel-cn-gasmask</defName>
-		<portraitLayer>PR_InnerHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>InnerHeadgear/VEApparel-cn-gasmask</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_GasMask</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>

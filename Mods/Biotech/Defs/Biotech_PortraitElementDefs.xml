@@ -1782,7 +1782,7 @@
 			<texPath>InnerFace/af/Biotech-af-delicate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Delicate>0</Delicate>
@@ -1797,7 +1797,7 @@
 			<texPath>InnerFace/af/Biotech-af-recluse</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Recluse>0</Recluse>
@@ -1812,7 +1812,7 @@
 			<texPath>InnerFace/am/Biotech-am-delicate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Delicate>0</Delicate>
@@ -1827,7 +1827,7 @@
 			<texPath>InnerFace/am/Biotech-am-recluse</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Recluse>0</Recluse>
@@ -1970,6 +1970,20 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_Biotech-an-gasmask</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/Biotech-an-gasmask</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_GasMask</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerHeadgear_Biotech-an-integratorheadset</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
@@ -1993,6 +2007,20 @@
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>Apparel_ClothMask</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_Biotech-cn-gasmask</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/Biotech-cn-gasmask</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_GasMask</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -2246,7 +2274,7 @@
 			<texPath>OuterFace/af/Biotech-af-delicate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Delicate>0</Delicate>
@@ -2261,7 +2289,7 @@
 			<texPath>OuterFace/af/Biotech-af-recluse</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Female</gender>
 			<traits>
 				<Recluse>0</Recluse>
@@ -2276,7 +2304,7 @@
 			<texPath>OuterFace/am/Biotech-am-delicate</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Delicate>0</Delicate>
@@ -2291,7 +2319,7 @@
 			<texPath>OuterFace/am/Biotech-am-recluse</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>13~999</ageRange>
+			<ageRange>19~999</ageRange>
 			<gender>Male</gender>
 			<traits>
 				<Recluse>0</Recluse>
