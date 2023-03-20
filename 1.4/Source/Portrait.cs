@@ -82,7 +82,7 @@ namespace PortraitsOfTheRim
                         this.currentStyle = style;
                     }));
                 }
-                floatList.Add(new FloatMenuOption("None".Translate(), delegate
+                floatList.Add(new FloatMenuOption("Default".Translate(), delegate
                 {
                     this.currentStyle = null;
                 }));
@@ -122,6 +122,10 @@ namespace PortraitsOfTheRim
                     if (this.currentStyle.NullOrEmpty() is false && matchingElements.Any(x => x.requirements.style.NullOrEmpty() is false))
                     {
                         matchingElements = matchingElements.Where(x => x.requirements.style == this.currentStyle).ToList();
+                    }
+                    else if (this.currentStyle.NullOrEmpty() is true)
+                    {
+                        matchingElements = matchingElements.Where(x => x.requirements.style.NullOrEmpty() is true).ToList();
                     }
                     if (matchingElements.Any())
                     {
@@ -226,7 +230,7 @@ namespace PortraitsOfTheRim
         {
             Scribe_Values.Look(ref hidePortrait, "hidePortrait", !PortraitsOfTheRimSettings.showPortraitByDefault);
             Scribe_Values.Look(ref hideHeadgear, "hideHeadgear");
-            Scribe_Values.Look(ref currentStyle, "currentStyle");
+            Scribe_Values.Look(ref currentStyle, "currentStyle", "");
         }
     }
 }
