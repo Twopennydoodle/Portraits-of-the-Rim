@@ -52,7 +52,7 @@
 		<requirements>
 			<bodyType>Large</bodyType>
 			<apparels>
-				<li>VAEA_Apparel_Quiver</li>
+				<li>DankPyon_Apparel_Quiver</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -108,7 +108,7 @@
 		<requirements>
 			<bodyType>Medium</bodyType>
 			<apparels>
-				<li>VAEA_Apparel_Quiver</li>
+				<li>DankPyon_Apparel_Quiver</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -164,7 +164,7 @@
 		<requirements>
 			<bodyType>Small</bodyType>
 			<apparels>
-				<li>VAEA_Apparel_Quiver</li>
+				<li>DankPyon_Apparel_Quiver</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -220,7 +220,7 @@
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
 			<apparels>
-				<li>VAEA_Apparel_Quiver</li>
+				<li>DankPyon_Apparel_Quiver</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>

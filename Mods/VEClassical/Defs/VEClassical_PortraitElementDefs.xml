@@ -170,10 +170,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEClassical-an-centurionhelmet</defName>
+		<defName>PR_OuterHeadgear_VEClassical-an-VFEC_Apparel_CenturionHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEClassical-an-centurionhelmet</texPath>
+			<texPath>OuterHeadgear/VEClassical-an-VFEC_Apparel_CenturionHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -184,10 +184,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEClassical-an-LegionnaireHelmet</defName>
+		<defName>PR_OuterHeadgear_VEClassical-an-VFEC_Apparel_LegionnaireHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEClassical-an-LegionnaireHelmet</texPath>
+			<texPath>OuterHeadgear/VEClassical-an-VFEC_Apparel_LegionnaireHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -198,10 +198,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEClassical-an-wreath</defName>
+		<defName>PR_OuterHeadgear_VEClassical-an-VFEC_Wreath</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEClassical-an-wreath</texPath>
+			<texPath>OuterHeadgear/VEClassical-an-VFEC_Wreath</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -212,10 +212,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEClassical-cn-centurionhelmet</defName>
+		<defName>PR_OuterHeadgear_VEClassical-cn-VFEC_Apparel_CenturionHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEClassical-cn-centurionhelmet</texPath>
+			<texPath>OuterHeadgear/VEClassical-cn-VFEC_Apparel_CenturionHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -226,10 +226,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEClassical-cn-LegionnaireHelmet</defName>
+		<defName>PR_OuterHeadgear_VEClassical-cn-VFEC_Apparel_LegionnaireHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEClassical-cn-LegionnaireHelmet</texPath>
+			<texPath>OuterHeadgear/VEClassical-cn-VFEC_Apparel_LegionnaireHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -240,10 +240,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEClassical-cn-wreath</defName>
+		<defName>PR_OuterHeadgear_VEClassical-cn-VFEC_Wreath</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEClassical-cn-wreath</texPath>
+			<texPath>OuterHeadgear/VEClassical-cn-VFEC_Wreath</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

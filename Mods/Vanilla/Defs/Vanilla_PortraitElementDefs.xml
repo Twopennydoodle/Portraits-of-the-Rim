@@ -396,69 +396,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-an-marinehelmet-styleanimalist</defName>
+		<defName>PR_FullHeadgear_Vanilla-an-Apparel_ArmorHelmetRecon-styleanimalist</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Vanilla-an-marinehelmet-styleanimalist</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_PowerArmorHelmet</li>
-			</apparels>
-			<style>animalist</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-an-marinehelmet-stylemorbid</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/Vanilla-an-marinehelmet-stylemorbid</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_PowerArmorHelmet</li>
-			</apparels>
-			<style>morbid</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_vanilla-an-marinehelmet-styletotemic</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/vanilla-an-marinehelmet-styletotemic</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_PowerArmorHelmet</li>
-			</apparels>
-			<style>totemic</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-an-marinehelmet</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/Vanilla-an-marinehelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_PowerArmorHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-an-reconhelmet-styleanimalist</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/Vanilla-an-reconhelmet-styleanimalist</texPath>
+			<texPath>FullHeadgear/Vanilla-an-Apparel_ArmorHelmetRecon-styleanimalist</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -470,10 +411,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-an-reconhelmet-stylemorbid</defName>
+		<defName>PR_FullHeadgear_Vanilla-an-Apparel_ArmorHelmetRecon-styleimpid</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Vanilla-an-reconhelmet-stylemorbid</texPath>
+			<texPath>FullHeadgear/Vanilla-an-Apparel_ArmorHelmetRecon-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-an-Apparel_ArmorHelmetRecon-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-an-Apparel_ArmorHelmetRecon-stylemorbid</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -485,10 +441,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_vanilla-an-reconhelmet-styletotemic</defName>
+		<defName>PR_FullHeadgear_vanilla-an-Apparel_ArmorHelmetRecon-styletotemic</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/vanilla-an-reconhelmet-styletotemic</texPath>
+			<texPath>FullHeadgear/vanilla-an-Apparel_ArmorHelmetRecon-styletotemic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -500,10 +456,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-an-reconhelmet</defName>
+		<defName>PR_FullHeadgear_Vanilla-an-Apparel_ArmorHelmetRecon</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Vanilla-an-reconhelmet</texPath>
+			<texPath>FullHeadgear/Vanilla-an-Apparel_ArmorHelmetRecon</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -514,10 +470,143 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-cn-marinehelmet-styleanimalist</defName>
+		<defName>PR_FullHeadgear_Vanilla-an-Apparel_PowerArmorHelmet-styleanimalist</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Vanilla-cn-marinehelmet-styleanimalist</texPath>
+			<texPath>FullHeadgear/Vanilla-an-Apparel_PowerArmorHelmet-styleanimalist</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>animalist</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-an-Apparel_PowerArmorHelmet-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-an-Apparel_PowerArmorHelmet-stylemorbid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_vanilla-an-Apparel_PowerArmorHelmet-styletotemic</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/vanilla-an-Apparel_PowerArmorHelmet-styletotemic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>totemic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-an-Apparel_PowerArmorHelmet</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-an-Apparel_PowerArmorHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-cn-Apparel_ArmorHelmetRecon-styleanimalist</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-cn-Apparel_ArmorHelmetRecon-styleanimalist</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>animalist</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-cn-Apparel_ArmorHelmetRecon-styleimpid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-cn-Apparel_ArmorHelmetRecon-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-cn-Apparel_ArmorHelmetRecon-stylemorbid</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-cn-Apparel_ArmorHelmetRecon-stylemorbid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>morbid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_vanilla-cn-Apparel_ArmorHelmetRecon-styletotemic</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/vanilla-cn-Apparel_ArmorHelmetRecon-styletotemic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>totemic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-cn-Apparel_ArmorHelmetRecon</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-cn-Apparel_ArmorHelmetRecon</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Vanilla-cn-Apparel_PowerArmorHelmet-styleanimalist</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Vanilla-cn-Apparel_PowerArmorHelmet-styleanimalist</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -529,10 +618,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-cn-marinehelmet-stylemorbid</defName>
+		<defName>PR_FullHeadgear_Vanilla-cn-Apparel_PowerArmorHelmet-stylemorbid</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Vanilla-cn-marinehelmet-stylemorbid</texPath>
+			<texPath>FullHeadgear/Vanilla-cn-Apparel_PowerArmorHelmet-stylemorbid</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -544,10 +633,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_vanilla-cn-marinehelmet-styletotemic</defName>
+		<defName>PR_FullHeadgear_vanilla-cn-Apparel_PowerArmorHelmet-styletotemic</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/vanilla-cn-marinehelmet-styletotemic</texPath>
+			<texPath>FullHeadgear/vanilla-cn-Apparel_PowerArmorHelmet-styletotemic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -559,74 +648,15 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-cn-marinehelmet</defName>
+		<defName>PR_FullHeadgear_Vanilla-cn-Apparel_PowerArmorHelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Vanilla-cn-marinehelmet</texPath>
+			<texPath>FullHeadgear/Vanilla-cn-Apparel_PowerArmorHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>Apparel_PowerArmorHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-cn-reconhelmet-styleanimalist</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/Vanilla-cn-reconhelmet-styleanimalist</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_ArmorHelmetRecon</li>
-			</apparels>
-			<style>animalist</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-cn-reconhelmet-stylemorbid</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/Vanilla-cn-reconhelmet-stylemorbid</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_ArmorHelmetRecon</li>
-			</apparels>
-			<style>morbid</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_vanilla-cn-reconhelmet-styletotemic</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/vanilla-cn-reconhelmet-styletotemic</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_ArmorHelmetRecon</li>
-			</apparels>
-			<style>totemic</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Vanilla-cn-reconhelmet</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/Vanilla-cn-reconhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_ArmorHelmetRecon</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -1494,6 +1524,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_Vanilla-l-tribalwear-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/Vanilla-l-tribalwear-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>Apparel_TribalA</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingTorso_Vanilla-l-tribalwear</defName>
 		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
 		<graphicData>
@@ -1532,6 +1577,21 @@
 			<apparels>
 				<li>Apparel_CollarShirt</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_Vanilla-m-tribalwear-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/Vanilla-m-tribalwear-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>Apparel_TribalA</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1578,6 +1638,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_Vanilla-s-tribalwear-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/Vanilla-s-tribalwear-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_TribalA</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingTorso_Vanilla-s-tribalwear</defName>
 		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
 		<graphicData>
@@ -1616,6 +1691,21 @@
 			<apparels>
 				<li>Apparel_CollarShirt</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_Vanilla-xl-tribalwear-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/Vanilla-xl-tribalwear-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>Apparel_TribalA</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -6868,10 +6958,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHeadgear_Vanilla-an-veil</defName>
+		<defName>PR_InnerHeadgear_Vanilla-an-Apparel_WarVeil-styleimpid</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>InnerHeadgear/Vanilla-an-veil</texPath>
+			<texPath>InnerHeadgear/Vanilla-an-Apparel_WarVeil-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_WarVeil</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_Vanilla-an-Apparel_WarVeil</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/Vanilla-an-Apparel_WarVeil</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -6882,10 +6987,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHeadgear_Vanilla-cn-veil</defName>
+		<defName>PR_InnerHeadgear_Vanilla-cn-Apparel_WarVeil-styleimpid</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>InnerHeadgear/Vanilla-cn-veil</texPath>
+			<texPath>InnerHeadgear/Vanilla-cn-Apparel_WarVeil-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_WarVeil</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_Vanilla-cn-Apparel_WarVeil</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/Vanilla-cn-Apparel_WarVeil</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -12241,6 +12361,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Vanilla-l-duster-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Vanilla-l-duster-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>Apparel_Duster</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_Vanilla-l-duster-stylespikecore</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -12385,6 +12520,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Vanilla-l-reconarmor-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Vanilla-l-reconarmor-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>Apparel_ArmorRecon</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_Vanilla-l-reconarmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -12395,6 +12545,21 @@
 			<apparels>
 				<li>Apparel_ArmorRecon</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Vanilla-m-duster-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Vanilla-m-duster-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>Apparel_Duster</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -12543,6 +12708,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Vanilla-m-reconarmor-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Vanilla-m-reconarmor-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>Apparel_ArmorRecon</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_Vanilla-m-reconarmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -12553,6 +12733,21 @@
 			<apparels>
 				<li>Apparel_ArmorRecon</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Vanilla-s-duster-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Vanilla-s-duster-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_Duster</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -12701,6 +12896,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Vanilla-s-reconarmor-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Vanilla-s-reconarmor-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_ArmorRecon</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_Vanilla-s-reconarmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -12711,6 +12921,21 @@
 			<apparels>
 				<li>Apparel_ArmorRecon</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Vanilla-xl-duster-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Vanilla-xl-duster-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>Apparel_Duster</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -12855,6 +13080,21 @@
 			<apparels>
 				<li>Apparel_PlateArmor</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_Vanilla-xl-reconarmor-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/Vanilla-xl-reconarmor-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>Apparel_ArmorRecon</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -19269,10 +19509,69 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-bowlerhat</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_AdvancedHelmet-stylehindu</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-bowlerhat</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_AdvancedHelmet-stylehindu</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_AdvancedHelmet-stylerustic</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_AdvancedHelmet-stylerustic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>rustic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_AdvancedHelmet-stylespikecore</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_AdvancedHelmet-stylespikecore</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>spikecore</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_AdvancedHelmet</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_AdvancedHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_BowlerHat</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_BowlerHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19283,10 +19582,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-cowboyhat</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_CowboyHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-cowboyhat</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_CowboyHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19297,69 +19596,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet-stylehindu</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_HatHood</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-flakhelmet-stylehindu</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-			<style>hindu</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet-stylerustic</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-flakhelmet-stylerustic</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-			<style>rustic</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet-stylespikecore</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-flakhelmet-stylespikecore</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-			<style>spikecore</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-flakhelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-flakhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-hood</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-hood</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_HatHood</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19370,10 +19610,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-psychicfoilhelmet</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_PsychicFoilHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-psychicfoilhelmet</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_PsychicFoilHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19384,10 +19624,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-simplehelmet-stylehindu</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_SimpleHelmet-stylehindu</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-simplehelmet-stylehindu</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_SimpleHelmet-stylehindu</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19399,10 +19639,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-simplehelmet-stylerustic</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_SimpleHelmet-stylerustic</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-simplehelmet-stylerustic</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_SimpleHelmet-stylerustic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19414,10 +19654,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-simplehelmet-stylespikecore</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_SimpleHelmet-stylespikecore</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-simplehelmet-stylespikecore</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_SimpleHelmet-stylespikecore</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19429,10 +19669,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-simplehelmet</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_SimpleHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-simplehelmet</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_SimpleHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19443,10 +19683,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-tribalheaddress</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_TribalHeaddress-styleimpid</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-tribalheaddress</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_TribalHeaddress-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_TribalHeaddress</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_TribalHeaddress</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_TribalHeaddress</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19457,10 +19712,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-tuque</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_Tuque</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-tuque</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_Tuque</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19471,10 +19726,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-warmask-styleanimalist</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_WarMask-styleanimalist</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-warmask-styleanimalist</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_WarMask-styleanimalist</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19486,10 +19741,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-an-warmask</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_WarMask</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-an-warmask</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-Apparel_WarMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -19500,10 +19755,99 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-bowlerhat</defName>
+		<defName>PR_OuterHeadgear_Vanilla-an-cowboyhat-styleimpid</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-bowlerhat</texPath>
+			<texPath>OuterHeadgear/Vanilla-an-cowboyhat-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_CowboyHat</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_AdvancedHelmet-stylehindu</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_AdvancedHelmet-stylehindu</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_AdvancedHelmet-styleimpid</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_AdvancedHelmet-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_AdvancedHelmet-stylerustic</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_AdvancedHelmet-stylerustic</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>rustic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_AdvancedHelmet-stylespikecore</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_AdvancedHelmet-stylespikecore</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>spikecore</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_AdvancedHelmet</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_AdvancedHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_BowlerHat</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_BowlerHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19514,10 +19858,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-cowboyhat</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_CowboyHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-cowboyhat</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_CowboyHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19528,69 +19872,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet-stylehindu</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_HatHood</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-flakhelmet-stylehindu</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-			<style>hindu</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet-stylerustic</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-flakhelmet-stylerustic</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-			<style>rustic</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet-stylespikecore</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-flakhelmet-stylespikecore</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-			<style>spikecore</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-flakhelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-flakhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_AdvancedHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-hood</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-hood</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_HatHood</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19601,10 +19886,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-psychicfoilhelmet</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_PsychicFoilHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-psychicfoilhelmet</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_PsychicFoilHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19615,10 +19900,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-simplehelmet-stylehindu</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_SimpleHelmet-stylehindu</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-simplehelmet-stylehindu</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_SimpleHelmet-stylehindu</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19630,10 +19915,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-simplehelmet-stylerustic</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_SimpleHelmet-stylerustic</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-simplehelmet-stylerustic</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_SimpleHelmet-stylerustic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19645,10 +19930,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-simplehelmet-stylespikecore</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_SimpleHelmet-stylespikecore</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-simplehelmet-stylespikecore</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_SimpleHelmet-stylespikecore</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19660,10 +19945,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-simplehelmet</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_SimpleHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-simplehelmet</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_SimpleHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19674,10 +19959,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-tribalheaddress</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_TribalHeaddress-styleimpid</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-tribalheaddress</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_TribalHeaddress-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_TribalHeaddress</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_TribalHeaddress</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_TribalHeaddress</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19688,10 +19988,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-tuque</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_Tuque</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-tuque</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_Tuque</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19702,10 +20002,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-warmask-styleanimalist</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_WarMask-styleanimalist</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-warmask-styleanimalist</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_WarMask-styleanimalist</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -19717,10 +20017,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Vanilla-cn-warmask</defName>
+		<defName>PR_OuterHeadgear_Vanilla-cn-Apparel_WarMask</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Vanilla-cn-warmask</texPath>
+			<texPath>OuterHeadgear/Vanilla-cn-Apparel_WarMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29115,12 +29415,27 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_Vanilla-hood</defName>
+		<defName>PR_UnderHeadgear_Vanilla-an-Apparel_HatHood</defName>
 		<portraitLayer>PR_UnderHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/Vanilla-hood</texPath>
+			<texPath>UnderHeadgear/Vanilla-an-Apparel_HatHood</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_HatHood</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_Vanilla-cn-Apparel_HatHood</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/Vanilla-cn-Apparel_HatHood</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>Apparel_HatHood</li>
 			</apparels>

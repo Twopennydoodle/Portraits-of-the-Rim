@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Ideology-an-broadwrap</defName>
+		<defName>PR_FullHeadgear_Ideology-an-Apparel_Broadwrap</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Ideology-an-broadwrap</texPath>
+			<texPath>FullHeadgear/Ideology-an-Apparel_Broadwrap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Ideology-an-burka</defName>
+		<defName>PR_FullHeadgear_Ideology-an-Apparel_Burka</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Ideology-an-burka</texPath>
+			<texPath>FullHeadgear/Ideology-an-Apparel_Burka</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30,10 +30,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Ideology-an-headwrap</defName>
+		<defName>PR_FullHeadgear_Ideology-an-Apparel_Headwrap</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Ideology-an-headwrap</texPath>
+			<texPath>FullHeadgear/Ideology-an-Apparel_Headwrap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -44,10 +44,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Ideology-cn-broadwrap</defName>
+		<defName>PR_FullHeadgear_Ideology-cn-Apparel_Broadwrap</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Ideology-cn-broadwrap</texPath>
+			<texPath>FullHeadgear/Ideology-cn-Apparel_Broadwrap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -58,10 +58,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Ideology-cn-burka</defName>
+		<defName>PR_FullHeadgear_Ideology-cn-Apparel_Burka</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Ideology-cn-burka</texPath>
+			<texPath>FullHeadgear/Ideology-cn-Apparel_Burka</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -72,10 +72,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Ideology-cn-headwrap</defName>
+		<defName>PR_FullHeadgear_Ideology-cn-Apparel_Headwrap</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Ideology-cn-headwrap</texPath>
+			<texPath>FullHeadgear/Ideology-cn-Apparel_Headwrap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -310,10 +310,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-an-authoritycap</defName>
+		<defName>PR_OuterHeadgear_Ideology-an-Apparel_AuthorityCap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-an-authoritycap</texPath>
+			<texPath>OuterHeadgear/Ideology-an-Apparel_AuthorityCap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -324,10 +324,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-an-flophat</defName>
+		<defName>PR_OuterHeadgear_Ideology-an-Apparel_Flophat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-an-flophat</texPath>
+			<texPath>OuterHeadgear/Ideology-an-Apparel_Flophat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -338,10 +338,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-an-shadecone</defName>
+		<defName>PR_OuterHeadgear_Ideology-an-Apparel_Shadecone</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-an-shadecone</texPath>
+			<texPath>OuterHeadgear/Ideology-an-Apparel_Shadecone</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -352,10 +352,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-an-slicecap</defName>
+		<defName>PR_OuterHeadgear_Ideology-an-Apparel_Slicecap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-an-slicecap</texPath>
+			<texPath>OuterHeadgear/Ideology-an-Apparel_Slicecap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -366,10 +366,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-an-tailcap</defName>
+		<defName>PR_OuterHeadgear_Ideology-an-Apparel_Tailcap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-an-tailcap</texPath>
+			<texPath>OuterHeadgear/Ideology-an-Apparel_Tailcap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -380,10 +380,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-an-torturecrown</defName>
+		<defName>PR_OuterHeadgear_Ideology-an-Apparel_TortureCrown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-an-torturecrown</texPath>
+			<texPath>OuterHeadgear/Ideology-an-Apparel_TortureCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -394,10 +394,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-cn-authoritycap</defName>
+		<defName>PR_OuterHeadgear_Ideology-cn-Apparel_AuthorityCap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-cn-authoritycap</texPath>
+			<texPath>OuterHeadgear/Ideology-cn-Apparel_AuthorityCap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -408,10 +408,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-cn-flophat</defName>
+		<defName>PR_OuterHeadgear_Ideology-cn-Apparel_Flophat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-cn-flophat</texPath>
+			<texPath>OuterHeadgear/Ideology-cn-Apparel_Flophat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -422,10 +422,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-cn-shadecone</defName>
+		<defName>PR_OuterHeadgear_Ideology-cn-Apparel_Shadecone</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-cn-shadecone</texPath>
+			<texPath>OuterHeadgear/Ideology-cn-Apparel_Shadecone</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -436,10 +436,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-cn-slicecap</defName>
+		<defName>PR_OuterHeadgear_Ideology-cn-Apparel_Slicecap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-cn-slicecap</texPath>
+			<texPath>OuterHeadgear/Ideology-cn-Apparel_Slicecap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -450,10 +450,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-cn-tailcap</defName>
+		<defName>PR_OuterHeadgear_Ideology-cn-Apparel_Tailcap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-cn-tailcap</texPath>
+			<texPath>OuterHeadgear/Ideology-cn-Apparel_Tailcap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -464,10 +464,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Ideology-cn-torturecrown</defName>
+		<defName>PR_OuterHeadgear_Ideology-cn-Apparel_TortureCrown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Ideology-cn-torturecrown</texPath>
+			<texPath>OuterHeadgear/Ideology-cn-Apparel_TortureCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -720,12 +720,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_Ideology-broadwrap</defName>
+		<defName>PR_UnderHeadgear_Ideology-an-Apparel_Broadwrap</defName>
 		<portraitLayer>PR_UnderHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/Ideology-broadwrap</texPath>
+			<texPath>UnderHeadgear/Ideology-an-Apparel_Broadwrap</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>Apparel_Broadwrap</li>
 			</apparels>
@@ -733,12 +734,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_Ideology-burka</defName>
+		<defName>PR_UnderHeadgear_Ideology-an-Apparel_Burka</defName>
 		<portraitLayer>PR_UnderHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/Ideology-burka</texPath>
+			<texPath>UnderHeadgear/Ideology-an-Apparel_Burka</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>Apparel_Burka</li>
 			</apparels>
@@ -746,12 +748,55 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_Ideology-shadecone</defName>
+		<defName>PR_UnderHeadgear_Ideology-an-Apparel_Shadecone</defName>
 		<portraitLayer>PR_UnderHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/Ideology-shadecone</texPath>
+			<texPath>UnderHeadgear/Ideology-an-Apparel_Shadecone</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_Shadecone</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_Ideology-cn-Apparel_Broadwrap</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/Ideology-cn-Apparel_Broadwrap</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_Broadwrap</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_Ideology-cn-Apparel_Burka</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/Ideology-cn-Apparel_Burka</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_Burka</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_Ideology-cn-Apparel_Shadecone</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/Ideology-cn-Apparel_Shadecone</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>Apparel_Shadecone</li>
 			</apparels>

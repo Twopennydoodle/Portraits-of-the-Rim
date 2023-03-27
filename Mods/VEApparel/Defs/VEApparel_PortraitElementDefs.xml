@@ -128,6 +128,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEApparel-l-Tanktop-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEApparel-l-Tanktop-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VAE_Apparel_TankTop</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingTorso_VEApparel-l-Tanktop</defName>
 		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
 		<graphicData>
@@ -138,6 +153,21 @@
 			<apparels>
 				<li>VAE_Apparel_TankTop</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEApparel-l-Tunic-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEApparel-l-Tunic-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VAE_Apparel_Tunic</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -296,6 +326,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEApparel-m-Tunic-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEApparel-m-Tunic-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VAE_Apparel_Tunic</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingTorso_VEApparel-m-Tunic</defName>
 		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
 		<graphicData>
@@ -436,6 +481,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEApparel-s-Tanktop-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEApparel-s-Tanktop-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VAE_Apparel_TankTop</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingTorso_VEApparel-s-Tanktop</defName>
 		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
 		<graphicData>
@@ -446,6 +506,21 @@
 			<apparels>
 				<li>VAE_Apparel_TankTop</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEApparel-s-Tunic-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEApparel-s-Tunic-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VAE_Apparel_Tunic</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -590,6 +665,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEApparel-xl-Tanktop-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEApparel-xl-Tanktop-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VAE_Apparel_TankTop</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingTorso_VEApparel-xl-Tanktop</defName>
 		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
 		<graphicData>
@@ -600,6 +690,21 @@
 			<apparels>
 				<li>VAE_Apparel_TankTop</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEApparel-xl-Tunic-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEApparel-xl-Tunic-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VAE_Apparel_Tunic</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1290,76 +1395,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-an-baseballcap</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-an-baseballcap</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_BaseballCap</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-an-beret</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-an-beret</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_Beret</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-an-chefstoque</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-an-chefstoque</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_ChefsToque</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-an-fedora</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-an-fedora</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_Fedora</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-an-hardhat</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-an-hardhat</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_Hardhat</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHeadgear_VEApparel-an-hood</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
@@ -1374,13 +1409,28 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-cn-baseballcap</defName>
+		<defName>PR_OuterHeadgear_VEApparel-an-scarf-styleimpid</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-cn-baseballcap</texPath>
+			<texPath>OuterHeadgear/VEApparel-an-scarf-styleimpid</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>VAE_Headgear_Scarf</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEApparel-an-VAE_Headgear_BaseballCap</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEApparel-an-VAE_Headgear_BaseballCap</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VAE_Headgear_BaseballCap</li>
 			</apparels>
@@ -1388,27 +1438,27 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-cn-beret</defName>
+		<defName>PR_OuterHeadgear_VEApparel-an-VAE_Headgear_Beret</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-cn-beret</texPath>
+			<texPath>OuterHeadgear/VEApparel-an-VAE_Headgear_Beret</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
-				<li>Apparel_Beret</li>
+				<li>VAE_Headgear_Beret</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-cn-chefstoque</defName>
+		<defName>PR_OuterHeadgear_VEApparel-an-VAE_Headgear_ChefsToque</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-cn-chefstoque</texPath>
+			<texPath>OuterHeadgear/VEApparel-an-VAE_Headgear_ChefsToque</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VAE_Headgear_ChefsToque</li>
 			</apparels>
@@ -1416,13 +1466,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-cn-fedora</defName>
+		<defName>PR_OuterHeadgear_VEApparel-an-VAE_Headgear_Fedora</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-cn-fedora</texPath>
+			<texPath>OuterHeadgear/VEApparel-an-VAE_Headgear_Fedora</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VAE_Headgear_Fedora</li>
 			</apparels>
@@ -1430,13 +1480,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEApparel-cn-hardhat</defName>
+		<defName>PR_OuterHeadgear_VEApparel-an-VAE_Headgear_Hardhat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEApparel-cn-hardhat</texPath>
+			<texPath>OuterHeadgear/VEApparel-an-VAE_Headgear_Hardhat</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VAE_Headgear_Hardhat</li>
 			</apparels>
@@ -1458,12 +1508,112 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_VEApparel-hood</defName>
-		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<defName>PR_OuterHeadgear_VEApparel-cn-scarf-styleimpid</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/VEApparel-hood</texPath>
+			<texPath>OuterHeadgear/VEApparel-cn-scarf-styleimpid</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_Scarf</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEApparel-cn-VAE_Headgear_BaseballCap</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEApparel-cn-VAE_Headgear_BaseballCap</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_BaseballCap</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEApparel-cn-VAE_Headgear_Beret</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEApparel-cn-VAE_Headgear_Beret</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_Beret</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEApparel-cn-VAE_Headgear_ChefsToque</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEApparel-cn-VAE_Headgear_ChefsToque</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_ChefsToque</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEApparel-cn-VAE_Headgear_Fedora</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEApparel-cn-VAE_Headgear_Fedora</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_Fedora</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEApparel-cn-VAE_Headgear_Hardhat</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEApparel-cn-VAE_Headgear_Hardhat</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_Hardhat</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VEApparel-an-hood</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VEApparel-an-hood</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_HatHood</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VEApparel-cn-hood</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VEApparel-cn-hood</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>Apparel_HatHood</li>
 			</apparels>

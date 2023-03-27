@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEMedieval-an-heavyplatehelmet</defName>
+		<defName>PR_FullHeadgear_VEMedieval-an-VFEM_Apparel_PlateHelmetHeavy</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEMedieval-an-heavyplatehelmet</texPath>
+			<texPath>FullHeadgear/VEMedieval-an-VFEM_Apparel_PlateHelmetHeavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEMedieval-cn-heavyplatehelmet</defName>
+		<defName>PR_FullHeadgear_VEMedieval-cn-VFEM_Apparel_PlateHelmetHeavy</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEMedieval-cn-heavyplatehelmet</texPath>
+			<texPath>FullHeadgear/VEMedieval-cn-VFEM_Apparel_PlateHelmetHeavy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -310,10 +310,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-damehat</defName>
+		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM_Apparel_DameHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-damehat</texPath>
+			<texPath>OuterHeadgear/VEMedieval-an-VFEM_Apparel_DameHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -324,10 +324,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-jesterhat</defName>
+		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM_Apparel_JesterHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-jesterhat</texPath>
+			<texPath>OuterHeadgear/VEMedieval-an-VFEM_Apparel_JesterHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -338,10 +338,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-kingscrown</defName>
+		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM_Apparel_KingsCrown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-kingscrown</texPath>
+			<texPath>OuterHeadgear/VEMedieval-an-VFEM_Apparel_KingsCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -352,24 +352,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-lightplatehelmet</defName>
+		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM_Apparel_PlagueMask</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-lightplatehelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VFEM_Apparel_PlateHelmetLight</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-plaguemask</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-plaguemask</texPath>
+			<texPath>OuterHeadgear/VEMedieval-an-VFEM_Apparel_PlagueMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -380,10 +366,24 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-damehat</defName>
+		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM_Apparel_PlateHelmetLight</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-damehat</texPath>
+			<texPath>OuterHeadgear/VEMedieval-an-VFEM_Apparel_PlateHelmetLight</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>VFEM_Apparel_PlateHelmetLight</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM_Apparel_DameHat</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEMedieval-cn-VFEM_Apparel_DameHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -394,10 +394,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-jesterhat</defName>
+		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM_Apparel_JesterHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-jesterhat</texPath>
+			<texPath>OuterHeadgear/VEMedieval-cn-VFEM_Apparel_JesterHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -408,10 +408,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-kingscrown</defName>
+		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM_Apparel_KingsCrown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-kingscrown</texPath>
+			<texPath>OuterHeadgear/VEMedieval-cn-VFEM_Apparel_KingsCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -422,29 +422,29 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-lightplatehelmet</defName>
+		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM_Apparel_PlagueMask</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-lightplatehelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>VFEM_Apparel_PlateHelmetLight</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-plaguemask</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-plaguemask</texPath>
+			<texPath>OuterHeadgear/VEMedieval-cn-VFEM_Apparel_PlagueMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VFEM_Apparel_PlagueMask</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM_Apparel_PlateHelmetLight</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEMedieval-cn-VFEM_Apparel_PlateHelmetLight</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VFEM_Apparel_PlateHelmetLight</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>

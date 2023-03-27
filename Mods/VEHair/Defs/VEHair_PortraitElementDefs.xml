@@ -711,7 +711,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<hair>Long</hair>
+			<hair>VHE_Long</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -783,7 +783,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<hair>Messy</hair>
+			<hair>VHE_Messy</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1827,7 +1827,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<hair>Long</hair>
+			<hair>VHE_Long</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2499,7 +2499,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<hair>Long</hair>
+			<hair>VHE_Long</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2619,7 +2619,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<hair>Long</hair>
+			<hair>VHE_Long</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

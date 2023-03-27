@@ -15,6 +15,20 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-cf-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-cf-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_VESaurids-cf-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -63,6 +77,20 @@
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
 			<headType>VRESaurids_ScaleSkin_Narrow</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-cm-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-cm-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Male</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -119,6 +147,20 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-ef-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-ef-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_VESaurids-ef-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -167,6 +209,20 @@
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
 			<headType>VRESaurids_ScaleSkin_Narrow</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-em-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-em-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Male</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -223,6 +279,20 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-mf-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-mf-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_VESaurids-mf-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -271,6 +341,20 @@
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
 			<headType>VRESaurids_ScaleSkin_Narrow</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-mm-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-mm-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Male</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -327,6 +411,20 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-tf-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-tf-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_VESaurids-tf-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -375,6 +473,20 @@
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
 			<headType>VRESaurids_ScaleSkin_Narrow</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-tm-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-tm-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Male</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -431,6 +543,20 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-yf-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-yf-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_VESaurids-yf-VRESaurids_ScaleSkin_Average</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -479,6 +605,20 @@
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
 			<headType>VRESaurids_ScaleSkin_Narrow</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Head_VESaurids-ym-VRESaurids_ScaleSkin_Average-styleimpid</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/VESaurids-ym-VRESaurids_ScaleSkin_Average-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Male</gender>
+			<headType>VRESaurids_ScaleSkin_Average</headType>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

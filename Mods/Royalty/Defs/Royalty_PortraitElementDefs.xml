@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-an-cataphracthelmet-styleanimalist</defName>
+		<defName>PR_FullHeadgear_Royalty-an-Apparel_ArmorHelmetCataphract-styleanimalist</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-an-cataphracthelmet-styleanimalist</texPath>
+			<texPath>FullHeadgear/Royalty-an-Apparel_ArmorHelmetCataphract-styleanimalist</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -17,10 +17,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-an-cataphracthelmet-stylemorbid</defName>
+		<defName>PR_FullHeadgear_Royalty-an-Apparel_ArmorHelmetCataphract-stylemorbid</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-an-cataphracthelmet-stylemorbid</texPath>
+			<texPath>FullHeadgear/Royalty-an-Apparel_ArmorHelmetCataphract-stylemorbid</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -32,10 +32,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-an-cataphracthelmet-styletotemic</defName>
+		<defName>PR_FullHeadgear_Royalty-an-Apparel_ArmorHelmetCataphract-styletotemic</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-an-cataphracthelmet-styletotemic</texPath>
+			<texPath>FullHeadgear/Royalty-an-Apparel_ArmorHelmetCataphract-styletotemic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -47,10 +47,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-an-cataphracthelmet</defName>
+		<defName>PR_FullHeadgear_Royalty-an-Apparel_ArmorHelmetCataphract</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-an-cataphracthelmet</texPath>
+			<texPath>FullHeadgear/Royalty-an-Apparel_ArmorHelmetCataphract</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -61,10 +61,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-an-prestigecataphracthelmet</defName>
+		<defName>PR_FullHeadgear_Royalty-an-Apparel_ArmorHelmetCataphractPrestige</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-an-prestigecataphracthelmet</texPath>
+			<texPath>FullHeadgear/Royalty-an-Apparel_ArmorHelmetCataphractPrestige</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -75,24 +75,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-an-prestigemarinehelmet</defName>
+		<defName>PR_FullHeadgear_Royalty-an-Apparel_ArmorHelmetReconPrestige</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-an-prestigemarinehelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_ArmorMarineHelmetPrestige</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-an-prestigereconhelmet</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/Royalty-an-prestigereconhelmet</texPath>
+			<texPath>FullHeadgear/Royalty-an-Apparel_ArmorHelmetReconPrestige</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -103,10 +89,24 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-cn-cataphracthelmet-styleanimalist</defName>
+		<defName>PR_FullHeadgear_Royalty-an-Apparel_ArmorMarineHelmetPrestige</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-cn-cataphracthelmet-styleanimalist</texPath>
+			<texPath>FullHeadgear/Royalty-an-Apparel_ArmorMarineHelmetPrestige</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorMarineHelmetPrestige</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Royalty-cn-Apparel_ArmorHelmetCataphract-styleanimalist</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Royalty-cn-Apparel_ArmorHelmetCataphract-styleanimalist</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -118,10 +118,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-cn-cataphracthelmet-stylemorbid</defName>
+		<defName>PR_FullHeadgear_Royalty-cn-Apparel_ArmorHelmetCataphract-stylemorbid</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-cn-cataphracthelmet-stylemorbid</texPath>
+			<texPath>FullHeadgear/Royalty-cn-Apparel_ArmorHelmetCataphract-stylemorbid</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -133,10 +133,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-cn-cataphracthelmet-styletotemic</defName>
+		<defName>PR_FullHeadgear_Royalty-cn-Apparel_ArmorHelmetCataphract-styletotemic</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-cn-cataphracthelmet-styletotemic</texPath>
+			<texPath>FullHeadgear/Royalty-cn-Apparel_ArmorHelmetCataphract-styletotemic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -148,10 +148,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-cn-cataphracthelmet</defName>
+		<defName>PR_FullHeadgear_Royalty-cn-Apparel_ArmorHelmetCataphract</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-cn-cataphracthelmet</texPath>
+			<texPath>FullHeadgear/Royalty-cn-Apparel_ArmorHelmetCataphract</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -162,10 +162,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-cn-prestigecataphracthelmet</defName>
+		<defName>PR_FullHeadgear_Royalty-cn-Apparel_ArmorHelmetCataphractPrestige</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-cn-prestigecataphracthelmet</texPath>
+			<texPath>FullHeadgear/Royalty-cn-Apparel_ArmorHelmetCataphractPrestige</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -176,29 +176,29 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-cn-prestigemarinehelmet</defName>
+		<defName>PR_FullHeadgear_Royalty-cn-Apparel_ArmorHelmetReconPrestige</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/Royalty-cn-prestigemarinehelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_ArmorMarineHelmetPrestige</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_Royalty-cn-prestigereconhelmet</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/Royalty-cn-prestigereconhelmet</texPath>
+			<texPath>FullHeadgear/Royalty-cn-Apparel_ArmorHelmetReconPrestige</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>Apparel_ArmorHelmetReconPrestige</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_Royalty-cn-Apparel_ArmorMarineHelmetPrestige</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/Royalty-cn-Apparel_ArmorMarineHelmetPrestige</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorMarineHelmetPrestige</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -1494,10 +1494,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-an-beret</defName>
+		<defName>PR_OuterHeadgear_Royalty-an-Apparel_Beret</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-an-beret</texPath>
+			<texPath>OuterHeadgear/Royalty-an-Apparel_Beret</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1508,10 +1508,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-an-coronet</defName>
+		<defName>PR_OuterHeadgear_Royalty-an-Apparel_Coronet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-an-coronet</texPath>
+			<texPath>OuterHeadgear/Royalty-an-Apparel_Coronet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1522,10 +1522,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-an-crown</defName>
+		<defName>PR_OuterHeadgear_Royalty-an-Apparel_Crown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-an-crown</texPath>
+			<texPath>OuterHeadgear/Royalty-an-Apparel_Crown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1536,52 +1536,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-an-eltexhelmet</defName>
+		<defName>PR_OuterHeadgear_Royalty-an-Apparel_CrownStellic</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-an-eltexhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_PsyfocusHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-an-eltexskullcap</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Royalty-an-eltexskullcap</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_EltexSkullcap</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-an-ladieshat</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Royalty-an-ladieshat</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_HatLadies</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-an-stelliccrown</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Royalty-an-stelliccrown</texPath>
+			<texPath>OuterHeadgear/Royalty-an-Apparel_CrownStellic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1592,10 +1550,38 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-an-tophat</defName>
+		<defName>PR_OuterHeadgear_Royalty-an-Apparel_EltexSkullcap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-an-tophat</texPath>
+			<texPath>OuterHeadgear/Royalty-an-Apparel_EltexSkullcap</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_EltexSkullcap</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Royalty-an-Apparel_HatLadies</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Royalty-an-Apparel_HatLadies</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_HatLadies</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Royalty-an-Apparel_HatTop</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Royalty-an-Apparel_HatTop</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1606,10 +1592,24 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-cn-beret</defName>
+		<defName>PR_OuterHeadgear_Royalty-an-Apparel_PsyfocusHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-cn-beret</texPath>
+			<texPath>OuterHeadgear/Royalty-an-Apparel_PsyfocusHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_PsyfocusHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Royalty-cn-Apparel_Beret</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Royalty-cn-Apparel_Beret</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1620,10 +1620,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-cn-coronet</defName>
+		<defName>PR_OuterHeadgear_Royalty-cn-Apparel_Coronet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-cn-coronet</texPath>
+			<texPath>OuterHeadgear/Royalty-cn-Apparel_Coronet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1634,10 +1634,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-cn-crown</defName>
+		<defName>PR_OuterHeadgear_Royalty-cn-Apparel_Crown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-cn-crown</texPath>
+			<texPath>OuterHeadgear/Royalty-cn-Apparel_Crown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1648,52 +1648,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-cn-eltexhelmet</defName>
+		<defName>PR_OuterHeadgear_Royalty-cn-Apparel_CrownStellic</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-cn-eltexhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_PsyfocusHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-cn-eltexskullcap</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Royalty-cn-eltexskullcap</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_EltexSkullcap</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-cn-ladieshat</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Royalty-cn-ladieshat</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_HatLadies</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-cn-stelliccrown</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/Royalty-cn-stelliccrown</texPath>
+			<texPath>OuterHeadgear/Royalty-cn-Apparel_CrownStellic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1704,15 +1662,57 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_Royalty-cn-tophat</defName>
+		<defName>PR_OuterHeadgear_Royalty-cn-Apparel_EltexSkullcap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/Royalty-cn-tophat</texPath>
+			<texPath>OuterHeadgear/Royalty-cn-Apparel_EltexSkullcap</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_EltexSkullcap</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Royalty-cn-Apparel_HatLadies</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Royalty-cn-Apparel_HatLadies</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_HatLadies</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Royalty-cn-Apparel_HatTop</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Royalty-cn-Apparel_HatTop</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>Apparel_HatTop</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_Royalty-cn-Apparel_PsyfocusHelmet</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/Royalty-cn-Apparel_PsyfocusHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_PsyfocusHelmet</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>

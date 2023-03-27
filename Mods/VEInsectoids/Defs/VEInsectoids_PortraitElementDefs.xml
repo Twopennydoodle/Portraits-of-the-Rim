@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEInsectoids-an-riothelmet</defName>
+		<defName>PR_FullHeadgear_VEInsectoids-an-VFE_Apparel_RiotHelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEInsectoids-an-riothelmet</texPath>
+			<texPath>FullHeadgear/VEInsectoids-an-VFE_Apparel_RiotHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEInsectoids-cn-riothelmet</defName>
+		<defName>PR_FullHeadgear_VEInsectoids-cn-VFE_Apparel_RiotHelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEInsectoids-cn-riothelmet</texPath>
+			<texPath>FullHeadgear/VEInsectoids-cn-VFE_Apparel_RiotHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEhatsandrags-an-headbag</defName>
+		<defName>PR_FullHeadgear_VEhatsandrags-an-VIEHAR_Apparel_Headbag</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEhatsandrags-an-headbag</texPath>
+			<texPath>FullHeadgear/VEhatsandrags-an-VIEHAR_Apparel_Headbag</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEhatsandrags-an-horsemask</defName>
+		<defName>PR_FullHeadgear_VEhatsandrags-an-VIEHAR_Apparel_HorseMask</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEhatsandrags-an-horsemask</texPath>
+			<texPath>FullHeadgear/VEhatsandrags-an-VIEHAR_Apparel_HorseMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30,10 +30,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEhatsandrags-cn-headbag</defName>
+		<defName>PR_FullHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_Headbag</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEhatsandrags-cn-headbag</texPath>
+			<texPath>FullHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_Headbag</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -44,16 +44,31 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEhatsandrags-cn-horsemask</defName>
+		<defName>PR_FullHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_HorseMask</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEhatsandrags-cn-horsemask</texPath>
+			<texPath>FullHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_HorseMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VIEHAR_Apparel_HorseMask</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingNeck_VEhatsandrags-l-beads-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingNeck</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingNeck/VEhatsandrags-l-beads-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VIEHAR_Apparel_Beads</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -72,6 +87,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingNeck_VEhatsandrags-m-beads-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingNeck</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingNeck/VEhatsandrags-m-beads-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VIEHAR_Apparel_Beads</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingNeck_VEhatsandrags-m-beads</defName>
 		<portraitLayer>PR_InnerClothingNeck</portraitLayer>
 		<graphicData>
@@ -86,6 +116,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingNeck_VEhatsandrags-s-beads-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingNeck</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingNeck/VEhatsandrags-s-beads-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VIEHAR_Apparel_Beads</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerClothingNeck_VEhatsandrags-s-beads</defName>
 		<portraitLayer>PR_InnerClothingNeck</portraitLayer>
 		<graphicData>
@@ -96,6 +141,21 @@
 			<apparels>
 				<li>VIEHAR_Apparel_Beads</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingNeck_VEhatsandrags-xl-beads-styleimpid</defName>
+		<portraitLayer>PR_InnerClothingNeck</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingNeck/VEhatsandrags-xl-beads-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VIEHAR_Apparel_Beads</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -170,10 +230,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-bishophat</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_BishopHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-bishophat</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_BishopHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -184,10 +244,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-brimlesshat</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_BrimlessHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-brimlesshat</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_BrimlessHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -198,10 +258,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-commissarhat</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_CommisarHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-commissarhat</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_CommisarHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -212,10 +272,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-DeerSkull</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_DeerSkull</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-DeerSkull</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_DeerSkull</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -226,10 +286,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-fez</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_Fez</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-fez</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_Fez</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -240,10 +300,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-headscarf</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_Headscarf</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-headscarf</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_Headscarf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -254,10 +314,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-militarycap</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_MilitaryCap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-militarycap</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_MilitaryCap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -268,10 +328,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-skullcap</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_Skullcap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-skullcap</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_Skullcap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -282,10 +342,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-spikedskullcap</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_SpikedSkullcap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-spikedskullcap</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_SpikedSkullcap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -296,10 +356,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-an-widehat</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-an-VIEHAR_Apparel_WideHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-an-widehat</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-an-VIEHAR_Apparel_WideHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -310,10 +370,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-bishophat</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_BishopHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-bishophat</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_BishopHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -324,10 +384,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-brimlesshat</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_BrimlessHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-brimlesshat</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_BrimlessHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -338,10 +398,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-commissarhat</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_CommisarHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-commissarhat</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_CommisarHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -352,10 +412,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-DeerSkull</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_DeerSkull</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-DeerSkull</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_DeerSkull</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -366,10 +426,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-fez</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_Fez</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-fez</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_Fez</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -380,10 +440,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-headscarf</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_Headscarf</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-headscarf</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_Headscarf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -394,10 +454,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-militarycap</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_MilitaryCap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-militarycap</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_MilitaryCap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -408,10 +468,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-skullcap</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_Skullcap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-skullcap</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_Skullcap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -422,10 +482,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-spikedskullcap</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_SpikedSkullcap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-spikedskullcap</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_SpikedSkullcap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -436,10 +496,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEhatsandrags-cn-widehat</defName>
+		<defName>PR_OuterHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_WideHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEhatsandrags-cn-widehat</texPath>
+			<texPath>OuterHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_WideHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -450,12 +510,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_VEhatsandrags-DeerSkull</defName>
+		<defName>PR_UnderHeadgear_VEhatsandrags-an-VIEHAR_Apparel_DeerSkull</defName>
 		<portraitLayer>PR_UnderHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/VEhatsandrags-DeerSkull</texPath>
+			<texPath>UnderHeadgear/VEhatsandrags-an-VIEHAR_Apparel_DeerSkull</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VIEHAR_Apparel_DeerSkull</li>
 			</apparels>
@@ -463,12 +524,41 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_VEhatsandrags-headscarf</defName>
+		<defName>PR_UnderHeadgear_VEhatsandrags-an-VIEHAR_Apparel_Headscarf</defName>
 		<portraitLayer>PR_UnderHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/VEhatsandrags-headscarf</texPath>
+			<texPath>UnderHeadgear/VEhatsandrags-an-VIEHAR_Apparel_Headscarf</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>VIEHAR_Apparel_Headscarf</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_DeerSkull</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_DeerSkull</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VIEHAR_Apparel_DeerSkull</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VEhatsandrags-cn-VIEHAR_Apparel_Headscarf</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VEhatsandrags-cn-VIEHAR_Apparel_Headscarf</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VIEHAR_Apparel_Headscarf</li>
 			</apparels>

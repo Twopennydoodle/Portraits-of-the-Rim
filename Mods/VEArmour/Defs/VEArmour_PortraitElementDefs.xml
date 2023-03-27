@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEArmour-an-balaclava</defName>
+		<defName>PR_FullHeadgear_VEArmour-an-VAE_Headgear_Balaclava</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEArmour-an-balaclava</texPath>
+			<texPath>FullHeadgear/VEArmour-an-VAE_Headgear_Balaclava</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEArmour-an-ghilliehood</defName>
+		<defName>PR_FullHeadgear_VEArmour-an-VAE_Headgear_GhillieHood</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEArmour-an-ghilliehood</texPath>
+			<texPath>FullHeadgear/VEArmour-an-VAE_Headgear_GhillieHood</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -58,10 +58,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEArmour-cn-balaclava</defName>
+		<defName>PR_FullHeadgear_VEArmour-cn-VAE_Headgear_Balaclava</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEArmour-cn-balaclava</texPath>
+			<texPath>FullHeadgear/VEArmour-cn-VAE_Headgear_Balaclava</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -72,10 +72,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEArmour-cn-ghilliehood</defName>
+		<defName>PR_FullHeadgear_VEArmour-cn-VAE_Headgear_GhillieHood</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEArmour-cn-ghilliehood</texPath>
+			<texPath>FullHeadgear/VEArmour-cn-VAE_Headgear_GhillieHood</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -282,6 +282,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEArmour-l-plateshoulderpads-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEArmour-l-plateshoulderpads-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VAE_Apparel_PlateShoulderpads</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingShoulder_VEArmour-l-plateshoulderpads</defName>
 		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
 		<graphicData>
@@ -292,6 +307,21 @@
 			<apparels>
 				<li>VAE_Apparel_PlateShoulderpads</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEArmour-m-plateshoulderpads-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEArmour-m-plateshoulderpads-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VAE_Apparel_PlateShoulderpads</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -310,6 +340,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEArmour-s-plateshoulderpads-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEArmour-s-plateshoulderpads-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VAE_Apparel_PlateShoulderpads</li>
+			</apparels>
+			<style>impid</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingShoulder_VEArmour-s-plateshoulderpads</defName>
 		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
 		<graphicData>
@@ -320,6 +365,21 @@
 			<apparels>
 				<li>VAE_Apparel_PlateShoulderpads</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEArmour-xl-plateshoulderpads-styleimpid</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEArmour-xl-plateshoulderpads-styleimpid</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VAE_Apparel_PlateShoulderpads</li>
+			</apparels>
+			<style>impid</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -842,57 +902,15 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-an-platehelmet</defName>
+		<defName>PR_OuterHeadgear_VEArmour-an-VAE_Apparel_PlateHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-an-platehelmet</texPath>
+			<texPath>OuterHeadgear/VEArmour-an-VAE_Apparel_PlateHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VAE_Apparel_PlateHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-an-prestigetrooperhelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-an-prestigetrooperhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_RoyalTrooperHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-an-stonewarmask</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-an-stonewarmask</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_StoneWarMask</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-an-trooperhelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-an-trooperhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_TrooperHelmet</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -912,27 +930,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-cn-platehelmet</defName>
+		<defName>PR_OuterHeadgear_VEArmour-an-VAE_Headgear_RoyalTrooperHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-cn-platehelmet</texPath>
+			<texPath>OuterHeadgear/VEArmour-an-VAE_Headgear_RoyalTrooperHelmet</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>VAE_Apparel_PlateHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-cn-prestigetrooperhelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-cn-prestigetrooperhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VAE_Headgear_RoyalTrooperHelmet</li>
 			</apparels>
@@ -940,13 +944,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-cn-stonewarmask</defName>
+		<defName>PR_OuterHeadgear_VEArmour-an-VAE_Headgear_StoneWarMask</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-cn-stonewarmask</texPath>
+			<texPath>OuterHeadgear/VEArmour-an-VAE_Headgear_StoneWarMask</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VAE_Headgear_StoneWarMask</li>
 			</apparels>
@@ -954,15 +958,29 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-cn-trooperhelmet</defName>
+		<defName>PR_OuterHeadgear_VEArmour-an-VAE_Headgear_TrooperHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-cn-trooperhelmet</texPath>
+			<texPath>OuterHeadgear/VEArmour-an-VAE_Headgear_TrooperHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>VAE_Headgear_TrooperHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEArmour-cn-VAE_Apparel_PlateHelmet</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEArmour-cn-VAE_Apparel_PlateHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<apparels>
-				<li>VAE_Headgear_TrooperHelmet</li>
+				<li>VAE_Apparel_PlateHelmet</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -977,6 +995,48 @@
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VAE_Headgear_HAZMATMask</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEArmour-cn-VAE_Headgear_RoyalTrooperHelmet</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEArmour-cn-VAE_Headgear_RoyalTrooperHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_RoyalTrooperHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEArmour-cn-VAE_Headgear_StoneWarMask</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEArmour-cn-VAE_Headgear_StoneWarMask</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_StoneWarMask</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEArmour-cn-VAE_Headgear_TrooperHelmet</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEArmour-cn-VAE_Headgear_TrooperHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Headgear_TrooperHelmet</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
