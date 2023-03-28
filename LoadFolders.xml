@@ -23,6 +23,7 @@
         <li IfModActive="vanillaexpanded.vanillatraitsexpanded">Mods/VETraits</li>
         <li IfModActive="vanillaexpanded.vappe">Mods/VEApparel</li>
         <li IfModActive="vanillaexpanded.varme">Mods/VEArmour</li>
+        <li IfModActive="vanillaexpanded.varme Ludeon.RimWorld.Royalty">Mods/VEArmourRoyalty</li>
         <li IfModActive="vanillaexpanded.vgeneticse">Mods/VEGenetics</li>
         <li IfModActive="vanillaexpanded.vhe">Mods/VEHair</li>
         <li IfModActive="vanillaexpanded.viehar">Mods/VEhatsandrags</li>
@@ -42,6 +43,7 @@
         <li IfModActive="vanillaexpanded.vanillatraitsexpanded_local">Mods/VETraits</li>
         <li IfModActive="vanillaexpanded.vappe_local">Mods/VEApparel</li>
         <li IfModActive="vanillaexpanded.varme_local">Mods/VEArmour</li>
+        <li IfModActive="vanillaexpanded.varme_local Ludeon.RimWorld.Royalty">Mods/VEArmourRoyalty</li>
         <li IfModActive="vanillaexpanded.vgeneticse_local">Mods/VEGenetics</li>
         <li IfModActive="vanillaexpanded.vhe_local">Mods/VEHair</li>
         <li IfModActive="vanillaexpanded.viehar_local">Mods/VEhatsandrags</li>
@@ -61,6 +63,7 @@
         <li IfModActive="vanillaexpanded.vanillatraitsexpanded_steam">Mods/VETraits</li>
         <li IfModActive="vanillaexpanded.vappe_steam">Mods/VEApparel</li>
         <li IfModActive="vanillaexpanded.varme_steam">Mods/VEArmour</li>
+        <li IfModActive="vanillaexpanded.varme_steam Ludeon.RimWorld.Royalty">Mods/VEArmourRoyalty</li>
         <li IfModActive="vanillaexpanded.vgeneticse_steam">Mods/VEGenetics</li>
         <li IfModActive="vanillaexpanded.vhe_steam">Mods/VEHair</li>
         <li IfModActive="vanillaexpanded.viehar_steam">Mods/VEhatsandrags</li>

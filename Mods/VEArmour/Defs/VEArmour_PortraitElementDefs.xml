@@ -43,19 +43,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEArmour-an-VAE_Headgear_RoyalSiegeHelmet</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/VEArmour-an-VAE_Headgear_RoyalSiegeHelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_RoyalSiegeHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
+
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_VEArmour-cn-VAE_Headgear_Balaclava</defName>
@@ -95,20 +83,6 @@
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VAE_Headgear_HeavyMarineHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEArmour-cn-VAE_Headgear_RoyalSiegeHelmet</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/VEArmour-cn-VAE_Headgear_RoyalSiegeHelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>VAE_Headgear_RoyalSiegeHelmet</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -453,19 +427,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEArmour-l-Prestigetrooperarmor</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/VEArmour-l-Prestigetrooperarmor</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Large</bodyType>
-			<apparels>
-				<li>VAE_Apparel_RoyalTrooperArmor</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
+
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_VEArmour-l-Trooperarmor</defName>
@@ -495,19 +457,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEArmour-l-VAE_Apparel_RoyalSiegeArmor</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/VEArmour-l-VAE_Apparel_RoyalSiegeArmor</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Large</bodyType>
-			<apparels>
-				<li>VAE_Apparel_RoyalSiegeArmor</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
+
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_VEArmour-l-Woodenarmor</defName>
@@ -579,19 +529,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEArmour-m-Prestigetrooperarmor</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/VEArmour-m-Prestigetrooperarmor</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Medium</bodyType>
-			<apparels>
-				<li>VAE_Apparel_RoyalTrooperArmor</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
+
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_VEArmour-m-Trooperarmor</defName>
@@ -617,20 +555,6 @@
 			<bodyType>Medium</bodyType>
 			<apparels>
 				<li>VAE_Apparel_HeavyMarineArmor</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEArmour-m-VAE_Apparel_RoyalSiegeArmor</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/VEArmour-m-VAE_Apparel_RoyalSiegeArmor</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Medium</bodyType>
-			<apparels>
-				<li>VAE_Apparel_RoyalSiegeArmor</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -706,20 +630,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEArmour-s-Prestigetrooperarmor</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/VEArmour-s-Prestigetrooperarmor</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Small</bodyType>
-			<apparels>
-				<li>VAE_Apparel_RoyalTrooperArmor</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_VEArmour-s-Trooperarmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -743,20 +653,6 @@
 			<bodyType>Small</bodyType>
 			<apparels>
 				<li>VAE_Apparel_HeavyMarineArmor</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEArmour-s-VAE_Apparel_RoyalSiegeArmor</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/VEArmour-s-VAE_Apparel_RoyalSiegeArmor</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Small</bodyType>
-			<apparels>
-				<li>VAE_Apparel_RoyalSiegeArmor</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -831,19 +727,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEArmour-xl-Prestigetrooperarmor</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/VEArmour-xl-Prestigetrooperarmor</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>ExtraLarge</bodyType>
-			<apparels>
-				<li>VAE_Apparel_RoyalTrooperArmor</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
+
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_VEArmour-xl-Trooperarmor</defName>
@@ -869,20 +753,6 @@
 			<bodyType>ExtraLarge</bodyType>
 			<apparels>
 				<li>VAE_Apparel_HeavyMarineArmor</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEArmour-xl-VAE_Apparel_RoyalSiegeArmor</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/VEArmour-xl-VAE_Apparel_RoyalSiegeArmor</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>ExtraLarge</bodyType>
-			<apparels>
-				<li>VAE_Apparel_RoyalSiegeArmor</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -929,19 +799,6 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-an-VAE_Headgear_RoyalTrooperHelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-an-VAE_Headgear_RoyalTrooperHelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VAE_Headgear_RoyalTrooperHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHeadgear_VEArmour-an-VAE_Headgear_StoneWarMask</defName>
@@ -995,20 +852,6 @@
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VAE_Headgear_HAZMATMask</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEArmour-cn-VAE_Headgear_RoyalTrooperHelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEArmour-cn-VAE_Headgear_RoyalTrooperHelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>VAE_Headgear_RoyalTrooperHelmet</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
