@@ -43,7 +43,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_FullHeadgear_VEArmour-an-VAE_Headgear_RoyalSiegeHelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
@@ -99,7 +99,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_FullHeadgear_VEArmour-cn-VAE_Headgear_RoyalSiegeHelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
@@ -453,7 +453,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterClothingTorso_VEArmour-l-Prestigetrooperarmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -495,7 +495,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterClothingTorso_VEArmour-l-VAE_Apparel_RoyalSiegeArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -579,7 +579,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterClothingTorso_VEArmour-m-Prestigetrooperarmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -621,7 +621,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterClothingTorso_VEArmour-m-VAE_Apparel_RoyalSiegeArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -705,7 +705,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterClothingTorso_VEArmour-s-Prestigetrooperarmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -747,7 +747,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterClothingTorso_VEArmour-s-VAE_Apparel_RoyalSiegeArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -831,7 +831,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterClothingTorso_VEArmour-xl-Prestigetrooperarmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -873,7 +873,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterClothingTorso_VEArmour-xl-VAE_Apparel_RoyalSiegeArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -929,7 +929,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterHeadgear_VEArmour-an-VAE_Headgear_RoyalTrooperHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
@@ -999,7 +999,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Royalty">
 		<defName>PR_OuterHeadgear_VEArmour-cn-VAE_Headgear_RoyalTrooperHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
