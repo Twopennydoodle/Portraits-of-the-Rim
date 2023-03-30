@@ -2,24 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEVikings-an-guardianhelmet</defName>
+		<defName>PR_FullHeadgear_VEVikings-an-VFEV_Apparel_CryptoHeavyHelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEVikings-an-guardianhelmet</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VFEV_Apparel_GuardianHelmet</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEVikings-an-heavycryptohelmet</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>FullHeadgear/VEVikings-an-heavycryptohelmet</texPath>
+			<texPath>FullHeadgear/VEVikings-an-VFEV_Apparel_CryptoHeavyHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -44,13 +30,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEVikings-cn-guardianhelmet</defName>
+		<defName>PR_FullHeadgear_VEVikings-an-VFEV_Apparel_GuardianHelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEVikings-cn-guardianhelmet</texPath>
+			<texPath>FullHeadgear/VEVikings-an-VFEV_Apparel_GuardianHelmet</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VFEV_Apparel_GuardianHelmet</li>
 			</apparels>
@@ -58,10 +44,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEVikings-cn-heavycryptohelmet</defName>
+		<defName>PR_FullHeadgear_VEVikings-cn-VFEV_Apparel_CryptoHeavyHelmet</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEVikings-cn-heavycryptohelmet</texPath>
+			<texPath>FullHeadgear/VEVikings-cn-VFEV_Apparel_CryptoHeavyHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -81,6 +67,20 @@
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VFEV_Apparel_CryptoLightHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VEVikings-cn-VFEV_Apparel_GuardianHelmet</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VEVikings-cn-VFEV_Apparel_GuardianHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VFEV_Apparel_GuardianHelmet</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -825,38 +825,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-an-bearheaddress</defName>
+		<defName>PR_OuterHeadgear_VEVikings-an-VFEV_Apparel_LeatherHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-an-bearheaddress</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VFEV_BearHeaddress</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-an-jarlcrown</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-an-jarlcrown</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VFEV_JarlCrown</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-an-leatherhelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-an-leatherhelmet</texPath>
+			<texPath>OuterHeadgear/VEVikings-an-VFEV_Apparel_LeatherHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -867,24 +839,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-an-mooseheaddress</defName>
+		<defName>PR_OuterHeadgear_VEVikings-an-VFEV_Apparel_RavagerHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-an-mooseheaddress</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>VFEV_MooseHeaddress</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-an-ravagerhelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-an-ravagerhelmet</texPath>
+			<texPath>OuterHeadgear/VEVikings-an-VFEV_Apparel_RavagerHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -895,13 +853,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-cn-bearheaddress</defName>
+		<defName>PR_OuterHeadgear_VEVikings-an-VFEV_BearHeaddress</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-cn-bearheaddress</texPath>
+			<texPath>OuterHeadgear/VEVikings-an-VFEV_BearHeaddress</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VFEV_BearHeaddress</li>
 			</apparels>
@@ -909,13 +867,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-cn-jarlcrown</defName>
+		<defName>PR_OuterHeadgear_VEVikings-an-VFEV_JarlCrown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-cn-jarlcrown</texPath>
+			<texPath>OuterHeadgear/VEVikings-an-VFEV_JarlCrown</texPath>
 		</graphicData>
 		<requirements>
-			<ageRange>7~13</ageRange>
+			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>VFEV_JarlCrown</li>
 			</apparels>
@@ -923,10 +881,24 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-cn-leatherhelmet</defName>
+		<defName>PR_OuterHeadgear_VEVikings-an-VFEV_MooseHeaddress</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-cn-leatherhelmet</texPath>
+			<texPath>OuterHeadgear/VEVikings-an-VFEV_MooseHeaddress</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>VFEV_MooseHeaddress</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEVikings-cn-VFEV_Apparel_LeatherHelmet</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEVikings-cn-VFEV_Apparel_LeatherHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -937,24 +909,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-cn-mooseheaddress</defName>
+		<defName>PR_OuterHeadgear_VEVikings-cn-VFEV_Apparel_RavagerHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-cn-mooseheaddress</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>VFEV_MooseHeaddress</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEVikings-cn-ravagerhelmet</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>OuterHeadgear/VEVikings-cn-ravagerhelmet</texPath>
+			<texPath>OuterHeadgear/VEVikings-cn-VFEV_Apparel_RavagerHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -965,12 +923,13 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_VEVikings-bearheaddress</defName>
-		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<defName>PR_OuterHeadgear_VEVikings-cn-VFEV_BearHeaddress</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/VEVikings-bearheaddress</texPath>
+			<texPath>OuterHeadgear/VEVikings-cn-VFEV_BearHeaddress</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VFEV_BearHeaddress</li>
 			</apparels>
@@ -978,12 +937,27 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_VEVikings-mooseheaddress</defName>
-		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<defName>PR_OuterHeadgear_VEVikings-cn-VFEV_JarlCrown</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/VEVikings-mooseheaddress</texPath>
+			<texPath>OuterHeadgear/VEVikings-cn-VFEV_JarlCrown</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VFEV_JarlCrown</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEVikings-cn-VFEV_MooseHeaddress</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEVikings-cn-VFEV_MooseHeaddress</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>VFEV_MooseHeaddress</li>
 			</apparels>
@@ -999,6 +973,32 @@
 		<requirements>
 			<apparels>
 				<li>VFEV_Apparel_CryptoLightHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VEVikings-VFEV_BearHeaddress</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VEVikings-VFEV_BearHeaddress</texPath>
+		</graphicData>
+		<requirements>
+			<apparels>
+				<li>VFEV_BearHeaddress</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VEVikings-VFEV_MooseHeaddress</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VEVikings-VFEV_MooseHeaddress</texPath>
+		</graphicData>
+		<requirements>
+			<apparels>
+				<li>VFEV_MooseHeaddress</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>

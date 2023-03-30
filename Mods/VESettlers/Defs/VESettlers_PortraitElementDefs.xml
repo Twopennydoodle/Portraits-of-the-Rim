@@ -142,10 +142,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VESettlers-an-flatcap</defName>
+		<defName>PR_OuterHeadgear_VESettlers-an-VFES_Headgear_FlatCap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VESettlers-an-flatcap</texPath>
+			<texPath>OuterHeadgear/VESettlers-an-VFES_Headgear_FlatCap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -156,10 +156,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VESettlers-an-sombrero</defName>
+		<defName>PR_OuterHeadgear_VESettlers-an-VFES_Headgear_Sombrero</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VESettlers-an-sombrero</texPath>
+			<texPath>OuterHeadgear/VESettlers-an-VFES_Headgear_Sombrero</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -170,10 +170,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VESettlers-cn-flatcap</defName>
+		<defName>PR_OuterHeadgear_VESettlers-cn-VFES_Headgear_FlatCap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VESettlers-cn-flatcap</texPath>
+			<texPath>OuterHeadgear/VESettlers-cn-VFES_Headgear_FlatCap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -184,10 +184,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VESettlers-cn-sombrero</defName>
+		<defName>PR_OuterHeadgear_VESettlers-cn-VFES_Headgear_Sombrero</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VESettlers-cn-sombrero</texPath>
+			<texPath>OuterHeadgear/VESettlers-cn-VFES_Headgear_Sombrero</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-aerialwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Aerial</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-aerialwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Aerial</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-barragewarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Barrage</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-barragewarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Barrage</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30,10 +30,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-brutewarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Brute</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-brutewarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Brute</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -44,10 +44,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-cataphractwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Cataphract</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-cataphractwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Cataphract</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -58,10 +58,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-controllerwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Controller</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-controllerwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Controller</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -72,10 +72,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-guardianwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Guardian</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-guardianwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Guardian</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -86,10 +86,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-marinewarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Marine</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-marinewarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Marine</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -100,10 +100,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-reconwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Recon</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-reconwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Recon</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -114,10 +114,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-sarcophaguswarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Sarcophagus</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-sarcophaguswarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Sarcophagus</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -128,10 +128,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-shockwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Shock</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-shockwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Shock</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -142,10 +142,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-siegebreakerwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Siegebreaker</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-siegebreakerwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Siegebreaker</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -156,10 +156,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-an-warcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Warcasket</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-an-warcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Warcasket</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -170,10 +170,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-aerialwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Aerial</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-aerialwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Aerial</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -184,10 +184,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-barragewarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Barrage</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-barragewarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Barrage</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -198,10 +198,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-brutewarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Brute</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-brutewarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Brute</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -212,10 +212,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-cataphractwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Cataphract</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-cataphractwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Cataphract</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -226,10 +226,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-controllerwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Controller</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-controllerwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Controller</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -240,10 +240,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-guardianwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Guardian</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-guardianwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Guardian</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -254,10 +254,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-marinewarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Marine</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-marinewarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Marine</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -268,10 +268,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-reconwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Recon</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-reconwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Recon</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -282,10 +282,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-sarcophaguswarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Sarcophagus</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-sarcophaguswarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Sarcophagus</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -296,10 +296,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-shockwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Shock</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-shockwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Shock</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -310,10 +310,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-siegebreakerwarcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Siegebreaker</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-siegebreakerwarcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Siegebreaker</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -324,10 +324,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_VEPirates-cn-warcaskethelmet</defName>
+		<defName>PR_FullHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Warcasket</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/VEPirates-cn-warcaskethelmet</texPath>
+			<texPath>FullHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Warcasket</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1178,10 +1178,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEPirates-an-hazardwarcaskethelmet</defName>
+		<defName>PR_OuterHeadgear_VEPirates-an-VFEP_WarcasketHelmet_Hazard</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEPirates-an-hazardwarcaskethelmet</texPath>
+			<texPath>OuterHeadgear/VEPirates-an-VFEP_WarcasketHelmet_Hazard</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1192,10 +1192,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEPirates-cn-hazardwarcaskethelmet</defName>
+		<defName>PR_OuterHeadgear_VEPirates-cn-VFEP_WarcasketHelmet_Hazard</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEPirates-cn-hazardwarcaskethelmet</texPath>
+			<texPath>OuterHeadgear/VEPirates-cn-VFEP_WarcasketHelmet_Hazard</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
