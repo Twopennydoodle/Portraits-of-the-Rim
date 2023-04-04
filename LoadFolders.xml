@@ -11,6 +11,7 @@
         <li IfModActive="MonteErin.Hair.Persona">Mods/ERNPersona5</li>
         <li IfModActive="Erin.Hair2">Mods/ERNHairs2</li>
         <li IfModActive="Erin.AuronyaBiotech">Mods/ERNAuronya</li>
+        <li IfModActive="Rooboid.Glasseshair">Mods/RoosGlasses</li>
         <li IfModActive="oskarpotocki.vanillafactionsexpanded.medievalmodule">Mods/VEMedieval</li>
         <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">Mods/VESettlers</li>
         <li IfModActive="oskarpotocki.vfe.classical">Mods/VEClassical</li>
