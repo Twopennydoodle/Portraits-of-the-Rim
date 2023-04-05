@@ -371,7 +371,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 			<xenotype>Baseliner</xenotype>
@@ -389,7 +389,7 @@
 				<li>
 					<hediffInjury>BionicEar</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -1452,7 +1452,7 @@
 				<li>
 					<hediffInjury>Blindness</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -1469,7 +1469,7 @@
 				<li>
 					<hediffInjury>Cataract</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -1486,7 +1486,7 @@
 				<li>
 					<hediffInjury>Blindness</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -1503,7 +1503,7 @@
 				<li>
 					<hediffInjury>Cataract</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -7209,7 +7209,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -7228,7 +7228,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7247,7 +7247,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7266,7 +7266,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7285,7 +7285,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7304,7 +7304,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7323,7 +7323,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7342,7 +7342,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -7360,7 +7360,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7379,7 +7379,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7398,7 +7398,7 @@
 				<li>
 					<hediffInjury>CochlearImplant</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -7416,7 +7416,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7435,7 +7435,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7454,7 +7454,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7473,7 +7473,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7492,7 +7492,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7511,7 +7511,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7530,7 +7530,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7549,7 +7549,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7568,7 +7568,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7587,7 +7587,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7606,7 +7606,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7625,7 +7625,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7644,7 +7644,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7663,7 +7663,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7682,7 +7682,7 @@
 				<li>
 					<hediffInjury>ArchotechEye</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -7699,7 +7699,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -7718,7 +7718,7 @@
 				<li>
 					<hediffInjury>BionicEye</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -7736,7 +7736,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7755,7 +7755,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7774,7 +7774,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7793,7 +7793,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7812,7 +7812,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7831,7 +7831,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7850,7 +7850,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -7868,7 +7868,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7887,7 +7887,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7906,7 +7906,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7925,7 +7925,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7944,7 +7944,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -7963,7 +7963,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -7982,7 +7982,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -8001,7 +8001,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -8020,7 +8020,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -8039,7 +8039,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -8058,7 +8058,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -8077,7 +8077,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -8096,7 +8096,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -8115,7 +8115,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -8134,7 +8134,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -8153,7 +8153,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9264,7 +9264,7 @@
 				<li>
 					<hediffInjury>ArchotechEye</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -9281,7 +9281,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -9300,7 +9300,7 @@
 				<li>
 					<hediffInjury>BionicEye</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -9318,7 +9318,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9337,7 +9337,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9356,7 +9356,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9375,7 +9375,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9394,7 +9394,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9413,7 +9413,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9432,7 +9432,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -9450,7 +9450,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9469,7 +9469,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9488,7 +9488,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9507,7 +9507,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9526,7 +9526,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9545,7 +9545,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9564,7 +9564,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9583,7 +9583,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9602,7 +9602,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9621,7 +9621,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9640,7 +9640,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9659,7 +9659,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9678,7 +9678,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9697,7 +9697,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9716,7 +9716,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9735,7 +9735,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9753,7 +9753,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -9772,7 +9772,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9791,7 +9791,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9810,7 +9810,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9829,7 +9829,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9848,7 +9848,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9867,7 +9867,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9886,7 +9886,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -9904,7 +9904,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9923,7 +9923,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9942,7 +9942,7 @@
 				<li>
 					<hediffInjury>CochlearImplant</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -9960,7 +9960,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -9979,7 +9979,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -9998,7 +9998,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10017,7 +10017,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10036,7 +10036,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10055,7 +10055,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10074,7 +10074,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10093,7 +10093,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10112,7 +10112,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10131,7 +10131,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10150,7 +10150,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10169,7 +10169,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10188,7 +10188,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10207,7 +10207,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Ear</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10226,7 +10226,7 @@
 				<li>
 					<hediffInjury>ArchotechEye</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -10243,7 +10243,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -10262,7 +10262,7 @@
 				<li>
 					<hediffInjury>BionicEye</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -10280,7 +10280,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10299,7 +10299,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10318,7 +10318,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10337,7 +10337,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10356,7 +10356,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10375,7 +10375,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10394,7 +10394,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -10412,7 +10412,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10431,7 +10431,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10450,7 +10450,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10469,7 +10469,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10488,7 +10488,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10507,7 +10507,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10526,7 +10526,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10545,7 +10545,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10564,7 +10564,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10583,7 +10583,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10602,7 +10602,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10621,7 +10621,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10640,7 +10640,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10659,7 +10659,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -10678,7 +10678,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -10697,7 +10697,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -11808,7 +11808,7 @@
 				<li>
 					<hediffInjury>ArchotechEye</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -11825,7 +11825,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -11844,7 +11844,7 @@
 				<li>
 					<hediffInjury>BionicEye</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -11862,7 +11862,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -11881,7 +11881,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -11900,7 +11900,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -11919,7 +11919,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -11938,7 +11938,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -11957,7 +11957,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -11976,7 +11976,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -11994,7 +11994,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -12013,7 +12013,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -12032,7 +12032,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -12051,7 +12051,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -12070,7 +12070,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -12089,7 +12089,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -12108,7 +12108,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -12127,7 +12127,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -12146,7 +12146,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -12165,7 +12165,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -12184,7 +12184,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -12203,7 +12203,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -12222,7 +12222,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -12241,7 +12241,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -12260,7 +12260,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -12279,7 +12279,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Eye</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20041,7 +20041,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -20060,7 +20060,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20079,7 +20079,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20098,7 +20098,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20117,7 +20117,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20136,7 +20136,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20155,7 +20155,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20174,7 +20174,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -20192,7 +20192,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20211,7 +20211,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20230,7 +20230,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20249,7 +20249,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20268,7 +20268,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20287,7 +20287,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20306,7 +20306,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20325,7 +20325,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20344,7 +20344,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20363,7 +20363,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20382,7 +20382,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20401,7 +20401,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20420,7 +20420,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20439,7 +20439,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20458,7 +20458,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20477,7 +20477,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20495,7 +20495,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -20514,7 +20514,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20533,7 +20533,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20552,7 +20552,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20571,7 +20571,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20590,7 +20590,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20609,7 +20609,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20628,7 +20628,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -20646,7 +20646,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20665,7 +20665,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20684,7 +20684,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20703,7 +20703,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20722,7 +20722,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20741,7 +20741,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20760,7 +20760,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20779,7 +20779,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20798,7 +20798,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20817,7 +20817,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20836,7 +20836,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20855,7 +20855,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20874,7 +20874,7 @@
 				<li>
 					<hediffInjury>SimpleProstheticArm</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -20892,7 +20892,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20911,7 +20911,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -20930,7 +20930,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -20949,7 +20949,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21431,7 +21431,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -21450,7 +21450,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21469,7 +21469,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21488,7 +21488,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21507,7 +21507,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21526,7 +21526,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21545,7 +21545,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21564,7 +21564,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -21582,7 +21582,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21601,7 +21601,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21620,7 +21620,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21639,7 +21639,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21658,7 +21658,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21677,7 +21677,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21696,7 +21696,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21715,7 +21715,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21734,7 +21734,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21753,7 +21753,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21772,7 +21772,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21791,7 +21791,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21810,7 +21810,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21829,7 +21829,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21848,7 +21848,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21867,7 +21867,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21885,7 +21885,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -21904,7 +21904,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21923,7 +21923,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21942,7 +21942,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21961,7 +21961,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -21980,7 +21980,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -21999,7 +21999,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22018,7 +22018,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -22036,7 +22036,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22055,7 +22055,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22074,7 +22074,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22093,7 +22093,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22112,7 +22112,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22131,7 +22131,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22150,7 +22150,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22169,7 +22169,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22188,7 +22188,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22207,7 +22207,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22226,7 +22226,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22245,7 +22245,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22264,7 +22264,7 @@
 				<li>
 					<hediffInjury>SimpleProstheticArm</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -22282,7 +22282,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22301,7 +22301,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22320,7 +22320,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22339,7 +22339,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22357,7 +22357,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -22376,7 +22376,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22395,7 +22395,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22414,7 +22414,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22433,7 +22433,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22452,7 +22452,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22471,7 +22471,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22490,7 +22490,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -22508,7 +22508,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22527,7 +22527,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22546,7 +22546,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22565,7 +22565,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22584,7 +22584,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22603,7 +22603,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22622,7 +22622,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22641,7 +22641,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22660,7 +22660,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22679,7 +22679,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22698,7 +22698,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22717,7 +22717,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22736,7 +22736,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22755,7 +22755,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22774,7 +22774,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22793,7 +22793,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22811,7 +22811,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -22830,7 +22830,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22849,7 +22849,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22868,7 +22868,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22887,7 +22887,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22906,7 +22906,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22925,7 +22925,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -22944,7 +22944,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -22962,7 +22962,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -22981,7 +22981,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23000,7 +23000,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23019,7 +23019,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23038,7 +23038,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23057,7 +23057,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23076,7 +23076,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23095,7 +23095,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23114,7 +23114,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23133,7 +23133,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23152,7 +23152,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23171,7 +23171,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23190,7 +23190,7 @@
 				<li>
 					<hediffInjury>SimpleProstheticArm</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -23208,7 +23208,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23227,7 +23227,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23246,7 +23246,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23265,7 +23265,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23747,7 +23747,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -23766,7 +23766,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23785,7 +23785,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23804,7 +23804,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23823,7 +23823,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23842,7 +23842,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23861,7 +23861,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23880,7 +23880,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -23898,7 +23898,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23917,7 +23917,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23936,7 +23936,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23955,7 +23955,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -23974,7 +23974,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -23993,7 +23993,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24012,7 +24012,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24031,7 +24031,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24050,7 +24050,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24069,7 +24069,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24088,7 +24088,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24107,7 +24107,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24126,7 +24126,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24145,7 +24145,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24164,7 +24164,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24183,7 +24183,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24201,7 +24201,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -24220,7 +24220,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24239,7 +24239,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24258,7 +24258,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24277,7 +24277,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24296,7 +24296,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24315,7 +24315,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24334,7 +24334,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -24352,7 +24352,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24371,7 +24371,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24390,7 +24390,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24409,7 +24409,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24428,7 +24428,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24447,7 +24447,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24466,7 +24466,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24485,7 +24485,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24504,7 +24504,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24523,7 +24523,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24542,7 +24542,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24561,7 +24561,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24580,7 +24580,7 @@
 				<li>
 					<hediffInjury>SimpleProstheticArm</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -24598,7 +24598,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24617,7 +24617,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24636,7 +24636,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24655,7 +24655,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24673,7 +24673,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -24692,7 +24692,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24711,7 +24711,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24730,7 +24730,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24749,7 +24749,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24768,7 +24768,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24787,7 +24787,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24806,7 +24806,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -24824,7 +24824,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24843,7 +24843,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24862,7 +24862,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24881,7 +24881,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24900,7 +24900,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24919,7 +24919,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24938,7 +24938,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24957,7 +24957,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -24976,7 +24976,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -24995,7 +24995,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25014,7 +25014,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25033,7 +25033,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25052,7 +25052,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25071,7 +25071,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25090,7 +25090,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25109,7 +25109,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25127,7 +25127,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -25146,7 +25146,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25165,7 +25165,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25184,7 +25184,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25203,7 +25203,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25222,7 +25222,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25241,7 +25241,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25260,7 +25260,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -25278,7 +25278,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25297,7 +25297,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25316,7 +25316,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25335,7 +25335,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25354,7 +25354,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25373,7 +25373,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25392,7 +25392,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25411,7 +25411,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25430,7 +25430,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25449,7 +25449,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25468,7 +25468,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25487,7 +25487,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25506,7 +25506,7 @@
 				<li>
 					<hediffInjury>SimpleProstheticArm</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -25524,7 +25524,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25543,7 +25543,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -25562,7 +25562,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -25581,7 +25581,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26063,7 +26063,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -26082,7 +26082,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26101,7 +26101,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26120,7 +26120,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26139,7 +26139,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26158,7 +26158,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26177,7 +26177,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26196,7 +26196,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -26214,7 +26214,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26233,7 +26233,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26252,7 +26252,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26271,7 +26271,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26290,7 +26290,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26309,7 +26309,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26328,7 +26328,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26347,7 +26347,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26366,7 +26366,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26385,7 +26385,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26404,7 +26404,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26423,7 +26423,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26442,7 +26442,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26461,7 +26461,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26480,7 +26480,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26499,7 +26499,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26517,7 +26517,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -26536,7 +26536,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26555,7 +26555,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26574,7 +26574,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26593,7 +26593,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26612,7 +26612,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26631,7 +26631,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26650,7 +26650,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -26668,7 +26668,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26687,7 +26687,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26706,7 +26706,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26725,7 +26725,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26744,7 +26744,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26763,7 +26763,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26782,7 +26782,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26801,7 +26801,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26820,7 +26820,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26839,7 +26839,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26858,7 +26858,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26877,7 +26877,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26896,7 +26896,7 @@
 				<li>
 					<hediffInjury>SimpleProstheticArm</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -26914,7 +26914,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26933,7 +26933,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26952,7 +26952,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -26971,7 +26971,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -26989,7 +26989,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -27008,7 +27008,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27027,7 +27027,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27046,7 +27046,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27065,7 +27065,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27084,7 +27084,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27103,7 +27103,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27122,7 +27122,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -27140,7 +27140,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27159,7 +27159,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27178,7 +27178,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27197,7 +27197,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27216,7 +27216,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27235,7 +27235,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27254,7 +27254,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27273,7 +27273,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27292,7 +27292,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27311,7 +27311,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27330,7 +27330,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27349,7 +27349,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27368,7 +27368,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27387,7 +27387,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27406,7 +27406,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27425,7 +27425,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27443,7 +27443,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -27462,7 +27462,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27481,7 +27481,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27500,7 +27500,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27519,7 +27519,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27538,7 +27538,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27557,7 +27557,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27576,7 +27576,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -27594,7 +27594,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27613,7 +27613,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27632,7 +27632,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27651,7 +27651,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27670,7 +27670,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27689,7 +27689,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27708,7 +27708,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27727,7 +27727,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27746,7 +27746,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27765,7 +27765,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27784,7 +27784,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27803,7 +27803,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27822,7 +27822,7 @@
 				<li>
 					<hediffInjury>SimpleProstheticArm</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -27840,7 +27840,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27859,7 +27859,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -27878,7 +27878,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -27897,7 +27897,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Right</side>
+					<side>Left</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28379,7 +28379,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -28398,7 +28398,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28417,7 +28417,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28436,7 +28436,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28455,7 +28455,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28474,7 +28474,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28493,7 +28493,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28512,7 +28512,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -28530,7 +28530,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28549,7 +28549,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28568,7 +28568,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28587,7 +28587,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28606,7 +28606,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28625,7 +28625,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28644,7 +28644,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28663,7 +28663,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28682,7 +28682,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28701,7 +28701,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28720,7 +28720,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28739,7 +28739,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28758,7 +28758,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28777,7 +28777,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28796,7 +28796,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28815,7 +28815,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Clavicle</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28833,7 +28833,7 @@
 			<bodyParts>
 				<li>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<bandaged>True</bandaged>
 				</li>
 			</bodyParts>
@@ -28852,7 +28852,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28871,7 +28871,7 @@
 				<li>
 					<hediffInjury>Bite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28890,7 +28890,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28909,7 +28909,7 @@
 				<li>
 					<hediffInjury>Bruise</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28928,7 +28928,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -28947,7 +28947,7 @@
 				<li>
 					<hediffInjury>Burn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -28966,7 +28966,7 @@
 				<li>
 					<hediffInjury>Carcinoma</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -28984,7 +28984,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -29003,7 +29003,7 @@
 				<li>
 					<hediffInjury>ChemicalBurn</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -29022,7 +29022,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -29041,7 +29041,7 @@
 				<li>
 					<hediffInjury>Crack</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -29060,7 +29060,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -29079,7 +29079,7 @@
 				<li>
 					<hediffInjury>Crush</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -29098,7 +29098,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -29117,7 +29117,7 @@
 				<li>
 					<hediffInjury>Cut</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -29136,7 +29136,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -29155,7 +29155,7 @@
 				<li>
 					<hediffInjury>Frostbite</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -29174,7 +29174,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -29193,7 +29193,7 @@
 				<li>
 					<hediffInjury>Gunshot</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -29212,7 +29212,7 @@
 				<li>
 					<hediffInjury>SimpleProstheticArm</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -29230,7 +29230,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -29249,7 +29249,7 @@
 				<li>
 					<hediffInjury>Scratch</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
@@ -29268,7 +29268,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
@@ -29287,7 +29287,7 @@
 				<li>
 					<hediffInjury>Shredded</hediffInjury>
 					<bodyPart>Shoulder</bodyPart>
-					<side>Left</side>
+					<side>Right</side>
 					<scarred>True</scarred>
 				</li>
 			</bodyParts>
