@@ -961,4 +961,197 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_RoosGlasses-an-Rubys_Test_Hair_Roundglassessmedium</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/RoosGlasses-an-Rubys_Test_Hair_Roundglassessmedium</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Rubys_Test_Hair_Roundglassessmedium</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_RoosGlasses-an-Rubys_Test_Hair_Standardglassestiedmale</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/RoosGlasses-an-Rubys_Test_Hair_Standardglassestiedmale</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Rubys_Test_Hair_Standardglassestiedmale</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_RoosGlasses-cn-Rubys_Test_Hair_Roundglassessmedium</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/RoosGlasses-cn-Rubys_Test_Hair_Roundglassessmedium</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Rubys_Test_Hair_Roundglassessmedium</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_RoosGlasses-cn-Rubys_Test_Hair_Standardglassestiedmale</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/RoosGlasses-cn-Rubys_Test_Hair_Standardglassestiedmale</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Rubys_Test_Hair_Standardglassestiedmale</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-an-Rubys_Test_Hair_Roundglasseslong</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-an-Rubys_Test_Hair_Roundglasseslong</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Rubys_Test_Hair_Roundglasseslong</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-an-Rubys_Test_Hair_Roundglasseslongmale</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-an-Rubys_Test_Hair_Roundglasseslongmale</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Rubys_Test_Hair_Roundglasseslongmale</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-an-Rubys_Test_Hair_Smallroundglasseslong</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-an-Rubys_Test_Hair_Smallroundglasseslong</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Rubys_Test_Hair_Smallroundglasseslong</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-an-Rubys_Test_Hair_Smallroundglasseslongmale</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-an-Rubys_Test_Hair_Smallroundglasseslongmale</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Rubys_Test_Hair_Smallroundglasseslongmale</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-an-Rubys_Test_Hair_Standardglasseslong</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-an-Rubys_Test_Hair_Standardglasseslong</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Rubys_Test_Hair_Standardglasseslong</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-an-Rubys_Test_Hair_Standardglasseslongmale</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-an-Rubys_Test_Hair_Standardglasseslongmale</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Rubys_Test_Hair_Standardglasseslongmale</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-cn-Rubys_Test_Hair_Roundglasseslong</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-cn-Rubys_Test_Hair_Roundglasseslong</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Rubys_Test_Hair_Roundglasseslong</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-cn-Rubys_Test_Hair_Roundglasseslongmale</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-cn-Rubys_Test_Hair_Roundglasseslongmale</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Rubys_Test_Hair_Roundglasseslongmale</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-cn-Rubys_Test_Hair_Smallroundglasseslong</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-cn-Rubys_Test_Hair_Smallroundglasseslong</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Rubys_Test_Hair_Smallroundglasseslong</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-cn-Rubys_Test_Hair_Smallroundglasseslongmale</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-cn-Rubys_Test_Hair_Smallroundglasseslongmale</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Rubys_Test_Hair_Smallroundglasseslongmale</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-cn-Rubys_Test_Hair_Standardglasseslong</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-cn-Rubys_Test_Hair_Standardglasseslong</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Rubys_Test_Hair_Standardglasseslong</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_RoosGlasses-cn-Rubys_Test_Hair_Standardglasseslongmale</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/RoosGlasses-cn-Rubys_Test_Hair_Standardglasseslongmale</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Rubys_Test_Hair_Standardglasseslongmale</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
 </Defs>
