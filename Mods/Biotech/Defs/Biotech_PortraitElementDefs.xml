@@ -2404,16 +2404,17 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHeadgear_Biotech-an-gasmask</defName>
+		<defName>PR_InnerHeadgear_Biotech-an-Apparel_GasMask-styleCyberpunk</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>InnerHeadgear/Biotech-an-gasmask</texPath>
+			<texPath>InnerHeadgear/Biotech-an-Apparel_GasMask-styleCyberpunk</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>Apparel_GasMask</li>
 			</apparels>
+			<style>Cyberpunk</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2460,16 +2461,17 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHeadgear_Biotech-cn-gasmask</defName>
+		<defName>PR_InnerHeadgear_Biotech-cn-Apparel_GasMask-styleCyberpunk</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>InnerHeadgear/Biotech-cn-gasmask</texPath>
+			<texPath>InnerHeadgear/Biotech-cn-Apparel_GasMask-styleCyberpunk</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<apparels>
 				<li>Apparel_GasMask</li>
 			</apparels>
+			<style>Cyberpunk</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
