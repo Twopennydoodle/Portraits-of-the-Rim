@@ -3042,6 +3042,7 @@
 			<texPath>OuterHediffHead/Biotech-gene-an-Ears_Cat</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>13~999</ageRange>
 			<genes>
 				<li>Ears_Cat</li>
 			</genes>
@@ -3081,6 +3082,7 @@
 			<texPath>OuterHediffHead/Biotech-gene-cn-Ears_Cat</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>7~13</ageRange>
 			<genes>
 				<li>Ears_Cat</li>
 			</genes>
@@ -3252,6 +3254,7 @@
 			<texPath>UnderHediff/Biotech-gene-an-Ears_Cat</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>13~999</ageRange>
 			<genes>
 				<li>Ears_Cat</li>
 			</genes>
@@ -3291,6 +3294,7 @@
 			<texPath>UnderHediff/Biotech-gene-cn-Ears_Cat</texPath>
 		</graphicData>
 		<requirements>
+			<ageRange>7~13</ageRange>
 			<genes>
 				<li>Ears_Cat</li>
 			</genes>
