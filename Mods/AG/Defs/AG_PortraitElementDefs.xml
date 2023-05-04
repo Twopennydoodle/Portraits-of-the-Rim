@@ -4111,7 +4111,21 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid_copy">
+		<defName>PR_MiddleHediffHead_AG-an-gene-AG_RoyalJellyProduction</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/AG-an-gene-AG_RoyalJellyProduction</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>AG_RoyalJellyProduction</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid">
 		<defName>PR_MiddleHediffHead_AG-an-gene-AG_RoyalJellyProduction</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -4508,7 +4522,21 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid_copy">
+		<defName>PR_MiddleHediffHead_AG-cn-gene-AG_RoyalJellyProduction</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/AG-cn-gene-AG_RoyalJellyProduction</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>AG_RoyalJellyProduction</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid">
 		<defName>PR_MiddleHediffHead_AG-cn-gene-AG_RoyalJellyProduction</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -5589,7 +5617,21 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="sarg.alphabiomes_copy">
+		<defName>PR_OuterHediffNeck_AG-l-gene-AG_RedFogger</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-l-gene-AG_RedFogger</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<genes>
+				<li>AG_RedFogger</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="sarg.alphabiomes">
 		<defName>PR_OuterHediffNeck_AG-l-gene-AG_RedFogger</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -5831,7 +5873,26 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid_copy">
+		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoyalJellyProduction</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-l-torso-gene-AG_RoyalJellyProduction</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<bodyParts>
+				<li>
+					<bodyPart>Torso</bodyPart>
+				</li>
+			</bodyParts>
+			<genes>
+				<li>AG_RoyalJellyProduction</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid">
 		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoyalJellyProduction</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -5940,7 +6001,21 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="sarg.alphabiomes_copy">
+		<defName>PR_OuterHediffNeck_AG-m-gene-AG_RedFogger</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-m-gene-AG_RedFogger</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<genes>
+				<li>AG_RedFogger</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="sarg.alphabiomes">
 		<defName>PR_OuterHediffNeck_AG-m-gene-AG_RedFogger</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -6182,7 +6257,26 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid_copy">
+		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoyalJellyProduction</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-m-torso-gene-AG_RoyalJellyProduction</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<bodyParts>
+				<li>
+					<bodyPart>Torso</bodyPart>
+				</li>
+			</bodyParts>
+			<genes>
+				<li>AG_RoyalJellyProduction</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid">
 		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoyalJellyProduction</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -6291,7 +6385,21 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="sarg.alphabiomes_copy">
+		<defName>PR_OuterHediffNeck_AG-s-gene-AG_RedFogger</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-s-gene-AG_RedFogger</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<genes>
+				<li>AG_RedFogger</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="sarg.alphabiomes">
 		<defName>PR_OuterHediffNeck_AG-s-gene-AG_RedFogger</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -6533,7 +6641,26 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid_copy">
+		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoyalJellyProduction</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-s-torso-gene-AG_RoyalJellyProduction</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<bodyParts>
+				<li>
+					<bodyPart>Torso</bodyPart>
+				</li>
+			</bodyParts>
+			<genes>
+				<li>AG_RoyalJellyProduction</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid">
 		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoyalJellyProduction</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -6642,7 +6769,21 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="sarg.alphabiomes_copy">
+		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_RedFogger</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-xl-gene-AG_RedFogger</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<genes>
+				<li>AG_RedFogger</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="sarg.alphabiomes">
 		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_RedFogger</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -6884,7 +7025,26 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid_copy">
+		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoyalJellyProduction</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-xl-torso-gene-AG_RoyalJellyProduction</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<bodyParts>
+				<li>
+					<bodyPart>Torso</bodyPart>
+				</li>
+			</bodyParts>
+			<genes>
+				<li>AG_RoyalJellyProduction</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="OskarPotocki.VFE.Insectoid">
 		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoyalJellyProduction</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
