@@ -31,14 +31,43 @@ namespace PortraitsOfTheRim
             }
             else if (!destroyed && nonMissingBodyParts.Any() is false)
             {
-                failReport = "No pawn matching injured parts";
-                return false;
+                if (!PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries || !bandaged)
+                {
+                    failReport = "No pawn matching injured parts";
+                    return false;
+                }
             }
+            
             var allHediffsWithPart = pawn.health.hediffSet.hediffs.Where(x => x.Part != null && Matches(x.Part, def)).ToList();
-            if (hediffInjury != null && allHediffsWithPart.Exists(x => x.def == hediffInjury) is false)
+            if (destroyed && nonMissingBodyParts.Any() is false)
             {
-                failReport = "No pawn matching injured parts to hediff: " + hediffInjury;
-                return false;
+                foreach (var hediff in allHediffsWithPart)
+                {
+                    if (hediff.GetType() == typeof(Hediff_MissingPart))
+                    {
+                        Hediff_MissingPart missingPart = (Hediff_MissingPart)hediff;
+                        if (hediffInjury != null && missingPart.lastInjury != hediffInjury)
+                        {
+                            failReport = "No pawn matching previously injured part to missing hediff: " + hediffInjury;
+                            return false;
+                        }
+                    }
+                    else
+                    {
+                        failReport = "A part that is supposed to be missing is not actually missing for part: " + hediff.part;
+                        return false;
+                    }
+                    
+                }
+            }
+            else
+            {
+                if (hediffInjury != null && allHediffsWithPart.Exists(x => x.def == hediffInjury) is false && allHediffsWithPart.OfType<Hediff_MissingPart>().Any() is false)
+                {
+
+                    failReport = "No pawn matching injured parts to hediff: " + hediffInjury;
+                    return false;
+                }
             }
             if (destroyed || scarred || injured || bandaged)
             {
@@ -64,6 +93,10 @@ namespace PortraitsOfTheRim
                     {
                         failReport = "No bandage";
                         return false;
+                    }
+                    if (allHediffsWithPart.OfType<Hediff_MissingPart>().Any() is true)
+                    {
+                        return true;
                     }
                     if (allHediffsWithPart.Exists(x => x.IsPermanent()) is false)
                     {
