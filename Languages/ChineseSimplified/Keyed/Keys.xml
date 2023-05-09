@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PR.ShowBandagesInsteadOfInjuries>将伤口显示为绷带</PR.ShowBandagesInsteadOfInjuries>
+  <PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets>使用随机的面部与头发贴图代替缺失的贴图</PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets>
+  <PR.ShowPortraitsByDefault>默认显示肖像(在主菜单中切换此选项可能会重置所有个人肖像的显示/隐藏设置)</PR.ShowPortraitsByDefault>
+  <PR.HidePortrait>隐藏肖像</PR.HidePortrait>
+  <PR.ShowPortrait>显示肖像</PR.ShowPortrait>
+  <PR.HideHeadgear>隐藏帽子</PR.HideHeadgear>
+  <PR.ShowHeadgear>显示帽子</PR.ShowHeadgear>
+  <PR.SelectStyle>选择风格(译注:只有少部分装甲衣物有风格变种，所以切换风格前后没有变化大概率是正常的)</PR.SelectStyle>
+</LanguageData>
