@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text.RegularExpressions;
 using UnityEngine;
 using Verse;
@@ -11,11 +12,16 @@ namespace PortraitsOfTheRim
     [StaticConstructorOnStartup]
     public class Portrait : IExposable
     {
+        public static readonly uint buttonSize = 24;
+        public static readonly uint buttonSpacing = 5;
+        public static readonly uint buttonCount = 4;
+
         private static readonly Texture2D ChangeStyles = ContentFinder<Texture2D>.Get("UI/ChangeStyles");
         private static readonly Texture2D ShowHideHatOff = ContentFinder<Texture2D>.Get("UI/ShowHideHat");
         private static readonly Texture2D ShowHidePortraitOff = ContentFinder<Texture2D>.Get("UI/ShowHidePortrait");
         private static readonly Texture2D ShowHideHatOn = ContentFinder<Texture2D>.Get("UI/ShowHideHaton");
         private static readonly Texture2D ShowHidePortraitOn = ContentFinder<Texture2D>.Get("UI/ShowHidePortraiton");
+        private static readonly Texture2D SelectExpressedTrait = ContentFinder<Texture2D>.Get("UI/SelectExpressedTrait");
         private static readonly Texture2D OutlineTex = SolidColorMaterials.NewSolidColorTexture(new ColorInt(77, 77, 77).ToColor);
         public Pawn pawn;
         private List<(PortraitElementDef, Texture)> portraitTextures;
@@ -24,6 +30,11 @@ namespace PortraitsOfTheRim
         public bool hidePortrait = !PortraitsOfTheRimSettings.showPortraitByDefault;
         public bool hideHeadgear;
         public string currentStyle;
+
+        public PortraitElementDef innerFaceToSave;
+
+        // List of traits that can be expressed per pawn
+        public static Dictionary<Pawn, List<PortraitElementDef>> expressableTraits = new();
 
         private List<(PortraitElementDef, Texture)> PortraitTextures
         {
@@ -61,7 +72,7 @@ namespace PortraitsOfTheRim
         public void DrawButtons(float x, float y)
         {
             Rect hidePortraitRect = HidePortraitButton(x, y);
-            var hideHeadgear = new Rect(hidePortraitRect.x, hidePortraitRect.yMax + 5, 24, 24);
+            var hideHeadgear = new Rect(hidePortraitRect.x, hidePortraitRect.yMax + buttonSpacing, buttonSize, buttonSize);
             TooltipHandler.TipRegion(hideHeadgear, this.hideHeadgear ? "PR.ShowHeadgear".Translate() : "PR.HideHeadgear".Translate());
             Widgets.DrawBoxSolidWithOutline(hideHeadgear, Color.black, Color.grey);
             if (Widgets.ButtonImage(hideHeadgear, this.hideHeadgear ? ShowHideHatOff : ShowHideHatOn))
@@ -69,7 +80,7 @@ namespace PortraitsOfTheRim
                 this.hideHeadgear = !this.hideHeadgear;
             }
 
-            var selectStyle = new Rect(hidePortraitRect.x, hideHeadgear.yMax + 5, 24, 24);
+            var selectStyle = new Rect(hidePortraitRect.x, hideHeadgear.yMax + buttonSpacing, buttonSize, buttonSize);
             TooltipHandler.TipRegion(selectStyle, "PR.SelectStyle".Translate());
             Widgets.DrawBoxSolidWithOutline(selectStyle, Color.black, Color.grey);
             if (Widgets.ButtonImage(selectStyle, ChangeStyles))
@@ -88,6 +99,46 @@ namespace PortraitsOfTheRim
                 }));
                 Find.WindowStack.Add(new FloatMenu(floatList));
             }
+
+            var selectExpressedTrait = new Rect(hidePortraitRect.x, selectStyle.yMax + buttonSpacing, buttonSize, buttonSize);
+            TooltipHandler.TipRegion(selectExpressedTrait, "PR.SelectExpressedTrait".Translate());
+            Widgets.DrawBoxSolidWithOutline(selectExpressedTrait, Color.black, Color.grey);
+            if (Widgets.ButtonImage(selectExpressedTrait, SelectExpressedTrait))
+            {
+                var floatList = new List<FloatMenuOption>();
+                if (!expressableTraits.TryGetValue(pawn, out var traitList))
+                {
+                    expressableTraits[pawn] = traitList = new List<PortraitElementDef>();
+                }
+                foreach (PortraitElementDef trait in traitList)
+                {
+                    floatList.Add(new FloatMenuOption(trait.requirements.traits[0].def.defName, delegate
+                    {
+                        innerFaceToSave = trait;
+                    }));
+                }
+                if (traitList.Count == 0)
+                {
+                    if (PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
+                    {
+                        floatList.Add(new FloatMenuOption("PR.NoExpressableTraitRandom".Translate(), delegate
+                        {
+                            if (PortraitUtils.portraitElements.TryGetValue(PR_DefOf.PR_InnerFace, out var elements) && elements.Any())
+                            {
+                                innerFaceToSave = elements.RandomElement();
+                            }
+                        }));
+                    }
+                    else
+                    {
+                        floatList.Add(new FloatMenuOption("PR.NoExpressableTraitNoRandom".Translate(), delegate
+                        {
+                            innerFaceToSave = null;
+                        }));
+                    }
+                }
+                Find.WindowStack.Add(new FloatMenu(floatList));
+            }
         }
 
         public Rect HidePortraitButton(float x, float y)
@@ -104,6 +155,8 @@ namespace PortraitsOfTheRim
         }
 
         public static Dictionary<Pawn, Dictionary<PortraitElementDef, RenderTexture>> cachedRenderTextures = new();
+
+        
 
         public static float zoomValue = 2.402f;
         public static float zOffset = -0.086f;
@@ -138,7 +191,18 @@ namespace PortraitsOfTheRim
                         }
                         else
                         {
-                            GetTextureFrom(allTextures, matchingElements);
+                            if (layer == PR_DefOf.PR_InnerFace)
+                            { 
+                                GetFaceTexture(allTextures, matchingElements);
+                            }
+                            else if (layer == PR_DefOf.PR_OuterFace)
+                            {
+                                continue;
+                            }
+                            else
+                            {
+                                GetTextureFrom(allTextures, matchingElements);
+                            }
                         }
                     }
                     else if (PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
@@ -153,9 +217,29 @@ namespace PortraitsOfTheRim
                         */
                         if (layer == PR_DefOf.PR_InnerFace)
                         {
-                            var pickedElement = GetTextureFrom(allTextures, elements);
-                            var outerFace = DefDatabase<PortraitElementDef>.GetNamedSilentFail(pickedElement.defName.Replace(layer.defName,
-                                PR_DefOf.PR_OuterFace.defName));
+                            if (!expressableTraits.TryGetValue(pawn, out var traitList))
+                            {
+                                expressableTraits[pawn] = traitList = new List<PortraitElementDef>();
+                            }
+                            else
+                            {
+                                if (traitList.Any())
+                                {
+                                    traitList.Clear();
+                                }
+                            }
+
+                            if (innerFaceToSave == null)
+                            {
+                                var pickedElement = GetTextureFrom(allTextures, elements);
+                                innerFaceToSave = pickedElement;
+                            }
+                            else
+                            {
+                                GetTexture(allTextures, innerFaceToSave);
+                            }
+                            var outerFace = DefDatabase<PortraitElementDef>.GetNamedSilentFail(innerFaceToSave.defName.Replace(layer.defName,
+                                    PR_DefOf.PR_OuterFace.defName));
                             if (outerFace != null)
                             {
                                 GetTexture(allTextures, outerFace);
@@ -195,6 +279,13 @@ namespace PortraitsOfTheRim
                             }
                         }
                     }
+                    else
+                    {
+                        if (layer == PR_DefOf.PR_InnerFace)
+                        {
+                            expressableTraits[pawn].Clear();
+                        }
+                    }
                 }
             }
             return allTextures;
@@ -226,11 +317,35 @@ namespace PortraitsOfTheRim
             allTextures.Add((matchingElement, renderTexture));
         }
 
+        private void GetFaceTexture(List<(PortraitElementDef, Texture)> allTextures, List<PortraitElementDef> elements)
+        {
+            expressableTraits[pawn] = elements;
+            if (innerFaceToSave == null || !elements.Contains(innerFaceToSave))
+            {
+                Rand.PushState();
+                Rand.Seed = pawn.thingIDNumber;
+                innerFaceToSave = elements.RandomElement();
+                Rand.PopState();
+            }
+            // Inner face 
+            if (innerFaceToSave != null)
+            {
+                GetTexture(allTextures, innerFaceToSave);
+                var outerFace = DefDatabase<PortraitElementDef>.GetNamedSilentFail(innerFaceToSave.defName.Replace(PR_DefOf.PR_InnerFace.defName,
+                                    PR_DefOf.PR_OuterFace.defName));
+                if (outerFace != null)
+                {
+                    GetTexture(allTextures, outerFace);
+                }
+            }
+        }
+
         public void ExposeData()
         {
             Scribe_Values.Look(ref hidePortrait, "hidePortrait", !PortraitsOfTheRimSettings.showPortraitByDefault);
             Scribe_Values.Look(ref hideHeadgear, "hideHeadgear");
             Scribe_Values.Look(ref currentStyle, "currentStyle", "");
+            Scribe_Defs.Look(ref innerFaceToSave, "innerFaceToSave");
         }
     }
 }

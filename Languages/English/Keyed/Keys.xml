@@ -9,4 +9,7 @@
 	<PR.HideHeadgear>Hide headgear</PR.HideHeadgear>
 	<PR.ShowHeadgear>Show headgear</PR.ShowHeadgear>
 	<PR.SelectStyle>Select style</PR.SelectStyle>
+	<PR.SelectExpressedTrait>Select expressed trait</PR.SelectExpressedTrait>
+	<PR.NoExpressableTraitNoRandom>Pawn has no expressable trait</PR.NoExpressableTraitNoRandom>
+	<PR.NoExpressableTraitRandom>Reroll random face (No expressable trait found on pawn)</PR.NoExpressableTraitRandom>
 </LanguageData>

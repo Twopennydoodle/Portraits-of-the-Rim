@@ -59,7 +59,8 @@ namespace PortraitsOfTheRim
                 if (portrait.ShouldShow)
                 {
                     portrait.RenderPortrait(xPos, yPos, portraitSize, portraitSize);
-                    portrait.DrawButtons(xPos + portraitSize + 5, yPos + portraitSize - 85);
+                    var buttonAreaHeight = Portrait.buttonCount * (Portrait.buttonSize + Portrait.buttonSpacing);
+                    portrait.DrawButtons(xPos + portraitSize + Portrait.buttonSpacing, yPos + portraitSize - buttonAreaHeight);
                 }
                 else
                 {
