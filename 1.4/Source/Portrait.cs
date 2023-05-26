@@ -281,7 +281,7 @@ namespace PortraitsOfTheRim
                     }
                     else
                     {
-                        if (layer == PR_DefOf.PR_InnerFace)
+                        if (layer == PR_DefOf.PR_InnerFace && expressableTraits.ContainsKey(pawn)) 
                         {
                             expressableTraits[pawn].Clear();
                         }
