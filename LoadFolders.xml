@@ -9,8 +9,10 @@
 		<li IfModActive="Ludeon.RimWorld.Biotech">Mods/Biotech</li>
         <li IfModActive="sarg.alphagenes">Mods/AG</li>
         <li IfModActive="Erin.Hairredux">Mods/ERNRedux</li>
+        <li IfModActive="Erin.CottageCollection">Mods/ERNCottage</li>
         <li IfModActive="MonteErin.Hair.Persona">Mods/ERNPersona5</li>
         <li IfModActive="Erin.Hair2">Mods/ERNHairs2</li>
+        <li IfModActive="Rooboid.Accessoryhair">Mods/RoosAccessories</li>
         <li IfModActive="Erin.AuronyaBiotech">Mods/ERNAuronya</li>
         <li IfModActive="Rooboid.Glasseshair">Mods/RoosGlasses</li>
         <li IfModActive="Dubwise.DubsBadHygiene">Mods/DubsBadH</li>
@@ -22,6 +24,7 @@
         <li IfModActive="oskarpotocki.vfe.pirates">Mods/VEPirates</li>
         <li IfModActive="oskarpotocki.vfe.vikings">Mods/VEVikings</li>
         <li IfModActive="oskarpotocki.vfe.empire">Mods/VEEmpire</li>
+        <li IfModActive="vanillaracesexpanded.android">Mods/VEAndroids</li>
         <li IfModActive="vanillaracesexpanded.sanguophage">Mods/VESang</li>
         <li IfModActive="vanillaexpanded.vaeaccessories">Mods/VEAccessories</li>
         <li IfModActive="vanillaexpanded.vanillatraitsexpanded">Mods/VETraits</li>
