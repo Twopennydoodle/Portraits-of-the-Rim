@@ -571,7 +571,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_InnerFace_VETraits-af-slob</defName>
 		<portraitLayer>PR_InnerFace</portraitLayer>
 		<graphicData>
@@ -1336,7 +1336,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_InnerFace_VETraits-am-slob</defName>
 		<portraitLayer>PR_InnerFace</portraitLayer>
 		<graphicData>
@@ -2101,7 +2101,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_InnerFace_VETraits-cf-slob</defName>
 		<portraitLayer>PR_InnerFace</portraitLayer>
 		<graphicData>
@@ -2866,7 +2866,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_InnerFace_VETraits-cm-slob</defName>
 		<portraitLayer>PR_InnerFace</portraitLayer>
 		<graphicData>
@@ -3631,7 +3631,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_InnerFace_VETraits-tf-slob</defName>
 		<portraitLayer>PR_InnerFace</portraitLayer>
 		<graphicData>
@@ -4396,7 +4396,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_InnerFace_VETraits-tm-slob</defName>
 		<portraitLayer>PR_InnerFace</portraitLayer>
 		<graphicData>
@@ -5161,7 +5161,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_OuterFace_VETraits-af-slob</defName>
 		<portraitLayer>PR_OuterFace</portraitLayer>
 		<graphicData>
@@ -5926,7 +5926,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_OuterFace_VETraits-am-slob</defName>
 		<portraitLayer>PR_OuterFace</portraitLayer>
 		<graphicData>
@@ -6691,7 +6691,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_OuterFace_VETraits-cf-slob</defName>
 		<portraitLayer>PR_OuterFace</portraitLayer>
 		<graphicData>
@@ -7456,7 +7456,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_OuterFace_VETraits-cm-slob</defName>
 		<portraitLayer>PR_OuterFace</portraitLayer>
 		<graphicData>
@@ -8221,7 +8221,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_OuterFace_VETraits-tf-slob</defName>
 		<portraitLayer>PR_OuterFace</portraitLayer>
 		<graphicData>
@@ -8986,7 +8986,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Dubwise.DubsBadHygiene">
 		<defName>PR_OuterFace_VETraits-tm-slob</defName>
 		<portraitLayer>PR_OuterFace</portraitLayer>
 		<graphicData>
