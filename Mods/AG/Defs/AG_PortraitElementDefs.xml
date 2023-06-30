@@ -8410,4 +8410,787 @@
 			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_OuterHediffNeck_AG-l-gene-AG_RoboticBodyPlastic</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodyPlastic</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<genes>
+				<li>AG_RoboticBodyPlastic</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_OuterHediffNeck_AG-m-gene-AG_RoboticBodyPlastic</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodyPlastic</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<genes>
+				<li>AG_RoboticBodyPlastic</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_OuterHediffNeck_AG-s-gene-AG_RoboticBodyPlastic</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodyPlastic</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<genes>
+				<li>AG_RoboticBodyPlastic</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_RoboticBodyPlastic</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodyPlastic</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<genes>
+				<li>AG_RoboticBodyPlastic</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_OuterHediffNeck_AG-l-gene-AG_RoboticBodySkeletal</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodySkeletal</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<genes>
+				<li>AG_RoboticBodySkeletal</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_OuterHediffNeck_AG-m-gene-AG_RoboticBodySkeletal</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodySkeletal</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<genes>
+				<li>AG_RoboticBodySkeletal</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_OuterHediffNeck_AG-s-gene-AG_RoboticBodySkeletal</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodySkeletal</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<genes>
+				<li>AG_RoboticBodySkeletal</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_RoboticBodySkeletal</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodySkeletal</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<genes>
+				<li>AG_RoboticBodySkeletal</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_MiddleHediffHead_AG-an-gene-AG_LightLED</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/AG-an-gene-AG_LightLED</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>AG_LightLED</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_MiddleHediffHead_AG-cn-gene-AG_LightLED</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/AG-cn-gene-AG_LightLED</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>AG_LightLED</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_MiddleHediffHead_AG-an-gene-AG_LightLEDRed</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/AG-an-gene-AG_LightLEDRed</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>AG_LightLEDRed</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_MiddleHediffHead_AG-cn-gene-AG_LightLEDRed</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/AG-cn-gene-AG_LightLEDRed</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>AG_LightLEDRed</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_MiddleHediffHead_AG-an-gene-AG_MechAntenna</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/AG-an-gene-AG_MechAntenna</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>AG_MechAntenna</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_MiddleHediffHead_AG-cn-gene-AG_MechAntenna</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/AG-cn-gene-AG_MechAntenna</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>AG_MechAntenna</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cf-AG_HalfSynthetic_Female</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cf-AG_HalfSynthetic_Female</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tf-AG_HalfSynthetic_Female</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tf-AG_HalfSynthetic_Female</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-yf-AG_HalfSynthetic_Female</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-yf-AG_HalfSynthetic_Female</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mf-AG_HalfSynthetic_Female</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mf-AG_HalfSynthetic_Female</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ef-AG_HalfSynthetic_Female</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ef-AG_HalfSynthetic_Female</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cf-AG_HalfSynthetic_Female_Pointy</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cf-AG_HalfSynthetic_Female_Pointy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female_Pointy</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tf-AG_HalfSynthetic_Female_Pointy</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tf-AG_HalfSynthetic_Female_Pointy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female_Pointy</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-yf-AG_HalfSynthetic_Female_Pointy</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-yf-AG_HalfSynthetic_Female_Pointy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female_Pointy</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mf-AG_HalfSynthetic_Female_Pointy</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mf-AG_HalfSynthetic_Female_Pointy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female_Pointy</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ef-AG_HalfSynthetic_Female_Pointy</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ef-AG_HalfSynthetic_Female_Pointy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Female_Pointy</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cm-AG_HalfSynthetic_Male</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cm-AG_HalfSynthetic_Male</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Male</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tm-AG_HalfSynthetic_Male</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tm-AG_HalfSynthetic_Male</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Male</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ym-AG_HalfSynthetic_Male</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ym-AG_HalfSynthetic_Male</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Male</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mm-AG_HalfSynthetic_Male</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mm-AG_HalfSynthetic_Male</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Male</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-em-AG_HalfSynthetic_Male</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-em-AG_HalfSynthetic_Male</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_HalfSynthetic_Male</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cf-AG_Female_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cf-AG_Female_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tf-AG_Female_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tf-AG_Female_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-yf-AG_Female_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-yf-AG_Female_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mf-AG_Female_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mf-AG_Female_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ef-AG_Female_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ef-AG_Female_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cm-AG_Male_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cm-AG_Male_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tm-AG_Male_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tm-AG_Male_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ym-AG_Male_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ym-AG_Male_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mm-AG_Male_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mm-AG_Male_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-em-AG_Male_Robotic3</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-em-AG_Male_Robotic3</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticKillerMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cf-AG_Female_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cf-AG_Female_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tf-AG_Female_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tf-AG_Female_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-yf-AG_Female_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-yf-AG_Female_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mf-AG_Female_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mf-AG_Female_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ef-AG_Female_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ef-AG_Female_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cm-AG_Male_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cm-AG_Male_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tm-AG_Male_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tm-AG_Male_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ym-AG_Male_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ym-AG_Male_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mm-AG_Male_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mm-AG_Male_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-em-AG_Male_Robotic2</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-em-AG_Male_Robotic2</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cf-AG_Female_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cf-AG_Female_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tf-AG_Female_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tf-AG_Female_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-yf-AG_Female_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-yf-AG_Female_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mf-AG_Female_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mf-AG_Female_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ef-AG_Female_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ef-AG_Female_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantFemale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-cm-AG_Male_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-cm-AG_Male_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-tm-AG_Male_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-tm-AG_Male_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~19</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-ym-AG_Male_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-ym-AG_Male_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>19~39</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-mm-AG_Male_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-mm-AG_Male_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>39~64</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
+		<defName>PR_Head_AG-em-AG_Male_Robotic1</defName>
+		<portraitLayer>PR_Head</portraitLayer>
+		<graphicData>
+			<texPath>Head/AG-em-AG_Male_Robotic1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>64~999</ageRange>
+			<gender>Female</gender>
+			<headType>AG_SyntheticServantMale</headType>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+
 </Defs>

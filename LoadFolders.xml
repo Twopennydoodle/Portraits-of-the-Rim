@@ -12,6 +12,7 @@
         <li IfModActive="Erin.CottageCollection">Mods/ERNCottage</li>
         <li IfModActive="MonteErin.Hair.Persona">Mods/ERNPersona5</li>
         <li IfModActive="Erin.Hair2">Mods/ERNHairs2</li>
+        <li IfModActive="Erin.Shisune">Mods/ERNShisune</li>
         <li IfModActive="won.hair">Mods/WonMale</li>
         <li IfModActive="won2.hair">Mods/WonFemale</li>
         <li IfModActive="Rooboid.Accessoryhair">Mods/RoosAccessories</li>
