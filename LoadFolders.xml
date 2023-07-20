@@ -78,5 +78,6 @@
         <li IfModActive="vanillaracesexpanded.hussar_steam">Mods/VEHussars</li>
         <li IfModActive="vanillaracesexpanded.phytokin_steam">Mods/VEPhytokin</li>
         <li IfModActive="vanillaracesexpanded.saurid_steam">Mods/VESaurids</li>
+        <li IfModActive="hlx.JoJosBizarreHairstyles">Mods/HlxJojo3</li>
 	</v1.4>
 </loadFolders>

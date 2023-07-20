@@ -842,4 +842,99 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VESaurids-cn-yoshi</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VESaurids-cn-yoshi</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>VRESaurids_Yoshi</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VESaurids-an-yoshi</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VESaurids-an-yoshi</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>VRESaurids_Yoshi</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>		
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VESaurids-cn-rango</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VESaurids-cn-rango</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>VRESaurids_Rango</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VESaurids-an-rango</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VESaurids-an-rango</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>VRESaurids_Rango</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VESaurids-cn-spyro</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VESaurids-cn-spyro</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>VRESaurids_Spyro</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VESaurids-an-spyro</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VESaurids-an-spyro</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>VRESaurids_Spyro</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>			
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VESaurids-cn-smaug</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VESaurids-cn-smaug</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>VRESaurids_Smaug</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_VESaurids-an-smaug</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/VESaurids-an-smaug</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>VRESaurids_Smaug</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>			
 </Defs>
