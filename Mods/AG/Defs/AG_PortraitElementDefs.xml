@@ -8412,7 +8412,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
-		<defName>PR_OuterHediffNeck_AG-l-gene-AG_RoboticBodyPlastic</defName>
+		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodyPlastic</texPath>
@@ -8426,7 +8426,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 <PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
-		<defName>PR_OuterHediffNeck_AG-m-gene-AG_RoboticBodyPlastic</defName>
+		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodyPlastic</texPath>
@@ -8440,7 +8440,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
-		<defName>PR_OuterHediffNeck_AG-s-gene-AG_RoboticBodyPlastic</defName>
+		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodyPlastic</texPath>
@@ -8454,7 +8454,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
-		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_RoboticBodyPlastic</defName>
+		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodyPlastic</texPath>
@@ -8468,7 +8468,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
-		<defName>PR_OuterHediffNeck_AG-l-gene-AG_RoboticBodySkeletal</defName>
+		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodySkeletal</texPath>
@@ -8482,7 +8482,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 <PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
-		<defName>PR_OuterHediffNeck_AG-m-gene-AG_RoboticBodySkeletal</defName>
+		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodySkeletal</texPath>
@@ -8496,7 +8496,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
-		<defName>PR_OuterHediffNeck_AG-s-gene-AG_RoboticBodySkeletal</defName>
+		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodySkeletal</texPath>
@@ -8510,7 +8510,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android_copy">
-		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_RoboticBodySkeletal</defName>
+		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodySkeletal</texPath>
@@ -9193,7 +9193,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android">
-		<defName>PR_OuterHediffNeck_AG-l-gene-AG_RoboticBodyPlastic</defName>
+		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodyPlastic</texPath>
@@ -9207,7 +9207,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 <PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android">
-		<defName>PR_OuterHediffNeck_AG-m-gene-AG_RoboticBodyPlastic</defName>
+		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodyPlastic</texPath>
@@ -9221,7 +9221,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android">
-		<defName>PR_OuterHediffNeck_AG-s-gene-AG_RoboticBodyPlastic</defName>
+		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodyPlastic</texPath>
@@ -9235,7 +9235,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android">
-		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_RoboticBodyPlastic</defName>
+		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodyPlastic</texPath>
@@ -9249,7 +9249,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android">
-		<defName>PR_OuterHediffNeck_AG-l-gene-AG_RoboticBodySkeletal</defName>
+		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodySkeletal</texPath>
@@ -9263,7 +9263,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 <PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android">
-		<defName>PR_OuterHediffNeck_AG-m-gene-AG_RoboticBodySkeletal</defName>
+		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodySkeletal</texPath>
@@ -9277,7 +9277,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android">
-		<defName>PR_OuterHediffNeck_AG-s-gene-AG_RoboticBodySkeletal</defName>
+		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodySkeletal</texPath>
@@ -9291,7 +9291,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.android">
-		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_RoboticBodySkeletal</defName>
+		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
 			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodySkeletal</texPath>
