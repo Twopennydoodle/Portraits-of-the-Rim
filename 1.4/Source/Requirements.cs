@@ -41,6 +41,17 @@ namespace PortraitsOfTheRim
         public BoolReport Matches(Portrait portrait, PortraitElementDef portraitElementDef)
         {
             var pawn = portrait.pawn;
+
+            // Override pawn age if the pawn has the Ageless gene
+            float pawnAge = pawn.ageTracker.AgeBiologicalYearsFloat;
+            if (ageRange != null
+                && pawn.ageTracker.AgeBiologicalYearsFloat > 38f
+                && pawn.genes.GenesListForReading.Exists(g => g.def.defName == "Ageless")
+                )
+            {
+                pawnAge = 21f;
+            }
+            
             List<string> failReports = new List<string>();
             if (bodyParts.NullOrEmpty() is false && bodyParts.Exists(delegate (BodyPartType x)
             {
@@ -72,7 +83,7 @@ namespace PortraitsOfTheRim
                 return new BoolReport(false, "traits fail");
             if (body != null && pawn.story.bodyType != body.Value.ToBodyType(pawn))
                 return new BoolReport(false, "body fail");
-            if (ageRange != null && ageRange.Value.Includes(pawn.ageTracker.AgeBiologicalYearsFloat) is false)
+            if (ageRange != null && ageRange.Value.Includes(pawnAge) is false)
                 return new BoolReport(false, "ageRange fail");
             if (bodyType != null && Matches(pawn, bodyType.Value, out var bodyTypeReport) is false)
                 return new BoolReport(false, "bodyType fail: " + bodyTypeReport + " - gender: " + pawn.gender + " - body: " + pawn.story.bodyType + " - age: " + pawn.ageTracker.AgeBiologicalYearsFloat);
