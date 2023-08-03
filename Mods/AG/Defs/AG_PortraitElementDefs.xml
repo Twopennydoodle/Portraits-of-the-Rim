@@ -8415,7 +8415,7 @@
 		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodyPlastic</texPath>
+			<texPath>OuterHediffNeck/AG-l-torso-gene-AG_RoboticBodyPlastic</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
@@ -8429,7 +8429,7 @@
 		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodyPlastic</texPath>
+			<texPath>OuterHediffNeck/AG-m-torso-gene-AG_RoboticBodyPlastic</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
@@ -8443,7 +8443,7 @@
 		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodyPlastic</texPath>
+			<texPath>OuterHediffNeck/AG-s-torso-gene-AG_RoboticBodyPlastic</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -8457,7 +8457,7 @@
 		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodyPlastic</texPath>
+			<texPath>OuterHediffNeck/AG-xl-torso-gene-AG_RoboticBodyPlastic</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -8471,7 +8471,7 @@
 		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodySkeletal</texPath>
+			<texPath>OuterHediffNeck/AG-l-torso-gene-AG_RoboticBodySkeletal</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
@@ -8485,7 +8485,7 @@
 		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodySkeletal</texPath>
+			<texPath>OuterHediffNeck/AG-m-torso-gene-AG_RoboticBodySkeletal</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
@@ -8499,7 +8499,7 @@
 		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodySkeletal</texPath>
+			<texPath>OuterHediffNeck/AG-s-torso-gene-AG_RoboticBodySkeletal</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -8513,7 +8513,7 @@
 		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodySkeletal</texPath>
+			<texPath>OuterHediffNeck/AG-xl-torso-gene-AG_RoboticBodySkeletal</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -9196,7 +9196,7 @@
 		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodyPlastic</texPath>
+			<texPath>OuterHediffNeck/AG-l-torso-gene-AG_RoboticBodyPlastic</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
@@ -9210,7 +9210,7 @@
 		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodyPlastic</texPath>
+			<texPath>OuterHediffNeck/AG-m-torso-gene-AG_RoboticBodyPlastic</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
@@ -9224,7 +9224,7 @@
 		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodyPlastic</texPath>
+			<texPath>OuterHediffNeck/AG-s-torso-gene-AG_RoboticBodyPlastic</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -9238,7 +9238,7 @@
 		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoboticBodyPlastic</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodyPlastic</texPath>
+			<texPath>OuterHediffNeck/AG-xl-torso-gene-AG_RoboticBodyPlastic</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -9252,7 +9252,7 @@
 		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-l-gene-AG_RoboticBodySkeletal</texPath>
+			<texPath>OuterHediffNeck/AG-l-torso-gene-AG_RoboticBodySkeletal</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
@@ -9266,7 +9266,7 @@
 		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-m-gene-AG_RoboticBodySkeletal</texPath>
+			<texPath>OuterHediffNeck/AG-m-torso-gene-AG_RoboticBodySkeletal</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
@@ -9280,7 +9280,7 @@
 		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-s-gene-AG_RoboticBodySkeletal</texPath>
+			<texPath>OuterHediffNeck/AG-s-torso-gene-AG_RoboticBodySkeletal</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -9294,7 +9294,7 @@
 		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_RoboticBodySkeletal</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-xl-gene-AG_RoboticBodySkeletal</texPath>
+			<texPath>OuterHediffNeck/AG-xl-torso-gene-AG_RoboticBodySkeletal</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
