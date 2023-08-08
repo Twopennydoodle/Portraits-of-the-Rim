@@ -122,10 +122,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Ear_Biotech-gene-pointedears</defName>
+		<defName>PR_Ear_Biotech-gene-Ears_Pointed</defName>
 		<portraitLayer>PR_Ear</portraitLayer>
 		<graphicData>
-			<texPath>Ear/Biotech-gene-pointedears</texPath>
+			<texPath>Ear/Biotech-gene-Ears_Pointed</texPath>
 		</graphicData>
 		<requirements>
 			<genes>
@@ -3326,5 +3326,18 @@
 			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Ear_Biotech-gene-Ears_Human</defName>
+		<portraitLayer>PR_Ear</portraitLayer>
+		<graphicData>
+			<texPath>Ear/Biotech-gene-Ears_Human</texPath>
+		</graphicData>
+		<requirements>
+			<genes>
+				<li>Ears_Human</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
 
 </Defs>
