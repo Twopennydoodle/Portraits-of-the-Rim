@@ -38,6 +38,7 @@ namespace PortraitsOfTheRim
         public string headType;
         public string xenotype;
         public string style;
+        public string potrRand; // Filters out the various goat horn and such types
         public BoolReport Matches(Portrait portrait, PortraitElementDef portraitElementDef)
         {
             var pawn = portrait.pawn;
@@ -133,6 +134,47 @@ namespace PortraitsOfTheRim
             }
             if (style.NullOrEmpty() is false && portrait.currentStyle.NullOrEmpty() is false && style != portrait.currentStyle)
                 return new BoolReport(false, "style fail");
+            if (potrRand.NullOrEmpty() is false)
+            {
+                // Determine if this def is dder ears, deer antlers, goat ears, or goat horns
+                if (genes.Exists(g => g.defName == "RBSF_GoatHorns"))
+                {
+                    Gene hornGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBSF_GoatHorns");
+                    string hornType = hornGene.def.graphicData.GraphicPathFor(pawn);
+                    if (potrRand[0] != hornType[hornType.Length - 1])
+                    {
+                        return new BoolReport(false, "random type fail");
+                    }
+                }
+                if (genes.Exists(g => g.defName == "RBSF_GoatEars"))
+                {
+                    Gene earGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBSF_GoatEars");
+                    string earType = earGene.def.graphicData.GraphicPathFor(pawn);
+                    if (potrRand[0] != earType[earType.Length-1])
+                    {
+                        return new BoolReport(false, "random type fail");
+                    }
+                }
+                if (genes.Exists(g => g.defName == "RBSF_DeerHorns"))
+                {
+                    Gene hornGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBSF_DeerHorns");
+                    string hornType = hornGene.def.graphicData.GraphicPathFor(pawn);
+                    if (potrRand[0] != hornType[hornType.Length - 1])
+                    {
+                        return new BoolReport(false, "random type fail");
+                    }
+                }
+                if (genes.Exists(g => g.defName == "RBSF_DeerEars"))
+                {
+                    Gene earGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBSF_DeerEars");
+                    string earType = earGene.def.graphicData.GraphicPathFor(pawn);
+                    if (potrRand[0] != earType[earType.Length - 1])
+                    {
+                        return new BoolReport(false, "random type fail");
+                    }
+                }
+            }
+
             return new BoolReport(true);
         }
 
