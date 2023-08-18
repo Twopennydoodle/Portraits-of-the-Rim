@@ -381,7 +381,9 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<gene>RBSF_GoatEars</gene>
+			 <genes>
+    			<li>RBSF_GoatEars</li>
+  			</gene>
 			<potrRand>A</potrRand>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -394,7 +396,9 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gene>RBSF_GoatEars</gene>
+			 <genes>
+    			<li>RBSF_GoatEars</li>
+  			</gene>
 			<potrRand>A</potrRand>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -407,7 +411,9 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<gene>RBSF_GoatEars</gene>
+			 <genes>
+    			<li>RBSF_GoatEars</li>
+  			</gene>
 			<potrRand>A</potrRand>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -420,7 +426,9 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gene>RBSF_GoatEars</gene>
+			 <genes>
+    			<li>RBSF_GoatEars</li>
+  			</gene>
 			<potrRand>A</potrRand>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
