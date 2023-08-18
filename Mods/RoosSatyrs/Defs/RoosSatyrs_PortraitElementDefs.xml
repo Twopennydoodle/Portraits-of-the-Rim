@@ -373,4 +373,56 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatEarsA</defName>
+		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatEarsA</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<gene>RBSF_GoatEars</gene>
+			<potrRand>A</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatEarsA</defName>
+		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatEarsA</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gene>RBSF_GoatEars</gene>
+			<potrRand>A</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatEarsA</defName>
+		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<graphicData>
+			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatEarsA</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<gene>RBSF_GoatEars</gene>
+			<potrRand>A</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatEarsA</defName>
+		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<graphicData>
+			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatEarsA</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<gene>RBSF_GoatEars</gene>
+			<potrRand>A</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
 </Defs>
