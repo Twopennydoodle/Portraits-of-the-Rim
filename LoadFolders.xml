@@ -82,5 +82,6 @@
         <li IfModActive="Rooboid.Faun">Mods/RoosFauns</li>
         <li IfModActive="Rooboid.Satyr">Mods/RoosSatyrs</li>
         <li IfModActive="Rooboid.SatyrFaun.Expanded">Mods/RoosSaFExt</li>
+        <li IfModActive="vanillaracesexpanded.highmate">Mods/VEHighmates</li>        
 	</v1.4>
 </loadFolders>

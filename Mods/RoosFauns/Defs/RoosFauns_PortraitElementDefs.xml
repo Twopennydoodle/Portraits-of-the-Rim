@@ -1573,7 +1573,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
 		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_SerenAntlers</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
@@ -1587,7 +1587,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
 		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_SerenAntlers</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
@@ -1601,7 +1601,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
 		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_SerenAntlers</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
@@ -1615,7 +1615,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
 		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_SerenAntlers</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>

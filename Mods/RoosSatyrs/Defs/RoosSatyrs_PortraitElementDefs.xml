@@ -884,36 +884,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatHornsD</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatHornsD</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			 <genes>
-    			<li>RBSF_GoatHorns</li>
-  			</genes>
-			<potrRand>D</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatHornsD</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatHornsD</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			 <genes>
-    			<li>RBSF_GoatHorns</li>
-  			</genes>
-			<potrRand>D</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatHornsE</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
@@ -1093,7 +1063,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
 		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_SerenGoatHorns</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
@@ -1107,7 +1077,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
 		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
@@ -1121,7 +1091,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
 		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_SerenGoatHorns</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
@@ -1135,7 +1105,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
 		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
