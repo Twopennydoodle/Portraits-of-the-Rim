@@ -914,10 +914,10 @@
 
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerEarsA</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerEarsA</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerEarsA</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerEarsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -929,10 +929,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerEarsA</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerEarsA</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerEarsA</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerEarsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -944,10 +944,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerEarsA</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerEarsA</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerEarsA</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerEarsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -959,10 +959,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerEarsA</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerEarsA</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerEarsA</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerEarsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -974,10 +974,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerEarsB</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerEarsB</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerEarsB</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerEarsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -989,10 +989,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerEarsB</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerEarsB</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerEarsB</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerEarsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1004,10 +1004,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerEarsB</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerEarsB</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerEarsB</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerEarsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1019,10 +1019,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerEarsB</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerEarsB</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerEarsB</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerEarsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1034,10 +1034,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerEarsC</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerEarsC</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerEarsC</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerEarsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1049,10 +1049,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerEarsC</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerEarsC</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerEarsC</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerEarsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1064,10 +1064,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerEarsC</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerEarsC</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerEarsC</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerEarsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1079,10 +1079,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerEarsC</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerEarsC</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerEarsC</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerEarsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1094,10 +1094,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerEarsD</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerEarsD</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerEarsD</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerEarsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1109,10 +1109,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerEarsD</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerEarsD</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerEarsD</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerEarsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1124,10 +1124,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerEarsD</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerEarsD</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerEarsD</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerEarsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1139,10 +1139,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerEarsD</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerEarsD</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerEarsD</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerEarsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1154,10 +1154,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerHornsA</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerHornsA</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerHornsA</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerHornsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1169,10 +1169,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerHornsA</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerHornsA</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerHornsA</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerHornsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1184,10 +1184,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerHornsA</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerHornsA</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerHornsA</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerHornsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1199,10 +1199,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerHornsA</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerHornsA</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerHornsA</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerHornsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1214,10 +1214,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerHornsB</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerHornsB</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerHornsB</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerHornsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1229,10 +1229,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerHornsB</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerHornsB</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerHornsB</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerHornsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1244,10 +1244,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerHornsB</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerHornsB</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerHornsB</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerHornsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1259,10 +1259,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerHornsB</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerHornsB</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerHornsB</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerHornsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1274,10 +1274,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerHornsC</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerHornsC</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerHornsC</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerHornsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1289,10 +1289,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerHornsC</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerHornsC</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerHornsC</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerHornsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1304,10 +1304,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerHornsC</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerHornsC</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerHornsC</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerHornsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1319,10 +1319,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerHornsC</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerHornsC</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerHornsC</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerHornsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1334,10 +1334,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerHornsD</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerHornsD</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerHornsD</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerHornsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1349,10 +1349,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerHornsD</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerHornsD</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerHornsD</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerHornsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1364,10 +1364,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerHornsD</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerHornsD</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerHornsD</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerHornsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1379,10 +1379,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerHornsD</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerHornsD</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerHornsD</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerHornsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1394,10 +1394,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerHornsE</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerHornsE</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerHornsE</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerHornsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1409,10 +1409,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerHornsE</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerHornsE</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerHornsE</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerHornsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1424,10 +1424,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerHornsE</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerHornsE</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerHornsE</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerHornsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1439,10 +1439,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerHornsE</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerHornsE</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerHornsE</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerHornsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1454,10 +1454,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerHornsF</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerHornsF</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerHornsF</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerHornsF</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1469,10 +1469,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerHornsF</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerHornsF</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerHornsF</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerHornsF</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1484,10 +1484,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerHornsF</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerHornsF</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerHornsF</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerHornsF</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1499,10 +1499,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerHornsF</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerHornsF</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerHornsF</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerHornsF</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1514,10 +1514,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerHornsG</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerHornsG</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerHornsG</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerHornsG</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1529,10 +1529,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerHornsG</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerHornsG</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerHornsG</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerHornsG</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1544,10 +1544,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerHornsG</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerHornsG</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerHornsG</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerHornsG</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1559,10 +1559,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerHornsG</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerHornsG</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerHornsG</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerHornsG</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1574,10 +1574,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_SerenAntlers</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_SerenAntlers</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_SerenAntlers</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_SerenAntlers</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1588,10 +1588,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_SerenAntlers</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_SerenAntlers</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_SerenAntlers</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_SerenAntlers</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1602,10 +1602,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_SerenAntlers</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_SerenAntlers</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_SerenAntlers</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_SerenAntlers</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1616,10 +1616,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_SerenAntlers</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_SerenAntlers</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_SerenAntlers</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_SerenAntlers</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1630,10 +1630,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_DeerHornsH</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-an-gene-RBSF_DeerHornsH</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_DeerHornsH</texPath>
+			<texPath>OuterHediffHead/RoosFauns-an-gene-RBSF_DeerHornsH</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1645,10 +1645,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_DeerHornsH</defName>
+		<defName>PR_OuterHediffHead_RoosFauns-cn-gene-RBSF_DeerHornsH</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_DeerHornsH</texPath>
+			<texPath>OuterHediffHead/RoosFauns-cn-gene-RBSF_DeerHornsH</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1660,10 +1660,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_DeerHornsH</defName>
+		<defName>PR_UnderHediff_RoosFauns-an-gene-RBSF_DeerHornsH</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_DeerHornsH</texPath>
+			<texPath>UnderHediff/RoosFauns-an-gene-RBSF_DeerHornsH</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1675,10 +1675,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_DeerHornsH</defName>
+		<defName>PR_UnderHediff_RoosFauns-cn-gene-RBSF_DeerHornsH</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_DeerHornsH</texPath>
+			<texPath>UnderHediff/RoosFauns-cn-gene-RBSF_DeerHornsH</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
