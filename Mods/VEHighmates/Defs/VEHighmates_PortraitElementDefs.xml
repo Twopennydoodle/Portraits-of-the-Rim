@@ -321,4 +321,31 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHead_VEHighmates-an-gene-VRE_FelineEars</defName>
+		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHead/VEHighmates-an-gene-VRE_FelineEars</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>VRE_FelineEars</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHead_VEHighmates-cn-gene-VRE_FelineEars</defName>
+		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHead/VEHighmates-cn-gene-VRE_FelineEars</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>VRE_FelineEars</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
 </Defs>
