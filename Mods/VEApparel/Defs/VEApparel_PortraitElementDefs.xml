@@ -955,7 +955,7 @@
 		<requirements>
 			<bodyType>Large</bodyType>
 			<apparels>
-				<li>VAE_Apparel_Cape</li>
+				<li>Apparel_Cape</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -969,7 +969,7 @@
 		<requirements>
 			<bodyType>Medium</bodyType>
 			<apparels>
-				<li>VAE_Apparel_Cape</li>
+				<li>Apparel_Cape</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -983,7 +983,7 @@
 		<requirements>
 			<bodyType>Small</bodyType>
 			<apparels>
-				<li>VAE_Apparel_Cape</li>
+				<li>Apparel_Cape</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -997,7 +997,7 @@
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
 			<apparels>
-				<li>VAE_Apparel_Cape</li>
+				<li>Apparel_Cape</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
