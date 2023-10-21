@@ -30161,4 +30161,60 @@
 			<style>Cyberpunk</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech">
+		<defName>PR_MiddleClothingShoulder_Royalty-l-cape</defName>
+		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingShoulder/Royalty-l-cape</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>Apparel_Cape</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech">
+		<defName>PR_MiddleClothingShoulder_Royalty-m-cape</defName>
+		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingShoulder/Royalty-m-cape</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>Apparel_Cape</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech">
+		<defName>PR_MiddleClothingShoulder_Royalty-s-cape</defName>
+		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingShoulder/Royalty-s-cape</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_Cape</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef MayRequireAnyOf="Ludeon.RimWorld.Royalty,Ludeon.RimWorld.Biotech">
+		<defName>PR_MiddleClothingShoulder_Royalty-xl-cape</defName>
+		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingShoulder/Royalty-xl-cape</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>Apparel_Cape</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
 </Defs>

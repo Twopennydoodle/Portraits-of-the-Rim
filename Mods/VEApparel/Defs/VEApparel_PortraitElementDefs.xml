@@ -947,62 +947,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_VEApparel-l-cape</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingShoulder/VEApparel-l-cape</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Large</bodyType>
-			<apparels>
-				<li>Apparel_Cape</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_VEApparel-m-cape</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingShoulder/VEApparel-m-cape</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Medium</bodyType>
-			<apparels>
-				<li>Apparel_Cape</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_VEApparel-s-cape</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingShoulder/VEApparel-s-cape</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Small</bodyType>
-			<apparels>
-				<li>Apparel_Cape</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_VEApparel-xl-cape</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingShoulder/VEApparel-xl-cape</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>ExtraLarge</bodyType>
-			<apparels>
-				<li>Apparel_Cape</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_VEApparel-l-Buildersjacket</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
