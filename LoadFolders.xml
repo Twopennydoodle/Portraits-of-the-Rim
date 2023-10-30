@@ -13,6 +13,8 @@
         <li IfModActive="MonteErin.Hair.Persona">Mods/ERNPersona5</li>
         <li IfModActive="Erin.Hair2">Mods/ERNHairs2</li>
         <li IfModActive="Erin.Shisune">Mods/ERNShisune</li>
+        <li IfModActive="Erin.Fenrisulfr">Mods/ERNFenrisulfr</li>
+        <li IfModActive="Erin.AzaphraeBiotech">Mods/ERNAzaphrae</li>
         <li IfModActive="won.hair">Mods/WonMale</li>
         <li IfModActive="won2.hair">Mods/WonFemale</li>
         <li IfModActive="Rooboid.Accessoryhair">Mods/RoosAccessories</li>
@@ -82,6 +84,7 @@
         <li IfModActive="Rooboid.Faun">Mods/RoosFauns</li>
         <li IfModActive="Rooboid.Satyr">Mods/RoosSatyrs</li>
         <li IfModActive="Rooboid.SatyrFaun.Expanded">Mods/RoosSaFExt</li>
-        <li IfModActive="vanillaracesexpanded.highmate">Mods/VEHighmates</li>        
+        <li IfModActive="vanillaracesexpanded.highmate">Mods/VEHighmates</li>
+        <li IfModActive="vanillaracesexpanded.fungoid">Mods/VEFungoid</li>                
 	</v1.4>
 </loadFolders>
