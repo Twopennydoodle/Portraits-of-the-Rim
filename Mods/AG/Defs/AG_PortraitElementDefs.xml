@@ -10017,7 +10017,7 @@
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_UnderHeDiff_AG-cn-gene-AG_Drakonori_Horns</defName>
-		<portraitLayer>UnderHediff</portraitLayer>
+		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
 			<texPath>UnderHeDiff/AG-cn-gene-AG_Drakonori_Horns</texPath>
 		</graphicData>
