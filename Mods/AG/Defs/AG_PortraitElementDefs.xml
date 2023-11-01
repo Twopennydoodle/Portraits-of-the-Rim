@@ -10002,10 +10002,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-an-gene-AG_Drakonori_Horns</defName>
-		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<defName>PR_UnderHeDiff_AG-an-gene-AG_Drakonori_Horns</defName>
+		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-an-gene-AG_Drakonori_Horns</texPath>
+			<texPath>UnderHeDiff/AG-an-gene-AG_Drakonori_Horns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -10016,10 +10016,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-cn-gene-AG_Drakonori_Horns</defName>
-		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<defName>PR_UnderHeDiff_AG-cn-gene-AG_Drakonori_Horns</defName>
+		<portraitLayer>UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-cn-gene-AG_Drakonori_Horns</texPath>
+			<texPath>UnderHeDiff/AG-cn-gene-AG_Drakonori_Horns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -10030,10 +10030,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffNeck_AG-s-torso-gene-AG_DrakonoriBody</defName>
+		<defName>PR_OuterHediffNeck_AG-s-gene-AG_DrakonoriBody</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-s-torso-gene-AG_DrakonoriBody</texPath>
+			<texPath>OuterHediffNeck/AG-s-gene-AG_DrakonoriBody</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -10049,10 +10049,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffNeck_AG-m-torso-gene-AG_DrakonoriBody</defName>
+		<defName>PR_OuterHediffNeck_AG-m-gene-AG_DrakonoriBody</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-m-torso-gene-AG_DrakonoriBody</texPath>
+			<texPath>OuterHediffNeck/AG-m-gene-AG_DrakonoriBody</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
@@ -10068,10 +10068,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffNeck_AG-l-torso-gene-AG_DrakonoriBody</defName>
+		<defName>PR_OuterHediffNeck_AG-l-gene-AG_DrakonoriBody</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-l-torso-gene-AG_DrakonoriBody</texPath>
+			<texPath>OuterHediffNeck/AG-l-gene-AG_DrakonoriBody</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
@@ -10087,10 +10087,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffNeck_AG-xl-torso-gene-AG_DrakonoriBody</defName>
+		<defName>PR_OuterHediffNeck_AG-xl-gene-AG_DrakonoriBody</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffNeck/AG-xl-torso-gene-AG_DrakonoriBody</texPath>
+			<texPath>OuterHediffNeck/AG-xl-gene-AG_DrakonoriBody</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -10107,7 +10107,7 @@
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_UnderHeDiff_AG-an-gene-AG_Drakonori_Tail</defName>
-		<portraitLayer>PR_UnderHeDiff</portraitLayer>
+		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
 			<texPath>UnderHeDiff/AG-an-gene-AG_Drakonori_Tail</texPath>
 		</graphicData>
@@ -10121,7 +10121,7 @@
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_UnderHeDiff_AG-cn-gene-AG_Drakonori_Tail</defName>
-		<portraitLayer>PR_UnderHeDiff</portraitLayer>
+		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
 			<texPath>UnderHeDiff/AG-cn-gene-AG_Drakonori_Tail</texPath>
 		</graphicData>
@@ -10135,7 +10135,7 @@
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_UnderHeDiff_AG-an-gene-AG_DrakonoriWings</defName>
-		<portraitLayer>PR_UnderHeDiff</portraitLayer>
+		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
 			<texPath>UnderHeDiff/AG-an-gene-AG_DrakonoriWings</texPath>
 		</graphicData>
@@ -10149,7 +10149,7 @@
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_UnderHeDiff_AG-cn-gene-AG_DrakonoriWings</defName>
-		<portraitLayer>PR_UnderHeDiff</portraitLayer>
+		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
 			<texPath>UnderHeDiff/AG-cn-gene-AG_DrakonoriWings</texPath>
 		</graphicData>
@@ -10162,265 +10162,264 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-ef-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-ef-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-ef-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-ef-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHeadFemale</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-mf-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-mf-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-mf-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-mf-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHeadFemale</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-cf-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-cf-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-cf-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-cf-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHeadFemale</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-cm-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-cm-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-cm-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-cm-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHeadMale</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-em-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-em-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-em-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-em-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHeadMale</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-mm-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-mm-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-mm-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-mm-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHeadMale</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-tf-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-tf-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-tf-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-tf-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHeadFemale</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-tm-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-tm-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-tm-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-tm-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHeadMale</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-yf-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-yf-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-yf-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-yf-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHeadFemale</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_AG-ym-AG_DrakonoriHead</defName>
+		<defName>PR_Head_AG-ym-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/AG-ym-AG_DrakonoriHead</texPath>
+			<texPath>Head/AG-ym-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHeadMale</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-ef-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-ef-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-ef-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-ef-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-mf-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-mf-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-mf-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-mf-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-cf-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-cf-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-cf-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-cf-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-cm-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-cm-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-cm-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-cm-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-em-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-em-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-em-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-em-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-mm-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-mm-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-mm-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-mm-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-tf-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-tf-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-tf-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-tf-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-tm-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-tm-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-tm-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-tm-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-yf-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-yf-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-yf-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-yf-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG-ym-AG_DrakonoriHead</defName>
+		<defName>PR_MiddleHediffHead_AG-ym-gene-AG_DrakonoriHead</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG-ym-AG_DrakonoriHead</texPath>
+			<texPath>MiddleHediffHead/AG-ym-gene-AG_DrakonoriHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>AG_DrakonoriHead</headType>
+			<headType>AG_DrakonoriHead_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="DankPyon.Medieval.Overhaul">
 		<defName>PR_OuterHediffHead_AG-an-gene-AG_RoxHorns</defName>
@@ -10451,10 +10450,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="DankPyon.Medieval.Overhaul">
-		<defName>PR_UnderHediff_AG-an-gene-AG_RoxHorns</defName>
+		<defName>PR_UnderHeDiff_AG-an-gene-AG_RoxHorns</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/AG-an-gene-AG_RoxHorns</texPath>
+			<texPath>UnderHeDiff/AG-an-gene-AG_RoxHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -10465,10 +10464,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="DankPyon.Medieval.Overhaul">
-		<defName>PR_UnderHediff_AG-cn-gene-AG_RoxHorns</defName>
+		<defName>PR_UnderHeDiff_AG-cn-gene-AG_RoxHorns</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediffd/AG-cn-gene-AG_RoxHorns</texPath>
+			<texPath>UnderHeDiff/AG-cn-gene-AG_RoxHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
