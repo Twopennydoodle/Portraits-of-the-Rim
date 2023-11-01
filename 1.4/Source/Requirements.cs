@@ -173,6 +173,35 @@ namespace PortraitsOfTheRim
                         return new BoolReport(false, "random type fail");
                     }
                 }
+                // More checks for genes - Roo's Minotaurs
+                if (genes.Exists(g => g.defName == "RBM_BovineEars"))
+                {
+                    Gene earGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBM_BovineEars");
+                    string earType = earGene.def.graphicData.GraphicPathFor(pawn);
+                    if (potrRand[0] != earType[earType.Length - 1])
+                    {
+                        return new BoolReport(false, "Bovine ear fail");
+                    }
+                }
+                if (genes.Exists(g => g.defName == "RBM_BovineHorns"))
+                {
+                    Gene hornGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBM_BovineHorns");
+                    string hornType = hornGene.def.graphicData.GraphicPathFor(pawn);
+                    if (potrRand[0] != hornType[hornType.Length - 1])
+                    {
+                        return new BoolReport(false, "Bovine horn fail");
+                    }
+                }
+                // Minotaur Markings
+                if (genes.Exists(g => g.defName == "RBM_BovineHead"))
+                {
+                    Gene headGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBM_BovineHead");
+                    string headType = headGene.def.graphicData.GraphicPathFor(pawn);
+                    if (potrRand[0] != headType[headType.Length - 1])
+                    {
+                        return new BoolReport(false, "Bovine markings fail");
+                    }
+                }
             }
 
             return new BoolReport(true);
