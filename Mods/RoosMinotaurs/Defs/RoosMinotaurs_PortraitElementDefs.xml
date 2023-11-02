@@ -2030,62 +2030,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_RoosMinotaurs-l-RBM_Tailcoat</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/RoosMinotaurs-l-RBM_Tailcoat</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Large</bodyType>
-			<apparels>
-				<li>RBM_Tailcoat</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_RoosMinotaurs-m-RBM_Tailcoat</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/RoosMinotaurs-m-RBM_Tailcoat</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Medium</bodyType>
-			<apparels>
-				<li>RBM_Tailcoat</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_RoosMinotaurs-s-RBM_Tailcoat</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/RoosMinotaurs-s-RBM_Tailcoat</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>Small</bodyType>
-			<apparels>
-				<li>RBM_Tailcoat</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_RoosMinotaurs-xl-RBM_Tailcoat</defName>
-		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
-		<graphicData>
-			<texPath>OuterClothingTorso/RoosMinotaurs-xl-RBM_Tailcoat</texPath>
-		</graphicData>
-		<requirements>
-			<bodyType>ExtraLarge</bodyType>
-			<apparels>
-				<li>RBM_Tailcoat</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_RoosMinotaurs-an-RBM_NoseRing</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -2116,10 +2060,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineEars1</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineEars1</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineEars1</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineEars1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2131,10 +2075,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineEars1</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineEars1</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineEars1</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineEars1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2146,10 +2090,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineEars2</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineEars2</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineEars2</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineEars2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2161,10 +2105,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineEars2</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineEars2</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineEars2</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineEars2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2176,10 +2120,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineEars3</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineEars3</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineEars3</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineEars3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2191,10 +2135,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineEars3</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineEars3</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineEars3</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineEars3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2206,10 +2150,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineEars4</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineEars4</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineEars4</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineEars4</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2221,10 +2165,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineEars4</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineEars4</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineEars4</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineEars4</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2236,10 +2180,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineEars5</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineEars5</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineEars5</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineEars5</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2251,10 +2195,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineEars5</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineEars5</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineEars5</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineEars5</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2266,160 +2210,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineEars1</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineEars1</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>1</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineEars1</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineEars1</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>1</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineEars2</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineEars2</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>2</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineEars2</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineEars2</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>2</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineEars3</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineEars3</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>3</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineEars3</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineEars3</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>3</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineEars4</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineEars4</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>4</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineEars4</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineEars4</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>4</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineEars5</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineEars5</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>5</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineEars5</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineEars5</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<genes>
-    			<li>RBM_BovineEars</li>
-  			</genes>
-			<potrRand>5</potrRand>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns1</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns1</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns1</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2431,10 +2225,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns1</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns1</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns1</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2446,10 +2240,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns2</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns2</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns2</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2461,10 +2255,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns2</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns2</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns2</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2476,10 +2270,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns3</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns3</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns3</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2491,10 +2285,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns3</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns3</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns3</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2506,10 +2300,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns4</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns4</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns4</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns4</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2521,10 +2315,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns4</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns4</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns4</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns4</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2536,10 +2330,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns5</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns5</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns5</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns5</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2551,10 +2345,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns5</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns5</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns5</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns5</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2566,10 +2360,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns1</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns1</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns1</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2581,10 +2375,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns1</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns1</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns1</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2596,10 +2390,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns2</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns2</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns2</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2611,10 +2405,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns2</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns2</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns2</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2626,10 +2420,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns3</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns3</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns3</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2641,10 +2435,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns3</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns3</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns3</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2656,10 +2450,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns4</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns4</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns4</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns4</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2671,10 +2465,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns4</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns4</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns4</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns4</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2686,10 +2480,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns5</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns5</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns5</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns5</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2701,10 +2495,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns5</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns5</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns5</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns5</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2716,10 +2510,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns6</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns6</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns6</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns6</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2731,10 +2525,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns6</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns6</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns6</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns6</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2746,10 +2540,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns7</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns7</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns7</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns7</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2761,10 +2555,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns7</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns7</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns7</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns7</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2776,10 +2570,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns8</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns8</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns8</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns8</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2791,10 +2585,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns8</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns8</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns8</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns8</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2806,10 +2600,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns9</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns9</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns9</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns9</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2821,10 +2615,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns9</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns9</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns9</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns9</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2836,10 +2630,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-an-RBM_BovineHorns10</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-an-gene-RBM_BovineHorns10</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-an-RBM_BovineHorns10</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-an-gene-RBM_BovineHorns10</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2851,10 +2645,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-RBM_BovineHorns10</defName>
+		<defName>PR_OuterHediffHead_RoosMinotaurs-cn-gene-RBM_BovineHorns10</defName>
 		<portraitLayer>PR_OuterHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosMinotaurs-cn-RBM_BovineHorns10</texPath>
+			<texPath>OuterHediffHead/RoosMinotaurs-cn-gene-RBM_BovineHorns10</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2866,10 +2660,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns6</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns6</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns6</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns6</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2881,10 +2675,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns6</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns6</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns6</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns6</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2896,10 +2690,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns7</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns7</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns7</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns7</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2911,10 +2705,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns7</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns7</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns7</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns7</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2926,10 +2720,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns8</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns8</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns8</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns8</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2941,10 +2735,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns8</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns8</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns8</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns8</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2956,10 +2750,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns9</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns9</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns9</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns9</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2971,10 +2765,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns9</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns9</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns9</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns9</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2986,10 +2780,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-an-RBM_BovineHorns10</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-an-gene-RBM_Horns10</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-an-RBM_BovineHorns10</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-an-gene-RBM_Horns10</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -3001,10 +2795,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosMinotaurs-cn-RBM_BovineHorns10</defName>
+		<defName>PR_UnderHediff_RoosMinotaurs-cn-gene-RBM_Horns10</defName>
 		<portraitLayer>PR_UnderHediff</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosMinotaurs-cn-RBM_BovineHorns10</texPath>
+			<texPath>UnderHediff/RoosMinotaurs-cn-gene-RBM_Horns10</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
