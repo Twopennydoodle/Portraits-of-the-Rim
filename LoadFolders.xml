@@ -87,6 +87,7 @@
         <li IfModActive="vanillaracesexpanded.highmate">Mods/VEHighmates</li>
         <li IfModActive="vanillaracesexpanded.fungoid">Mods/VEFungoid</li>
         <li IfModActive="Rooboid.Minotaur">Mods/RoosMinotaurs</li>
-        <li IfModActive="Rooboid.Minotaur.Expanded">Mods/RoosMExt</li>                       
+        <li IfModActive="Rooboid.Minotaur.Expanded">Mods/RoosMExt</li>
+        <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>                           
 	</v1.4>
 </loadFolders>
