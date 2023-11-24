@@ -88,6 +88,8 @@
         <li IfModActive="vanillaracesexpanded.fungoid">Mods/VEFungoid</li>
         <li IfModActive="Rooboid.Minotaur">Mods/RoosMinotaurs</li>
         <li IfModActive="Rooboid.Minotaur.Expanded">Mods/RoosMExt</li>
-        <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>                           
+        <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>
+        <li IfModActive="OskarPotocki.VFE.Tribals">Mods/VETribals</li>
+        <li IfModActive="vanillaracesexpanded.archon">Mods/VEArchon</li>                                
 	</v1.4>
 </loadFolders>
