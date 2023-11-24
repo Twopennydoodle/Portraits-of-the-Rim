@@ -202,6 +202,16 @@ namespace PortraitsOfTheRim
                         return new BoolReport(false, "Bovine markings fail");
                     }
                 }
+                // Facial Spots
+                if (genes.Exists(g => g.defName == "VRE_FacialSpots"))
+                {
+                    Gene spotsGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "VRE_FacialSpots");
+                    string spotType = spotsGene.def.graphicData.GraphicPathFor(pawn);
+                    if (potrRand[0] != spotType[spotType.Length - 1])
+                    {
+                        return new BoolReport(false, "Facial Spots markings fail");
+                    }
+                }
             }
 
             return new BoolReport(true);
