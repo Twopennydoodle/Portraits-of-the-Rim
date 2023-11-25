@@ -869,4 +869,121 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_VEArchon-an-gene-VRE_Leatherskin</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/VEArchon-an-gene-VRE_Leatherskin</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>VRE_Leatherskin</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_VEArchon-cn-gene-VRE_Leatherskin</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/VEArchon-cn-gene-VRE_Leatherskin</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>VRE_Leatherskin</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_tattoohead_VEArchon-an-gene-VRE_FacialSpotsA</defName>
+		<portraitLayer>PR_TattooHead</portraitLayer>
+		<graphicData>
+			<texPath>tattoohead/VEArchon-an-gene-VRE_FacialSpotsA</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+    			<li>VRE_FacialSpots</li>
+  			</genes>
+			<potrRand>A</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_tattoohead_VEArchon-cn-gene-VRE_FacialSpotsA</defName>
+		<portraitLayer>PR_TattooHead</portraitLayer>
+		<graphicData>
+			<texPath>tattoohead/VEArchon-cn-gene-VRE_FacialSpotsA</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+    			<li>VRE_FacialSpots</li>
+  			</genes>
+			<potrRand>A</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_tattoohead_VEArchon-an-gene-VRE_FacialSpotsB</defName>
+		<portraitLayer>PR_TattooHead</portraitLayer>
+		<graphicData>
+			<texPath>tattoohead/VEArchon-an-gene-VRE_FacialSpotsB</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+    			<li>VRE_FacialSpots</li>
+  			</genes>
+			<potrRand>B</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_tattoohead_VEArchon-cn-gene-VRE_FacialSpotsB</defName>
+		<portraitLayer>PR_TattooHead</portraitLayer>
+		<graphicData>
+			<texPath>tattoohead/VEArchon-cn-gene-VRE_FacialSpotsB</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+    			<li>VRE_FacialSpots</li>
+  			</genes>
+			<potrRand>B</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_tattoohead_VEArchon-an-gene-VRE_FacialSpotsC</defName>
+		<portraitLayer>PR_TattooHead</portraitLayer>
+		<graphicData>
+			<texPath>tattoohead/VEArchon-an-gene-VRE_FacialSpotsC</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+    			<li>VRE_FacialSpots</li>
+  			</genes>
+			<potrRand>C</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_tattoohead_VEArchon-cn-gene-VRE_FacialSpotsC</defName>
+		<portraitLayer>PR_TattooHead</portraitLayer>
+		<graphicData>
+			<texPath>tattoohead/VEArchon-cn-gene-VRE_FacialSpotsC</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+    			<li>VRE_FacialSpots</li>
+  			</genes>
+			<potrRand>C</potrRand>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
 </Defs>
