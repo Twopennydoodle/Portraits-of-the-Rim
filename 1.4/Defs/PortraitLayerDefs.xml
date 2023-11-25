@@ -134,18 +134,23 @@
 		<inheritsHairColor>true</inheritsHairColor>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
-		<defName>PR_OuterHeadgear</defName>
+		<defName>PR_LongEar</defName>
 		<layer>30</layer>
+		<inheritsSkinColor>true</inheritsSkinColor>
+	</PortraitsOfTheRim.PortraitLayerDef>
+	<PortraitsOfTheRim.PortraitLayerDef>
+		<defName>PR_OuterHeadgear</defName>
+		<layer>31</layer>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterHediffHead</defName>
-		<layer>31</layer>
+		<layer>32</layer>
 		<inheritsHairColor>true</inheritsHairColor>
 		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_FullHeadgear</defName>
-		<layer>32</layer>
+		<layer>33</layer>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	
 </Defs>
