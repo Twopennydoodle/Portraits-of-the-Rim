@@ -266,10 +266,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEHighmates-an-gene-VRE_FelineEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_VEHighmates-an-gene-VRE_FelineEars</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEHighmates-an-gene-VRE_FelineEars</texPath>
+			<texPath>UnderHediffHairColor/VEHighmates-an-gene-VRE_FelineEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -280,10 +280,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEHighmates-an-gene-VRE_FelineTail</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_VEHighmates-an-gene-VRE_FelineTail</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEHighmates-an-gene-VRE_FelineTail</texPath>
+			<texPath>UnderHediffHairColor/VEHighmates-an-gene-VRE_FelineTail</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -294,10 +294,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEHighmates-cn-gene-VRE_FelineEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_VEHighmates-cn-gene-VRE_FelineEars</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEHighmates-cn-gene-VRE_FelineEars</texPath>
+			<texPath>UnderHediffHairColor/VEHighmates-cn-gene-VRE_FelineEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -308,10 +308,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEHighmates-cn-gene-VRE_FelineTail</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_VEHighmates-cn-gene-VRE_FelineTail</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEHighmates-cn-gene-VRE_FelineTail</texPath>
+			<texPath>UnderHediffHairColor/VEHighmates-cn-gene-VRE_FelineTail</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -322,10 +322,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_VEHighmates-an-gene-VRE_FelineEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_VEHighmates-an-gene-VRE_FelineEars</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/VEHighmates-an-gene-VRE_FelineEars</texPath>
+			<texPath>OuterHediffHeadHairColor/VEHighmates-an-gene-VRE_FelineEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -336,10 +336,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_VEHighmates-cn-gene-VRE_FelineEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_VEHighmates-cn-gene-VRE_FelineEars</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/VEHighmates-cn-gene-VRE_FelineEars</texPath>
+			<texPath>OuterHediffHeadHairColor/VEHighmates-cn-gene-VRE_FelineEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

@@ -140,10 +140,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_VEGenetics-an-GR_BunnyEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_VEGenetics-an-GR_BunnyEars</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/VEGenetics-an-GR_BunnyEars</texPath>
+			<texPath>OuterHediffHeadHairColor/VEGenetics-an-GR_BunnyEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -154,10 +154,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_VEGenetics-an-GR_HumanThrumboHorn</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_VEGenetics-an-GR_HumanThrumboHorn</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/VEGenetics-an-GR_HumanThrumboHorn</texPath>
+			<texPath>OuterHediffHeadNoColor/VEGenetics-an-GR_HumanThrumboHorn</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -168,10 +168,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_VEGenetics-an-GR_InsectoidAntennae</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_VEGenetics-an-GR_InsectoidAntennae</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/VEGenetics-an-GR_InsectoidAntennae</texPath>
+			<texPath>OuterHediffHeadSkinColor/VEGenetics-an-GR_InsectoidAntennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -182,10 +182,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_VEGenetics-cn-GR_BunnyEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_VEGenetics-cn-GR_BunnyEars</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/VEGenetics-cn-GR_BunnyEars</texPath>
+			<texPath>OuterHediffHeadHairColor/VEGenetics-cn-GR_BunnyEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -196,10 +196,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_VEGenetics-cn-GR_HumanThrumboHorn</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_VEGenetics-cn-GR_HumanThrumboHorn</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/VEGenetics-cn-GR_HumanThrumboHorn</texPath>
+			<texPath>OuterHediffHeadNoColor/VEGenetics-cn-GR_HumanThrumboHorn</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -210,10 +210,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_VEGenetics-cn-GR_InsectoidAntennae</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_VEGenetics-cn-GR_InsectoidAntennae</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/VEGenetics-cn-GR_InsectoidAntennae</texPath>
+			<texPath>OuterHediffHeadSkinColor/VEGenetics-cn-GR_InsectoidAntennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -280,10 +280,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEGenetics-an-GR_BunnyEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_VEGenetics-an-GR_BunnyEars</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEGenetics-an-GR_BunnyEars</texPath>
+			<texPath>UnderHediffHairColor/VEGenetics-an-GR_BunnyEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -294,10 +294,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEGenetics-an-GR_InsectoidAntennae</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_VEGenetics-an-GR_InsectoidAntennae</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEGenetics-an-GR_InsectoidAntennae</texPath>
+			<texPath>UnderHediffSkinColor/VEGenetics-an-GR_InsectoidAntennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -308,10 +308,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEGenetics-cn-GR_BunnyEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_VEGenetics-cn-GR_BunnyEars</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEGenetics-cn-GR_BunnyEars</texPath>
+			<texPath>UnderHediffHairColor/VEGenetics-cn-GR_BunnyEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -322,10 +322,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEGenetics-cn-GR_InsectoidAntennae</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_VEGenetics-cn-GR_InsectoidAntennae</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEGenetics-cn-GR_InsectoidAntennae</texPath>
+			<texPath>UnderHediffSkinColor/VEGenetics-cn-GR_InsectoidAntennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

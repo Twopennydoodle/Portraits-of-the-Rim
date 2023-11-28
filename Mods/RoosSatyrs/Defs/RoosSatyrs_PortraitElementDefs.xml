@@ -374,10 +374,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatEarsA</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsA</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatEarsA</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -389,10 +389,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatEarsA</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsA</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatEarsA</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -404,10 +404,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatEarsA</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsA</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatEarsA</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -419,10 +419,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatEarsA</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsA</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatEarsA</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -434,10 +434,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatEarsB</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsB</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatEarsB</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -449,10 +449,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatEarsB</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsB</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatEarsB</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -464,10 +464,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatEarsB</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsB</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatEarsB</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -479,10 +479,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatEarsB</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsB</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatEarsB</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -494,10 +494,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatEarsC</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsC</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatEarsC</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -509,10 +509,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatEarsC</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsC</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatEarsC</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -524,10 +524,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatEarsC</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsC</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatEarsC</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -539,10 +539,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatEarsC</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsC</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatEarsC</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -554,10 +554,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatEarsD</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsD</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatEarsD</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -569,10 +569,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatEarsD</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsD</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatEarsD</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -584,10 +584,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatEarsD</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsD</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatEarsD</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -599,10 +599,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatEarsD</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsD</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatEarsD</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -614,10 +614,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatEarsE</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsE</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatEarsE</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -629,10 +629,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatEarsE</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsE</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatEarsE</texPath>
+			<texPath>OuterHediffHeadSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -644,10 +644,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatEarsE</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-an-gene-RBSF_GoatEarsE</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatEarsE</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-an-gene-RBSF_GoatEarsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -659,10 +659,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatEarsE</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_RoosSatyrs-cn-gene-RBSF_GoatEarsE</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatEarsE</texPath>
+			<texPath>UnderHediffSkinColor/RoosSatyrs-cn-gene-RBSF_GoatEarsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -674,10 +674,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatHornsA</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsA</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatHornsA</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -689,10 +689,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatHornsA</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsA</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatHornsA</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -704,10 +704,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatHornsA</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsA</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatHornsA</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -719,10 +719,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatHornsA</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsA</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatHornsA</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsA</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -734,10 +734,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatHornsB</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsB</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatHornsB</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -749,10 +749,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatHornsB</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsB</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatHornsB</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -764,10 +764,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatHornsB</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsB</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatHornsB</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -779,10 +779,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatHornsB</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsB</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatHornsB</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsB</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -794,10 +794,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatHornsC</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsC</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatHornsC</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -809,10 +809,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatHornsC</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsC</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatHornsC</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -824,10 +824,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatHornsC</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsC</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatHornsC</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -839,10 +839,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatHornsC</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsC</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatHornsC</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsC</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -854,10 +854,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatHornsD</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsD</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatHornsD</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -869,10 +869,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatHornsD</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsD</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatHornsD</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsD</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -884,10 +884,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatHornsE</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsE</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatHornsE</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -899,10 +899,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatHornsE</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsE</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatHornsE</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -914,10 +914,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatHornsE</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsE</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatHornsE</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -929,10 +929,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatHornsE</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsE</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatHornsE</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsE</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -944,10 +944,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatHornsF</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsF</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatHornsF</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsF</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -959,10 +959,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatHornsF</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsF</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatHornsF</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsF</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -974,10 +974,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatHornsF</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsF</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatHornsF</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsF</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -989,10 +989,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatHornsF</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsF</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatHornsF</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsF</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1004,10 +1004,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_GoatHornsG</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsG</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_GoatHornsG</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsG</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1019,10 +1019,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_GoatHornsG</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsG</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_GoatHornsG</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsG</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1034,10 +1034,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_GoatHornsG</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-an-gene-RBSF_GoatHornsG</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_GoatHornsG</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-an-gene-RBSF_GoatHornsG</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1049,10 +1049,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_GoatHornsG</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-cn-gene-RBSF_GoatHornsG</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_GoatHornsG</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-cn-gene-RBSF_GoatHornsG</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1064,10 +1064,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
-		<defName>PR_OuterHediffHead_RoosSatyrs-an-gene-RBSF_SerenGoatHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-an-gene-RBSF_SerenGoatHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-an-gene-RBSF_SerenGoatHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-an-gene-RBSF_SerenGoatHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1078,10 +1078,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
-		<defName>PR_OuterHediffHead_RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1092,10 +1092,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
-		<defName>PR_UnderHediff_RoosSatyrs-an-gene-RBSF_SerenGoatHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-an-gene-RBSF_SerenGoatHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-an-gene-RBSF_SerenGoatHorns</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-an-gene-RBSF_SerenGoatHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1106,10 +1106,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="odysseylotus.seren">
-		<defName>PR_UnderHediff_RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</texPath>
+			<texPath>UnderHediffNoColor/RoosSatyrs-cn-gene-RBSF_SerenGoatHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

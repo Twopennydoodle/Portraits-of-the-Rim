@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Revia-an-gene-ReviaEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_Revia-an-gene-ReviaEars</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Revia-an-gene-ReviaEars</texPath>
+			<texPath>OuterHediffHeadHairColor/Revia-an-gene-ReviaEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaEars</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaEars</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30,10 +30,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Revia-cn-gene-ReviaEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_Revia-cn-gene-ReviaEars</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Revia-cn-gene-ReviaEars</texPath>
+			<texPath>OuterHediffHeadHairColor/Revia-cn-gene-ReviaEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -44,10 +44,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaEars</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaEars</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -58,10 +58,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail1</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail1</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail1</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -75,10 +75,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail1</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail1</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail1</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -92,10 +92,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail2</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail2</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail2</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -109,10 +109,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail2</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail2</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail2</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail2</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -126,10 +126,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail3</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail3</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail3</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -143,10 +143,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail3</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail3</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail3</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail3</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -160,10 +160,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail4</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail4</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail4</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail4</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -177,10 +177,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail4</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail4</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail4</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail4</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -194,10 +194,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail5</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail5</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail5</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail5</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -211,10 +211,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail5</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail5</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail5</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail5</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -228,10 +228,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail6</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail6</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail6</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail6</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -245,10 +245,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail6</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail6</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail6</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail6</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -262,10 +262,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail7</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail7</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail7</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail7</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -279,10 +279,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail7</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail7</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail7</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail7</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -296,10 +296,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail8</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail8</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail8</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail8</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -313,10 +313,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail8</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail8</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail8</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail8</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -330,10 +330,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-an-gene-ReviaTail9</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-an-gene-ReviaTail9</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-an-gene-ReviaTail9</texPath>
+			<texPath>UnderHediffHairColor/Revia-an-gene-ReviaTail9</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -347,10 +347,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Revia-cn-gene-ReviaTail9</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Revia-cn-gene-ReviaTail9</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Revia-cn-gene-ReviaTail9</texPath>
+			<texPath>UnderHediffHairColor/Revia-cn-gene-ReviaTail9</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

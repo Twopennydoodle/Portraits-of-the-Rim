@@ -332,10 +332,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneEars_Classic</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Classic</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneEars_Classic</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Classic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -346,10 +346,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneEars_Droopy</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Droopy</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneEars_Droopy</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Droopy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -360,10 +360,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneEars_Floppy</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Floppy</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneEars_Floppy</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Floppy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -374,10 +374,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneEars_Fluffy</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Fluffy</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneEars_Fluffy</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Fluffy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -388,10 +388,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneEars_Long</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Long</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneEars_Long</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Long</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -402,10 +402,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneEars_Round</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Round</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneEars_Round</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Round</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -416,10 +416,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneEars_Classic</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Classic</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneEars_Classic</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Classic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -430,10 +430,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneEars_Droopy</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Droopy</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneEars_Droopy</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Droopy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -444,10 +444,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneEars_Floppy</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Floppy</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneEars_Floppy</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Floppy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -458,10 +458,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneEars_Fluffy</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Fluffy</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneEars_Fluffy</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Fluffy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -472,10 +472,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneEars_Long</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Long</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneEars_Long</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Long</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -486,10 +486,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneEars_Round</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Round</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneEars_Round</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Round</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -500,10 +500,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneEars_Classic</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Classic</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneEars_Classic</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Classic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -514,10 +514,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneEars_Droopy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Droopy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneEars_Droopy</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Droopy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -528,10 +528,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneEars_Floppy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Floppy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneEars_Floppy</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Floppy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -542,10 +542,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneEars_Fluffy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Fluffy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneEars_Fluffy</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Fluffy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -556,10 +556,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneEars_Long</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Long</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneEars_Long</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Long</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -570,10 +570,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneEars_Round</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneEars_Round</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneEars_Round</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneEars_Round</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -584,10 +584,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneTail_ClassicFox</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneTail_ClassicFox</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneTail_ClassicFox</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneTail_ClassicFox</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -598,10 +598,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneTail_Cloudy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneTail_Cloudy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneTail_Cloudy</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneTail_Cloudy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -612,10 +612,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneTail_Tri</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-an-gene-ERN_ShisuneTail_Tri</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneTail_Tri</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-an-gene-ERN_ShisuneTail_Tri</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -626,10 +626,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneEars_Classic</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Classic</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneEars_Classic</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Classic</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -640,10 +640,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneEars_Droopy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Droopy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneEars_Droopy</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Droopy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -654,10 +654,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneEars_Floppy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Floppy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneEars_Floppy</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Floppy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -668,10 +668,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneEars_Fluffy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Fluffy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneEars_Fluffy</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Fluffy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -682,10 +682,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneEars_Long</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Long</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneEars_Long</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Long</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -696,10 +696,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneEars_Round</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneEars_Round</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneEars_Round</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneEars_Round</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -710,10 +710,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneTail_ClassicFox</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneTail_ClassicFox</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneTail_ClassicFox</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneTail_ClassicFox</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -724,10 +724,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneTail_Cloudy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneTail_Cloudy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneTail_Cloudy</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneTail_Cloudy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -738,10 +738,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneTail_Tri</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNShisune-cn-gene-ERN_ShisuneTail_Tri</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneTail_Tri</texPath>
+			<texPath>UnderHediffHairColor/ERNShisune-cn-gene-ERN_ShisuneTail_Tri</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -752,10 +752,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneAntlers_Branch</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_ERNShisune-an-gene-ERN_ShisuneAntlers_Branch</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneAntlers_Branch</texPath>
+			<texPath>OuterHediffHeadNoColor/ERNShisune-an-gene-ERN_ShisuneAntlers_Branch</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -766,10 +766,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneAntlers_Sprig</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_ERNShisune-an-gene-ERN_ShisuneAntlers_Sprig</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneAntlers_Sprig</texPath>
+			<texPath>OuterHediffHeadNoColor/ERNShisune-an-gene-ERN_ShisuneAntlers_Sprig</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -780,10 +780,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-an-gene-ERN_ShisuneAntlers_Twig</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_ERNShisune-an-gene-ERN_ShisuneAntlers_Twig</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-an-gene-ERN_ShisuneAntlers_Twig</texPath>
+			<texPath>OuterHediffHeadNoColor/ERNShisune-an-gene-ERN_ShisuneAntlers_Twig</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -794,10 +794,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneAntlers_Branch</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_ERNShisune-cn-gene-ERN_ShisuneAntlers_Branch</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneAntlers_Branch</texPath>
+			<texPath>OuterHediffHeadNoColor/ERNShisune-cn-gene-ERN_ShisuneAntlers_Branch</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -808,10 +808,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneAntlers_Sprig</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_ERNShisune-cn-gene-ERN_ShisuneAntlers_Sprig</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneAntlers_Sprig</texPath>
+			<texPath>OuterHediffHeadNoColor/ERNShisune-cn-gene-ERN_ShisuneAntlers_Sprig</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -822,10 +822,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNShisune-cn-gene-ERN_ShisuneAntlers_Twig</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_ERNShisune-cn-gene-ERN_ShisuneAntlers_Twig</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNShisune-cn-gene-ERN_ShisuneAntlers_Twig</texPath>
+			<texPath>OuterHediffHeadNoColor/ERNShisune-cn-gene-ERN_ShisuneAntlers_Twig</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -836,10 +836,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneAntlers_Branch</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_ERNShisune-an-gene-ERN_ShisuneAntlers_Branch</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneAntlers_Branch</texPath>
+			<texPath>UnderHediffNoColor/ERNShisune-an-gene-ERN_ShisuneAntlers_Branch</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -850,10 +850,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneAntlers_Sprig</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_ERNShisune-an-gene-ERN_ShisuneAntlers_Sprig</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneAntlers_Sprig</texPath>
+			<texPath>UnderHediffNoColor/ERNShisune-an-gene-ERN_ShisuneAntlers_Sprig</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -864,10 +864,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-an-gene-ERN_ShisuneAntlers_Twig</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_ERNShisune-an-gene-ERN_ShisuneAntlers_Twig</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-an-gene-ERN_ShisuneAntlers_Twig</texPath>
+			<texPath>UnderHediffNoColor/ERNShisune-an-gene-ERN_ShisuneAntlers_Twig</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -876,13 +876,12 @@
 			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneAntlers_Branch</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_ERNShisune-cn-gene-ERN_ShisuneAntlers_Branch</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneAntlers_Branch</texPath>
+			<texPath>UnderHediffNoColor/ERNShisune-cn-gene-ERN_ShisuneAntlers_Branch</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -893,10 +892,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneAntlers_Sprig</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_ERNShisune-cn-gene-ERN_ShisuneAntlers_Sprig</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneAntlers_Sprig</texPath>
+			<texPath>UnderHediffNoColor/ERNShisune-cn-gene-ERN_ShisuneAntlers_Sprig</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -907,10 +906,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNShisune-cn-gene-ERN_ShisuneAntlers_Twig</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_ERNShisune-cn-gene-ERN_ShisuneAntlers_Twig</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNShisune-cn-gene-ERN_ShisuneAntlers_Twig</texPath>
+			<texPath>UnderHediffNoColor/ERNShisune-cn-gene-ERN_ShisuneAntlers_Twig</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

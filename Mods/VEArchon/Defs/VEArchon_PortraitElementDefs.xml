@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_LongEar_VEArchon-an-gene-VRE_SerratedEars</defName>
-		<portraitLayer>PR_LongEar</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_VEArchon-an-gene-VRE_SerratedEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>LongEar/VEArchon-an-gene-VRE_SerratedEars</texPath>
+			<texPath>OuterHediffHeadSkinColor/VEArchon-an-gene-VRE_SerratedEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_LongEar_VEArchon-cn-gene-VRE_SerratedEars</defName>
-		<portraitLayer>PR_LongEar</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_VEArchon-cn-gene-VRE_SerratedEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>LongEar/VEArchon-cn-gene-VRE_SerratedEars</texPath>
+			<texPath>OuterHediffHeadSkinColor/VEArchon-cn-gene-VRE_SerratedEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

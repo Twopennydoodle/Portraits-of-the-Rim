@@ -332,10 +332,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_AlertWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_AlertWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_AlertWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_AlertWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -346,10 +346,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_BasicWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_BasicWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_BasicWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_BasicWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -360,10 +360,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_CutieWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_CutieWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_CutieWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_CutieWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -374,10 +374,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_FluffWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_FluffWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_FluffWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_FluffWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -388,10 +388,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_HeartthrobWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_HeartthrobWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_HeartthrobWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_HeartthrobWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -402,10 +402,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_SingleFlopWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_SingleFlopWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_SingleFlopWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_SingleFlopWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -416,10 +416,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_AlertWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_AlertWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_AlertWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_AlertWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -430,10 +430,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_BasicWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_BasicWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_BasicWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_BasicWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -444,10 +444,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_CutieWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_CutieWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_CutieWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_CutieWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -458,10 +458,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_FluffWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_FluffWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_FluffWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_FluffWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -472,10 +472,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_HeartthrobWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_HeartthrobWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_HeartthrobWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_HeartthrobWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -486,10 +486,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_SingleFlopWolf</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_SingleFlopWolf</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_SingleFlopWolf</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_SingleFlopWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -500,10 +500,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_AlertWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_AlertWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_AlertWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_AlertWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -514,10 +514,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_BasicWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_BasicWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_BasicWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_BasicWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -528,10 +528,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_CutieWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_CutieWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_CutieWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_CutieWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -542,10 +542,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_FluffWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_FluffWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_FluffWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_FluffWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -556,10 +556,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_HeartthrobWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_HeartthrobWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_HeartthrobWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_HeartthrobWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -570,10 +570,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_SingleFlopWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_SingleFlopWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_SingleFlopWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrEars_SingleFlopWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -584,10 +584,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_CurlyWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_CurlyWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_CurlyWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_CurlyWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -598,10 +598,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_FullWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_FullWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_FullWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_FullWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -612,10 +612,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_ScragglyWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_ScragglyWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_ScragglyWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-an-gene-ERN_FenrisulfrTail_ScragglyWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -626,10 +626,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_AlertWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_AlertWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_AlertWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_AlertWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -640,10 +640,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_BasicWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_BasicWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_BasicWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_BasicWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -654,10 +654,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_CutieWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_CutieWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_CutieWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_CutieWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -668,10 +668,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_FluffWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_FluffWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_FluffWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_FluffWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -682,10 +682,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_HeartthrobWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_HeartthrobWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_HeartthrobWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_HeartthrobWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -696,10 +696,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_SingleFlopWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_SingleFlopWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_SingleFlopWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrEars_SingleFlopWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -710,10 +710,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_CurlyWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_CurlyWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_CurlyWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_CurlyWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -724,10 +724,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_FullWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_FullWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_FullWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_FullWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -738,10 +738,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_ScragglyWolf</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_ScragglyWolf</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_ScragglyWolf</texPath>
+			<texPath>UnderHediffHairColor/ERNFenrisulfr-cn-gene-ERN_FenrisulfrTail_ScragglyWolf</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

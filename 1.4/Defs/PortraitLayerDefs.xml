@@ -149,14 +149,15 @@
 		<layer>31</layer>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
-		<defName>PR_OuterHediffHeadSkinColor</defName>
+		<defName>PR_OuterHediffHeadHairColor</defName>
 		<layer>32</layer>
-		<inheritsSkinColor>true</inheritsSkinColor>
+		<inheritsHairColor>true</inheritsHairColor>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
-		<defName>PR_OuterHediffHeadHairColor</defName>
+		<defName>PR_OuterHediffHeadSkinColor</defName>
 		<layer>33</layer>
-		<inheritsHairColor>true</inheritsHairColor>
+		<inheritsSkinColor>true</inheritsSkinColor>
 		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>

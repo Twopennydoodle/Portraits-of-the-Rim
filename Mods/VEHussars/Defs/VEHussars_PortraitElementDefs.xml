@@ -2,10 +2,10 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEHussars-an-gene-VREH_Glidewings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_VEHussars-an-gene-VREH_Glidewings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEHussars-an-gene-VREH_Glidewings</texPath>
+			<texPath>UnderHediffSkinColor/VEHussars-an-gene-VREH_Glidewings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_VEHussars-cn-gene-VREH_Glidewings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_VEHussars-cn-gene-VREH_Glidewings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/VEHussars-cn-gene-VREH_Glidewings</texPath>
+			<texPath>UnderHediffSkinColor/VEHussars-cn-gene-VREH_Glidewings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
