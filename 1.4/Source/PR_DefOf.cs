@@ -5,7 +5,9 @@ namespace PortraitsOfTheRim
     [DefOf]
     public static class PR_DefOf
     {
-        public static PortraitLayerDef PR_UnderHediff;
+        public static PortraitLayerDef PR_UnderHediffHairColor;
+        public static PortraitLayerDef PR_UnderHediffSkinColor;
+        public static PortraitLayerDef PR_UnderHediffNoColor;
         public static PortraitLayerDef PR_UnderHeadgear;
         public static PortraitLayerDef PR_UnderHair;
         public static PortraitLayerDef PR_Neck;
@@ -35,7 +37,9 @@ namespace PortraitsOfTheRim
         public static PortraitLayerDef PR_InnerHeadgear;
         public static PortraitLayerDef PR_OuterHair;
         public static PortraitLayerDef PR_OuterHeadgear;
-        public static PortraitLayerDef PR_OuterHediffHead;
+        public static PortraitLayerDef PR_OuterHediffHeadHairColor;
+        public static PortraitLayerDef PR_OuterHediffHeadSkinColor;
+        public static PortraitLayerDef PR_OuterHediffHeadNoColor;
         public static PortraitLayerDef PR_FullHeadgear;
     }
 }
