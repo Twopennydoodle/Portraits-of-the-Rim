@@ -2980,10 +2980,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-an-gene-Headbone_CenterHorn</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_Biotech-an-gene-Headbone_CenterHorn</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-an-gene-Headbone_CenterHorn</texPath>
+			<texPath>OuterHediffHeadNoColor/Biotech-an-gene-Headbone_CenterHorn</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -2994,10 +2994,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-an-gene-Headbone_MiniHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_Biotech-an-gene-Headbone_MiniHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-an-gene-Headbone_MiniHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/Biotech-an-gene-Headbone_MiniHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -3008,10 +3008,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-cn-gene-Headbone_CenterHorn</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_Biotech-cn-gene-Headbone_CenterHorn</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-cn-gene-Headbone_CenterHorn</texPath>
+			<texPath>OuterHediffHeadNoColor/Biotech-cn-gene-Headbone_CenterHorn</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -3022,10 +3022,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-cn-gene-Headbone_MiniHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_Biotech-cn-gene-Headbone_MiniHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-cn-gene-Headbone_MiniHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/Biotech-cn-gene-Headbone_MiniHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -3036,10 +3036,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-gene-an-Ears_Cat</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_Biotech-gene-an-Ears_Cat</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-gene-an-Ears_Cat</texPath>
+			<texPath>OuterHediffHeadHairColor/Biotech-gene-an-Ears_Cat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -3050,10 +3050,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-gene-an-Ears_Floppy</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_Biotech-gene-an-Ears_Floppy</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-gene-an-Ears_Floppy</texPath>
+			<texPath>OuterHediffHeadHairColor/Biotech-gene-an-Ears_Floppy</texPath>
 		</graphicData>
 		<requirements>
 			<genes>
@@ -3063,10 +3063,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-gene-an-Ears_Pig</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_Biotech-gene-an-Ears_Pig</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-gene-an-Ears_Pig</texPath>
+			<texPath>OuterHediffHeadSkinColor/Biotech-gene-an-Ears_Pig</texPath>
 		</graphicData>
 		<requirements>
 			<genes>
@@ -3076,10 +3076,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-gene-cn-Ears_Cat</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_Biotech-gene-cn-Ears_Cat</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-gene-cn-Ears_Cat</texPath>
+			<texPath>OuterHediffHeadHairColor/Biotech-gene-cn-Ears_Cat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -3090,10 +3090,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-gene-cn-Ears_Floppy</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_Biotech-gene-cn-Ears_Floppy</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-gene-cn-Ears_Floppy</texPath>
+			<texPath>OuterHediffHeadHairColor/Biotech-gene-cn-Ears_Floppy</texPath>
 		</graphicData>
 		<requirements>
 			<genes>
@@ -3103,10 +3103,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_Biotech-gene-cn-Ears_Pig</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_Biotech-gene-cn-Ears_Pig</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/Biotech-gene-cn-Ears_Pig</texPath>
+			<texPath>OuterHediffHeadSkinColor/Biotech-gene-cn-Ears_Pig</texPath>
 		</graphicData>
 		<requirements>
 			<genes>
@@ -3192,10 +3192,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-an-gene-Tail_Furry</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Biotech-an-gene-Tail_Furry</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-an-gene-Tail_Furry</texPath>
+			<texPath>UnderHediffHairColor/Biotech-an-gene-Tail_Furry</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -3206,10 +3206,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-an-gene-Tail_Smooth</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Biotech-an-gene-Tail_Smooth</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-an-gene-Tail_Smooth</texPath>
+			<texPath>UnderHediffHairColor/Biotech-an-gene-Tail_Smooth</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -3220,10 +3220,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-cn-gene-Tail_Furry</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Biotech-cn-gene-Tail_Furry</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-cn-gene-Tail_Furry</texPath>
+			<texPath>UnderHediffHairColor/Biotech-cn-gene-Tail_Furry</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -3234,10 +3234,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-cn-gene-Tail_Smooth</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Biotech-cn-gene-Tail_Smooth</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-cn-gene-Tail_Smooth</texPath>
+			<texPath>UnderHediffHairColor/Biotech-cn-gene-Tail_Smooth</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -3248,10 +3248,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-gene-an-Ears_Cat</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Biotech-gene-an-Ears_Cat</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-gene-an-Ears_Cat</texPath>
+			<texPath>UnderHediffHairColor/Biotech-gene-an-Ears_Cat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -3262,10 +3262,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-gene-an-Ears_Floppy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Biotech-gene-an-Ears_Floppy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-gene-an-Ears_Floppy</texPath>
+			<texPath>UnderHediffHairColor/Biotech-gene-an-Ears_Floppy</texPath>
 		</graphicData>
 		<requirements>
 			<genes>
@@ -3275,10 +3275,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-gene-an-Ears_Pig</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_Biotech-gene-an-Ears_Pig</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-gene-an-Ears_Pig</texPath>
+			<texPath>UnderHediffSkinColor/Biotech-gene-an-Ears_Pig</texPath>
 		</graphicData>
 		<requirements>
 			<genes>
@@ -3288,10 +3288,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-gene-cn-Ears_Cat</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Biotech-gene-cn-Ears_Cat</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-gene-cn-Ears_Cat</texPath>
+			<texPath>UnderHediffHairColor/Biotech-gene-cn-Ears_Cat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -3302,10 +3302,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-gene-cn-Ears_Floppy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_Biotech-gene-cn-Ears_Floppy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-gene-cn-Ears_Floppy</texPath>
+			<texPath>UnderHediffHairColor/Biotech-gene-cn-Ears_Floppy</texPath>
 		</graphicData>
 		<requirements>
 			<genes>
@@ -3315,10 +3315,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_Biotech-gene-cn-Ears_Pig</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_Biotech-gene-cn-Ears_Pig</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/Biotech-gene-cn-Ears_Pig</texPath>
+			<texPath>UnderHediffSkinColor/Biotech-gene-cn-Ears_Pig</texPath>
 		</graphicData>
 		<requirements>
 			<genes>

@@ -4932,10 +4932,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_AerofleetHead</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_AerofleetHead</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_AerofleetHead</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_AerofleetHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -4946,10 +4946,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_AnimusEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_AnimusEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_AnimusEars</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_AnimusEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -4960,10 +4960,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_AntlerHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_AntlerHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_AntlerHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_AntlerHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -4974,10 +4974,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_BullHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_BullHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_BullHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_BullHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -4988,10 +4988,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_ChameleonYakHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_ChameleonYakHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_ChameleonYakHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_ChameleonYakHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5002,10 +5002,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_DemonHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_DemonHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_DemonHorns</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_DemonHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5016,10 +5016,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_DemonHornsQuadruple</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_DemonHornsQuadruple</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_DemonHornsQuadruple</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_DemonHornsQuadruple</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5030,10 +5030,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_DevilsheepHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_DevilsheepHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_DevilsheepHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_DevilsheepHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5044,10 +5044,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_DownwardsAntennas</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_DownwardsAntennas</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_DownwardsAntennas</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_DownwardsAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5058,10 +5058,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_EarWings</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_EarWings</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_EarWings</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_EarWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5072,10 +5072,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_EldritchHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_EldritchHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_EldritchHorns</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_EldritchHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5086,10 +5086,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_HornCrown</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_HornCrown</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_HornCrown</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_HornCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5100,10 +5100,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_LongEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_LongEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_LongEars</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_LongEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5114,10 +5114,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_MothAntennae</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_MothAntennae</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_MothAntennae</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_MothAntennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5128,10 +5128,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_OrnateEldritchHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_OrnateEldritchHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_OrnateEldritchHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_OrnateEldritchHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5142,10 +5142,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_OutwardsAntennas</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_OutwardsAntennas</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_OutwardsAntennas</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_OutwardsAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5156,10 +5156,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_RadYakEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_RadYakEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_RadYakEars</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_RadYakEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5170,10 +5170,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_RainMaker</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_RainMaker</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_RainMaker</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_RainMaker</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5184,10 +5184,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_RayHoundTentacles</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_RayHoundTentacles</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_RayHoundTentacles</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_RayHoundTentacles</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5198,10 +5198,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_SingleEar</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_SingleEar</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_SingleEar</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_SingleEar</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5212,10 +5212,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_Stalks</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_Stalks</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_Stalks</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_Stalks</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5226,10 +5226,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_TerrorMask</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_TerrorMask</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_TerrorMask</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_TerrorMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5240,10 +5240,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_TetraCoils</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_TetraCoils</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_TetraCoils</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_TetraCoils</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5254,10 +5254,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_UpperTentacles</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_UpperTentacles</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_UpperTentacles</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_UpperTentacles</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -5268,10 +5268,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_AerofleetHead</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_AerofleetHead</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_AerofleetHead</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_AerofleetHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5282,10 +5282,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_AnimusEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_AnimusEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_AnimusEars</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_AnimusEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5296,10 +5296,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_AntlerHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_AntlerHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_AntlerHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_AntlerHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5310,10 +5310,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_BullHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_BullHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_BullHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_BullHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5324,10 +5324,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_ChameleonYakHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_ChameleonYakHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_ChameleonYakHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_ChameleonYakHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5338,10 +5338,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_DemonHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_DemonHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_DemonHorns</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_DemonHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5352,10 +5352,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_DemonHornsQuadruple</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_DemonHornsQuadruple</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_DemonHornsQuadruple</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_DemonHornsQuadruple</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5366,10 +5366,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_DevilsheepHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_DevilsheepHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_DevilsheepHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_DevilsheepHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5380,10 +5380,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_DownwardsAntennas</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_DownwardsAntennas</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_DownwardsAntennas</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_DownwardsAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5394,10 +5394,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_EarWings</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_EarWings</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_EarWings</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_EarWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5408,10 +5408,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_EldritchHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_EldritchHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_EldritchHorns</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_EldritchHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5422,10 +5422,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_HornCrown</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_HornCrown</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_HornCrown</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_HornCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5436,10 +5436,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_LongEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_LongEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_LongEars</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_LongEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5450,10 +5450,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_MothAntennae</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_MothAntennae</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_MothAntennae</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_MothAntennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5464,10 +5464,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_OrnateEldritchHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_OrnateEldritchHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_OrnateEldritchHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_OrnateEldritchHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5478,10 +5478,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_OutwardsAntennas</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_OutwardsAntennas</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_OutwardsAntennas</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_OutwardsAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5492,10 +5492,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_RadYakEars</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_RadYakEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_RadYakEars</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_RadYakEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5506,10 +5506,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_RainMaker</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_RainMaker</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_RainMaker</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_RainMaker</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5520,10 +5520,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_RayHoundTentacles</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_RayHoundTentacles</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_RayHoundTentacles</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_RayHoundTentacles</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5534,10 +5534,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_SingleEar</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_SingleEar</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_SingleEar</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_SingleEar</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5548,10 +5548,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_Stalks</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_Stalks</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_Stalks</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_Stalks</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5562,10 +5562,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_TerrorMask</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_TerrorMask</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_TerrorMask</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_TerrorMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5576,10 +5576,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_TetraCoils</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_TetraCoils</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_TetraCoils</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_TetraCoils</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -5590,10 +5590,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_UpperTentacles</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_UpperTentacles</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_UpperTentacles</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_UpperTentacles</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7140,10 +7140,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_AnimusEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_AnimusEars</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_AnimusEars</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_AnimusEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7154,10 +7154,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_AntlerHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_AntlerHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_AntlerHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_AntlerHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7168,10 +7168,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_BatWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_BatWings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_BatWings</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_BatWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7182,10 +7182,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_BodyTentacles</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_BodyTentacles</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_BodyTentacles</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_BodyTentacles</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7196,10 +7196,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_BullHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_BullHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_BullHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_BullHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7210,10 +7210,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_BumbledroneWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_BumbledroneWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_BumbledroneWings</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_BumbledroneWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7224,10 +7224,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_ChameleonYakHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_ChameleonYakHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_ChameleonYakHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_ChameleonYakHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7238,10 +7238,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_DemonHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_DemonHorns</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_DemonHorns</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_DemonHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7252,10 +7252,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_DemonHornsQuadruple</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_DemonHornsQuadruple</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_DemonHornsQuadruple</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_DemonHornsQuadruple</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7266,10 +7266,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_DemonTail</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_DemonTail</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_DemonTail</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_DemonTail</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7280,10 +7280,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_DemonWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_DemonWings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_DemonWings</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_DemonWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7294,10 +7294,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_DevilsheepHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_DevilsheepHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_DevilsheepHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_DevilsheepHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7308,10 +7308,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_DownwardsAntennas</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_DownwardsAntennas</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_DownwardsAntennas</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_DownwardsAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7322,10 +7322,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_EarWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_EarWings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_EarWings</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_EarWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7336,10 +7336,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_EldritchHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_EldritchHorns</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_EldritchHorns</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_EldritchHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7350,24 +7350,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_FeraliskEyes</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_FoxTail</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_FeraliskEyes</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<genes>
-				<li>AG_FeraliskEyes</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_FoxTail</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
-		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_FoxTail</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_FoxTail</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7378,10 +7364,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_HornCrown</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_HornCrown</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_HornCrown</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_HornCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7392,10 +7378,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_InsectStinger</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_InsectStinger</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_InsectStinger</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_InsectStinger</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7406,10 +7392,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_LongEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_LongEars</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_LongEars</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_LongEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7420,10 +7406,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_MothWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_MothWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_MothWings</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_MothWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7434,10 +7420,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_OrnateEldritchHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_OrnateEldritchHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_OrnateEldritchHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_OrnateEldritchHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7448,10 +7434,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_OutwardsAntennas</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_OutwardsAntennas</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_OutwardsAntennas</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_OutwardsAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7462,10 +7448,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_ParasiticStinger</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_ParasiticStinger</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_ParasiticStinger</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_ParasiticStinger</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7476,10 +7462,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_PegasusWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_PegasusWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_PegasusWings</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_PegasusWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7490,10 +7476,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_RadYakEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_RadYakEars</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_RadYakEars</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_RadYakEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7504,10 +7490,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_RainbowWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_RainbowWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_RainbowWings</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_RainbowWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7518,10 +7504,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_SingleWing</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_SingleWing</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_SingleWing</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_SingleWing</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7532,10 +7518,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_WaspWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_WaspWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_WaspWings</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_WaspWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7546,10 +7532,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_AnimusEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_AnimusEars</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_AnimusEars</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_AnimusEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7560,10 +7546,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_AntlerHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_AntlerHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_AntlerHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_AntlerHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7574,10 +7560,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_BatWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_BatWings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_BatWings</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_BatWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7588,10 +7574,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_BodyTentacles</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_BodyTentacles</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_BodyTentacles</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_BodyTentacles</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7602,10 +7588,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_BullHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_BullHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_BullHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_BullHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7616,10 +7602,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_BumbledroneWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_BumbledroneWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_BumbledroneWings</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_BumbledroneWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7630,10 +7616,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_ChameleonYakHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_ChameleonYakHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_ChameleonYakHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_ChameleonYakHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7644,10 +7630,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_DemonHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_DemonHorns</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_DemonHorns</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_DemonHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7658,10 +7644,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_DemonHornsQuadruple</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_DemonHornsQuadruple</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_DemonHornsQuadruple</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_DemonHornsQuadruple</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7672,10 +7658,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_DemonTail</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_DemonTail</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_DemonTail</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_DemonTail</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7686,10 +7672,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_DemonWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_DemonWings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_DemonWings</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_DemonWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7700,10 +7686,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_DevilsheepHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_DevilsheepHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_DevilsheepHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_DevilsheepHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7714,10 +7700,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_DownwardsAntennas</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_DownwardsAntennas</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_DownwardsAntennas</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_DownwardsAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7728,10 +7714,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_EarWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_EarWings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_EarWings</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_EarWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7742,10 +7728,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_EldritchHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_EldritchHorns</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_EldritchHorns</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_EldritchHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7756,10 +7742,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_FoxTail</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_FoxTail</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_FoxTail</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_FoxTail</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7770,10 +7756,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_HornCrown</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_HornCrown</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_HornCrown</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_HornCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7784,10 +7770,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_InsectStinger</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_InsectStinger</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_InsectStinger</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_InsectStinger</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7798,10 +7784,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_LongEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_LongEars</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_LongEars</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_LongEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7812,10 +7798,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_MothWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_MothWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_MothWings</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_MothWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7826,10 +7812,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_OrnateEldritchHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_OrnateEldritchHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_OrnateEldritchHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_OrnateEldritchHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7840,10 +7826,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_OutwardsAntennas</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_OutwardsAntennas</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_OutwardsAntennas</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_OutwardsAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7854,10 +7840,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_ParasiticStinger</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_ParasiticStinger</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_ParasiticStinger</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_ParasiticStinger</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7868,10 +7854,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_PegasusWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_PegasusWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_PegasusWings</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_PegasusWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7882,10 +7868,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_RadYakEars</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_RadYakEars</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_RadYakEars</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_RadYakEars</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7896,10 +7882,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_RainbowWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_RainbowWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_RainbowWings</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_RainbowWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7910,10 +7896,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_SingleWing</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_SingleWing</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_SingleWing</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_SingleWing</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7924,10 +7910,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_WaspWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_WaspWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_WaspWings</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_WaspWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -8328,10 +8314,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>	
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_FeatheredWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_FeatheredWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_FeatheredWings</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_FeatheredWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -8342,10 +8328,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>	
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_FeatheredWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_FeatheredWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_FeatheredWings</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_FeatheredWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -8356,10 +8342,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>	
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_FormicAntennas</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-an-gene-AG_FormicAntennas</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_FormicAntennas</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-an-gene-AG_FormicAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -8370,10 +8356,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_FormicAntennas</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadSkinColor_AG-cn-gene-AG_FormicAntennas</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_FormicAntennas</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG-cn-gene-AG_FormicAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -8384,10 +8370,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 		<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_FormicAntennas</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_FormicAntennas</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_FormicAntennas</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_FormicAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -8398,10 +8384,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_FormicAntennas</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_FormicAntennas</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_FormicAntennas</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_FormicAntennas</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -9974,10 +9960,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_Drakonori_Horns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_Drakonori_Horns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_Drakonori_Horns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_Drakonori_Horns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -9988,10 +9974,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_Drakonori_Horns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_Drakonori_Horns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_Drakonori_Horns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_Drakonori_Horns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -10002,10 +9988,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_Drakonori_Horns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_Drakonori_Horns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_Drakonori_Horns</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_Drakonori_Horns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -10016,10 +10002,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_Drakonori_Horns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_Drakonori_Horns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_Drakonori_Horns</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_Drakonori_Horns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -10106,10 +10092,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_Drakonori_Tail</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_Drakonori_Tail</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_Drakonori_Tail</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_Drakonori_Tail</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -10120,10 +10106,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_Drakonori_Tail</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_Drakonori_Tail</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_Drakonori_Tail</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_Drakonori_Tail</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -10134,10 +10120,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_DrakonoriWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_DrakonoriWings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_DrakonoriWings</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_DrakonoriWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -10148,10 +10134,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_DrakonoriWings</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_DrakonoriWings</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_DrakonoriWings</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_DrakonoriWings</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -10422,10 +10408,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="DankPyon.Medieval.Overhaul">
-		<defName>PR_OuterHediffHead_AG-an-gene-AG_RoxHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-an-gene-AG_RoxHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-an-gene-AG_RoxHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-an-gene-AG_RoxHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -10436,10 +10422,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="DankPyon.Medieval.Overhaul">
-		<defName>PR_OuterHediffHead_AG-cn-gene-AG_RoxHorns</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadNoColor_AG-cn-gene-AG_RoxHorns</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/AG-cn-gene-AG_RoxHorns</texPath>
+			<texPath>OuterHediffHeadNoColor/AG-cn-gene-AG_RoxHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -10450,10 +10436,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="DankPyon.Medieval.Overhaul">
-		<defName>PR_UnderHeDiff_AG-an-gene-AG_RoxHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_RoxHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-an-gene-AG_RoxHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_RoxHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -10464,10 +10450,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef MayRequire="DankPyon.Medieval.Overhaul">
-		<defName>PR_UnderHeDiff_AG-cn-gene-AG_RoxHorns</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_RoxHorns</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeDiff/AG-cn-gene-AG_RoxHorns</texPath>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_RoxHorns</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

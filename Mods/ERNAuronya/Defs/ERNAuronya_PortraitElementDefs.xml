@@ -332,10 +332,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-an-gene-ERN_AuronyaEars_ClassicCat</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_ClassicCat</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-an-gene-ERN_AuronyaEars_ClassicCat</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_ClassicCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -346,10 +346,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-an-gene-ERN_AuronyaEars_Folded</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_Folded</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-an-gene-ERN_AuronyaEars_Folded</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_Folded</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -360,10 +360,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-an-gene-ERN_AuronyaEars_LargeCat</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_LargeCat</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-an-gene-ERN_AuronyaEars_LargeCat</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_LargeCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -374,10 +374,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-an-gene-ERN_AuronyaEars_Lynx</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_Lynx</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-an-gene-ERN_AuronyaEars_Lynx</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_Lynx</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -388,10 +388,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-an-gene-ERN_AuronyaEars_SmallLynx</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_SmallLynx</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-an-gene-ERN_AuronyaEars_SmallLynx</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_SmallLynx</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -402,10 +402,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-an-gene-ERN_AuronyaEars_SnowLeopard</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_SnowLeopard</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-an-gene-ERN_AuronyaEars_SnowLeopard</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_SnowLeopard</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -416,10 +416,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-cn-gene-ERN_AuronyaEars_ClassicCat</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_ClassicCat</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-cn-gene-ERN_AuronyaEars_ClassicCat</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_ClassicCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -430,10 +430,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-cn-gene-ERN_AuronyaEars_Folded</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_Folded</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-cn-gene-ERN_AuronyaEars_Folded</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_Folded</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -444,10 +444,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-cn-gene-ERN_AuronyaEars_LargeCat</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_LargeCat</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-cn-gene-ERN_AuronyaEars_LargeCat</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_LargeCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -458,10 +458,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-cn-gene-ERN_AuronyaEars_Lynx</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_Lynx</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-cn-gene-ERN_AuronyaEars_Lynx</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_Lynx</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -472,10 +472,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-cn-gene-ERN_AuronyaEars_SmallLynx</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_SmallLynx</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-cn-gene-ERN_AuronyaEars_SmallLynx</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_SmallLynx</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -486,10 +486,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHead_ERNAuronya-cn-gene-ERN_AuronyaEars_SnowLeopard</defName>
-		<portraitLayer>PR_OuterHediffHead</portraitLayer>
+		<defName>PR_OuterHediffHeadHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_SnowLeopard</defName>
+		<portraitLayer>PR_OuterHediffHeadHairColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHead/ERNAuronya-cn-gene-ERN_AuronyaEars_SnowLeopard</texPath>
+			<texPath>OuterHediffHeadHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_SnowLeopard</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -500,10 +500,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaEars_ClassicCat</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_ClassicCat</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaEars_ClassicCat</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_ClassicCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -514,10 +514,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaEars_Folded</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_Folded</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaEars_Folded</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_Folded</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -528,10 +528,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaEars_LargeCat</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_LargeCat</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaEars_LargeCat</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_LargeCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -542,10 +542,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaEars_Lynx</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_Lynx</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaEars_Lynx</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_Lynx</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -556,10 +556,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaEars_SmallLynx</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_SmallLynx</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaEars_SmallLynx</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_SmallLynx</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -570,10 +570,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaEars_SnowLeopard</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaEars_SnowLeopard</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaEars_SnowLeopard</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaEars_SnowLeopard</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -584,10 +584,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaTail_ClassicCat</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaTail_ClassicCat</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaTail_ClassicCat</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaTail_ClassicCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -598,10 +598,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaTail_LargeFluffy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaTail_LargeFluffy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaTail_LargeFluffy</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaTail_LargeFluffy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -612,10 +612,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-an-gene-ERN_AuronyaTail_SnowLeopard</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-an-gene-ERN_AuronyaTail_SnowLeopard</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-an-gene-ERN_AuronyaTail_SnowLeopard</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-an-gene-ERN_AuronyaTail_SnowLeopard</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -626,10 +626,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaEars_ClassicCat</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_ClassicCat</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaEars_ClassicCat</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_ClassicCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -640,10 +640,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaEars_Folded</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_Folded</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaEars_Folded</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_Folded</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -654,10 +654,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaEars_LargeCat</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_LargeCat</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaEars_LargeCat</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_LargeCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -668,10 +668,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaEars_Lynx</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_Lynx</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaEars_Lynx</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_Lynx</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -682,10 +682,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaEars_SmallLynx</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_SmallLynx</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaEars_SmallLynx</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_SmallLynx</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -696,10 +696,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaEars_SnowLeopard</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaEars_SnowLeopard</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaEars_SnowLeopard</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaEars_SnowLeopard</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -710,10 +710,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaTail_ClassicCat</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaTail_ClassicCat</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaTail_ClassicCat</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaTail_ClassicCat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -724,10 +724,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaTail_LargeFluffy</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaTail_LargeFluffy</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaTail_LargeFluffy</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaTail_LargeFluffy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -738,10 +738,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediff_ERNAuronya-cn-gene-ERN_AuronyaTail_SnowLeopard</defName>
-		<portraitLayer>PR_UnderHediff</portraitLayer>
+		<defName>PR_UnderHediffHairColor_ERNAuronya-cn-gene-ERN_AuronyaTail_SnowLeopard</defName>
+		<portraitLayer>PR_UnderHediffHairColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediff/ERNAuronya-cn-gene-ERN_AuronyaTail_SnowLeopard</texPath>
+			<texPath>UnderHediffHairColor/ERNAuronya-cn-gene-ERN_AuronyaTail_SnowLeopard</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
