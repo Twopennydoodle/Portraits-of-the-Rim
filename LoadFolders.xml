@@ -90,6 +90,9 @@
         <li IfModActive="Rooboid.Minotaur.Expanded">Mods/RoosMExt</li>
         <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>
         <li IfModActive="OskarPotocki.VFE.Tribals">Mods/VETribals</li>
-        <li IfModActive="vanillaracesexpanded.archon">Mods/VEArchon</li>                                
+        <li IfModActive="vanillaracesexpanded.archon">Mods/VEArchon</li>
+        <li IfModActive="Erin.BG3.Hair">Mods/ERNBG3</li>
+        <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/VELycanthrope</li>
+        <li IfModActive="Rooboid.Dreadlockhair">Mods/RoosDreadlocks</li>                                                  
 	</v1.4>
 </loadFolders>
