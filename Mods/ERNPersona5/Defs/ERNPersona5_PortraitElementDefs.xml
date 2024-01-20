@@ -2,6 +2,222 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-Joker</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-Joker</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Joker</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-JokerGlasses</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-JokerGlasses</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>JokerGlasses</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-Oracle</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-Oracle</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Oracle</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-OracleGlasses</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-OracleGlasses</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>OracleGlasses</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-Panther</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-Panther</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Panther</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-Queen</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-Queen</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Queen</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-Skull</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-Skull</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Skull</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-Sophia</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-Sophia</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Sophia</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-an-Sumi</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-an-Sumi</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Sumi</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-Joker</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-Joker</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Joker</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-JokerGlasses</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-JokerGlasses</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>JokerGlasses</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-Oracle</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-Oracle</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Oracle</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-OracleGlasses</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-OracleGlasses</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>OracleGlasses</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-Panther</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-Panther</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Panther</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-Queen</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-Queen</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Queen</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-Skull</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-Skull</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Skull</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-Sophia</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-Sophia</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Sophia</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNPersona5-cn-Sumi</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNPersona5-cn-Sumi</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Sumi</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_ERNPersona5-an-Crow</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
@@ -310,6 +526,78 @@
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<hair>Zenkichi</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_ERNPersona5-an-Oracle</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/ERNPersona5-an-Oracle</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Oracle</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_ERNPersona5-an-OracleGlasses</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/ERNPersona5-an-OracleGlasses</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>OracleGlasses</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_ERNPersona5-an-Queen</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/ERNPersona5-an-Queen</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Queen</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_ERNPersona5-cn-Oracle</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/ERNPersona5-cn-Oracle</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Oracle</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_ERNPersona5-cn-OracleGlasses</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/ERNPersona5-cn-OracleGlasses</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>OracleGlasses</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_ERNPersona5-cn-Queen</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/ERNPersona5-cn-Queen</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Queen</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
