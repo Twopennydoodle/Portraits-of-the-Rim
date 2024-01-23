@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RimWorld;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -88,7 +89,8 @@ namespace PortraitsOfTheRim
                 var floatList = new List<FloatMenuOption>();
                 foreach (var style in PortraitUtils.allStyles)
                 {
-                    floatList.Add(new FloatMenuOption(style.CapitalizeFirst(), delegate
+                    string capitalizeFirst = style.CapitalizeFirst().CanTranslate() ? style.CapitalizeFirst().Translate() : style.CapitalizeFirst();
+                    floatList.Add(new FloatMenuOption(capitalizeFirst, delegate
                     {
                         this.currentStyle = style;
                     }));
@@ -112,7 +114,8 @@ namespace PortraitsOfTheRim
                 }
                 foreach (PortraitElementDef trait in traitList)
                 {
-                    floatList.Add(new FloatMenuOption(trait.requirements.traits[0].def.defName, delegate
+                    string defName=trait.requirements.traits[0].def.defName.CanTranslate() ? trait.requirements.traits[0].def.defName.Translate() : trait.requirements.traits[0].def.defName;
+                    floatList.Add(new FloatMenuOption(defName, delegate
                     {
                         innerFaceToSave = trait;
                     }));
