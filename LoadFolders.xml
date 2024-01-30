@@ -93,6 +93,7 @@
         <li IfModActive="vanillaracesexpanded.archon">Mods/VEArchon</li>
         <li IfModActive="Erin.BG3.Hair">Mods/ERNBG3</li>
         <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/VELycanthrope</li>
-        <li IfModActive="Rooboid.Dreadlockhair">Mods/RoosDreadlocks</li>                                                  
+        <li IfModActive="Rooboid.Dreadlockhair">Mods/RoosDreadlocks</li>
+        <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>                                                    
 	</v1.4>
 </loadFolders>
