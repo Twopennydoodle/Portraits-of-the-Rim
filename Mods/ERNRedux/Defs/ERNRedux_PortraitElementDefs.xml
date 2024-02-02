@@ -2,6 +2,678 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-archangel</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-archangel</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>archangel</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-braidedfloof</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-braidedfloof</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>braidedfloof</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-braidedpony</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-braidedpony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>braidedpony</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-brigid</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-brigid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>brigid</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-Carol</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-Carol</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Carol</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-chowder</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-chowder</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>chowder</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-cloud</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-cloud</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>cloud</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-dualtails</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-dualtails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>dualtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-edgey</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-edgey</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>edgey</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-gambit</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-gambit</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>gambit</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-hyruleprincess</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-hyruleprincess</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>hyruleprincess</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-karascurlspony</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-karascurlspony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>karascurlspony</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-kryssa</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-kryssa</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>kryssa</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-kusanagi</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-kusanagi</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>kusanagi</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-lateriser</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-lateriser</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>lateriser</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-lazypony</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-lazypony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>lazypony</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-messybun</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-messybun</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>messybun</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-neatntidy</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-neatntidy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>neatntidy</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-popstartails</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-popstartails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>popstartails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-roughlove</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-roughlove</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>roughlove</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-Roxy</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-Roxy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Roxy</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-shortfloof</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-shortfloof</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>shortfloof</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-Sicilia</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-Sicilia</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Sicilia</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-simplebraid</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-simplebraid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>simplebraid</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-strategist</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-strategist</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>strategist</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-tactician</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-tactician</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>tactician</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-twindrills</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-twindrills</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>twindrills</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-an-wavypigtails</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-an-wavypigtails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>wavypigtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-archangel</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-archangel</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>archangel</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-braidedfloof</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-braidedfloof</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>braidedfloof</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-braidedpony</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-braidedpony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>braidedpony</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-brigid</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-brigid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>brigid</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-Carol</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-Carol</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Carol</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-chowder</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-chowder</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>chowder</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-cloud</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-cloud</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>cloud</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-dualtails</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-dualtails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>dualtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-edgey</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-edgey</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>edgey</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-gambit</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-gambit</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>gambit</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-hyruleprincess</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-hyruleprincess</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>hyruleprincess</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-karascurlspony</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-karascurlspony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>karascurlspony</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-kryssa</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-kryssa</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>kryssa</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-kusanagi</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-kusanagi</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>kusanagi</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-lateriser</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-lateriser</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>lateriser</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-lazypony</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-lazypony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>lazypony</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-messybun</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-messybun</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>messybun</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-neatntidy</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-neatntidy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>neatntidy</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-popstartails</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-popstartails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>popstartails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-roughlove</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-roughlove</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>roughlove</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-Roxy</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-Roxy</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Roxy</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-shortfloof</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-shortfloof</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>shortfloof</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-Sicilia</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-Sicilia</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Sicilia</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-simplebraid</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-simplebraid</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>simplebraid</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-strategist</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-strategist</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>strategist</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-tactician</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-tactician</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>tactician</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-twindrills</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-twindrills</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>twindrills</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_ERNRedux-cn-wavypigtails</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/ERNRedux-cn-wavypigtails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>wavypigtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_ERNRedux-an-archangel</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
@@ -393,7 +1065,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<hair>mia</hair>
+			<hair>VRE_HighmateHairMia</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -734,6 +1406,18 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_ERNRedux-cn-downlow</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/ERNRedux-cn-downlow</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>downlow</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_ERNRedux-cn-dualtails</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
@@ -969,7 +1653,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<hair>mia</hair>
+			<hair>VRE_HighmateHairMia</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1178,14 +1862,38 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Underhair_ERNRedux-an-downlow</defName>
+		<defName>PR_Underhair_ERNRedux-an-cutietails</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>Underhair/ERNRedux-an-downlow</texPath>
+			<texPath>Underhair/ERNRedux-an-cutietails</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<hair>downlow</hair>
+			<hair>cutietails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-dualtails</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-dualtails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>dualtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-Ebony</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-Ebony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Ebony</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1214,6 +1922,42 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-hyruleprincess</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-hyruleprincess</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>hyruleprincess</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-karascurls</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-karascurls</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>karascurls</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-kittensfauxpony</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-kittensfauxpony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>kittensfauxpony</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Underhair_ERNRedux-an-longbuns</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
@@ -1222,6 +1966,30 @@
 		<requirements>
 			<ageRange>13~999</ageRange>
 			<hair>longbuns</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-lowtails</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-lowtails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>lowtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-minky</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-minky</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>minky</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1238,6 +2006,18 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-roughlove</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-roughlove</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>roughlove</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Underhair_ERNRedux-an-straightcut</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
@@ -1246,6 +2026,30 @@
 		<requirements>
 			<ageRange>13~999</ageRange>
 			<hair>straightcut</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-twinbraids</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-twinbraids</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>twinbraids</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-an-twindrills</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-an-twindrills</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>twindrills</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1274,14 +2078,38 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Underhair_ERNRedux-cn-downlow</defName>
+		<defName>PR_Underhair_ERNRedux-cn-cutietails</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>Underhair/ERNRedux-cn-downlow</texPath>
+			<texPath>Underhair/ERNRedux-cn-cutietails</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<hair>downlow</hair>
+			<hair>cutietails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-dualtails</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-dualtails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>dualtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-Ebony</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-Ebony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Ebony</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1310,6 +2138,42 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-hyruleprincess</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-hyruleprincess</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>hyruleprincess</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-karascurls</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-karascurls</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>karascurls</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-kittensfauxpony</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-kittensfauxpony</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>kittensfauxpony</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Underhair_ERNRedux-cn-longbuns</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
@@ -1318,6 +2182,30 @@
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<hair>longbuns</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-lowtails</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-lowtails</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>lowtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-minky</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-minky</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>minky</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1334,6 +2222,18 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-roughlove</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-roughlove</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>roughlove</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Underhair_ERNRedux-cn-straightcut</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
@@ -1342,6 +2242,30 @@
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<hair>straightcut</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-twinbraids</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-twinbraids</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>twinbraids</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_Underhair_ERNRedux-cn-twindrills</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>Underhair/ERNRedux-cn-twindrills</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>twindrills</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
