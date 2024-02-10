@@ -1065,7 +1065,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<hair>VRE_HighmateHairMia</hair>
+			<hair>mia</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1653,7 +1653,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<hair>VRE_HighmateHairMia</hair>
+			<hair>mia</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
