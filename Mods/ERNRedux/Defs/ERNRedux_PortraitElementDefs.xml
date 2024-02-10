@@ -729,7 +729,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<hair>Bowlcut</hair>
+			<hair>bowlcut</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -1317,7 +1317,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<hair>Bowlcut</hair>
+			<hair>bowlcut</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
