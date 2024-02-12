@@ -28799,10 +28799,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Bowlcut</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Bowlcut1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Bowlcut</texPath>
+			<texPath>MiddleHair/Vanilla-an-Bowlcut1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -28811,10 +28811,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Bowlcut</defName>
+		<defName>PR_OuterHair_Vanilla-an-Bowlcut1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Bowlcut</texPath>
+			<texPath>OuterHair/Vanilla-an-Bowlcut1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -28823,10 +28823,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Bowlcut</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Bowlcut1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Bowlcut</texPath>
+			<texPath>OuterHair/Vanilla-cn-Bowlcut1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -28835,10 +28835,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Bowlcut</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Bowlcut1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Bowlcut</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Bowlcut1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -28847,10 +28847,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Firestarter</defName>
+		<defName>PR_OuterHair_Vanilla-an-Firestarter1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Firestarter</texPath>
+			<texPath>OuterHair/Vanilla-an-Firestarter1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -28859,10 +28859,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Firestarter</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Firestarter1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Firestarter</texPath>
+			<texPath>OuterHair/Vanilla-cn-Firestarter1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -28871,10 +28871,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Firestarter</defName>
+		<defName>PR_UnderHair_Vanilla-an-Firestarter1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Firestarter</texPath>
+			<texPath>UnderHair/Vanilla-an-Firestarter1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -28883,10 +28883,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Firestarter</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Firestarter1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Firestarter</texPath>
+			<texPath>UnderHair/Vanilla-cn-Firestarter1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -28895,10 +28895,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Firestarter</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Firestarter1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Firestarter</texPath>
+			<texPath>MiddleHair/Vanilla-an-Firestarter1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -28907,10 +28907,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Firestarter</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Firestarter1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Firestarter</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Firestarter1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -28919,10 +28919,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Recruit</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Recruit1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Recruit</texPath>
+			<texPath>MiddleHair/Vanilla-an-Recruit1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -28931,10 +28931,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Recruit</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Recruit1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Recruit</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Recruit1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -28943,10 +28943,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Recruit</defName>
+		<defName>PR_OuterHair_Vanilla-an-Recruit1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Recruit</texPath>
+			<texPath>OuterHair/Vanilla-an-Recruit1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -28955,10 +28955,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Recruit</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Recruit1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Recruit</texPath>
+			<texPath>OuterHair/Vanilla-cn-Recruit1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -28967,10 +28967,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Shaved</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Shaved1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Shaved</texPath>
+			<texPath>MiddleHair/Vanilla-an-Shaved1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -28979,10 +28979,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Shaved</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Shaved1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Shaved</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Shaved1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -28991,10 +28991,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-ShaveTopBraid</defName>
+		<defName>PR_MiddleHair_Vanilla-an-ShaveTopBraid1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-ShaveTopBraid</texPath>
+			<texPath>MiddleHair/Vanilla-an-ShaveTopBraid1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29003,10 +29003,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-ShaveTopBraid</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-ShaveTopBraid1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-ShaveTopBraid</texPath>
+			<texPath>MiddleHair/Vanilla-cn-ShaveTopBraid1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29015,10 +29015,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-ShaveTopBraid</defName>
+		<defName>PR_OuterHair_Vanilla-an-ShaveTopBraid1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-ShaveTopBraid</texPath>
+			<texPath>OuterHair/Vanilla-an-ShaveTopBraid1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29027,10 +29027,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-ShaveTopBraid</defName>
+		<defName>PR_OuterHair_Vanilla-cn-ShaveTopBraid1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-ShaveTopBraid</texPath>
+			<texPath>OuterHair/Vanilla-cn-ShaveTopBraid1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29039,34 +29039,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Afro</defName>
+		<defName>PR_OuterHair_Vanilla-an-Afro1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Afro</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<hair>Afro</hair>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-	
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Afro</defName>
-		<portraitLayer>PR_OuterHair</portraitLayer>
-		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Afro</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<hair>Afro</hair>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Afro</defName>
-		<portraitLayer>PR_MiddleHair</portraitLayer>
-		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Afro</texPath>
+			<texPath>OuterHair/Vanilla-an-Afro1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29075,10 +29051,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Afro</defName>
-		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<defName>PR_OuterHair_Vanilla-cn-Afro1</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Afro</texPath>
+			<texPath>OuterHair/Vanilla-cn-Afro1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29087,10 +29063,34 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Bald</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Afro1</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/Vanilla-an-Afro1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Afro</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_Vanilla-cn-Afro1</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/Vanilla-cn-Afro1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Afro</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_Vanilla-an-Bald1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Bald</texPath>
+			<texPath>OuterHair/Vanilla-an-Bald1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29099,10 +29099,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Bald</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Bald1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Bald</texPath>
+			<texPath>OuterHair/Vanilla-cn-Bald1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29111,10 +29111,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Bob</defName>
+		<defName>PR_OuterHair_Vanilla-an-Bob1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Bob</texPath>
+			<texPath>OuterHair/Vanilla-an-Bob1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29123,10 +29123,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Bob</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Bob1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Bob</texPath>
+			<texPath>OuterHair/Vanilla-cn-Bob1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29135,10 +29135,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-BraidedKnot</defName>
+		<defName>PR_OuterHair_Vanilla-an-BraidedKnot1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-BraidedKnot</texPath>
+			<texPath>OuterHair/Vanilla-an-BraidedKnot1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29147,10 +29147,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-BraidedKnot</defName>
+		<defName>PR_OuterHair_Vanilla-cn-BraidedKnot1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-BraidedKnot</texPath>
+			<texPath>OuterHair/Vanilla-cn-BraidedKnot1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29159,10 +29159,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-BraidedKnot</defName>
+		<defName>PR_MiddleHair_Vanilla-an-BraidedKnot1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-BraidedKnot</texPath>
+			<texPath>MiddleHair/Vanilla-an-BraidedKnot1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29171,10 +29171,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-BraidedKnot</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-BraidedKnot1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-BraidedKnot</texPath>
+			<texPath>MiddleHair/Vanilla-cn-BraidedKnot1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29183,10 +29183,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Bravo</defName>
+		<defName>PR_OuterHair_Vanilla-an-Bravo1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Bravo</texPath>
+			<texPath>OuterHair/Vanilla-an-Bravo1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29195,10 +29195,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Bravo</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Bravo1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Bravo</texPath>
+			<texPath>OuterHair/Vanilla-cn-Bravo1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29207,10 +29207,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Bravo</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Bravo1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Bravo</texPath>
+			<texPath>MiddleHair/Vanilla-an-Bravo1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29219,10 +29219,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Bravo</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Bravo1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Bravo</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Bravo1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29231,10 +29231,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-BriefPonytail</defName>
+		<defName>PR_OuterHair_Vanilla-an-BriefPonytail1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-BriefPonytail</texPath>
+			<texPath>OuterHair/Vanilla-an-BriefPonytail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29243,10 +29243,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-BriefPonytail</defName>
+		<defName>PR_OuterHair_Vanilla-cn-BriefPonytail1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-BriefPonytail</texPath>
+			<texPath>OuterHair/Vanilla-cn-BriefPonytail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29255,10 +29255,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-BriefPonytail</defName>
+		<defName>PR_UnderHair_Vanilla-an-BriefPonytail1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-BriefPonytail</texPath>
+			<texPath>UnderHair/Vanilla-an-BriefPonytail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29267,10 +29267,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-BriefPonytail</defName>
+		<defName>PR_UnderHair_Vanilla-cn-BriefPonytail1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-BriefPonytail</texPath>
+			<texPath>UnderHair/Vanilla-cn-BriefPonytail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29279,10 +29279,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Burgundy</defName>
+		<defName>PR_OuterHair_Vanilla-an-Burgundy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Burgundy</texPath>
+			<texPath>OuterHair/Vanilla-an-Burgundy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29291,10 +29291,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Burgundy</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Burgundy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Burgundy</texPath>
+			<texPath>OuterHair/Vanilla-cn-Burgundy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29303,10 +29303,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Burgundy</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Burgundy1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Burgundy</texPath>
+			<texPath>MiddleHair/Vanilla-an-Burgundy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29315,10 +29315,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Burgundy</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Burgundy1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Burgundy</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Burgundy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29327,10 +29327,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Cleopatra</defName>
+		<defName>PR_OuterHair_Vanilla-an-Cleopatra1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Cleopatra</texPath>
+			<texPath>OuterHair/Vanilla-an-Cleopatra1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29339,10 +29339,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Cleopatra</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Cleopatra1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Cleopatra</texPath>
+			<texPath>OuterHair/Vanilla-cn-Cleopatra1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29351,10 +29351,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Curly</defName>
+		<defName>PR_OuterHair_Vanilla-an-Curly1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Curly</texPath>
+			<texPath>OuterHair/Vanilla-an-Curly1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29363,10 +29363,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Curly</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Curly1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Curly</texPath>
+			<texPath>OuterHair/Vanilla-cn-Curly1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29375,46 +29375,46 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Cute</defName>
-		<portraitLayer>PR_OuterHair</portraitLayer>
-		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Cute</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<hair>Cute</hair>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Cute</defName>
-		<portraitLayer>PR_OuterHair</portraitLayer>
-		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Cute</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<hair>Cute</hair>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Cute</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Curly1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Cute</texPath>
+			<texPath>MiddleHair/Vanilla-an-Curly1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
-			<hair>Cute</hair>
+			<hair>Curly</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Cute</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Curly1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Cute</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Curly1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Curly</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_Vanilla-an-Cute1</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/Vanilla-an-Cute1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Cute</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_Vanilla-cn-Cute1</defName>
+		<portraitLayer>PR_OuterHair</portraitLayer>
+		<graphicData>
+			<texPath>OuterHair/Vanilla-cn-Cute1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29423,10 +29423,34 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Decent</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Cute1</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/Vanilla-an-Cute1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Cute</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHair_Vanilla-cn-Cute1</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHair/Vanilla-cn-Cute1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Cute</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_Vanilla-an-Decent1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Decent</texPath>
+			<texPath>OuterHair/Vanilla-an-Decent1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29435,10 +29459,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Decent</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Decent1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Decent</texPath>
+			<texPath>OuterHair/Vanilla-cn-Decent1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29447,10 +29471,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Decent</defName>
+		<defName>PR_UnderHair_Vanilla-an-Decent1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Decent</texPath>
+			<texPath>UnderHair/Vanilla-an-Decent1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29459,10 +29483,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Decent</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Decent1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Decent</texPath>
+			<texPath>UnderHair/Vanilla-cn-Decent1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29471,10 +29495,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Elder</defName>
+		<defName>PR_OuterHair_Vanilla-an-Elder1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Elder</texPath>
+			<texPath>OuterHair/Vanilla-an-Elder1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29483,10 +29507,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Elder</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Elder1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Elder</texPath>
+			<texPath>OuterHair/Vanilla-cn-Elder1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29495,10 +29519,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-FancyBun</defName>
+		<defName>PR_OuterHair_Vanilla-an-FancyBun1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-FancyBun</texPath>
+			<texPath>OuterHair/Vanilla-an-FancyBun1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29507,10 +29531,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-FancyBun</defName>
+		<defName>PR_OuterHair_Vanilla-cn-FancyBun1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Fancybun</texPath>
+			<texPath>OuterHair/Vanilla-cn-FancyBun1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29519,10 +29543,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Flowy</defName>
+		<defName>PR_OuterHair_Vanilla-an-Flowy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Flowy</texPath>
+			<texPath>OuterHair/Vanilla-an-Flowy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29531,10 +29555,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Flowy</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Flowy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Flowy</texPath>
+			<texPath>OuterHair/Vanilla-cn-Flowy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29543,10 +29567,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Fringe</defName>
+		<defName>PR_OuterHair_Vanilla-an-Fringe1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Fringe</texPath>
+			<texPath>OuterHair/Vanilla-an-Fringe1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29555,10 +29579,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Fringe</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Fringe1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Fringe</texPath>
+			<texPath>OuterHair/Vanilla-cn-Fringe1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29567,10 +29591,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Frozen</defName>
+		<defName>PR_OuterHair_Vanilla-an-Frozen1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Frozen</texPath>
+			<texPath>OuterHair/Vanilla-an-Frozen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29579,10 +29603,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Frozen</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Frozen1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Frozen</texPath>
+			<texPath>OuterHair/Vanilla-cn-Frozen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29591,10 +29615,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Frozen</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Frozen1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Frozen</texPath>
+			<texPath>MiddleHair/Vanilla-an-Frozen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29603,10 +29627,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Frozen</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Frozen1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Frozen</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Frozen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29615,10 +29639,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Frozen</defName>
+		<defName>PR_UnderHair_Vanilla-an-Frozen1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Frozen</texPath>
+			<texPath>UnderHair/Vanilla-an-Frozen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29627,10 +29651,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Frozen</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Frozen1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Frozen</texPath>
+			<texPath>UnderHair/Vanilla-cn-Frozen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29639,10 +29663,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-GreasySwoop</defName>
+		<defName>PR_OuterHair_Vanilla-an-GreasySwoop1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-GreasySwoop</texPath>
+			<texPath>OuterHair/Vanilla-an-GreasySwoop1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29651,10 +29675,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-GreasySwoop</defName>
+		<defName>PR_OuterHair_Vanilla-cn-GreasySwoop1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-GreasySwoop</texPath>
+			<texPath>OuterHair/Vanilla-cn-GreasySwoop1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29663,10 +29687,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-GreasySwoop</defName>
+		<defName>PR_MiddleHair_Vanilla-an-GreasySwoop1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-GreasySwoop</texPath>
+			<texPath>MiddleHair/Vanilla-an-GreasySwoop1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29675,10 +29699,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-GreasySwoop</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-GreasySwoop1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-GreasySwoop</texPath>
+			<texPath>MiddleHair/Vanilla-cn-GreasySwoop1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29687,10 +29711,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Junkie</defName>
+		<defName>PR_OuterHair_Vanilla-an-Junkie1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Junkie</texPath>
+			<texPath>OuterHair/Vanilla-an-Junkie1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29699,10 +29723,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Junkie</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Junkie1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Junkie</texPath>
+			<texPath>OuterHair/Vanilla-cn-Junkie1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29711,10 +29735,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Junkie</defName>
+		<defName>PR_UnderHair_Vanilla-an-Junkie1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Junkie</texPath>
+			<texPath>UnderHair/Vanilla-an-Junkie1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29723,10 +29747,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Junkie</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Junkie1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Junkie</texPath>
+			<texPath>UnderHair/Vanilla-cn-Junkie1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29735,10 +29759,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Keeper</defName>
+		<defName>PR_OuterHair_Vanilla-an-Keeper1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Keeper</texPath>
+			<texPath>OuterHair/Vanilla-an-Keeper1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29747,10 +29771,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Keeper</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Keeper1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Keeper</texPath>
+			<texPath>OuterHair/Vanilla-cn-Keeper1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29759,10 +29783,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Lackland</defName>
+		<defName>PR_OuterHair_Vanilla-an-Lackland1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Lackland</texPath>
+			<texPath>OuterHair/Vanilla-an-Lackland1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29771,10 +29795,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Lackland</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Lackland1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Lackland</texPath>
+			<texPath>OuterHair/Vanilla-cn-Lackland1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29783,10 +29807,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Locks</defName>
+		<defName>PR_OuterHair_Vanilla-an-Locks1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Locks</texPath>
+			<texPath>OuterHair/Vanilla-an-Locks1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29795,10 +29819,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Locks</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Locks1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Locks</texPath>
+			<texPath>OuterHair/Vanilla-cn-Locks1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29807,10 +29831,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Locks</defName>
+		<defName>PR_UnderHair_Vanilla-an-Locks1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Locks</texPath>
+			<texPath>UnderHair/Vanilla-an-Locks1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29819,10 +29843,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Locks</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Locks1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Locks</texPath>
+			<texPath>UnderHair/Vanilla-cn-Locks1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29831,10 +29855,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Long</defName>
+		<defName>PR_OuterHair_Vanilla-an-Long1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Long</texPath>
+			<texPath>OuterHair/Vanilla-an-Long1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29843,10 +29867,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Long</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Long1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Long</texPath>
+			<texPath>OuterHair/Vanilla-cn-Long1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29855,10 +29879,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Long</defName>
+		<defName>PR_UnderHair_Vanilla-an-Long1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Long</texPath>
+			<texPath>UnderHair/Vanilla-an-Long1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29867,10 +29891,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Long</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Long1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Long</texPath>
+			<texPath>UnderHair/Vanilla-cn-Long1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29879,10 +29903,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Messy</defName>
+		<defName>PR_OuterHair_Vanilla-an-Messy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Messy</texPath>
+			<texPath>OuterHair/Vanilla-an-Messy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29891,10 +29915,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Messy</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Messy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Messy</texPath>
+			<texPath>OuterHair/Vanilla-cn-Messy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29903,10 +29927,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Mohawk</defName>
+		<defName>PR_OuterHair_Vanilla-an-Mohawk1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Mohawk</texPath>
+			<texPath>OuterHair/Vanilla-an-Mohawk1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29915,10 +29939,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Mohawk</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Mohawk1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Mohawk</texPath>
+			<texPath>OuterHair/Vanilla-cn-Mohawk1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29927,10 +29951,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Mop</defName>
+		<defName>PR_OuterHair_Vanilla-an-Mop1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Mop</texPath>
+			<texPath>OuterHair/Vanilla-an-Mop1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29939,10 +29963,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Mop</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Mop1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Mop</texPath>
+			<texPath>OuterHair/Vanilla-cn-Mop1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29951,10 +29975,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Pigtails</defName>
+		<defName>PR_OuterHair_Vanilla-an-Pigtails1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Pigtails</texPath>
+			<texPath>OuterHair/Vanilla-an-Pigtails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29963,10 +29987,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Pigtails</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Pigtails1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Pigtails</texPath>
+			<texPath>OuterHair/Vanilla-cn-Pigtails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -29975,10 +29999,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Pigtails-styleCyberpunk</defName>
+		<defName>PR_OuterHair_Vanilla-an-Pigtails-styleCyberpunk1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Pigtails-styleCyberpunk</texPath>
+			<texPath>OuterHair/Vanilla-an-Pigtails-styleCyberpunk1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -29988,10 +30012,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Pigtails-styleCyberpunk</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Pigtails-styleCyberpunk1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Pigtails-styleCyberpunk</texPath>
+			<texPath>OuterHair/Vanilla-cn-Pigtails-styleCyberpunk1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30001,10 +30025,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Pigtails</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Pigtails1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Pigtails</texPath>
+			<texPath>MiddleHair/Vanilla-an-Pigtails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30013,10 +30037,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Pigtails</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Pigtails1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Pigtails</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Pigtails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30025,60 +30049,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Pigtails-styleCyberpunk</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Pigtails-styleCyberpunk1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Pigtails-styleCyberpunk</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<hair>Pigtails</hair>
-			<style>Cyberpunk</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Pigtails-styleCyberpunk</defName>
-		<portraitLayer>PR_MiddleHair</portraitLayer>
-		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Pigtails-styleCyberpunk</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<hair>Pigtails</hair>
-			<style>Cyberpunk</style>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Pigtails</defName>
-		<portraitLayer>PR_UnderHair</portraitLayer>
-		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Pigtails</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<hair>Pigtails</hair>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Pigtails</defName>
-		<portraitLayer>PR_UnderHair</portraitLayer>
-		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Pigtails</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<hair>Pigtails</hair>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Pigtails-styleCyberpunk</defName>
-		<portraitLayer>PR_UnderHair</portraitLayer>
-		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Pigtails-styleCyberpunk</texPath>
+			<texPath>MiddleHair/Vanilla-an-Pigtails-styleCyberpunk1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30088,10 +30062,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Pigtails-styleCyberpunk</defName>
-		<portraitLayer>PR_UnderHair</portraitLayer>
+		<defName>PR_MiddleHair_Vanilla-cn-Pigtails-styleCyberpunk1</defName>
+		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Pigtails-styleCyberpunk</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Pigtails-styleCyberpunk1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30101,10 +30075,60 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Ponytails</defName>
+		<defName>PR_UnderHair_Vanilla-an-Pigtails1</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/Vanilla-an-Pigtails1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Pigtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_Vanilla-cn-Pigtails1</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/Vanilla-cn-Pigtails1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Pigtails</hair>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_Vanilla-an-Pigtails-styleCyberpunk1</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/Vanilla-an-Pigtails-styleCyberpunk1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<hair>Pigtails</hair>
+			<style>Cyberpunk</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHair_Vanilla-cn-Pigtails-styleCyberpunk1</defName>
+		<portraitLayer>PR_UnderHair</portraitLayer>
+		<graphicData>
+			<texPath>UnderHair/Vanilla-cn-Pigtails-styleCyberpunk1</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<hair>Pigtails</hair>
+			<style>Cyberpunk</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHair_Vanilla-an-Ponytails1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Ponytails</texPath>
+			<texPath>OuterHair/Vanilla-an-Ponytails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30113,10 +30137,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Ponytails</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Ponytails1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Ponytails</texPath>
+			<texPath>OuterHair/Vanilla-cn-Ponytails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30125,10 +30149,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Ponytails</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Ponytails1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Ponytails</texPath>
+			<texPath>MiddleHair/Vanilla-an-Ponytails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30137,10 +30161,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Ponytails</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Ponytails1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Ponytails</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Ponytails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30149,10 +30173,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Ponytails</defName>
+		<defName>PR_UnderHair_Vanilla-an-Ponytails1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Ponytails</texPath>
+			<texPath>UnderHair/Vanilla-an-Ponytails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30161,10 +30185,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Ponytails</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Ponytails1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Ponytails</texPath>
+			<texPath>UnderHair/Vanilla-cn-Ponytails1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30173,10 +30197,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Primal</defName>
+		<defName>PR_OuterHair_Vanilla-an-Primal1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Primal</texPath>
+			<texPath>OuterHair/Vanilla-an-Primal1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30185,10 +30209,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Primal</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Primal1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Primal</texPath>
+			<texPath>MiddleHair/Vanilla-an-Primal1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30197,10 +30221,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Primal</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Primal1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Primal</texPath>
+			<texPath>OuterHair/Vanilla-cn-Primal1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30209,10 +30233,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Primal</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Primal1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Primal</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Primal1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30221,10 +30245,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Princess</defName>
+		<defName>PR_OuterHair_Vanilla-an-Princess1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Princess</texPath>
+			<texPath>OuterHair/Vanilla-an-Princess1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30233,10 +30257,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Princess</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Princess1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Princess</texPath>
+			<texPath>UnderHair/Vanilla-cn-Princess1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30245,10 +30269,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Princess</defName>
+		<defName>PR_UnderHair_Vanilla-an-Princess1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Princess</texPath>
+			<texPath>UnderHair/Vanilla-an-Princess1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30257,10 +30281,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Princess</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Princess1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Princess</texPath>
+			<texPath>OuterHair/Vanilla-cn-Princess1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30269,10 +30293,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Randy</defName>
+		<defName>PR_OuterHair_Vanilla-an-Randy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Randy</texPath>
+			<texPath>OuterHair/Vanilla-an-Randy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30281,10 +30305,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Randy</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Randy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Randy</texPath>
+			<texPath>OuterHair/Vanilla-cn-Randy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30293,10 +30317,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Revolt</defName>
+		<defName>PR_OuterHair_Vanilla-an-Revolt1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Revolt</texPath>
+			<texPath>OuterHair/Vanilla-an-Revolt1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30305,10 +30329,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Revolt</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Revolt1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Revolt</texPath>
+			<texPath>MiddleHair/Vanilla-an-Revolt1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30317,10 +30341,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Revolt</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Revolt1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Revolt</texPath>
+			<texPath>OuterHair/Vanilla-cn-Revolt1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30329,10 +30353,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Revolt</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Revolt1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Revolt</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Revolt1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30341,10 +30365,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Rockstar</defName>
+		<defName>PR_OuterHair_Vanilla-an-Rockstar1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Rockstar</texPath>
+			<texPath>OuterHair/Vanilla-an-Rockstar1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30353,10 +30377,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Rockstar</defName>
+		<defName>PR_UnderHair_Vanilla-an-Rockstar1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Rockstar</texPath>
+			<texPath>UnderHair/Vanilla-an-Rockstar1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30365,10 +30389,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Rockstar</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Rockstar1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Rockstar</texPath>
+			<texPath>OuterHair/Vanilla-cn-Rockstar1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30377,10 +30401,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Rockstar</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Rockstar1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Rockstar</texPath>
+			<texPath>UnderHair/Vanilla-cn-Rockstar1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30389,10 +30413,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Rookie</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Rookie1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Rookie</texPath>
+			<texPath>MiddleHair/Vanilla-an-Rookie1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30401,10 +30425,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Rookie</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Rookie1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Rookie</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Rookie1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30413,10 +30437,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Rookie</defName>
+		<defName>PR_OuterHair_Vanilla-an-Rookie1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Rookie</texPath>
+			<texPath>OuterHair/Vanilla-an-Rookie1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30425,10 +30449,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Rookie</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Rookie1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Rookie</texPath>
+			<texPath>OuterHair/Vanilla-cn-Rookie1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30437,10 +30461,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Savage</defName>
+		<defName>PR_OuterHair_Vanilla-an-Savage1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Savage</texPath>
+			<texPath>OuterHair/Vanilla-an-Savage1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30449,10 +30473,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Savage</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Savage1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Savage</texPath>
+			<texPath>OuterHair/Vanilla-cn-Savage1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30461,10 +30485,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Scatman</defName>
+		<defName>PR_OuterHair_Vanilla-an-Scatman1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Scatman</texPath>
+			<texPath>OuterHair/Vanilla-an-Scatman1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30473,10 +30497,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Scatman</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Scatman1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Scatman</texPath>
+			<texPath>OuterHair/Vanilla-cn-Scatman1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30485,10 +30509,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-ScorpionTail</defName>
+		<defName>PR_OuterHair_Vanilla-an-ScorpionTail1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-ScorpionTail</texPath>
+			<texPath>OuterHair/Vanilla-an-ScorpionTail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30497,10 +30521,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-ScorpionTail</defName>
+		<defName>PR_OuterHair_Vanilla-cn-ScorpionTail1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-ScorpionTail</texPath>
+			<texPath>OuterHair/Vanilla-cn-ScorpionTail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30509,10 +30533,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-ScorpionTail</defName>
+		<defName>PR_MiddleHair_Vanilla-an-ScorpionTail1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-ScorpionTail</texPath>
+			<texPath>MiddleHair/Vanilla-an-ScorpionTail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30521,10 +30545,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-ScorpionTail</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-ScorpionTail1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-ScorpionTail</texPath>
+			<texPath>MiddleHair/Vanilla-cn-ScorpionTail1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30533,10 +30557,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Scrapper</defName>
+		<defName>PR_OuterHair_Vanilla-an-Scrapper1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Scrapper</texPath>
+			<texPath>OuterHair/Vanilla-an-Scrapper1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30545,10 +30569,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Scrapper</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Scrapper1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Scrapper</texPath>
+			<texPath>OuterHair/Vanilla-cn-Scrapper1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30557,10 +30581,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Senorita</defName>
+		<defName>PR_OuterHair_Vanilla-an-Senorita1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Senorita</texPath>
+			<texPath>OuterHair/Vanilla-an-Senorita1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30569,10 +30593,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Senorita</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Senorita1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Senorita</texPath>
+			<texPath>OuterHair/Vanilla-cn-Senorita1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30581,10 +30605,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Senorita</defName>
+		<defName>PR_UnderHair_Vanilla-an-Senorita1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Senorita</texPath>
+			<texPath>UnderHair/Vanilla-an-Senorita1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30593,10 +30617,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Senorita</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Senorita1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Senorita</texPath>
+			<texPath>UnderHair/Vanilla-cn-Senorita1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30605,10 +30629,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Snazzy</defName>
+		<defName>PR_OuterHair_Vanilla-an-Snazzy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Snazzy</texPath>
+			<texPath>OuterHair/Vanilla-an-Snazzy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30617,10 +30641,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Snazzy</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Snazzy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Snazzy</texPath>
+			<texPath>OuterHair/Vanilla-cn-Snazzy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30629,10 +30653,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Snazzy</defName>
+		<defName>PR_UnderHair_Vanilla-an-Snazzy1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Snazzy</texPath>
+			<texPath>UnderHair/Vanilla-an-Snazzy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30641,10 +30665,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Snazzy</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Snazzy1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Snazzy</texPath>
+			<texPath>UnderHair/Vanilla-cn-Snazzy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30653,10 +30677,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Spikes</defName>
+		<defName>PR_OuterHair_Vanilla-an-Spikes1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Spikes</texPath>
+			<texPath>OuterHair/Vanilla-an-Spikes1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30665,10 +30689,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Spikes</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Spikes1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Spikes</texPath>
+			<texPath>OuterHair/Vanilla-cn-Spikes1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30677,10 +30701,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Sticky</defName>
+		<defName>PR_OuterHair_Vanilla-an-Sticky1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Sticky</texPath>
+			<texPath>OuterHair/Vanilla-an-Sticky1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30689,10 +30713,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Sticky</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Sticky1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Sticky</texPath>
+			<texPath>OuterHair/Vanilla-cn-Sticky1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30701,10 +30725,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Sticky</defName>
+		<defName>PR_UnderHair_Vanilla-an-Sticky1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Sticky</texPath>
+			<texPath>UnderHair/Vanilla-an-Sticky1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30713,10 +30737,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Sticky</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Sticky1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Sticky</texPath>
+			<texPath>UnderHair/Vanilla-cn-Sticky1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30725,10 +30749,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Topdog</defName>
+		<defName>PR_OuterHair_Vanilla-an-Topdog1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Topdog</texPath>
+			<texPath>OuterHair/Vanilla-an-Topdog1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30737,10 +30761,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Topdog</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Topdog1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Topdog</texPath>
+			<texPath>OuterHair/Vanilla-cn-Topdog1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30749,10 +30773,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Topdog</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Topdog1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Topdog</texPath>
+			<texPath>MiddleHair/Vanilla-an-Topdog1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30761,10 +30785,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Topdog</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Topdog1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Topdog</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Topdog1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30773,10 +30797,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Troubadour</defName>
+		<defName>PR_OuterHair_Vanilla-an-Troubadour1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Troubadour</texPath>
+			<texPath>OuterHair/Vanilla-an-Troubadour1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30785,10 +30809,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Troubadour</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Troubadour1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Troubadour</texPath>
+			<texPath>OuterHair/Vanilla-cn-Troubadour1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30797,10 +30821,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-an-Troubadour</defName>
+		<defName>PR_MiddleHair_Vanilla-an-Troubadour1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-an-Troubadour</texPath>
+			<texPath>MiddleHair/Vanilla-an-Troubadour1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30809,10 +30833,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Vanilla-cn-Troubadour</defName>
+		<defName>PR_MiddleHair_Vanilla-cn-Troubadour1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Vanilla-cn-Troubadour</texPath>
+			<texPath>MiddleHair/Vanilla-cn-Troubadour1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30821,10 +30845,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Tuft</defName>
+		<defName>PR_OuterHair_Vanilla-an-Tuft1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Tuft</texPath>
+			<texPath>OuterHair/Vanilla-an-Tuft1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30833,10 +30857,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Tuft</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Tuft1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Tuft</texPath>
+			<texPath>OuterHair/Vanilla-cn-Tuft1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30845,10 +30869,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Warden</defName>
+		<defName>PR_OuterHair_Vanilla-an-Warden1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Warden</texPath>
+			<texPath>OuterHair/Vanilla-an-Warden1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30857,10 +30881,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Warden</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Warden1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Warden</texPath>
+			<texPath>OuterHair/Vanilla-cn-Warden1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30869,10 +30893,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-an-Wavy</defName>
+		<defName>PR_OuterHair_Vanilla-an-Wavy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-an-Wavy</texPath>
+			<texPath>OuterHair/Vanilla-an-Wavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30881,10 +30905,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Vanilla-cn-Wavy</defName>
+		<defName>PR_OuterHair_Vanilla-cn-Wavy1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Vanilla-cn-Wavy</texPath>
+			<texPath>OuterHair/Vanilla-cn-Wavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -30893,10 +30917,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-an-Wavy</defName>
+		<defName>PR_UnderHair_Vanilla-an-Wavy1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-an-Wavy</texPath>
+			<texPath>UnderHair/Vanilla-an-Wavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -30905,10 +30929,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Vanilla-cn-Wavy</defName>
+		<defName>PR_UnderHair_Vanilla-cn-Wavy1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Vanilla-cn-Wavy</texPath>
+			<texPath>UnderHair/Vanilla-cn-Wavy1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

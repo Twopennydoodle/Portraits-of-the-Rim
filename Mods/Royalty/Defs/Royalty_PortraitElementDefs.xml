@@ -1610,10 +1610,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Anne</defName>
+		<defName>PR_OuterHair_Royalty-an-Anne1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Anne</texPath>
+			<texPath>OuterHair/Royalty-an-Anne1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1622,10 +1622,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-an-Anne</defName>
+		<defName>PR_MiddleHair_Royalty-an-Anne1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-an-Anne</texPath>
+			<texPath>MiddleHair/Royalty-an-Anne1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1634,10 +1634,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Artist</defName>
+		<defName>PR_OuterHair_Royalty-an-Artist1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Artist</texPath>
+			<texPath>OuterHair/Royalty-an-Artist1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1646,10 +1646,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Elisabeth</defName>
+		<defName>PR_OuterHair_Royalty-an-Elisabeth1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Elisabeth</texPath>
+			<texPath>OuterHair/Royalty-an-Elisabeth1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1658,10 +1658,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-an-Elisabeth</defName>
+		<defName>PR_MiddleHair_Royalty-an-Elisabeth1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-an-Elisabeth</texPath>
+			<texPath>MiddleHair/Royalty-an-Elisabeth1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1670,10 +1670,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Henry</defName>
+		<defName>PR_OuterHair_Royalty-an-Henry1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Henry</texPath>
+			<texPath>OuterHair/Royalty-an-Henry1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1682,10 +1682,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Jane</defName>
+		<defName>PR_OuterHair_Royalty-an-Jane1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Jane</texPath>
+			<texPath>OuterHair/Royalty-an-Jane1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1694,10 +1694,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-an-Jane</defName>
+		<defName>PR_MiddleHair_Royalty-an-Jane1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-an-Jane</texPath>
+			<texPath>MiddleHair/Royalty-an-Jane1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1706,10 +1706,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Royalty-an-Jane</defName>
+		<defName>PR_UnderHair_Royalty-an-Jane1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Royalty-an-Jane</texPath>
+			<texPath>UnderHair/Royalty-an-Jane1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1718,10 +1718,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Lisa</defName>
+		<defName>PR_OuterHair_Royalty-an-Lisa1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Lisa</texPath>
+			<texPath>OuterHair/Royalty-an-Lisa1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1730,10 +1730,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-an-Lisa</defName>
+		<defName>PR_MiddleHair_Royalty-an-Lisa1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-an-Lisa</texPath>
+			<texPath>MiddleHair/Royalty-an-Lisa1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1742,10 +1742,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Royalty-an-Lisa</defName>
+		<defName>PR_UnderHair_Royalty-an-Lisa1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Royalty-an-Lisa</texPath>
+			<texPath>UnderHair/Royalty-an-Lisa1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1754,10 +1754,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Mary</defName>
+		<defName>PR_OuterHair_Royalty-an-Mary1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Mary</texPath>
+			<texPath>OuterHair/Royalty-an-Mary1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1766,10 +1766,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Royalty-an-Mary</defName>
+		<defName>PR_UnderHair_Royalty-an-Mary1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Royalty-an-Mary</texPath>
+			<texPath>UnderHair/Royalty-an-Mary1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1778,10 +1778,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Richard</defName>
+		<defName>PR_OuterHair_Royalty-an-Richard1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Richard</texPath>
+			<texPath>OuterHair/Royalty-an-Richard1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1790,10 +1790,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Stephen</defName>
+		<defName>PR_OuterHair_Royalty-an-Stephen1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Stephen</texPath>
+			<texPath>OuterHair/Royalty-an-Stephen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1802,10 +1802,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-an-Stephen</defName>
+		<defName>PR_MiddleHair_Royalty-an-Stephen1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-an-Stephen</texPath>
+			<texPath>MiddleHair/Royalty-an-Stephen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1814,10 +1814,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-Victoria</defName>
+		<defName>PR_OuterHair_Royalty-an-Victoria1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-Victoria</texPath>
+			<texPath>OuterHair/Royalty-an-Victoria1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1826,10 +1826,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-an-Victoria</defName>
+		<defName>PR_MiddleHair_Royalty-an-Victoria1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-an-Victoria</texPath>
+			<texPath>MiddleHair/Royalty-an-Victoria1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1838,10 +1838,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-an-William</defName>
+		<defName>PR_OuterHair_Royalty-an-William1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-an-William</texPath>
+			<texPath>OuterHair/Royalty-an-William1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1850,10 +1850,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Royalty-an-William</defName>
+		<defName>PR_UnderHair_Royalty-an-William1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Royalty-an-William</texPath>
+			<texPath>UnderHair/Royalty-an-William1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1862,10 +1862,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Anne</defName>
+		<defName>PR_OuterHair_Royalty-cn-Anne1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Anne</texPath>
+			<texPath>OuterHair/Royalty-cn-Anne1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1874,10 +1874,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-cn-Anne</defName>
+		<defName>PR_MiddleHair_Royalty-cn-Anne1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-cn-Anne</texPath>
+			<texPath>MiddleHair/Royalty-cn-Anne1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1886,10 +1886,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Artist</defName>
+		<defName>PR_OuterHair_Royalty-cn-Artist1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Artist</texPath>
+			<texPath>OuterHair/Royalty-cn-Artist1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1898,10 +1898,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Elisabeth</defName>
+		<defName>PR_OuterHair_Royalty-cn-Elisabeth1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Elisabeth</texPath>
+			<texPath>OuterHair/Royalty-cn-Elisabeth1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1910,10 +1910,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-cn-Elisabeth</defName>
+		<defName>PR_MiddleHair_Royalty-cn-Elisabeth1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-cn-Elisabeth</texPath>
+			<texPath>MiddleHair/Royalty-cn-Elisabeth1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1922,10 +1922,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Henry</defName>
+		<defName>PR_OuterHair_Royalty-cn-Henry1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Henry</texPath>
+			<texPath>OuterHair/Royalty-cn-Henry1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1934,10 +1934,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Jane</defName>
+		<defName>PR_OuterHair_Royalty-cn-Jane1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Jane</texPath>
+			<texPath>OuterHair/Royalty-cn-Jane1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1946,10 +1946,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-cn-Jane</defName>
+		<defName>PR_MiddleHair_Royalty-cn-Jane1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-cn-Jane</texPath>
+			<texPath>MiddleHair/Royalty-cn-Jane1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1958,10 +1958,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Royalty-cn-Jane</defName>
+		<defName>PR_UnderHair_Royalty-cn-Jane1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Royalty-cn-Jane</texPath>
+			<texPath>UnderHair/Royalty-cn-Jane1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1970,10 +1970,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Lisa</defName>
+		<defName>PR_OuterHair_Royalty-cn-Lisa1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Lisa</texPath>
+			<texPath>OuterHair/Royalty-cn-Lisa1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1982,10 +1982,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-cn-Lisa</defName>
+		<defName>PR_MiddleHair_Royalty-cn-Lisa1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-cn-Lisa</texPath>
+			<texPath>MiddleHair/Royalty-cn-Lisa1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1994,10 +1994,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Royalty-cn-Lisa</defName>
+		<defName>PR_UnderHair_Royalty-cn-Lisa1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Royalty-cn-Lisa</texPath>
+			<texPath>UnderHair/Royalty-cn-Lisa1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2006,10 +2006,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Mary</defName>
+		<defName>PR_OuterHair_Royalty-cn-Mary1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Mary</texPath>
+			<texPath>OuterHair/Royalty-cn-Mary1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2018,10 +2018,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Royalty-cn-Mary</defName>
+		<defName>PR_UnderHair_Royalty-cn-Mary1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Royalty-cn-Mary</texPath>
+			<texPath>UnderHair/Royalty-cn-Mary1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2030,10 +2030,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Richard</defName>
+		<defName>PR_OuterHair_Royalty-cn-Richard1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Richard</texPath>
+			<texPath>OuterHair/Royalty-cn-Richard1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2042,10 +2042,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Stephen</defName>
+		<defName>PR_OuterHair_Royalty-cn-Stephen1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Stephen</texPath>
+			<texPath>OuterHair/Royalty-cn-Stephen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2054,10 +2054,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-cn-Stephen</defName>
+		<defName>PR_MiddleHair_Royalty-cn-Stephen1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-cn-Stephen</texPath>
+			<texPath>MiddleHair/Royalty-cn-Stephen1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2066,10 +2066,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-Victoria</defName>
+		<defName>PR_OuterHair_Royalty-cn-Victoria1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-Victoria</texPath>
+			<texPath>OuterHair/Royalty-cn-Victoria1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2078,10 +2078,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHair_Royalty-cn-Victoria</defName>
+		<defName>PR_MiddleHair_Royalty-cn-Victoria1</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHair/Royalty-cn-Victoria</texPath>
+			<texPath>MiddleHair/Royalty-cn-Victoria1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2090,10 +2090,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHair_Royalty-cn-William</defName>
+		<defName>PR_OuterHair_Royalty-cn-William1</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
 		<graphicData>
-			<texPath>OuterHair/Royalty-cn-William</texPath>
+			<texPath>OuterHair/Royalty-cn-William1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -2102,10 +2102,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHair_Royalty-cn-William</defName>
+		<defName>PR_UnderHair_Royalty-cn-William1</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/Royalty-cn-William</texPath>
+			<texPath>UnderHair/Royalty-cn-William1</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
