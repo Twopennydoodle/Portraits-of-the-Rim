@@ -94,6 +94,8 @@
         <li IfModActive="Erin.BG3.Hair">Mods/ERNBG3</li>
         <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/VELycanthrope</li>
         <li IfModActive="Rooboid.Dreadlockhair">Mods/RoosDreadlocks</li>
-        <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>                                                    
+        <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>
+        <li IfModActive="Erin.Corvyia">Mods/ERNCorvyia</li>
+        <li IfModActive="RH2.Faction.VOID">Mods/RH2FactionVOID</li>                                                         
 	</v1.4>
 </loadFolders>
