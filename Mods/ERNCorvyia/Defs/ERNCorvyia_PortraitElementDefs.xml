@@ -2,132 +2,152 @@
 <Defs>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-cf-ERN_CorvyiaHeadFemale</defName>
+		<defName>PR_Head_ERNCorvyia-cf-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-cf-ERN_CorvyiaHeadFemale</texPath>
+			<texPath>Head/ERNCorvyia-cf-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Female</gender>
-			<headType>ERN_CorvyiaHeadFemale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-cm-ERN_CorvyiaHeadMale</defName>
+		<defName>PR_Head_ERNCorvyia-cm-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-cm-ERN_CorvyiaHeadMale</texPath>
+			<texPath>Head/ERNCorvyia-cm-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<gender>Male</gender>
-			<headType>ERN_CorvyiaHeadMale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-ef-ERN_CorvyiaHeadFemale</defName>
+		<defName>PR_Head_ERNCorvyia-ef-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-ef-ERN_CorvyiaHeadFemale</texPath>
+			<texPath>Head/ERNCorvyia-ef-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Female</gender>
-			<headType>ERN_CorvyiaHeadFemale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-em-ERN_CorvyiaHeadMale</defName>
+		<defName>PR_Head_ERNCorvyia-em-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-em-ERN_CorvyiaHeadMale</texPath>
+			<texPath>Head/ERNCorvyia-em-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
 			<gender>Male</gender>
-			<headType>ERN_CorvyiaHeadMale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-mf-ERN_CorvyiaHeadFemale</defName>
+		<defName>PR_Head_ERNCorvyia-mf-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-mf-ERN_CorvyiaHeadFemale</texPath>
+			<texPath>Head/ERNCorvyia-mf-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Female</gender>
-			<headType>ERN_CorvyiaHeadFemale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-mm-ERN_CorvyiaHeadMale</defName>
+		<defName>PR_Head_ERNCorvyia-mm-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-mm-ERN_CorvyiaHeadMale</texPath>
+			<texPath>Head/ERNCorvyia-mm-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
 			<gender>Male</gender>
-			<headType>ERN_CorvyiaHeadMale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-tf-ERN_CorvyiaHeadFemale</defName>
+		<defName>PR_Head_ERNCorvyia-tf-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-tf-ERN_CorvyiaHeadFemale</texPath>
+			<texPath>Head/ERNCorvyia-tf-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Female</gender>
-			<headType>ERN_CorvyiaHeadFemale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-tm-ERN_CorvyiaHeadMale</defName>
+		<defName>PR_Head_ERNCorvyia-tm-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-tm-ERN_CorvyiaHeadMale</texPath>
+			<texPath>Head/ERNCorvyia-tm-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
 			<gender>Male</gender>
-			<headType>ERN_CorvyiaHeadMale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-yf-ERN_CorvyiaHeadFemale</defName>
+		<defName>PR_Head_ERNCorvyia-yf-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-yf-ERN_CorvyiaHeadFemale</texPath>
+			<texPath>Head/ERNCorvyia-yf-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Female</gender>
-			<headType>ERN_CorvyiaHeadFemale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_Head_ERNCorvyia-ym-ERN_CorvyiaHeadMale</defName>
+		<defName>PR_Head_ERNCorvyia-ym-gene-ERN_CorvyiaHead</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
-			<texPath>Head/ERNCorvyia-ym-ERN_CorvyiaHeadMale</texPath>
+			<texPath>Head/ERNCorvyia-ym-gene-ERN_CorvyiaHead</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
 			<gender>Male</gender>
-			<headType>ERN_CorvyiaHeadMale</headType>
+			<genes>
+				<li>ERN_CorvyiaHead</li>
+			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

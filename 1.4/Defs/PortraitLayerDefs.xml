@@ -169,5 +169,8 @@
 		<defName>PR_FullHeadgear</defName>
 		<layer>35</layer>
 	</PortraitsOfTheRim.PortraitLayerDef>
-	
+	<PortraitsOfTheRim.PortraitLayerDef>
+		<defName>PR_OverHeadgear</defName>
+		<layer>36</layer>
+	</PortraitsOfTheRim.PortraitLayerDef>	
 </Defs>

@@ -338,10 +338,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_RH2FactionVOID-an-RHApparel_DFCloak_Hood</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<defName>PR_OverHeadgear_RH2FactionVOID-an-RHApparel_DFCloak_Hood</defName>
+		<portraitLayer>PR_OverHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/RH2FactionVOID-an-RHApparel_DFCloak_Hood</texPath>
+			<texPath>OverHeadgear/RH2FactionVOID-an-RHApparel_DFCloak_Hood</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -352,10 +352,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_FullHeadgear_RH2FactionVOID-cn-RHApparel_DFCloak_Hood</defName>
-		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<defName>PR_OverHeadgear_RH2FactionVOID-cn-RHApparel_DFCloak_Hood</defName>
+		<portraitLayer>PR_OverHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>FullHeadgear/RH2FactionVOID-cn-RHApparel_DFCloak_Hood</texPath>
+			<texPath>OverHeadgear/RH2FactionVOID-cn-RHApparel_DFCloak_Hood</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
