@@ -41,5 +41,6 @@ namespace PortraitsOfTheRim
         public static PortraitLayerDef PR_OuterHediffHeadSkinColor;
         public static PortraitLayerDef PR_OuterHediffHeadNoColor;
         public static PortraitLayerDef PR_FullHeadgear;
+        public static PortraitLayerDef PR_OverHeadgear;
     }
 }
