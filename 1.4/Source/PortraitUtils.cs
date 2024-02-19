@@ -21,6 +21,10 @@ namespace PortraitsOfTheRim
         {
             PR_DefOf.PR_FullHeadgear, PR_DefOf.PR_InnerHeadgear, PR_DefOf.PR_OuterHeadgear, PR_DefOf.PR_UnderHeadgear
         };
+        public static HashSet<PortraitLayerDef> HairLayers = new HashSet<PortraitLayerDef>
+        {
+            PR_DefOf.PR_UnderHair, PR_DefOf.PR_InnerHair, PR_DefOf.PR_OuterHair, PR_DefOf.PR_MiddleHair
+        };
 
         public static HashSet<string> allStyles;
         public static FloatRange childAge = new FloatRange(7f, 13f);
