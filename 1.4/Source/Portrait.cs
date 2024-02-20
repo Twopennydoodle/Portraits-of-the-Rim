@@ -23,6 +23,9 @@ namespace PortraitsOfTheRim
         private static readonly Texture2D ShowHidePortraitOn = ContentFinder<Texture2D>.Get("UI/ShowHidePortraiton");
         private static readonly Texture2D SelectExpressedTrait = ContentFinder<Texture2D>.Get("UI/SelectExpressedTrait");
         private static readonly Texture2D OutlineTex = SolidColorMaterials.NewSolidColorTexture(new ColorInt(77, 77, 77).ToColor);
+
+        // Non-static fields
+        private bool fullHeadgearOn;
         public Pawn pawn;
         private List<(PortraitElementDef, Texture)> portraitTextures;
         private int lastCreatingTime;
@@ -64,6 +67,8 @@ namespace PortraitsOfTheRim
             {
                 if (this.hideHeadgear && PortraitUtils.HeadgearLayers.Contains(texture.Item1.portraitLayer))
                     continue;
+                if (this.fullHeadgearOn && !this.hideHeadgear && PortraitUtils.HairLayers.Contains(texture.Item1.portraitLayer))
+                    continue; // Disabling hairs if Full Headgear is on (and is not hidden)
                 GUI.DrawTexture(renderRect, texture.Item2);
             }
             Widgets.DrawBox(renderRect.ExpandedBy(1), 1, OutlineTex);
@@ -164,6 +169,7 @@ namespace PortraitsOfTheRim
         {
             List<(PortraitElementDef, Texture)> allTextures = new ();
             List<PortraitLayerDef> resolvedLayers = new List<PortraitLayerDef>();
+            fullHeadgearOn = false; // By default, full headgear is not on
             bool noMiddleHair = false;
             foreach (var layer in PortraitUtils.layers)
             {
@@ -182,6 +188,11 @@ namespace PortraitsOfTheRim
                     }
                     if (matchingElements.Any())
                     {
+                        // If a Full Headgear, turn the full headgear flag on
+                        if (layer == PR_DefOf.PR_FullHeadgear)
+                        {
+                            fullHeadgearOn = true;
+                        }
                         if (layer.acceptAllMatchingElements)
                         {
                             foreach (var matchingElement in matchingElements)
