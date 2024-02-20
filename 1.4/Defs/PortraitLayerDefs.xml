@@ -10,7 +10,7 @@
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_UnderHediffSkinColor</defName>
 		<layer>1</layer>
-		<inheritsSkinColor>true</inheritsSkinColor>		
+		<inheritsSkinColor>true</inheritsSkinColor>
 		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
@@ -21,6 +21,7 @@
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_UnderHeadgear</defName>
 		<layer>3</layer>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_UnderHair</defName>
@@ -138,6 +139,7 @@
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_InnerHeadgear</defName>
 		<layer>29</layer>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterHair</defName>
@@ -147,6 +149,7 @@
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterHeadgear</defName>
 		<layer>31</layer>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterHediffHeadHairColor</defName>
@@ -168,9 +171,11 @@
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_FullHeadgear</defName>
 		<layer>35</layer>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OverHeadgear</defName>
 		<layer>36</layer>
-	</PortraitsOfTheRim.PortraitLayerDef>	
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
+	</PortraitsOfTheRim.PortraitLayerDef>
 </Defs>

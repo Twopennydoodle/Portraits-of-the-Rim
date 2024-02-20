@@ -19,7 +19,7 @@ namespace PortraitsOfTheRim
         public static bool AppearanceClothesLoaded = ModsConfig.IsActive("tammybee.appearanceclothes");
         public static HashSet<PortraitLayerDef> HeadgearLayers = new HashSet<PortraitLayerDef>
         {
-            PR_DefOf.PR_FullHeadgear, PR_DefOf.PR_InnerHeadgear, PR_DefOf.PR_OuterHeadgear, PR_DefOf.PR_UnderHeadgear
+            PR_DefOf.PR_FullHeadgear, PR_DefOf.PR_InnerHeadgear, PR_DefOf.PR_OuterHeadgear, PR_DefOf.PR_UnderHeadgear, PR_DefOf.PR_OverHeadgear
         };
 
         public static HashSet<string> allStyles;
