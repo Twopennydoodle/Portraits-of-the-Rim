@@ -31,7 +31,7 @@ namespace PortraitsOfTheRim
         private int lastCreatingTime;
 
         public bool hidePortrait = !PortraitsOfTheRimSettings.showPortraitByDefault;
-        public bool hideHeadgear;
+        public bool hideHeadgear = !PortraitsOfTheRimSettings.showHeadgearByDefault;
         public string currentStyle;
 
         public PortraitElementDef innerFaceToSave;
@@ -65,13 +65,28 @@ namespace PortraitsOfTheRim
             Widgets.DrawBoxSolid(renderRect, Widgets.WindowBGFillColor);
             foreach (var texture in textures)
             {
-                if (this.hideHeadgear && PortraitUtils.HeadgearLayers.Contains(texture.Item1.portraitLayer))
+                if (ShouldHideHeadgear() && PortraitUtils.HeadgearLayers.Contains(texture.Item1.portraitLayer))
                     continue;
-                if (this.fullHeadgearOn && !this.hideHeadgear && PortraitUtils.HairLayers.Contains(texture.Item1.portraitLayer))
+                if (this.fullHeadgearOn && !ShouldHideHeadgear() && PortraitUtils.HairLayers.Contains(texture.Item1.portraitLayer))
                     continue; // Disabling hairs if Full Headgear is on (and is not hidden)
                 GUI.DrawTexture(renderRect, texture.Item2);
             }
             Widgets.DrawBox(renderRect.ExpandedBy(1), 1, OutlineTex);
+        }
+
+        /* Helper function for determining if headgear should be hidden or not when the "Always show when drafted" option is on. 
+         * Returns true to hide, false to show.
+         * If Drafted and the "Always show when drafted" is on: Show it regardless of any other option
+         * If option for hide headgear is on, hide it (obviously)
+         * Otherwise, show headgear (Return false) 
+         */
+        private bool ShouldHideHeadgear()
+        {
+            if (!this.hideHeadgear)
+            {
+                return false;
+            }
+            return !(this.pawn.Drafted && PortraitsOfTheRimSettings.alwaysShowHeadgearWhenDrafted);
         }
 
         public void DrawButtons(float x, float y)
@@ -354,7 +369,7 @@ namespace PortraitsOfTheRim
         public void ExposeData()
         {
             Scribe_Values.Look(ref hidePortrait, "hidePortrait", !PortraitsOfTheRimSettings.showPortraitByDefault);
-            Scribe_Values.Look(ref hideHeadgear, "hideHeadgear");
+            Scribe_Values.Look(ref hideHeadgear, "hideHeadgear", !PortraitsOfTheRimSettings.showHeadgearByDefault);
             Scribe_Values.Look(ref currentStyle, "currentStyle", "");
             Scribe_Defs.Look(ref innerFaceToSave, "innerFaceToSave");
         }
