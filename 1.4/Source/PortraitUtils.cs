@@ -1,7 +1,9 @@
 ﻿using HarmonyLib;
 using RimWorld;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using UnityEngine;
 using Verse;
 
@@ -15,8 +17,15 @@ namespace PortraitsOfTheRim
         public static Dictionary<Pawn, Portrait> pawnPortraits = new Dictionary<Pawn, Portrait>();
         public static List<PortraitLayerDef> layers;
         public static Dictionary<PortraitLayerDef, List<PortraitElementDef>> portraitElements;
+
+        // Flags to support further mod inclusion
         public static bool CELoaded = ModsConfig.IsActive("CETeam.CombatExtended");
         public static bool AppearanceClothesLoaded = ModsConfig.IsActive("tammybee.appearanceclothes");
+        public static bool GradientHairLoaded = ModsConfig.IsActive("automatic.gradienthair");
+        public static Type gradientCompType = null;
+        public static MethodInfo getGradientHairComp = null;
+        public static MethodInfo getGradientHairSettings = null;
+
         public static HashSet<PortraitLayerDef> HeadgearLayers = new HashSet<PortraitLayerDef>
         {
             PR_DefOf.PR_FullHeadgear, PR_DefOf.PR_InnerHeadgear, PR_DefOf.PR_OuterHeadgear, PR_DefOf.PR_UnderHeadgear, PR_DefOf.PR_OverHeadgear
@@ -75,7 +84,7 @@ namespace PortraitsOfTheRim
             GameObject gameObject = new GameObject("PortraitCamera", typeof(Camera));
             gameObject.SetActive(value: false);
             gameObject.AddComponent<PortraitCamera>();
-            Object.DontDestroyOnLoad(gameObject);
+            UnityEngine.Object.DontDestroyOnLoad(gameObject);
             Camera component = gameObject.GetComponent<Camera>();
             component.transform.position = new Vector3(0f, 15f, 0f);
             component.transform.rotation = Quaternion.Euler(90f, 0f, 0f);
@@ -89,6 +98,37 @@ namespace PortraitsOfTheRim
             component.nearClipPlane = camera.nearClipPlane;
             component.farClipPlane = camera.farClipPlane;
             portraitCamera = component;
+
+            /* Setup area for Gradient Hairs mod. This will find the settings accessors needed to resolve textures later. */
+            if (GradientHairLoaded)
+            { 
+                gradientCompType = Type.GetType("GradientHair.CompGradientHair, GradientHair");
+                if (gradientCompType == null) { 
+                    Log.Error("Portraits of the Rim Error: Gradient Hair mod is installed, but can't access Gradient Hair type. Please let us know on Steam!");
+                    GradientHairLoaded = false;
+                    return;
+                }
+                getGradientHairComp = AccessTools.Method(typeof(Pawn), "GetComp", null, new Type[]{gradientCompType});
+                if (getGradientHairComp == null) 
+                {
+                    Log.Error("Portraits of the Rim Error: Gradient Hair mod is installed, but can't access Gradient Hair Comp. Please let us know on Steam!");
+                    GradientHairLoaded = false;
+                    return;
+                }
+                PropertyInfo pinfo = gradientCompType.GetProperty("Settings");
+                if (pinfo == null)
+                {
+                    Log.Error("Portraits of the Rim Error: Gradient Hair mod is installed, but can't access Gradient Hair Comp's Settings. Please let us know on Steam!");
+                    GradientHairLoaded = false;
+                    return;
+                }
+                getGradientHairSettings = pinfo.GetAccessors()[0];
+                if (getGradientHairSettings == null)
+                {
+                    Log.Error("Portraits of the Rim Error: Gradient Hair mod is installed, but can't access Gradient Hair Setting Accessors. Please let us know on Steam!");
+                    GradientHairLoaded = false;
+                }
+            }
         }
         public static bool ShouldShowPortrait(this Pawn pawn)
         {

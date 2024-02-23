@@ -1,10 +1,12 @@
-﻿using System;
+﻿using HarmonyLib;
+using System.Reflection;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
 using System.Text.RegularExpressions;
 using UnityEngine;
 using Verse;
+using System.IO;
 
 namespace PortraitsOfTheRim
 {
@@ -24,11 +26,14 @@ namespace PortraitsOfTheRim
         private static readonly Texture2D SelectExpressedTrait = ContentFinder<Texture2D>.Get("UI/SelectExpressedTrait");
         private static readonly Texture2D OutlineTex = SolidColorMaterials.NewSolidColorTexture(new ColorInt(77, 77, 77).ToColor);
 
+        public static readonly Texture2D DefaultNoMask = ContentFinder<Texture2D>.Get("Masks/potr_MaskNone");
+
         // Non-static fields
         private bool fullHeadgearOn;
         public Pawn pawn;
         private List<(PortraitElementDef, Texture)> portraitTextures;
         private int lastCreatingTime;
+        
 
         public bool hidePortrait = !PortraitsOfTheRimSettings.showPortraitByDefault;
         public bool hideHeadgear = !PortraitsOfTheRimSettings.showHeadgearByDefault;
@@ -43,7 +48,7 @@ namespace PortraitsOfTheRim
         {
             get
             {
-                if (portraitTextures is null || Time.frameCount % 20 == 0 && lastCreatingTime != Time.frameCount)
+                if (portraitTextures is null || Time.frameCount % 200 == 0 && lastCreatingTime != Time.frameCount)
                 {
                     lastCreatingTime = Time.frameCount;
                     portraitTextures = GetPortraitTextures();
@@ -330,6 +335,12 @@ namespace PortraitsOfTheRim
         private void GetTexture(List<(PortraitElementDef, Texture)> allTextures, PortraitElementDef matchingElement)
         {
             var mainTexture = matchingElement.graphic.MatSingle.mainTexture;
+            // Adding a check and exiting if the texture is unloadable for whatever reason
+            if (mainTexture == null)
+            {
+                Log.Error("Portraits of the Rim Error! Cannot find texture for " + matchingElement.defName);
+                return;
+            }
             if (!cachedRenderTextures.TryGetValue(pawn, out var dict))
             {
                 cachedRenderTextures[pawn] = dict = new Dictionary<PortraitElementDef, RenderTexture>();
@@ -337,6 +348,17 @@ namespace PortraitsOfTheRim
             if (!dict.TryGetValue(matchingElement, out var renderTexture))
             {
                 dict[matchingElement] = renderTexture = new RenderTexture(mainTexture.width, mainTexture.height, 0);
+            }
+            // Resolve masks for Gradient Hair if necessary
+            if (PortraitUtils.GradientHairLoaded && NeedsGradientMask(matchingElement, this.pawn))
+            {
+                // Everything is assigned already in NeedsGradientMask, no need to do anything here
+                // Could put some error handling if necessary?
+            }
+            else
+            {
+                matchingElement.maskPath = "";
+                matchingElement.gradientColor = Color.white;
             }
             renderTexture.RenderElement(matchingElement, pawn, new Vector3(0, 0, zOffset), zoomValue);
             renderTexture.name = matchingElement.defName;
@@ -364,6 +386,31 @@ namespace PortraitsOfTheRim
                     GetTexture(allTextures, outerFace);
                 }
             }
+        }
+
+        // Helper function for determining if this particular portrait element needs a real masking layer or not.
+        // Making layers are only currently used for hair gradients.
+        // The technique for getting the Gradient Hair is all thanks to GitHub user bolphen, author of the Avatar mod for Rimworld.
+        // https://github.com/bolphen/rimworld-avatar/
+        private bool NeedsGradientMask(PortraitElementDef element, Pawn pawn)
+        {
+            if (!PortraitUtils.HairLayers.Contains(element.portraitLayer))
+            {
+                return false;
+            }
+            var hairComp = PortraitUtils.getGradientHairComp.Invoke(pawn, null);
+            if (hairComp == null)
+            {
+                return false;
+            }
+            var settings = PortraitUtils.getGradientHairSettings.Invoke(hairComp, null);
+            if (settings == null || !(bool) AccessTools.Field("GradientHair.GradientHairSettings:enabled").GetValue(settings))
+            {
+                return false;
+            }
+            element.maskPath = Path.GetFileNameWithoutExtension((string) AccessTools.Field("GradientHair.GradientHairSettings:mask").GetValue(settings));
+            element.gradientColor = (Color) AccessTools.Field("GradientHair.GradientHairSettings:colorB").GetValue(settings);
+            return true;
         }
 
         public void ExposeData()
