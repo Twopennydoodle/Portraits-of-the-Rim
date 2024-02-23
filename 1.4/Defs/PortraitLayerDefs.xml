@@ -27,6 +27,7 @@
 		<defName>PR_UnderHair</defName>
 		<layer>4</layer>
 		<inheritsHairColor>true</inheritsHairColor>
+		<canGradient>true</canGradient>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_Neck</defName>
@@ -94,7 +95,7 @@
 		<layer>19</layer>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
-		<defName>PR_InnerHair</defName>
+		<defName>PR_InnerHair</defName> 
 		<layer>20</layer>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
@@ -106,6 +107,7 @@
 		<defName>PR_MiddleHair</defName>
 		<layer>22</layer>
 		<inheritsHairColor>true</inheritsHairColor>
+		<canGradient>true</canGradient>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_InnerFace</defName>
@@ -145,6 +147,7 @@
 		<defName>PR_OuterHair</defName>
 		<layer>30</layer>
 		<inheritsHairColor>true</inheritsHairColor>
+		<canGradient>true</canGradient>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterHeadgear</defName>

@@ -1,10 +1,12 @@
-﻿using System;
+﻿using HarmonyLib;
+using System.Reflection;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
 using System.Text.RegularExpressions;
 using UnityEngine;
 using Verse;
+using System.IO;
 
 namespace PortraitsOfTheRim
 {
@@ -24,11 +26,15 @@ namespace PortraitsOfTheRim
         private static readonly Texture2D SelectExpressedTrait = ContentFinder<Texture2D>.Get("UI/SelectExpressedTrait");
         private static readonly Texture2D OutlineTex = SolidColorMaterials.NewSolidColorTexture(new ColorInt(77, 77, 77).ToColor);
 
+        // Keep it as a one time read for the "Default" no masking gradient mask.
+        public static readonly Texture2D DefaultNoMask = ContentFinder<Texture2D>.Get("Masks/potr_MaskNone");
+
         // Non-static fields
         private bool fullHeadgearOn;
         public Pawn pawn;
         private List<(PortraitElementDef, Texture)> portraitTextures;
         private int lastCreatingTime;
+        
 
         public bool hidePortrait = !PortraitsOfTheRimSettings.showPortraitByDefault;
         public bool hideHeadgear = !PortraitsOfTheRimSettings.showHeadgearByDefault;
@@ -330,6 +336,12 @@ namespace PortraitsOfTheRim
         private void GetTexture(List<(PortraitElementDef, Texture)> allTextures, PortraitElementDef matchingElement)
         {
             var mainTexture = matchingElement.graphic.MatSingle.mainTexture;
+            // Adding a check and exiting if the texture is unloadable for whatever reason
+            if (mainTexture == null)
+            {
+                Log.Error("Portraits of the Rim Error! Cannot find texture for " + matchingElement.defName);
+                return;
+            }
             if (!cachedRenderTextures.TryGetValue(pawn, out var dict))
             {
                 cachedRenderTextures[pawn] = dict = new Dictionary<PortraitElementDef, RenderTexture>();
