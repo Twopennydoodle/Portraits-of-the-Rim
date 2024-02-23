@@ -15,6 +15,7 @@ namespace PortraitsOfTheRim
 
         public PortraitElementDef portraitElementDef;
         public Pawn pawn;
+
         public void RenderElement(PortraitElementDef portraitElementDef, Pawn pawn, RenderTexture renderTexture, Vector3 cameraOffset, float cameraZoom)
         {
             Camera renderCamera = PortraitUtils.portraitCamera;
@@ -33,31 +34,51 @@ namespace PortraitsOfTheRim
             renderCamera.targetTexture = null;
         }
 
+        /* Handles recoloring and gradienting. Huge thanks and credit to bolphen and the Avatar
+         * mod (https://github.com/bolphen/rimworld-avatar/) for insight on how the masking and
+         * the hair gradient mod works. */
         public void OnPostRender()
         {
             var recolor = portraitElementDef.GetRecolor(pawn);
             if (recolor != null)
             {
-                // Set the two colors; second color will be white (and not really mean anything) if no gradient mask is needed.
+                // Set primary color for all
                 portraitElementDef.graphic.MatSingle.color = recolor.Value;
-                portraitElementDef.graphic.MatSingle.SetColor(ShaderPropertyIDs.ColorTwo, portraitElementDef.gradientColor);
-                if (portraitElementDef.maskPath != "")
-                {
-                    if (!maskTextureDict.TryGetValue(portraitElementDef.maskPath, out Texture2D maskTex))
+                if (PortraitUtils.GradientHairLoaded && portraitElementDef.portraitLayer.canGradient)
+                { 
+                    // Gradient Hair code will set the appropriate mask on all of the hairGraphics
+                    Material material = pawn.Drawer.renderer.graphics.hairGraphic.MatSouth;
+                    // TODO: Error Handling here
+                    // Set secondary color on our graphic's material based off of the above material's secondary color
+                    portraitElementDef.graphic.MatSingle.SetColor(ShaderPropertyIDs.ColorTwo, material.GetColorTwo());
+                    
+                    // Very nice that the MatSouth's mask texture name field is just the filename
+                    // If that ever changes, this technique will no longer work 
+                    Texture2D hairMaskTex = material.GetMaskTexture(); 
+                    
+                    if (hairMaskTex != null)
                     {
-                        maskTextureDict[portraitElementDef.maskPath] = maskTex = ContentFinder<Texture2D>.Get("Masks/potr_" + portraitElementDef.maskPath);
+                        string testMaskPath = "Masks/potr_" + hairMaskTex.name; // Use the mask texture name field to make our path
+
+                        if (!maskTextureDict.TryGetValue(testMaskPath, out Texture2D maskTex))
+                        {
+                            maskTextureDict[testMaskPath] = maskTex = ContentFinder<Texture2D>.Get(testMaskPath);
+                        }
+                        if (maskTex != null)
+                        {
+                            portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, maskTex);
+                        }
+                        else // Case where the mask texture could not be obtained. Fall back to no masking instead of leaving that field undefined.
+                        {
+                            portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
+                        }
                     }
-                    if (maskTex != null)
-                    {
-                        portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, maskTex);
-                    }
-                    else
+                    else //Case where the material's mask texture is null 
                     {
                         portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
                     }
-                    
                 }
-                else
+                else // Gradient Hair is not enabled
                 {
                     portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
                 }

@@ -12,8 +12,6 @@ namespace PortraitsOfTheRim
         public Requirements requirements;
         public PortraitLayerDef portraitLayer;
         public PortraitElementDef connectedElement;
-        public string maskPath = "";
-        public Color gradientColor;
         public bool Matches(Portrait portrait)
         {
             var req = requirements ?? connectedElement?.requirements;
