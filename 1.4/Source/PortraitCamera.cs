@@ -56,9 +56,9 @@ namespace PortraitsOfTheRim
                     // If that ever changes, this technique will no longer work 
                     Texture2D hairMaskTex = material.GetMaskTexture(); 
                     
-                    if (hairMaskTex != null)
+                    if (hairMaskTex != null && PortraitUtils.validMasks.Contains(hairMaskTex.name))
                     {
-                        string testMaskPath = "Masks/potr_" + hairMaskTex.name; // Use the mask texture name field to make our path
+                        string testMaskPath = "PotRHairMasks/potr_" + hairMaskTex.name; // Use the mask texture name field to make our path
 
                         if (!maskTextureDict.TryGetValue(testMaskPath, out Texture2D maskTex))
                         {
