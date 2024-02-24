@@ -34,6 +34,13 @@ namespace PortraitsOfTheRim
         {
             PR_DefOf.PR_UnderHair, PR_DefOf.PR_InnerHair, PR_DefOf.PR_OuterHair, PR_DefOf.PR_MiddleHair
         };
+        public static HashSet<string> validMasks = new HashSet<string>
+        {
+            "G01", "G02", "G03", "G04", "G05", "G06", "G07", "G08", "G09", "G10", "G11", "G12", "MaskAHigh",
+            "MaskAHigh2", "MaskAHigh3", "MaskALow", "MaskALow2", "MaskALow3", "MaskAMidHigh", "MaskAMidLow",
+            "MaskBHigh", "MaskBHigh2", "MaskBHigh3", "MaskBLow", "MaskBLow2", "MaskBLow3", "MaskBMidHigh", "MaskBMidLow",
+            "MaskCHigh", "MaskCHigh2", "MaskCHigh3", "MaskCLow", "MaskCLow2", "MaskCLow3", "MaskCMidHigh", "MaskCMidLow"
+        };
 
         public static HashSet<string> allStyles;
         public static FloatRange childAge = new FloatRange(7f, 13f);
