@@ -1,12 +1,10 @@
 ﻿using HarmonyLib;
-using System.Reflection;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 using UnityEngine;
 using Verse;
-using System.IO;
+using RimWorld;
 
 namespace PortraitsOfTheRim
 {
@@ -27,13 +25,33 @@ namespace PortraitsOfTheRim
         private static readonly Texture2D OutlineTex = SolidColorMaterials.NewSolidColorTexture(new ColorInt(77, 77, 77).ToColor);
 
         // Keep it as a one time read for the "Default" no masking gradient mask.
-        public static readonly Texture2D DefaultNoMask = ContentFinder<Texture2D>.Get("Masks/potr_MaskNone");
+        public static readonly Texture2D DefaultNoMask = ContentFinder<Texture2D>.Get("PotRHairMasks/potr_MaskNone");
 
         // Non-static fields
         private bool fullHeadgearOn;
         public Pawn pawn;
         private List<(PortraitElementDef, Texture)> portraitTextures;
         private int lastCreatingTime;
+        // Fields to keep track of the properties of a pawn that would affect a portrait
+        public string cachedHairMaskName;
+        public Color cachedHairColor2;
+        private string cachedHairName;
+        private Color cachedHairColor;
+        private List<string> cachedApparels;
+        private int cachedAgeBracket;
+        private List<string> cachedFaceTraitAndDegrees;
+        private bool forceRefresh = false; // If this is true when checking whether or not to refresh, will refresh regardless.
+        private string cachedGender;
+        private string cachedBodyType;
+        private string cachedHeadType;
+        private string cachedFaceTattoo;
+        private string cachedBodyTattoo;
+        private Color cachedSkinColor;
+        private string cachedXenotype;
+        private string cachedBeard;
+        private List<string> cachedActiveGenes;
+        private List<string> cachedHediffs;
+        private bool cachedBandageInsteadOption;
         
 
         public bool hidePortrait = !PortraitsOfTheRimSettings.showPortraitByDefault;
@@ -52,15 +70,530 @@ namespace PortraitsOfTheRim
                 if (portraitTextures is null || Time.frameCount % 20 == 0 && lastCreatingTime != Time.frameCount)
                 {
                     lastCreatingTime = Time.frameCount;
-                    portraitTextures = GetPortraitTextures();
-                    var missingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x) is false);
-                    var existingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x));
-                    //Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
-                    //Log.Message("Existing layers: " + string.Join(", ", existingLayers));
-                    //Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2.name)));
+                    if (ShouldRefreshPortrait())
+                    {
+                        Log.Message("Refreshing Portraits!");
+                        portraitTextures = GetPortraitTextures();
+                        var missingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x) is false);
+                        var existingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x));
+                        //Log.Message("MissingLayers: " + string.Join(", ", missingLayers));
+                        //Log.Message("Existing layers: " + string.Join(", ", existingLayers));
+                        //Log.Message("Drawn textures: " + string.Join(", ", portraitTextures.Select(x => x.Item2.name)));
+                    }
                 }
                 return portraitTextures;
             }
+        }
+
+        private bool ShouldRefreshPortrait()
+        {
+            if (portraitTextures is null || forceRefresh == true) 
+            {
+                forceRefresh = false;
+                // Initialize cached stuff if necessary, then return true. 
+                
+                cachedHairColor = pawn.story.HairColor;
+                cachedHairName = pawn.story.hairDef.defName;
+                cachedBodyType = pawn.story.bodyType.defName;
+                cachedGender = pawn.gender.ToString();
+                cachedHeadType = pawn.story.headType.defName;
+                cachedBodyTattoo = pawn.style.BodyTattoo.defName;
+                cachedFaceTattoo = pawn.style.FaceTattoo.defName;
+                cachedSkinColor = pawn.story.SkinColor;
+                if (ModsConfig.BiotechActive)
+                {
+                    cachedXenotype = pawn.genes.Xenotype.defName;
+                }
+                cachedBeard = pawn.style.beardDef.defName;
+                cachedBandageInsteadOption = PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries;
+                ResolveAndCacheApparels(pawn);
+                ResolveAndCacheAge(pawn);
+                ResolveAndCacheGradients(pawn);
+                ResolveAndCacheFaces(pawn);
+                ResolveAndCacheActiveGenes(pawn);
+                ResolveAndCacheHediffs(pawn);
+                return true; 
+            }
+            // Resolve apparels
+            if (ResolveAndCacheApparels(pawn)) 
+            {
+                return true;
+            }
+
+            // Resolve age
+            if (ResolveAndCacheAge(pawn))
+            {
+                return true;
+            }
+
+            // Resolve Normal Hairs
+            if (cachedHairColor == null || cachedHairColor != pawn.story.HairColor)
+            {
+                cachedHairColor = pawn.story.HairColor;
+                Log.Message("Primary hair color changed, updating portrait");
+                return true;
+            }
+            if (cachedHairName == null || cachedHairName != pawn.story.hairDef.defName)
+            {
+                cachedHairName = pawn.story.hairDef.defName;
+                Log.Message("Primary hair style changed, updating portrait");
+                return true;
+            }
+            if (cachedBeard == null || cachedBeard != pawn.style.beardDef.defName)
+            {
+                cachedBeard = pawn.style.beardDef.defName;
+                Log.Message("Beard style changed to " + cachedBeard + ", updating portrait");
+                return true;
+            }
+            // Resolve skin color 
+            if (cachedSkinColor == null || cachedSkinColor != pawn.story.SkinColor)
+            {
+                cachedSkinColor = pawn.story.SkinColor;
+                Log.Message("Pawn skin color changed to " + cachedSkinColor + ", updating portrait.");
+                return true;
+            }
+
+            // Resolve bandages instead of injuries 
+            if (cachedBandageInsteadOption != PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries)
+            {
+                cachedBandageInsteadOption = PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries;
+                Log.Message("Show bandage instead of injuries option toggled; changing portrait.");
+                return true;
+            }
+
+            // Resolve Gradient Hairs
+            // The caching here is a little special - it is done so in the render step.
+            if (ResolveAndCacheGradients(pawn))
+            {
+                return true;
+            }
+            // Resolve tattoos
+            if (cachedFaceTattoo != pawn.style.FaceTattoo.defName)
+            {
+                cachedFaceTattoo = pawn.style.FaceTattoo.defName;
+                Log.Message("Pawn face tattoo changed to " + cachedFaceTattoo + ", updating portrait");
+                return true;
+            }
+            if (cachedBodyTattoo != pawn.style.BodyTattoo.defName)
+            {
+                cachedBodyTattoo = pawn.style.BodyTattoo.defName;
+                Log.Message("Pawn body tattoo changed to " + cachedFaceTattoo + ", updating portrait");
+                return true;
+            }
+
+            //Resolve Faces, ignoring randomization. If the random option is set, the swap will have to be triggered manually.
+            if (ResolveAndCacheFaces(pawn))
+            {
+                return true;
+            }
+            // Resolve pawn Xenotype
+
+            if (ModsConfig.BiotechActive)
+            {
+                if (cachedXenotype != pawn.genes.Xenotype.defName)
+                {
+                    cachedXenotype = pawn.genes.Xenotype.defName;
+                    Log.Message("Pawn xenotype changed to " + cachedXenotype + ", updating portrait");
+                    return true;
+                }
+            }
+
+            // Resolve pawn genes
+            if (ResolveAndCacheActiveGenes(pawn))
+            {
+                return true;
+            }
+            // Resolve pawn body type
+            if (cachedBodyType != pawn.story.bodyType.defName)
+            {
+                cachedBodyType = pawn.story.bodyType.defName;
+                Log.Message("Pawn body type changed to " + cachedBodyType + ", updating portrait");
+                return true;
+            }
+            //Resolve pawn gender
+            if (cachedGender != pawn.gender.ToString())
+            {
+                cachedGender = pawn.gender.ToString();
+                Log.Message("Pawn gender changed to " + cachedGender + ", updating portrait");
+                return true;
+            }
+            // Resolve pawn headType
+            if (cachedHeadType != pawn.story.headType.defName)
+            {
+                cachedHeadType = pawn.story.headType.defName;
+                Log.Message("Pawn head type changed to " + cachedHeadType + ", updating portrait");
+                return true;
+            }
+            // Resolve Hediffs
+            if (ResolveAndCacheHediffs(pawn))
+            {
+                return true;
+            }
+
+            
+            return false;
+        }
+
+       
+
+        private bool ResolveAndCacheGradients(Pawn pawn)
+        {
+            if (PortraitUtils.GradientHairLoaded)
+            {
+                // Check for hair gradient changes 
+                Material material = pawn.Drawer.renderer.graphics.hairGraphic.MatSouth;
+                if (material != null)
+                {
+                    Texture2D maskTex = material.GetMaskTexture();
+                    if (maskTex != null)
+                    {
+                        if (material.GetColorTwo() != cachedHairColor2)
+                        {
+                            cachedHairColor2 = material.GetColorTwo();
+                            Log.Message("Gradient Hair Color 2 changed, updating portrait");
+                            return true;
+                        }
+                        if (maskTex.name != cachedHairMaskName)
+                        {
+                            cachedHairMaskName = maskTex.name;
+                            Log.Message("Gradient Hair mask changed. Old: " + cachedHairMaskName + " new: " + maskTex.name + " updating portrait");
+                            return true;
+                        }
+                    }
+                }
+            }
+            return false;
+        }
+
+        private bool ResolveAndCacheHediffs(Pawn pawn)
+        {
+            List<Hediff> currentHediffs = pawn.health.hediffSet.hediffs;
+            if (cachedHediffs == null)
+            {
+                cachedHediffs = new List<string>();
+                CacheHediffs(currentHediffs);
+                Log.Message("Hediffs Initializing, updating portrait!");
+                return true;
+            }
+            if (cachedHediffs.Count != currentHediffs.Count)
+            {
+                CacheHediffs(currentHediffs);
+                Log.Message("Hediff Count changed, updating portrait!");
+                return true;
+            }
+            bool same = true;
+            string offendingkey = "";
+            foreach (Hediff hediff in currentHediffs)
+            {
+                string key = MakeHediffKey(hediff);   
+                if (!cachedHediffs.Contains(key))
+                {
+                    offendingkey = key;
+                    same = false; break;
+                }
+            }
+            if (!same)
+            {
+                CacheHediffs(currentHediffs);
+                Log.Message("Hediffs changed in content, updating portrait!");
+                Log.Message("Offending key is: " + offendingkey);
+                return true;
+            }
+            return false;
+        }
+
+        private void CacheHediffs(List<Hediff> currentHediffs)
+        {
+            cachedHediffs.Clear();
+            foreach (Hediff hediff in currentHediffs)
+            {
+                string key = MakeHediffKey(hediff);
+                Log.Message("Adding hediff key " + key + " to hediff cache");
+                cachedHediffs.Add(key);
+            }
+        }
+
+        private string MakeHediffKey(Hediff hediff)
+        {
+            string key = "";
+            if (hediff != null)
+            {
+                // Missing body part case
+                if (hediff.GetType() == typeof(Hediff_MissingPart))
+                {
+                    key += "Missing";
+                    Hediff_MissingPart missing = (Hediff_MissingPart)hediff;
+                    if (missing.Part != null && missing.Part.def != null)
+                    {
+                        key += missing.Part.def.defName;
+                    }
+                    if (missing.lastInjury != null)
+                    {
+                        key += missing.lastInjury.defName;
+                    }
+                }
+                else if (hediff.GetType() == typeof(Hediff_Injury))
+                {
+                    key += "Injury";
+                    Hediff_Injury injury = (Hediff_Injury)hediff;
+                    if (injury.def != null)
+                    {
+                        key += injury.def.defName;
+                    }
+                    if (injury.IsPermanent())
+                    {
+                        key += "P";
+                    }
+                    else
+                    {
+                        key += "N";
+                    }
+                    if (injury.IsTended())
+                    {
+                        key += "T";
+                    }
+                    else
+                    {
+                        key += "N";
+                    }
+                    if (injury.Part != null && injury.Part.def != null)
+                    {
+                        key += injury.Part.def.defName;
+                    }
+                   
+                }
+                else  // All other hediffs
+                {
+                    if (hediff != null)
+                    {
+                        if (hediff.def != null)
+                        {
+                            key += hediff.def.defName;
+                        }
+                        if (hediff.Part != null && hediff.Part.def != null)
+                        {
+                            key += hediff.Part.def.defName;
+                        }
+                    }
+                }
+            }
+            return key;
+        }
+
+        private bool ResolveAndCacheActiveGenes(Pawn pawn)
+        {
+            List<Gene> currentActiveGenes = pawn.genes.GenesListForReading.Where(g => g.Active).ToList<Gene>();
+            if (cachedActiveGenes == null)
+            {
+                cachedActiveGenes = new List<string>();
+                CacheActiveGenes(currentActiveGenes);
+                Log.Message("Genes initializing, updating portrait!");
+                return true;
+            }
+            if (cachedActiveGenes.Count != currentActiveGenes.Count)
+            {
+                CacheActiveGenes(currentActiveGenes);
+                Log.Message("Genes changed, updating portrait!");
+                return true;
+            }
+            bool same = true;
+            foreach (Gene gene in currentActiveGenes) 
+            {
+                string key = gene.def.defName;
+                if (!cachedActiveGenes.Contains(key))
+                {
+                    same = false; break;
+                }
+            }
+            if (!same)
+            {
+                CacheActiveGenes(currentActiveGenes);
+                Log.Message("Genes changed, updating portrait!");
+                return true;
+            }
+            return false;
+        }
+
+        private void CacheActiveGenes(List<Gene> activeGenes)
+        {
+            cachedActiveGenes.Clear();
+            foreach (Gene gene in activeGenes)
+            {
+                if (gene != null && gene.def != null)
+                {
+                    cachedActiveGenes.Add(gene.def.defName);
+                }
+                
+            }
+        }
+
+        private bool ResolveAndCacheFaces(Pawn pawn)
+        {
+            List<Trait> currentTraits = pawn.story.traits.allTraits;
+            if (cachedFaceTraitAndDegrees == null)
+            {
+                cachedFaceTraitAndDegrees = new List<string>();
+                CacheFaceTraits(currentTraits);
+                Log.Message("Traits initializing, updating portrait!");
+                return true;
+            }
+            if (cachedFaceTraitAndDegrees.Count != currentTraits.Count)
+            {
+                CacheFaceTraits(currentTraits);
+                Log.Message("Traits changed, updating portrait!");
+                return true;
+            }
+            bool same = true;
+            foreach (Trait trait in currentTraits)
+            {
+                string key = trait.def + trait.degree.ToString();
+                if (!cachedFaceTraitAndDegrees.Contains(key))
+                {
+                    same = false; break;
+                }
+            }
+            if (!same)
+            {
+                CacheFaceTraits(currentTraits);
+                Log.Message("Traits changed, updating portrait!");
+                return true;
+            }
+            return false;
+        }
+
+        private void CacheFaceTraits(List<Trait> traits)
+        {
+            cachedFaceTraitAndDegrees.Clear();
+            foreach(Trait trait in traits)
+            {
+                cachedFaceTraitAndDegrees.Add(trait.def + trait.degree.ToString());
+            }
+        }
+        private bool ResolveAndCacheApparels(Pawn pawn)
+        {
+            if (PortraitUtils.AppearanceClothesLoaded)
+            {
+                var comp = pawn.AllComps.FirstOrDefault(x => x.GetType().Name == "CompAppearanceClothes");
+                if (comp != null)
+                {
+                    var traverse = Traverse.Create(comp);
+                    if ((bool)traverse.Field("showAppearanceClothes").GetValue() == true)
+                    {
+                        var apparels = traverse.Field("appearanceClothes").GetValue() as List<Thing>;
+                        if (apparels != null)
+                        {
+                            if (cachedApparels == null)
+                            {
+                                cachedApparels = new List<string>();
+                                cacheApparels(apparels);
+                                return true;
+                            }
+                            else
+                            {
+                                if (cachedApparels.Count != apparels.Count)
+                                {
+                                    cacheApparels(apparels);
+                                    return true;
+                                }
+                                bool same = true;
+                                foreach (Thing apparel in apparels)
+                                {
+                                    string key = apparel.def + apparel.DrawColor.ToString();
+                                    if (!cachedApparels.Contains(key)) 
+                                    {
+                                        same = false;
+                                        break;
+                                    }
+                                }
+                                if (!same)
+                                {
+                                    cacheApparels(apparels);
+                                    return true;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            else
+            {
+                List<Thing> currentApparels = pawn.apparel.WornApparel.Cast<Thing>().ToList();
+                if (cachedApparels == null)
+                {
+                    cachedApparels = new List<string>();
+                    cacheApparels(currentApparels);
+                    Log.Message("Apparel initializing, updating portrait!");
+                    return true;
+                }
+                if (cachedApparels.Count != currentApparels.Count)
+                {
+                    cacheApparels(currentApparels);
+                    Log.Message("Apparel changed, updating portrait!");
+                    return true;
+                }
+                bool same = true;
+                foreach (Thing apparel in currentApparels)
+                {
+                    string key = apparel.def + apparel.DrawColor.ToString();
+                    if (!cachedApparels.Contains(key))
+                    {
+                        same = false;
+                        break;
+                    }
+                }
+                if (!same)
+                {
+                    cacheApparels(currentApparels);
+                    Log.Message("Apparel changed, updating portrait!");
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        // Helper function for caching Apparels 
+        private void cacheApparels(List<Thing> apparels)
+        {
+            cachedApparels.Clear();
+            foreach (Thing apparel in apparels)
+            {
+                cachedApparels.Add(apparel.def + apparel.DrawColor.ToString());
+            }
+        }
+
+        // Age brackets cached will just have a 
+        // 1 - Child   2 - Teen  3 - Young Adult  4 - Middle Age  5 - Elder
+        private bool ResolveAndCacheAge(Pawn pawn)
+        {
+            float currentAge = pawn.ageTracker.AgeBiologicalYearsFloat;
+            int currentAgeBracket = 0;
+            if (PortraitUtils.childAge.Includes(currentAge))
+            {
+                currentAgeBracket = 1;
+            }
+            else if (PortraitUtils.teenAge.Includes(currentAge))
+            {
+                currentAgeBracket = 2;
+            }
+            else if (PortraitUtils.youngAdultAge.Includes(currentAge))
+            {
+                currentAgeBracket = 3;
+            }
+            else if (PortraitUtils.middleAged.Includes(currentAge))
+            {
+                currentAgeBracket = 4;
+            }
+            else
+            {
+                currentAgeBracket = 5;
+            }
+            if (currentAgeBracket != cachedAgeBracket)
+            {
+                cachedAgeBracket = currentAgeBracket;
+                Log.Message("Age Bracket changed, updating portrait");
+                return true;
+            }
+            return false;
         }
 
         public bool ShouldShow => hidePortrait is false;
@@ -117,11 +650,13 @@ namespace PortraitsOfTheRim
                     floatList.Add(new FloatMenuOption(style.CapitalizeFirst(), delegate
                     {
                         this.currentStyle = style;
+                        forceRefresh = true;
                     }));
                 }
                 floatList.Add(new FloatMenuOption("Default".Translate(), delegate
                 {
                     this.currentStyle = null;
+                    forceRefresh = true;
                 }));
                 Find.WindowStack.Add(new FloatMenu(floatList));
             }
@@ -141,6 +676,7 @@ namespace PortraitsOfTheRim
                     floatList.Add(new FloatMenuOption(trait.requirements.traits[0].def.defName, delegate
                     {
                         innerFaceToSave = trait;
+                        forceRefresh = true;
                     }));
                 }
                 if (traitList.Count == 0)
@@ -152,6 +688,7 @@ namespace PortraitsOfTheRim
                             if (PortraitUtils.portraitElements.TryGetValue(PR_DefOf.PR_InnerFace, out var elements) && elements.Any())
                             {
                                 innerFaceToSave = elements.RandomElement();
+                                forceRefresh = true;
                             }
                         }));
                     }
@@ -160,6 +697,7 @@ namespace PortraitsOfTheRim
                         floatList.Add(new FloatMenuOption("PR.NoExpressableTraitNoRandom".Translate(), delegate
                         {
                             innerFaceToSave = null;
+                            forceRefresh = true;
                         }));
                     }
                 }
