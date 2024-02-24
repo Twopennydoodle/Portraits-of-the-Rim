@@ -72,7 +72,7 @@ namespace PortraitsOfTheRim
                     lastCreatingTime = Time.frameCount;
                     if (ShouldRefreshPortrait())
                     {
-                        Log.Message("Refreshing Portraits!");
+                        //Log.Message("Refreshing Portraits!");
                         portraitTextures = GetPortraitTextures();
                         var missingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x) is false);
                         var existingLayers = PortraitUtils.layers.Where(x => portraitTextures.Any(y => y.Item1.portraitLayer == x));
@@ -130,26 +130,26 @@ namespace PortraitsOfTheRim
             if (cachedHairColor == null || cachedHairColor != pawn.story.HairColor)
             {
                 cachedHairColor = pawn.story.HairColor;
-                Log.Message("Primary hair color changed, updating portrait");
+                //Log.Message("Primary hair color changed, updating portrait");
                 return true;
             }
             if (cachedHairName == null || cachedHairName != pawn.story.hairDef.defName)
             {
                 cachedHairName = pawn.story.hairDef.defName;
-                Log.Message("Primary hair style changed, updating portrait");
+                //Log.Message("Primary hair style changed, updating portrait");
                 return true;
             }
             if (cachedBeard == null || cachedBeard != pawn.style.beardDef.defName)
             {
                 cachedBeard = pawn.style.beardDef.defName;
-                Log.Message("Beard style changed to " + cachedBeard + ", updating portrait");
+                //Log.Message("Beard style changed to " + cachedBeard + ", updating portrait");
                 return true;
             }
             // Resolve skin color 
             if (cachedSkinColor == null || cachedSkinColor != pawn.story.SkinColor)
             {
                 cachedSkinColor = pawn.story.SkinColor;
-                Log.Message("Pawn skin color changed to " + cachedSkinColor + ", updating portrait.");
+                //Log.Message("Pawn skin color changed to " + cachedSkinColor + ", updating portrait.");
                 return true;
             }
 
@@ -157,7 +157,7 @@ namespace PortraitsOfTheRim
             if (cachedBandageInsteadOption != PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries)
             {
                 cachedBandageInsteadOption = PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries;
-                Log.Message("Show bandage instead of injuries option toggled; changing portrait.");
+                //Log.Message("Show bandage instead of injuries option toggled; changing portrait.");
                 return true;
             }
 
@@ -171,13 +171,13 @@ namespace PortraitsOfTheRim
             if (cachedFaceTattoo != pawn.style.FaceTattoo.defName)
             {
                 cachedFaceTattoo = pawn.style.FaceTattoo.defName;
-                Log.Message("Pawn face tattoo changed to " + cachedFaceTattoo + ", updating portrait");
+                //Log.Message("Pawn face tattoo changed to " + cachedFaceTattoo + ", updating portrait");
                 return true;
             }
             if (cachedBodyTattoo != pawn.style.BodyTattoo.defName)
             {
                 cachedBodyTattoo = pawn.style.BodyTattoo.defName;
-                Log.Message("Pawn body tattoo changed to " + cachedFaceTattoo + ", updating portrait");
+                //Log.Message("Pawn body tattoo changed to " + cachedFaceTattoo + ", updating portrait");
                 return true;
             }
 
@@ -193,7 +193,7 @@ namespace PortraitsOfTheRim
                 if (cachedXenotype != pawn.genes.Xenotype.defName)
                 {
                     cachedXenotype = pawn.genes.Xenotype.defName;
-                    Log.Message("Pawn xenotype changed to " + cachedXenotype + ", updating portrait");
+                    //Log.Message("Pawn xenotype changed to " + cachedXenotype + ", updating portrait");
                     return true;
                 }
             }
@@ -207,21 +207,21 @@ namespace PortraitsOfTheRim
             if (cachedBodyType != pawn.story.bodyType.defName)
             {
                 cachedBodyType = pawn.story.bodyType.defName;
-                Log.Message("Pawn body type changed to " + cachedBodyType + ", updating portrait");
+                //Log.Message("Pawn body type changed to " + cachedBodyType + ", updating portrait");
                 return true;
             }
             //Resolve pawn gender
             if (cachedGender != pawn.gender.ToString())
             {
                 cachedGender = pawn.gender.ToString();
-                Log.Message("Pawn gender changed to " + cachedGender + ", updating portrait");
+                //Log.Message("Pawn gender changed to " + cachedGender + ", updating portrait");
                 return true;
             }
             // Resolve pawn headType
             if (cachedHeadType != pawn.story.headType.defName)
             {
                 cachedHeadType = pawn.story.headType.defName;
-                Log.Message("Pawn head type changed to " + cachedHeadType + ", updating portrait");
+                //Log.Message("Pawn head type changed to " + cachedHeadType + ", updating portrait");
                 return true;
             }
             // Resolve Hediffs
@@ -250,13 +250,13 @@ namespace PortraitsOfTheRim
                         if (material.GetColorTwo() != cachedHairColor2)
                         {
                             cachedHairColor2 = material.GetColorTwo();
-                            Log.Message("Gradient Hair Color 2 changed, updating portrait");
+                            //Log.Message("Gradient Hair Color 2 changed, updating portrait");
                             return true;
                         }
                         if (maskTex.name != cachedHairMaskName)
                         {
                             cachedHairMaskName = maskTex.name;
-                            Log.Message("Gradient Hair mask changed. Old: " + cachedHairMaskName + " new: " + maskTex.name + " updating portrait");
+                            //Log.Message("Gradient Hair mask changed. Old: " + cachedHairMaskName + " new: " + maskTex.name + " updating portrait");
                             return true;
                         }
                     }
@@ -272,13 +272,13 @@ namespace PortraitsOfTheRim
             {
                 cachedHediffs = new List<string>();
                 CacheHediffs(currentHediffs);
-                Log.Message("Hediffs Initializing, updating portrait!");
+                //Log.Message("Hediffs Initializing, updating portrait!");
                 return true;
             }
             if (cachedHediffs.Count != currentHediffs.Count)
             {
                 CacheHediffs(currentHediffs);
-                Log.Message("Hediff Count changed, updating portrait!");
+                //Log.Message("Hediff Count changed, updating portrait!");
                 return true;
             }
             bool same = true;
@@ -295,8 +295,8 @@ namespace PortraitsOfTheRim
             if (!same)
             {
                 CacheHediffs(currentHediffs);
-                Log.Message("Hediffs changed in content, updating portrait!");
-                Log.Message("Offending key is: " + offendingkey);
+                //Log.Message("Hediffs changed in content, updating portrait!");
+                //Log.Message("Offending key is: " + offendingkey);
                 return true;
             }
             return false;
@@ -308,7 +308,7 @@ namespace PortraitsOfTheRim
             foreach (Hediff hediff in currentHediffs)
             {
                 string key = MakeHediffKey(hediff);
-                Log.Message("Adding hediff key " + key + " to hediff cache");
+                //Log.Message("Adding hediff key " + key + " to hediff cache");
                 cachedHediffs.Add(key);
             }
         }
@@ -387,13 +387,13 @@ namespace PortraitsOfTheRim
             {
                 cachedActiveGenes = new List<string>();
                 CacheActiveGenes(currentActiveGenes);
-                Log.Message("Genes initializing, updating portrait!");
+                //Log.Message("Genes initializing, updating portrait!");
                 return true;
             }
             if (cachedActiveGenes.Count != currentActiveGenes.Count)
             {
                 CacheActiveGenes(currentActiveGenes);
-                Log.Message("Genes changed, updating portrait!");
+                //Log.Message("Genes changed, updating portrait!");
                 return true;
             }
             bool same = true;
@@ -408,7 +408,7 @@ namespace PortraitsOfTheRim
             if (!same)
             {
                 CacheActiveGenes(currentActiveGenes);
-                Log.Message("Genes changed, updating portrait!");
+                //Log.Message("Genes changed, updating portrait!");
                 return true;
             }
             return false;
@@ -434,13 +434,13 @@ namespace PortraitsOfTheRim
             {
                 cachedFaceTraitAndDegrees = new List<string>();
                 CacheFaceTraits(currentTraits);
-                Log.Message("Traits initializing, updating portrait!");
+                //Log.Message("Traits initializing, updating portrait!");
                 return true;
             }
             if (cachedFaceTraitAndDegrees.Count != currentTraits.Count)
             {
                 CacheFaceTraits(currentTraits);
-                Log.Message("Traits changed, updating portrait!");
+                //Log.Message("Traits changed, updating portrait!");
                 return true;
             }
             bool same = true;
@@ -455,7 +455,7 @@ namespace PortraitsOfTheRim
             if (!same)
             {
                 CacheFaceTraits(currentTraits);
-                Log.Message("Traits changed, updating portrait!");
+                //Log.Message("Traits changed, updating portrait!");
                 return true;
             }
             return false;
@@ -522,13 +522,13 @@ namespace PortraitsOfTheRim
                 {
                     cachedApparels = new List<string>();
                     cacheApparels(currentApparels);
-                    Log.Message("Apparel initializing, updating portrait!");
+                    //Log.Message("Apparel initializing, updating portrait!");
                     return true;
                 }
                 if (cachedApparels.Count != currentApparels.Count)
                 {
                     cacheApparels(currentApparels);
-                    Log.Message("Apparel changed, updating portrait!");
+                    //Log.Message("Apparel changed, updating portrait!");
                     return true;
                 }
                 bool same = true;
@@ -544,7 +544,7 @@ namespace PortraitsOfTheRim
                 if (!same)
                 {
                     cacheApparels(currentApparels);
-                    Log.Message("Apparel changed, updating portrait!");
+                    //Log.Message("Apparel changed, updating portrait!");
                     return true;
                 }
             }
@@ -590,7 +590,7 @@ namespace PortraitsOfTheRim
             if (currentAgeBracket != cachedAgeBracket)
             {
                 cachedAgeBracket = currentAgeBracket;
-                Log.Message("Age Bracket changed, updating portrait");
+                //Log.Message("Age Bracket changed, updating portrait");
                 return true;
             }
             return false;
