@@ -268,7 +268,9 @@ namespace PortraitsOfTheRim
                     }
                 }
             }
-                
+            cachedHairMaskName = "MaskNone";
+            cachedHairColor2 = Color.white;
+
             return false;
         }
 
