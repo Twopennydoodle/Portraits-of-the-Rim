@@ -238,30 +238,39 @@ namespace PortraitsOfTheRim
 
         private bool ResolveAndCacheGradients(Pawn pawn)
         {
-            if (PortraitUtils.GradientHairLoaded)
+            if (PortraitUtils.GradientHairLoaded && pawn != null)
             {
                 // Check for hair gradient changes 
-                Material material = pawn.Drawer.renderer.graphics.hairGraphic.MatSouth;
-                if (material != null)
+                if (pawn.Drawer  != null && 
+                    pawn.Drawer.renderer != null && 
+                    pawn.Drawer.renderer.graphics != null &&
+                    pawn.Drawer.renderer.graphics.hairGraphic != null)
                 {
-                    Texture2D maskTex = material.GetMaskTexture();
-                    if (maskTex != null)
+                    Material material = pawn.Drawer.renderer.graphics.hairGraphic.MatSouth;
+                    if (material != null)
                     {
-                        if (material.GetColorTwo() != cachedHairColor2)
+                        Texture2D maskTex = material.GetMaskTexture();
+                        if (maskTex != null)
                         {
-                            cachedHairColor2 = material.GetColorTwo();
-                            //Log.Message("Gradient Hair Color 2 changed, updating portrait");
-                            return true;
-                        }
-                        if (maskTex.name != cachedHairMaskName)
-                        {
-                            cachedHairMaskName = maskTex.name;
-                            //Log.Message("Gradient Hair mask changed. Old: " + cachedHairMaskName + " new: " + maskTex.name + " updating portrait");
-                            return true;
+                            if (material.GetColorTwo() != cachedHairColor2)
+                            {
+                                cachedHairColor2 = material.GetColorTwo();
+                                //Log.Message("Gradient Hair Color 2 changed, updating portrait");
+                                return true;
+                            }
+                            if (maskTex.name != cachedHairMaskName)
+                            {
+                                cachedHairMaskName = maskTex.name;
+                                //Log.Message("Gradient Hair mask changed. Old: " + cachedHairMaskName + " new: " + maskTex.name + " updating portrait");
+                                return true;
+                            }
                         }
                     }
                 }
             }
+            cachedHairMaskName = "MaskNone";
+            cachedHairColor2 = Color.white;
+
             return false;
         }
 
