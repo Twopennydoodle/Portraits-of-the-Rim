@@ -8,5 +8,6 @@ namespace PortraitsOfTheRim
         public bool inheritsSkinColor;
         public bool inheritsHairColor;
         public bool acceptAllMatchingElements;
+        public bool canGradient;
     }
 }

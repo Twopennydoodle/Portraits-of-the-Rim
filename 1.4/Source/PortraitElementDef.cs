@@ -8,7 +8,7 @@ namespace PortraitsOfTheRim
     public class PortraitElementDef : Def
     {
         public GraphicData graphicData;
-        public Graphic graphic;
+        public Graphic_Single graphic;
         public Requirements requirements;
         public PortraitLayerDef portraitLayer;
         public PortraitElementDef connectedElement;
@@ -52,14 +52,14 @@ namespace PortraitsOfTheRim
             {
                 if (graphicData.shaderType == null)
                 {
-                    graphicData.shaderType = ShaderTypeDefOf.Cutout;
+                    graphicData.shaderType = ShaderTypeDefOf.CutoutComplex;
                 }
                 if (graphicData.graphicClass is null)
                 {
                     graphicData.graphicClass = typeof(Graphic_Single);
                 };
 
-                graphic = graphicData.Graphic;
+                graphic = (Graphic_Single) graphicData.Graphic;
                 if (graphic == BaseContent.BadGraphic)
                 {
                     graphic = null;
