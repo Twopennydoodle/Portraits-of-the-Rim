@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHeadNoColor_VEPigskin-an-gene-VRE_MouthTusks</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHeadNoColor/VEPigskin-an-gene-VRE_MouthTusks</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>VRE_MouthTusks</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHeadNoColor_VEPigskin-an-gene-VRE_MouthTusks</defName>
+		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHeadNoColor/VEPigskin-an-gene-VRE_MouthTusks</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>VRE_MouthTusks</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+</Defs>

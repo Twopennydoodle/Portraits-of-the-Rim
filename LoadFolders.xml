@@ -98,6 +98,7 @@
         <li IfModActive="Erin.Corvyia">Mods/ERNCorvyia</li>
         <li IfModActive="RH2.Faction.VOID">Mods/RH2FactionVOID</li>
         <li IfModActive="automatic.gradienthair">Mods/HairGrads</li>
+        <li IfModActive="vanillaracesexpanded.pigskin">Mods/VEPigskin</li>        
 	</v1.4>
     <v1.5>
 		<li>/</li>
