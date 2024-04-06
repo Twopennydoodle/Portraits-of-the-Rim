@@ -127,5 +127,46 @@
     <li IfModActive="vanillaexpanded.vanillatraitsexpanded">Mods/VETraits</li>
     <li IfModActive="vanillaexpanded.vanillatraitsexpanded_local">Mods/VETraits</li>
     <li IfModActive="vanillaexpanded.vanillatraitsexpanded_steam">Mods/VETraits</li>
+    <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">Mods/VESettlers</li>
+    <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule_local">Mods/VESettlers</li>
+    <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule_steam">Mods/VESettlers</li>
+    <li IfModActive="vanillaexpanded.vaeaccessories">Mods/VEAccessories</li>
+    <li IfModActive="vanillaexpanded.vaeaccessories_local">Mods/VEAccessories</li>
+    <li IfModActive="vanillaexpanded.vaeaccessories_steam">Mods/VEAccessories</li>
+    <li IfModActive="vanillaexpanded.viehar">Mods/VEhatsandrags</li>
+    <li IfModActive="vanillaexpanded.viehar_local">Mods/VEhatsandrags</li>
+    <li IfModActive="vanillaexpanded.viehar_steam">Mods/VEhatsandrags</li>
+    <li IfModActive="oskarpotocki.vfe.classical">Mods/VEClassical</li>
+    <li IfModActive="oskarpotocki.vfe.classical_local">Mods/VEClassical</li>
+    <li IfModActive="oskarpotocki.vfe.classical_steam">Mods/VEClassical</li>
+    <li IfModActive="vanillaracesexpanded.saurid">Mods/VESaurids</li>
+    <li IfModActive="vanillaracesexpanded.saurid_local">Mods/VESaurids</li>
+    <li IfModActive="vanillaracesexpanded.saurid_steam">Mods/VESaurids</li>
+    <li IfModActive="vanillaracesexpanded.hussar">Mods/VEHussars</li>
+    <li IfModActive="vanillaracesexpanded.hussar_local">Mods/VEHussars</li>
+    <li IfModActive="vanillaracesexpanded.hussar_steam">Mods/VEHussars</li>
+    <li IfModActive="vanillaracesexpanded.genie">Mods/VEGenies</li>
+    <li IfModActive="vanillaracesexpanded.genie_local">Mods/VEGenies</li>
+    <li IfModActive="vanillaracesexpanded.genie_steam">Mods/VEGenies</li>
+    <li IfModActive="vanillaracesexpanded.phytokin">Mods/VEPhytokin</li>
+    <li IfModActive="vanillaracesexpanded.phytokin_local">Mods/VEPhytokin</li>
+    <li IfModActive="vanillaracesexpanded.phytokin_steam">Mods/VEPhytokin</li>
+    <li IfModActive="oskarpotocki.vfe.empire">Mods/VEEmpire</li>
+    <li IfModActive="oskarpotocki.vfe.empire_local">Mods/VEEmpire</li>
+    <li IfModActive="oskarpotocki.vfe.empire_steam">Mods/VEEmpire</li>
+    <li IfModActive="vanillaracesexpanded.sanguophage">Mods/VESang</li>
+    <li IfModActive="vanillaracesexpanded.highmate">Mods/VEHighmates</li>
+    <li IfModActive="vanillaracesexpanded.fungoid">Mods/VEFungoid</li>
+    <li IfModActive="vanillaracesexpanded.archon">Mods/VEArchon</li>
+    <li IfModActive="vanillaracesexpanded.lycanthrope">Mods/VELycanthrope</li>
+    <li IfModActive="vanillaracesexpanded.pigskin">Mods/VEPigskin</li>
+    <li IfModActive="oskarpotocki.vfe.pirates">Mods/VEPirates</li>
+    <li IfModActive="oskarpotocki.vfe.pirates_local">Mods/VEPirates</li>
+    <li IfModActive="oskarpotocki.vfe.pirates_steam">Mods/VEPirates</li>
+    <li IfModActive="oskarpotocki.vfe.mechanoid">Mods/VEMechanoids</li>
+    <li IfModActive="oskarpotocki.vfe.mechanoid_local">Mods/VEMechanoids</li>
+    <li IfModActive="oskarpotocki.vfe.mechanoid_steam">Mods/VEMechanoids</li>
+
+
 	</v1.5>
 </loadFolders>
