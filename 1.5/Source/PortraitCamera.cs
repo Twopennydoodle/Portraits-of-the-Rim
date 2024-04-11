@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RimWorld;
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using Verse;
@@ -43,64 +44,43 @@ namespace PortraitsOfTheRim
             {
                 // Set primary color for all
                 portraitElementDef.graphic.MatSingle.color = recolor.Value;
-                portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
 
-                // Temporarily disabling Gradient Hair support - not sure how the new renderer system with hairs work yet. 
-                // Working on it!
-                /*if (PortraitUtils.GradientHairLoaded && portraitElementDef.portraitLayer.canGradient)
+                if (PortraitUtils.GradientHairLoaded && portraitElementDef.portraitLayer.canGradient)
                 {
-                    if (pawn.Drawer != null &&
-                    pawn.Drawer.renderer != null &&
-                    pawn.Drawer.renderer.graphics != null &&
-                    pawn.Drawer.renderer.graphics.hairGraphic != null)
+                    // Set color of gradiented hair
+                    if (PortraitUtils.gradientMaskColors.TryGetValue(pawn, out Color color))
                     {
-                        // Gradient Hair code will set the appropriate mask on all of the hairGraphics
-                        Material material = pawn.Drawer.renderer.graphics.hairGraphic.MatSouth;
-                        if (material != null)
+                        portraitElementDef.graphic.MatSingle.SetColor(ShaderPropertyIDs.ColorTwo, color);
+                    }
+                    if (PortraitUtils.gradientMaskTextures.TryGetValue(pawn, out string value))
+                    {
+                        string fullMaskPath = "PotRHairMasks/potr_" + value;
+                        Log.Message("Vaalue is" + value + ".");
+                        if (!maskTextureDict.TryGetValue(fullMaskPath, out Texture2D maskTex))
                         {
-                            // Set secondary color on our graphic's material based off of the above material's secondary color
-                            portraitElementDef.graphic.MatSingle.SetColor(ShaderPropertyIDs.ColorTwo, material.GetColorTwo());
-                            // Very nice that the MatSouth's mask texture name field is just the filename
-                            // If that ever changes, this technique will no longer work 
-                            Texture2D hairMaskTex = material.GetMaskTexture();
-                            if (hairMaskTex != null && PortraitUtils.validMasks.Contains(hairMaskTex.name))
-                            {
-                                string testMaskPath = "PotRHairMasks/potr_" + hairMaskTex.name; // Use the mask texture name field to make our path
-                                if (!maskTextureDict.TryGetValue(testMaskPath, out Texture2D maskTex))
-                                {
-                                    maskTextureDict[testMaskPath] = maskTex = ContentFinder<Texture2D>.Get(testMaskPath);
-                                }
-                                if (maskTex != null)
-                                {
-                                    portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, maskTex);
-                                }
-                                else // Case where the mask texture could not be obtained. Fall back to no masking instead of leaving that field undefined.
-                                {
-                                    portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
-                                }
-                            }
-                            else //Case where the material's mask texture is null 
-                            {
-                                portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
-                            }
+                            maskTextureDict[fullMaskPath] = maskTex = ContentFinder<Texture2D>.Get(fullMaskPath);
                         }
-                        else // Material is not set
+                        if (maskTex != null)
+                        {
+                            portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, maskTex);
+                        }
+                        else // Case where the mask texture, for whatever reason, comes back as null, even if it's in the dictionary
                         {
                             portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
                         }
+
                     }
                     else
                     {
-                        // Pawn's mask tex is not set, default to no mask 
+                        // Fall back to no mask if no mask texture exists in dictionary
                         portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
                     }
-                    
                 }
-                else // Gradient Hair is not enabled
+                else
                 {
+                    // This is an element that is not able to be gradiented, or Gradient Hair is not loaded
                     portraitElementDef.graphic.MatSingle.SetTexture(ShaderPropertyIDs.MaskTex, Portrait.DefaultNoMask);
-                }*/
-
+                }
             }
             Matrix4x4 matrix = default;
             matrix.SetTRS(new Vector3(0, 0, 0), Quaternion.identity, new Vector3(1, 0, 1));

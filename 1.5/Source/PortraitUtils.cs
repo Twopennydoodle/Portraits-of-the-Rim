@@ -17,6 +17,8 @@ namespace PortraitsOfTheRim
         public static Dictionary<Pawn, Portrait> pawnPortraits = new Dictionary<Pawn, Portrait>();
         public static List<PortraitLayerDef> layers;
         public static Dictionary<PortraitLayerDef, List<PortraitElementDef>> portraitElements;
+        public static Dictionary<Pawn, string> gradientMaskTextures = new Dictionary<Pawn, string>();
+        public static Dictionary<Pawn, Color> gradientMaskColors = new Dictionary<Pawn, Color>();
 
         // Flags to support further mod inclusion
         public static bool CELoaded = ModsConfig.IsActive("CETeam.CombatExtended");

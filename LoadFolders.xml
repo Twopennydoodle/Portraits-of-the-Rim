@@ -166,7 +166,7 @@
     <li IfModActive="oskarpotocki.vfe.mechanoid">Mods/VEMechanoids</li>
     <li IfModActive="oskarpotocki.vfe.mechanoid_local">Mods/VEMechanoids</li>
     <li IfModActive="oskarpotocki.vfe.mechanoid_steam">Mods/VEMechanoids</li>
-
+    <li IfModActive="automatic.gradienthair">Mods/HairGrads</li>
 
 	</v1.5>
 </loadFolders>

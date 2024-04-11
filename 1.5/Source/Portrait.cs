@@ -34,12 +34,13 @@ namespace PortraitsOfTheRim
         // Fields to keep track of the properties of a pawn that would affect a portrait
         public string cachedHairMaskName;
         public Color cachedHairColor2;
+        public bool forceRefresh = false; // If this is true when checking whether or not to refresh, will refresh regardless.
+
         private string cachedHairName;
         private Color cachedHairColor;
         private List<string> cachedApparels;
         private int cachedAgeBracket;
         private List<string> cachedFaceTraitAndDegrees;
-        private bool forceRefresh = false; // If this is true when checking whether or not to refresh, will refresh regardless.
         private string cachedGender;
         private string cachedBodyType;
         private string cachedHeadType;

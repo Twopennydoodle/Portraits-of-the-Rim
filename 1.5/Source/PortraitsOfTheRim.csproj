@@ -67,6 +67,7 @@
     <Compile Include="HarmonyPatches\InspectPaneUtility_DoTabs_Patch.cs" />
     <Compile Include="HarmonyPatches\ITab_Pawn_Gear_TryDrawComfyTemperatureRange_Patch.cs" />
     <Compile Include="HarmonyPatches\MainTabWindow_Quests_DoFactionInfo_Patch.cs" />
+    <Compile Include="HarmonyPatches\PawnRenderNodeHair_Init_Patch.cs" />
     <Compile Include="Portrait.cs" />
     <Compile Include="PortraitElementDef.cs" />
     <Compile Include="PortraitLayerDef.cs" />
