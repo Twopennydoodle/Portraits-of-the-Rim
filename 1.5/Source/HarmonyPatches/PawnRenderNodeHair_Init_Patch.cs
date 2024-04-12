@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 using HarmonyLib;
-using RimWorld;
 using Verse;
+using UnityEngine;
 
 namespace PortraitsOfTheRim
 {
@@ -19,22 +15,24 @@ namespace PortraitsOfTheRim
             {
                 if (__result.MatSouth)
                 {
-                    // Set color 2 in Dictionary 
-                    PortraitUtils.gradientMaskColors[pawn] = __result.MatSouth.GetColorTwo();
+                    
                     if (__result.MatSouth.GetMaskTexture() != null)
                     {
                         // If Mask texture exists
                         PortraitUtils.gradientMaskTextures[pawn] = __result.MatSouth.GetMaskTexture().name;
+                        PortraitUtils.gradientMaskColors[pawn] = __result.MatSouth.GetColorTwo();
                     }
                     else
                     {
                         // No mask texture - fall back to none.
                         PortraitUtils.gradientMaskTextures[pawn] =  "MaskNone";
+                        PortraitUtils.gradientMaskColors[pawn] = Color.white;
                     }
                 }
                 else
                 {
                     PortraitUtils.gradientMaskTextures[pawn] = "MaskNone";
+                    PortraitUtils.gradientMaskColors[pawn] = Color.white;
                 }
                 if (PortraitUtils.pawnPortraits.ContainsKey(pawn))
                 {
