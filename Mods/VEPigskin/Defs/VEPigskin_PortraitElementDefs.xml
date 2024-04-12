@@ -16,10 +16,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHeadNoColor_VEPigskin-an-gene-VRE_MouthTusks</defName>
+		<defName>PR_OuterHediffHeadNoColor_VEPigskin-cn-gene-VRE_MouthTusks</defName>
 		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHeadNoColor/VEPigskin-an-gene-VRE_MouthTusks</texPath>
+			<texPath>OuterHediffHeadNoColor/VEPigskin-cn-gene-VRE_MouthTusks</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

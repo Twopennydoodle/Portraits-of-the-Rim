@@ -179,5 +179,6 @@
     <li IfModActive="Erin.BG3.Hair">Mods/ERNBG3</li>
     <li IfModActive="Erin.CottageCollection">Mods/ERNCottage</li>
     <li IfModActive="Dubwise.DubsBadHygiene">Mods/DubsBadH</li>
+    <li IfModActive="RH2.Faction.VOID">Mods/RH2FactionVOID</li>
 	</v1.5>
 </loadFolders>
