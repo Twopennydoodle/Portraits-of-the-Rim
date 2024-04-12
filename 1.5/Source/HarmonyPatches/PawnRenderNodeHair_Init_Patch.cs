@@ -20,21 +20,21 @@ namespace PortraitsOfTheRim
                 if (__result.MatSouth)
                 {
                     // Set color 2 in Dictionary 
-                    PortraitUtils.gradientMaskColors.Add(pawn, __result.MatSouth.GetColorTwo());
+                    PortraitUtils.gradientMaskColors[pawn] = __result.MatSouth.GetColorTwo();
                     if (__result.MatSouth.GetMaskTexture() != null)
                     {
                         // If Mask texture exists
-                        PortraitUtils.gradientMaskTextures.Add(pawn, __result.MatSouth.GetMaskTexture().name);
+                        PortraitUtils.gradientMaskTextures[pawn] = __result.MatSouth.GetMaskTexture().name;
                     }
                     else
                     {
                         // No mask texture - fall back to none.
-                        PortraitUtils.gradientMaskTextures.Add(pawn, "MaskNone");
+                        PortraitUtils.gradientMaskTextures[pawn] =  "MaskNone";
                     }
                 }
                 else
                 {
-                    PortraitUtils.gradientMaskTextures.Add(pawn, "MaskNone");
+                    PortraitUtils.gradientMaskTextures[pawn] = "MaskNone";
                 }
                 if (PortraitUtils.pawnPortraits.ContainsKey(pawn))
                 {
