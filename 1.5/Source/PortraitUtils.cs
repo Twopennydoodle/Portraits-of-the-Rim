@@ -36,6 +36,7 @@ namespace PortraitsOfTheRim
         {
             PR_DefOf.PR_UnderHair, PR_DefOf.PR_InnerHair, PR_DefOf.PR_OuterHair, PR_DefOf.PR_MiddleHair
         };
+        [NoTranslate]
         public static HashSet<string> validMasks = new HashSet<string>
         {
             "G01", "G02", "G03", "G04", "G05", "G06", "G07", "G08", "G09", "G10", "G11", "G12", "MaskAHigh",
@@ -45,25 +46,45 @@ namespace PortraitsOfTheRim
         };
 
         // Suffixes used in filenames. Brought over from TextureParser until that can be figured out again.
+        [NoTranslate]
         public const string Large = "l";
+        [NoTranslate]
         public const string Small = "s";
+        [NoTranslate] 
         public const string Medium = "m";
+        [NoTranslate]
         public const string ExtraLarge = "xl";
+        [NoTranslate]
         public const string AdultAllGender = "an"; // 13-999 for general use
+        [NoTranslate] 
         public const string ChildAllGender = "cn";
+        [NoTranslate] 
         public const string ChildFemale = "cf";
+        [NoTranslate] 
         public const string ChildMale = "cm";
+        [NoTranslate] 
         public const string TeenFemale = "tf";
+        [NoTranslate] 
         public const string TeenMale = "tm";
+        [NoTranslate] 
         public const string YoungFemale = "yf";
+        [NoTranslate] 
         public const string YoungMale = "ym";
+        [NoTranslate] 
         public const string ElderFemale = "ef";
+        [NoTranslate] 
         public const string ElderMale = "em";
+        [NoTranslate] 
         public const string MiddleAgedFemale = "mf";
+        [NoTranslate] 
         public const string MiddleAgedMale = "mm";
+        [NoTranslate] 
         public const string AdultFemale = "af"; // Just used for faces, 19-999 (Different from AdultAllGender above) 
+        [NoTranslate] 
         public const string AdultMale = "am"; // Just used for faces, 19-999 (Different from AdultAllGender above)
+        [NoTranslate] 
         public const string TeenAdultMale = "tam"; // Just used for necks, 13-999 male
+        [NoTranslate]
         public const string TeenAdultFemale = "taf"; // Just used for necks, 13-999 female
 
         public static List<string> allSuffixes = new List<string>

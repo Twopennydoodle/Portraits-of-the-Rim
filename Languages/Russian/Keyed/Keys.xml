@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Show bandages instead of injuries -->
+	<PR.ShowBandagesInsteadOfInjuries>Отображать бинты на месте увечий</PR.ShowBandagesInsteadOfInjuries>
+  <!-- EN: Randomize face and hair assets in place of missing assets -->
+	<PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets>Заменить отсутствующие причёски и черты лица случайно подобранными.</PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets>
+  <!-- EN: Show Portraits by default (Toggling this in the main menu may reset all individual portrait show/hide settings) -->
+	<PR.ShowPortraitsByDefault>Отображать портреты по умолчанию (Включение этой настройки в главном меню сбросит все индивидуальные настройки отображения портретов.)</PR.ShowPortraitsByDefault>
+  <!-- EN: Show Headgear by default (Preexisting pawns may need individual toggling) -->
+	<PR.ShowHeadgearByDefault>Отображать головные уборы по умолчанию (Может потребоваться ручная настройка для ранее сгенерированных персонажей)</PR.ShowHeadgearByDefault>
+  <!-- EN: ALWAYS show headgear when Drafted -->
+	<PR.ShowHeadgearWhenDrafted>ВСЕГДА отображать головной убор во время призыва персонажа.</PR.ShowHeadgearWhenDrafted>
+  <!-- EN: Hide portrait -->
+	<PR.HidePortrait>Скрыть портрет</PR.HidePortrait>
+  <!-- EN: Show portrait -->
+	<PR.ShowPortrait>Показать портрет</PR.ShowPortrait>
+  <!-- EN: Hide headgear -->
+	<PR.HideHeadgear>Скрыть головной убор</PR.HideHeadgear>
+  <!-- EN: Show headgear -->
+	<PR.ShowHeadgear>Показать головной убор</PR.ShowHeadgear>
+  <!-- EN: Select style -->
+	<PR.SelectStyle>Выбрать стиль</PR.SelectStyle>
+  <!-- EN: Select expressed trait -->
+	<PR.SelectExpressedTrait>Выбрать отображаемую черту характера</PR.SelectExpressedTrait>
+  <!-- EN: Pawn has no expressable trait -->
+	<PR.NoExpressableTraitNoRandom>У персонажа нет отображаемых черт</PR.NoExpressableTraitNoRandom>
+  <!-- EN: Reroll random face (No expressable trait found on pawn) -->
+	<PR.NoExpressableTraitRandom>Сгенерировать лицо случайным образом (Нет доступных для отображения черт)</PR.NoExpressableTraitRandom>
+
+</LanguageData>

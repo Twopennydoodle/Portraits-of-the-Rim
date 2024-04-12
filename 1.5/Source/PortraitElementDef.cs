@@ -6,6 +6,7 @@ namespace PortraitsOfTheRim
 {
     public class PortraitElementDef : Def
     {
+        
         public GraphicData graphicData;
         public Graphic_Single graphic;
         public Requirements requirements;

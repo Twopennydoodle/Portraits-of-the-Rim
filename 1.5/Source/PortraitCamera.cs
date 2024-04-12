@@ -55,7 +55,6 @@ namespace PortraitsOfTheRim
                     if (PortraitUtils.gradientMaskTextures.TryGetValue(pawn, out string value))
                     {
                         string fullMaskPath = "PotRHairMasks/potr_" + value;
-                        Log.Message("Vaalue is" + value + ".");
                         if (!maskTextureDict.TryGetValue(fullMaskPath, out Texture2D maskTex))
                         {
                             maskTextureDict[fullMaskPath] = maskTex = ContentFinder<Texture2D>.Get(fullMaskPath);
