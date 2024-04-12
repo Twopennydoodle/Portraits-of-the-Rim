@@ -14,4 +14,5 @@
 	<PR.SelectExpressedTrait>Select expressed trait</PR.SelectExpressedTrait>
 	<PR.NoExpressableTraitNoRandom>Pawn has no expressable trait</PR.NoExpressableTraitNoRandom>
 	<PR.NoExpressableTraitRandom>Reroll random face (No expressable trait found on pawn)</PR.NoExpressableTraitRandom>
+	<PR.ReRandomizeHair>Reroll randomly selected missing hair asset</PR.ReRandomizeHair>
 </LanguageData>
