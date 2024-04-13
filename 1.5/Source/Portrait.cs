@@ -52,13 +52,19 @@ namespace PortraitsOfTheRim
         private List<string> cachedActiveGenes;
         private List<string> cachedHediffs;
         private bool cachedBandageInsteadOption;
+        private bool cachedHeadFallbackOption;
+        private bool cachedReplaceMissingOption;
         
 
         public bool hidePortrait = !PortraitsOfTheRimSettings.showPortraitByDefault;
         public bool hideHeadgear = !PortraitsOfTheRimSettings.showHeadgearByDefault;
         public string currentStyle;
 
+        // Fallback options and saved assets
         public PortraitElementDef innerFaceToSave;
+        public int hairSeed = 0;
+        public bool isHairRandomized = false;
+        public string fallbackHeadDef = "";
 
         // List of traits that can be expressed per pawn
         public static Dictionary<Pawn, List<PortraitElementDef>> expressableTraits = new();
@@ -106,9 +112,10 @@ namespace PortraitsOfTheRim
                 }
                 cachedBeard = pawn.style.beardDef.defName;
                 cachedBandageInsteadOption = PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries;
+                cachedHeadFallbackOption = PortraitsOfTheRimSettings.fallbackBaselinerHead;
+                cachedReplaceMissingOption = PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets;
                 ResolveAndCacheApparels(pawn);
                 ResolveAndCacheAge(pawn);
-                //ResolveAndCacheGradients(pawn);
                 ResolveAndCacheFaces(pawn);
                 ResolveAndCacheActiveGenes(pawn);
                 ResolveAndCacheHediffs(pawn);
@@ -133,7 +140,7 @@ namespace PortraitsOfTheRim
                 //Log.Message("Primary hair color changed, updating portrait");
                 return true;
             }
-            if (cachedHairName == null || cachedHairName != pawn.story.hairDef.defName)
+            if (!isHairRandomized && (cachedHairName == null || cachedHairName != pawn.story.hairDef.defName))
             {
                 cachedHairName = pawn.story.hairDef.defName;
                 //Log.Message("Primary hair style changed, updating portrait");
@@ -161,13 +168,20 @@ namespace PortraitsOfTheRim
                 return true;
             }
 
-            // Temp disabled
-            // Resolve Gradient Hairs
-            // The caching here is a little special - it is done so in the render step.
-            /*if (ResolveAndCacheGradients(pawn))
+            // Resolve head fallback
+            if (cachedHeadFallbackOption != PortraitsOfTheRimSettings.fallbackBaselinerHead)
             {
+                cachedHeadFallbackOption = PortraitsOfTheRimSettings.fallbackBaselinerHead;
                 return true;
-            }*/
+            }
+
+            // Resolve missing hair and face
+            if (cachedReplaceMissingOption != PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
+            {
+                cachedHeadFallbackOption = PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets;
+                return true;
+            }
+
             // Resolve tattoos
             if (cachedFaceTattoo != pawn.style.FaceTattoo.defName)
             {
@@ -219,7 +233,7 @@ namespace PortraitsOfTheRim
                 return true;
             }
             // Resolve pawn headType
-            if (cachedHeadType != pawn.story.headType.defName)
+            if (fallbackHeadDef != "" && cachedHeadType != pawn.story.headType.defName)
             {
                 cachedHeadType = pawn.story.headType.defName;
                 //Log.Message("Pawn head type changed to " + cachedHeadType + ", updating portrait");
@@ -234,46 +248,6 @@ namespace PortraitsOfTheRim
             
             return false;
         }
-
-       
-        // Temporarily disabling support for Hair Gradients
-        /*private bool ResolveAndCacheGradients(Pawn pawn)
-        {
-            if (PortraitUtils.GradientHairLoaded && pawn != null)
-            {
-                // Check for hair gradient changes 
-                if (pawn.Drawer  != null && 
-                    pawn.Drawer.renderer != null && 
-                    pawn.Drawer.renderer.graphics != null &&
-                    pawn.Drawer.renderer.graphics.hairGraphic != null)
-                {
-                    Material material = pawn.Drawer.renderer.graphics.hairGraphic.MatSouth;
-                    if (material != null)
-                    {
-                        Texture2D maskTex = material.GetMaskTexture();
-                        if (maskTex != null)
-                        {
-                            if (material.GetColorTwo() != cachedHairColor2)
-                            {
-                                cachedHairColor2 = material.GetColorTwo();
-                                //Log.Message("Gradient Hair Color 2 changed, updating portrait");
-                                return true;
-                            }
-                            if (maskTex.name != cachedHairMaskName)
-                            {
-                                cachedHairMaskName = maskTex.name;
-                                //Log.Message("Gradient Hair mask changed. Old: " + cachedHairMaskName + " new: " + maskTex.name + " updating portrait");
-                                return true;
-                            }
-                        }
-                    }
-                }
-            }
-            cachedHairMaskName = "MaskNone";
-            cachedHairColor2 = Color.white;
-
-            return false;
-        }*/
 
         private bool ResolveAndCacheHediffs(Pawn pawn)
         {
@@ -711,6 +685,17 @@ namespace PortraitsOfTheRim
                         }));
                     }
                 }
+                if (isHairRandomized)
+                {
+                    if (PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
+                    {
+                        floatList.Add(new FloatMenuOption("PR.ReRandomizeHair".Translate(), delegate
+                        {
+                            hairSeed = Random.Range(-1000, 1000);
+                            forceRefresh = true;
+                        }));
+                    }
+                }
                 Find.WindowStack.Add(new FloatMenu(floatList));
             }
         }
@@ -762,6 +747,10 @@ namespace PortraitsOfTheRim
                         {
                             fullHeadgearOn = true;
                         }
+                        if (layer == PR_DefOf.PR_OuterHair || layer == PR_DefOf.PR_MiddleHair)
+                        {
+                            isHairRandomized = false;
+                        }
                         if (layer.acceptAllMatchingElements)
                         {
                             foreach (var matchingElement in matchingElements)
@@ -785,16 +774,20 @@ namespace PortraitsOfTheRim
                             }
                         }
                     }
+                    else if (layer == PR_DefOf.PR_Head && PortraitsOfTheRimSettings.fallbackBaselinerHead)
+                    {
+                        if (fallbackHeadDef == "")
+                        {
+                            fallbackHeadDef = PortraitUtils.fallbackHeads.RandomElement();
+                        }
+                        var fallbackHead = elements.Where(x => x.MatchesFallbackHead(this, fallbackHeadDef)).ToList();
+                        if (fallbackHead.Any())
+                        {
+                            GetTexture(allTextures, fallbackHead[0]);
+                        }
+                    }
                     else if (PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
                     {
-                        // Temporarily disabling randominzation of head and neck. Some issues with randomization
-                        // where human necks may have insectoid heads, etc.
-                        /*
-                        if (layer == PR_DefOf.PR_Head || layer == PR_DefOf.PR_Neck)
-                        {
-                            GetTextureFrom(allTextures, elements);
-                        }
-                        */
                         if (layer == PR_DefOf.PR_InnerFace)
                         {
                             if (!expressableTraits.TryGetValue(pawn, out var traitList))
@@ -834,7 +827,9 @@ namespace PortraitsOfTheRim
                         {
                             if (noMiddleHair)
                             {
-                                var pickedElement = GetTextureFrom(allTextures, elements);
+                                // Turn on flag to say this is randomized; this should show the button
+                                isHairRandomized = true;
+                                var pickedElement = GetHairTextureFrom(allTextures, elements);
                                 var middleHairs = new List<PortraitElementDef>();
                                 var baseName = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_MiddleHair.defName);
                                 var postfix = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$2");
@@ -875,6 +870,16 @@ namespace PortraitsOfTheRim
         {
             Rand.PushState();
             Rand.Seed = pawn.thingIDNumber;
+            var element = elements.RandomElement();
+            Rand.PopState();
+            GetTexture(allTextures, element);
+            return element;
+        }
+
+        private PortraitElementDef GetHairTextureFrom(List<(PortraitElementDef, Texture)> allTextures, List<PortraitElementDef> elements)
+        {
+            Rand.PushState();
+            Rand.Seed = pawn.thingIDNumber + hairSeed;
             var element = elements.RandomElement();
             Rand.PopState();
             GetTexture(allTextures, element);
