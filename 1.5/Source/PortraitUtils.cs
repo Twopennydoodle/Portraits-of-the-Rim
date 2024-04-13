@@ -44,6 +44,11 @@ namespace PortraitsOfTheRim
             "MaskBHigh", "MaskBHigh2", "MaskBHigh3", "MaskBLow", "MaskBLow2", "MaskBLow3", "MaskBMidHigh", "MaskBMidLow",
             "MaskCHigh", "MaskCHigh2", "MaskCHigh3", "MaskCLow", "MaskCLow2", "MaskCLow3", "MaskCMidHigh", "MaskCMidLow"
         };
+        [NoTranslate]
+        public static HashSet<string> fallbackHeads = new HashSet<string>
+        {
+            "averagenormal", "averagepointy", "averagewide", "narrownormal", "narrowpointy", "narrowwide"
+        };
 
         // Suffixes used in filenames. Brought over from TextureParser until that can be figured out again.
         [NoTranslate]

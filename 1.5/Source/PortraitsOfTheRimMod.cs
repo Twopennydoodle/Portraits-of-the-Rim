@@ -29,6 +29,7 @@ namespace PortraitsOfTheRim
     {
         public static bool showBandagesInsteadOfInjuries = false;
         public static bool randomizeFaceAndHairAssetsInPlaceOfMissingAssets = true;
+        public static bool fallbackBaselinerHead = false;
         public static bool showPortraitByDefault = true;
         public static bool showHeadgearByDefault = true;
         public static bool alwaysShowHeadgearWhenDrafted = false;
@@ -37,6 +38,7 @@ namespace PortraitsOfTheRim
             base.ExposeData();
             Scribe_Values.Look(ref showBandagesInsteadOfInjuries, "showBandagesInsteadOfInjuries", false);
             Scribe_Values.Look(ref randomizeFaceAndHairAssetsInPlaceOfMissingAssets, "randomizeFaceAndHairAssetsInPlaceOfMissingAssets", true);
+            Scribe_Values.Look(ref fallbackBaselinerHead, "fallbackBaselinerHead", false);
             Scribe_Values.Look(ref showPortraitByDefault, "showPortraitsByDefault", true);
             Scribe_Values.Look(ref showHeadgearByDefault, "showHeadgearByDefault", true);
             Scribe_Values.Look(ref alwaysShowHeadgearWhenDrafted, "alwaysShowHeadgearWhenDrafted", false);
@@ -48,6 +50,7 @@ namespace PortraitsOfTheRim
             ls.Begin(inRect);
             ls.CheckboxLabeled("PR.ShowBandagesInsteadOfInjuries".Translate(), ref showBandagesInsteadOfInjuries);
             ls.CheckboxLabeled("PR.RandomizeFaceAndHairAssetsInPlaceOfMissingAssets".Translate(), ref randomizeFaceAndHairAssetsInPlaceOfMissingAssets);
+            ls.CheckboxLabeled("PR.FallbackBaselinerHead".Translate(), ref fallbackBaselinerHead);
             ls.CheckboxLabeled("PR.ShowPortraitsByDefault".Translate(), ref showPortraitByDefault);
             ls.CheckboxLabeled("PR.ShowHeadgearByDefault".Translate(), ref showHeadgearByDefault);
             ls.CheckboxLabeled("PR.ShowHeadgearWhenDrafted".Translate(), ref alwaysShowHeadgearWhenDrafted);

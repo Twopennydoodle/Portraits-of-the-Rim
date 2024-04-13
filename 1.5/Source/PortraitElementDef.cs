@@ -36,6 +36,17 @@ namespace PortraitsOfTheRim
             return true;
         }
 
+        // Special case that matches to one of the default baseliner heads
+        public bool MatchesFallbackHead(Portrait portrait, string fallbackHead)
+        {
+            var req = requirements;
+            if (req != null)
+            {
+                return req.MatchFallbackHead(portrait, fallbackHead);
+            }
+            return false;
+        }
+
         public Color? GetRecolor(Pawn pawn)
         {
             var newColor = requirements.GetColor(pawn, this);
