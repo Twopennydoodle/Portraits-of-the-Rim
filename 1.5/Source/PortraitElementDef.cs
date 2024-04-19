@@ -20,7 +20,10 @@ namespace PortraitsOfTheRim
                 var boolReport = req.Matches(portrait, this);
                 /*if (boolReport.result is false)
                 {
-                    Log.Message("Cannot get " + this + " for " + portrait.pawn + " because of " + boolReport.report);
+                    if (requirements.track)
+                    {
+                        Log.Message("Cannot get " + this + " for " + portrait.pawn + " because of " + boolReport.report);
+                    }
                 }
                 else
                 {

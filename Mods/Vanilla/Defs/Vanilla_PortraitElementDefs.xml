@@ -7421,6 +7421,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-an-eear-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/adult/Vanilla-an-eear-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Ear</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Vanilla-an-eear-executioncut-missing</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -7987,6 +8006,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-an-eeye-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/adult/Vanilla-an-eeye-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Eye</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Vanilla-an-eeye-executioncut-missing</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -8501,6 +8539,24 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-an-jaw-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/adult/Vanilla-an-jaw-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Jaw</bodyPart>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Vanilla-an-jaw-executioncut-missing</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -9003,6 +9059,24 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-an-nose-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/adult/Vanilla-an-nose-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Nose</bodyPart>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Vanilla-an-nose-executioncut-missing</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -9039,7 +9113,7 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_Vanilla-an-nose-surgerycut-scar</defName>
+		<defName>PR_MiddleHediffHead_Vanilla-an-nose-surgicalcut-scar</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
 			<texPath>MiddleHediffHead/adult/Vanilla-an-nose-cut-scar</texPath>
@@ -9825,6 +9899,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-an-weye-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/adult/Vanilla-an-weye-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Eye</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Vanilla-an-weye-executioncut-missing</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -10367,6 +10460,25 @@
 					<bodyPart>Ear</bodyPart>
 					<side>Left</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-cn-eear-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/child/Vanilla-cn-eear-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Ear</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -10939,6 +11051,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-cn-eeye-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/child/Vanilla-cn-eeye-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Eye</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Vanilla-cn-eeye-executioncut-missing</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -11453,6 +11584,24 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-cn-jaw-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/child/Vanilla-cn-jaw-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Jaw</bodyPart>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Vanilla-cn-jaw-executioncut-missing</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -11949,6 +12098,24 @@
 					<hediffInjury>SurgicalCut</hediffInjury>
 					<bodyPart>Nose</bodyPart>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-cn-nose-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/child/Vanilla-cn-nose-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Nose</bodyPart>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -12771,6 +12938,25 @@
 					<bodyPart>Eye</bodyPart>
 					<side>Right</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleHediffHead_Vanilla-cn-weye-mbp-missing</defName>
+		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
+		<graphicData>
+			<texPath>MiddleHediffHead/child/Vanilla-cn-weye-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Eye</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -19875,6 +20061,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-l-eclavicle-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/large/Vanilla-l-eclavicle-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Clavicle</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffNeck_Vanilla-l-eclavicle-executioncut-missing</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -20399,6 +20604,25 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Left</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-l-eshoulder-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/large/Vanilla-l-eshoulder-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -21489,6 +21713,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-l-wclavicle-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/large/Vanilla-l-wclavicle-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Clavicle</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffNeck_Vanilla-l-wclavicle-executioncut-missing</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -22013,6 +22256,25 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Right</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-l-wshoulder-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/large/Vanilla-l-wshoulder-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -22567,6 +22829,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-m-eclavicle-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/medium/Vanilla-m-eclavicle-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Clavicle</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffNeck_Vanilla-m-eclavicle-executioncut-missing</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -23091,6 +23372,25 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Left</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-m-eshoulder-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/medium/Vanilla-m-eshoulder-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -24181,6 +24481,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-m-wclavicle-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/medium/Vanilla-m-wclavicle-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Clavicle</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffNeck_Vanilla-m-wclavicle-executioncut-missing</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -24705,6 +25024,25 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Right</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-m-wshoulder-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/medium/Vanilla-m-wshoulder-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -25259,6 +25597,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-s-eclavicle-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/small/Vanilla-s-eclavicle-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Clavicle</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffNeck_Vanilla-s-eclavicle-executioncut-missing</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -25783,6 +26140,25 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Left</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-s-eshoulder-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/small/Vanilla-s-eshoulder-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -26873,6 +27249,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-s-wclavicle-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/small/Vanilla-s-wclavicle-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Clavicle</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffNeck_Vanilla-s-wclavicle-executioncut-missing</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -27397,6 +27792,25 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Right</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-s-wshoulder-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/small/Vanilla-s-wshoulder-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -27951,6 +28365,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-xl-eclavicle-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/xlarge/Vanilla-xl-eclavicle-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Clavicle</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffNeck_Vanilla-xl-eclavicle-executioncut-missing</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -28475,6 +28908,25 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Left</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-xl-eshoulder-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/xlarge/Vanilla-xl-eshoulder-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Left</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -29565,6 +30017,25 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-xl-wclavicle-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/xlarge/Vanilla-xl-wclavicle-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>SurgicalCut</hediffInjury>
+					<bodyPart>Clavicle</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffNeck_Vanilla-xl-wclavicle-executioncut-missing</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -30089,6 +30560,25 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Right</side>
 					<destroyed>True</destroyed>
+				</li>
+			</bodyParts>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffNeck_Vanilla-xl-wshoulder-mbp-missing</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffNeck/xlarge/Vanilla-xl-wshoulder-cut-missing</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<bodyParts>
+				<li>
+					<hediffInjury>MissingBodyPart</hediffInjury>
+					<bodyPart>Shoulder</bodyPart>
+					<side>Right</side>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
