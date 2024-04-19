@@ -7433,7 +7433,7 @@
 					<hediffInjury>MissingBodyPart</hediffInjury>
 					<bodyPart>Ear</bodyPart>
 					<side>Left</side>
-					<naturalmissing>True</destroyed>
+					<naturalmissing>True</naturalmissing>
 				</li>
 			</bodyParts>
 		</requirements>
