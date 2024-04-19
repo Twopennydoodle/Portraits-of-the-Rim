@@ -13,6 +13,7 @@ namespace PortraitsOfTheRim
         public bool scarred;
         public bool destroyed;
         public bool bandaged;
+        public bool naturalmissing;
         public bool Matches(Pawn pawn, PortraitElementDef def, out string failReport)
         {
             failReport = bodyPart + " - ";
@@ -30,7 +31,15 @@ namespace PortraitsOfTheRim
             }
             else if (!destroyed && nonMissingBodyParts.Any() is false)
             {
-                if (!PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries || !bandaged)
+                if (naturalmissing)
+                {
+                    if (PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries)
+                    {
+                        failReport = "Bandage should show instead of natural missing body part";
+                        return false;
+                    }
+                }
+                else if (!PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries || !bandaged)
                 {
                     failReport = "No pawn matching injured parts";
                     return false;
