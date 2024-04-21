@@ -14,6 +14,7 @@ namespace PortraitsOfTheRim
         public bool scarred;
         public bool destroyed;
         public bool bandaged;
+        public bool naturalmissing; //Nothing is done with this in 1.4, but needs for 1.5 compatibility
         public bool Matches(Pawn pawn, PortraitElementDef def, out string failReport)
         {
             failReport = bodyPart + " - ";
