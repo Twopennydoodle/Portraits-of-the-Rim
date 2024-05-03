@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-ef-CultEscapee</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -38,7 +39,7 @@
 			<headType>CultEscapee</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-cm-CultEscapee</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -103,7 +104,7 @@
 			<headType>CultEscapee</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-yf-CultEscapee</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -130,7 +131,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-ef-DarkScholar_Female</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -181,7 +182,7 @@
 			<headType>DarkScholar_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-yf-DarkScholar_Female</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -260,7 +261,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-ef-Ghoul_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -298,7 +299,7 @@
 			<headType>Ghoul_Heavy</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-cm-Ghoul_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -363,7 +364,7 @@
 			<headType>Ghoul_Heavy</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-yf-Ghoul_Heavy</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -390,7 +391,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-ef-Ghoul_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -428,7 +429,7 @@
 			<headType>Ghoul_Narrow</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-cm-Ghoul_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -493,7 +494,7 @@
 			<headType>Ghoul_Narrow</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-yf-Ghoul_Narrow</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -520,7 +521,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-ef-Ghoul_Normal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -558,7 +559,7 @@
 			<headType>Ghoul_Normal</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-cm-Ghoul_Normal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -623,7 +624,7 @@
 			<headType>Ghoul_Normal</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-yf-Ghoul_Normal</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -650,7 +651,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-ef-Ghoul_Wide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -688,7 +689,7 @@
 			<headType>Ghoul_Wide</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-cm-Ghoul_Wide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -753,7 +754,7 @@
 			<headType>Ghoul_Wide</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-yf-Ghoul_Wide</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -780,7 +781,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-ef-Leathery_Female</defName>
 		<portraitLayer>PR_Head</portraitLayer>
 		<graphicData>
@@ -818,7 +819,7 @@
 			<headType>Leathery_Female</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-tf-Leathery_Female</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -896,7 +897,7 @@
 			<headType>Leathery_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-ym-Leathery_Male</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -948,7 +949,7 @@
 			<headType>TimelessOne</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-cm-TimelessOne</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -1013,7 +1014,7 @@
 			<headType>TimelessOne</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_Head_Anomaly-yf-TimelessOne</defName>
 		<portraitLayer>PR_Head</portraitLayer>
@@ -1078,7 +1079,7 @@
 			<headType>TimelessOne</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Anomaly-cm-TimelessOne</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
@@ -1143,7 +1144,7 @@
 			<headType>TimelessOne</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHediffHead_Anomaly-yf-TimelessOne</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
@@ -1241,7 +1242,7 @@
 			<hair>Ghoul_Hungry</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-Ghoul_Ravenous</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1265,7 +1266,7 @@
 			<hair>Ghoul_Ravenous</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-Ghoul_Twisted</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1289,7 +1290,7 @@
 			<hair>Ghoul_Twisted</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-Ghoul_Vengeful</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1313,7 +1314,7 @@
 			<hair>Ghoul_Vengeful</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-Ghoul_Warped</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1337,7 +1338,7 @@
 			<hair>Ghoul_Warped</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-Ghoul_Wicked</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1361,7 +1362,7 @@
 			<hair>Ghoul_Wicked</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-LargeTuft</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1385,7 +1386,7 @@
 			<hair>LargeTuft</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-LongMess</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1409,7 +1410,7 @@
 			<hair>LongMess</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-LongOily</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1433,7 +1434,7 @@
 			<hair>LongOily</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-Parted</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1457,7 +1458,7 @@
 			<hair>Parted</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-ShortCut</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1481,7 +1482,7 @@
 			<hair>ShortCut</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-SideCut</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1505,7 +1506,7 @@
 			<hair>SideCut</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-	
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHair_Anomaly-an-SideSpikes</defName>
 		<portraitLayer>PR_OuterHair</portraitLayer>
@@ -1529,7 +1530,7 @@
 			<hair>SideSpikes</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-		
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHair_Anomaly-an-DoubleTuft</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
@@ -1553,7 +1554,7 @@
 			<hair>DoubleTuft</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-			
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHair_Anomaly-an-PatchyShave</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
@@ -1577,7 +1578,7 @@
 			<hair>PatchyShave</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-			
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHair_Anomaly-an-RoughShave</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
@@ -1601,7 +1602,7 @@
 			<hair>RoughShave</hair>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
-			
+
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleHair_Anomaly-an-ShavedMohawk</defName>
 		<portraitLayer>PR_MiddleHair</portraitLayer>
@@ -2934,7 +2935,11 @@
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
-			<hediffInjury>GhoulBarbs</hediffInjury>
+			<bodyParts>
+				<li>
+					<hediffInjury>GhoulBarbs</hediffInjury>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2946,7 +2951,11 @@
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
-			<hediffInjury>GhoulBarbs</hediffInjury>
+			<bodyParts>
+				<li>
+					<hediffInjury>GhoulBarbs</hediffInjury>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2958,7 +2967,11 @@
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
-			<hediffInjury>GhoulBarbs</hediffInjury>
+			<bodyParts>
+				<li>
+					<hediffInjury>GhoulBarbs</hediffInjury>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2970,7 +2983,11 @@
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
-			<hediffInjury>GhoulBarbs</hediffInjury>
+			<bodyParts>
+				<li>
+					<hediffInjury>GhoulBarbs</hediffInjury>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2982,7 +2999,11 @@
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
-			<hediffInjury>GhoulPlating</hediffInjury>
+			<bodyParts>
+				<li>
+					<hediffInjury>GhoulPlating</hediffInjury>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -2994,7 +3015,11 @@
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
-			<hediffInjury>GhoulPlating</hediffInjury>
+			<bodyParts>
+				<li>
+					<hediffInjury>GhoulPlating</hediffInjury>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -3006,7 +3031,11 @@
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
-			<hediffInjury>GhoulPlating</hediffInjury>
+			<bodyParts>
+				<li>
+					<hediffInjury>GhoulPlating</hediffInjury>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -3018,7 +3047,11 @@
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
-			<hediffInjury>GhoulPlating</hediffInjury>
+			<bodyParts>
+				<li>
+					<hediffInjury>GhoulPlating</hediffInjury>
+				</li>
+			</bodyParts>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
