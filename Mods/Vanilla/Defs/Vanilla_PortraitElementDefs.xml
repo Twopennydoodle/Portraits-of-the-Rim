@@ -7434,8 +7434,10 @@
 					<bodyPart>Ear</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
+			<track>True</track>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -8019,8 +8021,10 @@
 					<bodyPart>Eye</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
+			<track>True</track>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -8551,6 +8555,7 @@
 					<hediffInjury>MissingBodyPart</hediffInjury>
 					<bodyPart>Jaw</bodyPart>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -9071,6 +9076,7 @@
 					<hediffInjury>MissingBodyPart</hediffInjury>
 					<bodyPart>Nose</bodyPart>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -9912,6 +9918,7 @@
 					<bodyPart>Eye</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -10479,6 +10486,7 @@
 					<bodyPart>Ear</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -11064,6 +11072,7 @@
 					<bodyPart>Eye</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -11596,6 +11605,7 @@
 					<hediffInjury>MissingBodyPart</hediffInjury>
 					<bodyPart>Jaw</bodyPart>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -12116,6 +12126,7 @@
 					<hediffInjury>MissingBodyPart</hediffInjury>
 					<bodyPart>Nose</bodyPart>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -12957,6 +12968,7 @@
 					<bodyPart>Eye</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -20074,6 +20086,7 @@
 					<bodyPart>Clavicle</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -20623,6 +20636,7 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -21726,6 +21740,7 @@
 					<bodyPart>Clavicle</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -22275,6 +22290,7 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -22842,6 +22858,7 @@
 					<bodyPart>Clavicle</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -23391,6 +23408,7 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -24494,6 +24512,7 @@
 					<bodyPart>Clavicle</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -25043,6 +25062,7 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -25610,6 +25630,7 @@
 					<bodyPart>Clavicle</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -26159,6 +26180,7 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -27262,6 +27284,7 @@
 					<bodyPart>Clavicle</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -27811,6 +27834,7 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -28378,6 +28402,7 @@
 					<bodyPart>Clavicle</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -28927,6 +28952,7 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Left</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -30030,6 +30056,7 @@
 					<bodyPart>Clavicle</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>
@@ -30579,6 +30606,7 @@
 					<bodyPart>Shoulder</bodyPart>
 					<side>Right</side>
 					<naturalmissing>True</naturalmissing>
+					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
 		</requirements>

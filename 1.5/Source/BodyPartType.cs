@@ -31,15 +31,7 @@ namespace PortraitsOfTheRim
             }
             else if (!destroyed && nonMissingBodyParts.Any() is false)
             {
-                if (naturalmissing)
-                {
-                    if (PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries)
-                    {
-                        failReport = "Bandage should show instead of natural missing body part";
-                        return false;
-                    }
-                }
-                else if (!PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries || !bandaged)
+                if (!PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries || !bandaged)
                 {
                     failReport = "No pawn matching injured parts";
                     return false;
@@ -56,8 +48,11 @@ namespace PortraitsOfTheRim
                         Hediff_MissingPart missingPart = (Hediff_MissingPart)hediff;
                         if (hediffInjury != null && missingPart.lastInjury != hediffInjury)
                         {
-                            failReport = "No pawn matching previously injured part to missing hediff: " + hediffInjury;
-                            return false;
+                            if (!(naturalmissing && missingPart.lastInjury == null))
+                            {
+                                failReport = "No pawn matching previously injured part to missing hediff: " + hediffInjury + ". Last inj was " + missingPart.lastInjury;
+                                return false;
+                            } 
                         }
                     }
                     else

@@ -38,7 +38,7 @@ namespace PortraitsOfTheRim
         public string xenotype;
         public string style;
         public string potrRand; // Filters out the various goat horn and such types
-        //public bool track; // This extra property helps with filtering out debug logs. See PortraitElementDefs.Matches
+        public bool track; // This extra property helps with filtering out debug logs. See PortraitElementDefs.Matches
         public BoolReport Matches(Portrait portrait, PortraitElementDef portraitElementDef)
         {
             var pawn = portrait.pawn;
