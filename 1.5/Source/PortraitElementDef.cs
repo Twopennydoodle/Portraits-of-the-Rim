@@ -18,7 +18,7 @@ namespace PortraitsOfTheRim
             if (req != null)
             {
                 var boolReport = req.Matches(portrait, this);
-                if (boolReport.result is false)
+                /*if (boolReport.result is false)
                 {
                     if (requirements.track)
                     {
@@ -32,7 +32,7 @@ namespace PortraitsOfTheRim
                 if (boolReport.result is true)
                 {
                     Log.Message("Can get " + this + " for " + portrait.pawn);
-                }
+                }*/
                 //Log.ResetMessageCount();
                 return boolReport.result;
             }

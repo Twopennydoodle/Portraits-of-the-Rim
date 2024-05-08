@@ -7437,7 +7437,6 @@
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
-			<track>True</track>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -8024,7 +8023,6 @@
 					<destroyed>True</destroyed>
 				</li>
 			</bodyParts>
-			<track>True</track>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
