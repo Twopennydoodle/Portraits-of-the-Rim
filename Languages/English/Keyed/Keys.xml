@@ -16,4 +16,5 @@
 	<PR.NoExpressableTraitRandom>Reroll random face (No expressable trait found on pawn)</PR.NoExpressableTraitRandom>
 	<PR.ReRandomizeHair>Reroll randomly selected missing hair asset</PR.ReRandomizeHair>
 	<PR.FallbackBaselinerHead>Show default Baseliner head in place of missing heads</PR.FallbackBaselinerHead>
+	<PR.FallbackBaselinerBody>Show default Baseliner torso in place of missing torsos</PR.FallbackBaselinerBody>
 </LanguageData>

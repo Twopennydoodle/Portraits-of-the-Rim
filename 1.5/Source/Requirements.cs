@@ -219,6 +219,7 @@ namespace PortraitsOfTheRim
             return new BoolReport(true);
         }
 
+        // Used to extract specifically heads from a chosen fallback Head type option.
         public bool MatchFallbackHead(Portrait portrait, string fallbackHead)
         {
             var pawn = portrait.pawn;
@@ -239,6 +240,31 @@ namespace PortraitsOfTheRim
             if (ageRange != null && ageRange.Value.Includes(pawnAge) is false)
                 return false;
             if (headType.NullOrEmpty() is false && fallbackHead.ToLower().Contains(headType.ToLower()) is false)
+                return false;
+            return true;
+        }
+
+        // Used to extract specifically torsos from the "standard" body type. 
+        public bool MatchFallbackBody(Portrait portrait)
+        {
+            var pawn = portrait.pawn;
+
+            // Override pawn age if the pawn has the Ageless gene
+            float pawnAge = pawn.ageTracker.AgeBiologicalYearsFloat;
+            if (ageRange != null
+                && pawn.ageTracker.AgeBiologicalYearsFloat > 38f
+                && pawn.genes.GenesListForReading.Exists(g => g.def.defName == "Ageless")
+                )
+            {
+                pawnAge = 21f;
+            }
+            // Re-resolve gender
+            if (gender != null && pawn.gender != gender.Value)
+                return false;
+            // Re-resolve age
+            if (ageRange != null && ageRange.Value.Includes(pawnAge) is false)
+                return false;
+            if (body != null && GeneticBodyType.Standard != body)
                 return false;
             return true;
         }
