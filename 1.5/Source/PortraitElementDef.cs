@@ -50,6 +50,17 @@ namespace PortraitsOfTheRim
             return false;
         }
 
+        // Special case that matches to one of the default standard baseliner neck/torsos
+        public bool MatchesFallbackBody(Portrait portrait)
+        {
+            var req = requirements;
+            if (req != null)
+            {
+                return req.MatchFallbackBody(portrait);
+            }
+            return false;
+        }
+
         public Color? GetRecolor(Pawn pawn)
         {
             var newColor = requirements.GetColor(pawn, this);

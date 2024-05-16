@@ -42,7 +42,7 @@ namespace PortraitsOfTheRim
         private int cachedAgeBracket;
         private List<string> cachedFaceTraitAndDegrees;
         private string cachedGender;
-        private string cachedBodyType;
+        private BodyTypeDef cachedBodyType;
         private string cachedHeadType;
         private string cachedFaceTattoo;
         private string cachedBodyTattoo;
@@ -53,6 +53,7 @@ namespace PortraitsOfTheRim
         private List<string> cachedHediffs;
         private bool cachedBandageInsteadOption;
         private bool cachedHeadFallbackOption;
+        private bool cachedBodyFallbackOption;
         private bool cachedReplaceMissingOption;
         
 
@@ -100,7 +101,7 @@ namespace PortraitsOfTheRim
                 
                 cachedHairColor = pawn.story.HairColor;
                 cachedHairName = pawn.story.hairDef.defName;
-                cachedBodyType = pawn.story.bodyType.defName;
+                cachedBodyType = pawn.story.bodyType;
                 cachedGender = pawn.gender.ToString();
                 cachedHeadType = pawn.story.headType.defName;
                 cachedBodyTattoo = pawn.style.BodyTattoo.defName;
@@ -113,6 +114,7 @@ namespace PortraitsOfTheRim
                 cachedBeard = pawn.style.beardDef.defName;
                 cachedBandageInsteadOption = PortraitsOfTheRimSettings.showBandagesInsteadOfInjuries;
                 cachedHeadFallbackOption = PortraitsOfTheRimSettings.fallbackBaselinerHead;
+                cachedBodyFallbackOption = PortraitsOfTheRimSettings.fallbackBaselinerBody;
                 cachedReplaceMissingOption = PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets;
                 ResolveAndCacheApparels(pawn);
                 ResolveAndCacheAge(pawn);
@@ -171,7 +173,15 @@ namespace PortraitsOfTheRim
             // Resolve head fallback
             if (cachedHeadFallbackOption != PortraitsOfTheRimSettings.fallbackBaselinerHead)
             {
+                fallbackHeadDef = "";
                 cachedHeadFallbackOption = PortraitsOfTheRimSettings.fallbackBaselinerHead;
+                return true;
+            }
+
+            // Resolve body fallback
+            if (cachedBodyFallbackOption != PortraitsOfTheRimSettings.fallbackBaselinerBody)
+            {
+                cachedBodyFallbackOption = PortraitsOfTheRimSettings.fallbackBaselinerBody;
                 return true;
             }
 
@@ -179,6 +189,12 @@ namespace PortraitsOfTheRim
             if (cachedReplaceMissingOption != PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
             {
                 cachedHeadFallbackOption = PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets;
+                return true;
+            }
+
+            // Resolve Hediffs
+            if (ResolveAndCacheHediffs(pawn))
+            {
                 return true;
             }
 
@@ -219,10 +235,10 @@ namespace PortraitsOfTheRim
                 return true;
             }
             // Resolve pawn body type
-            if (cachedBodyType != pawn.story.bodyType.defName)
+            if (cachedBodyType != pawn.story.bodyType)
             {
-                cachedBodyType = pawn.story.bodyType.defName;
-                //Log.Message("Pawn body type changed to " + cachedBodyType + ", updating portrait");
+                cachedBodyType = pawn.story.bodyType;
+               //Log.Message("Pawn body type changed to " + cachedBodyType + ", updating portrait");
                 return true;
             }
             //Resolve pawn gender
@@ -239,13 +255,6 @@ namespace PortraitsOfTheRim
                 //Log.Message("Pawn head type changed to " + cachedHeadType + ", updating portrait");
                 return true;
             }
-            // Resolve Hediffs
-            if (ResolveAndCacheHediffs(pawn))
-            {
-                return true;
-            }
-
-            
             return false;
         }
 
@@ -784,6 +793,14 @@ namespace PortraitsOfTheRim
                         if (fallbackHead.Any())
                         {
                             GetTexture(allTextures, fallbackHead[0]);
+                        }
+                    }
+                    else if (layer == PR_DefOf.PR_Neck && PortraitsOfTheRimSettings.fallbackBaselinerBody)
+                    {
+                        var fallbackBody = elements.Where(x => x.MatchesFallbackBody(this)).ToList();
+                        if (fallbackBody.Any())
+                        {
+                            GetTexture(allTextures, fallbackBody[0]);
                         }
                     }
                     else if (PortraitsOfTheRimSettings.randomizeFaceAndHairAssetsInPlaceOfMissingAssets)
