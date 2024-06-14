@@ -45,6 +45,36 @@
 			<style>totemic</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VESophian-an-Apparel_ArmorHelmetCataphract-styleSophian</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VESophian-an-Apparel_ArmorHelmetCataphract-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetCataphract</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VESophian-an-Apparel_ArmorHelmetCataphract-styleSophian</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VESophian-an-Apparel_ArmorHelmetCataphract-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetCataphract</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_Royalty-an-Apparel_ArmorHelmetCataphract</defName>
@@ -144,6 +174,36 @@
 				<li>Apparel_ArmorHelmetCataphract</li>
 			</apparels>
 			<style>totemic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VESophian-cn-Apparel_ArmorHelmetCataphract-styleSophian</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VESophian-cn-Apparel_ArmorHelmetCataphract-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetCataphract</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VESophian-cn-Apparel_ArmorHelmetCataphract-styleSophian</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VESophian-cn-Apparel_ArmorHelmetCataphract-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetCataphract</li>
+			</apparels>
+			<style>Sophian</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -340,6 +400,36 @@
 			<apparels>
 				<li>Apparel_Gunlink</li>
 			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_VESophian-an-gunlink-styleSophian</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/VESophian-an-gunlink-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_Gunlink</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_VESophian-cn-gunlink-styleSophian</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/VESophian-cn-gunlink-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_Gunlink</li>
+			</apparels>
+			<style>Sophian</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

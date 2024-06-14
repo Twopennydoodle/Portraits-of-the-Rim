@@ -456,6 +456,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VESophian-an-Apparel_ArmorHelmetRecon-styleSophian</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VESophian-an-Apparel_ArmorHelmetRecon-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_Vanilla-an-Apparel_ArmorHelmetRecon</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
@@ -511,6 +526,21 @@
 				<li>Apparel_PowerArmorHelmet</li>
 			</apparels>
 			<style>totemic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VESophian-an-Apparel_PowerArmorHelmet-styleSophian</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VESophian-an-Apparel_PowerArmorHelmet-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>Sophian</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -589,6 +619,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VESophian-cn-Apparel_ArmorHelmetRecon-styleSophian</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VESophian-cn-Apparel_ArmorHelmetRecon-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ArmorHelmetRecon</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_FullHeadgear_Vanilla-cn-Apparel_ArmorHelmetRecon</defName>
 		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
@@ -644,6 +689,21 @@
 				<li>Apparel_PowerArmorHelmet</li>
 			</apparels>
 			<style>totemic</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VESophian-cn-Apparel_PowerArmorHelmet-styleSophian</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VESophian-cn-Apparel_PowerArmorHelmet-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_PowerArmorHelmet</li>
+			</apparels>
+			<style>Sophian</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -13334,6 +13394,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VESophian-l-FlakJacket-styleSophian</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VESophian-l-FlakJacket-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>Apparel_FlakJacket</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_Vanilla-l-flakjacket</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -13520,6 +13595,21 @@
 			<style>spikecore</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VESophian-m-FlakJacket-styleSophian</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VESophian-m-FlakJacket-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>Apparel_FlakJacket</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_Vanilla-m-flakjacket</defName>
@@ -13710,6 +13800,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VESophian-s-FlakJacket-styleSophian</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VESophian-s-FlakJacket-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>Apparel_FlakJacket</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_Vanilla-s-flakjacket</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
@@ -13896,6 +14001,21 @@
 			<style>spikecore</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VESophian-xl-FlakJacket-styleSophian</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VESophian-xl-FlakJacket-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>Apparel_FlakJacket</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
 
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterClothingTorso_Vanilla-xl-flakjacket</defName>
@@ -19262,6 +19382,21 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VESophian-an-Apparel_AdvancedHelmet-styleSophian</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VESophian-an-Apparel_AdvancedHelmet-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_AdvancedHelmet-stylerustic</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
@@ -19407,6 +19542,36 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VESophian-an-Apparel_SimpleHelmet-styleSophian</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VESophian-an-Apparel_SimpleHelmet-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VESophian-an-Apparel_SimpleHelmet-styleSophian</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VESophian-an-Apparel_SimpleHelmet-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHeadgear_Vanilla-an-Apparel_SimpleHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
@@ -19519,6 +19684,21 @@
 				<li>Apparel_AdvancedHelmet</li>
 			</apparels>
 			<style>hindu</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VESophian-cn-Apparel_AdvancedHelmet-styleSophian</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VESophian-cn-Apparel_AdvancedHelmet-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_AdvancedHelmet</li>
+			</apparels>
+			<style>Sophian</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
@@ -19679,6 +19859,36 @@
 				<li>Apparel_SimpleHelmet</li>
 			</apparels>
 			<style>spikecore</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VESophian-cn-Apparel_SimpleHelmet-styleSophian</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VESophian-cn-Apparel_SimpleHelmet-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHeadgear_VESophian-cn-Apparel_SimpleHelmet-styleSophian</defName>
+		<portraitLayer>PR_UnderHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>UnderHeadgear/VESophian-cn-Apparel_SimpleHelmet-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>Sophian</style>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 

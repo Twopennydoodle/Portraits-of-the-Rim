@@ -226,6 +226,36 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_VESophian-an-visagemask-styleSophian</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/VESophian-an-visagemask-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_VisageMask</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_VESophian-cn-visagemask-styleSophian</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/VESophian-cn-visagemask-styleSophian</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_VisageMask</li>
+			</apparels>
+			<style>Sophian</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerHeadgear_Ideology-cn-blindfold</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
