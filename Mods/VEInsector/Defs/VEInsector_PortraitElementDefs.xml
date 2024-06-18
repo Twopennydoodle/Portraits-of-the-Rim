@@ -802,10 +802,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>	
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffNeck_VEInsector-xl-gene-VRE_DetoxifierTubules</defName>
-		<portraitLayer>PR_MiddleHediffNeck</portraitLayer>
+		<defName>PR_OuterHediffNeck_VEInsector-xl-gene-VRE_DetoxifierTubules</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffNeck/VEInsector-xl-gene-VRE_DetoxifierTubules</texPath>
+			<texPath>OuterHediffNeck/VEInsector-xl-gene-VRE_DetoxifierTubules</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -816,10 +816,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffNeck_VEInsector-l-gene-VRE_DetoxifierTubules</defName>
-		<portraitLayer>PR_MiddleHediffNeck</portraitLayer>
+		<defName>PR_OuterHediffNeck_VEInsector-l-gene-VRE_DetoxifierTubules</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffNeck/VEInsector-l-gene-VRE_DetoxifierTubules</texPath>
+			<texPath>OuterHediffNeck/VEInsector-l-gene-VRE_DetoxifierTubules</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
@@ -830,10 +830,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffNeck_VEInsector-m-gene-VRE_DetoxifierTubules</defName>
-		<portraitLayer>PR_MiddleHediffNeck</portraitLayer>
+		<defName>PR_OuterHediffNeck_VEInsector-m-gene-VRE_DetoxifierTubules</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffNeck/VEInsector-m-gene-VRE_DetoxifierTubules</texPath>
+			<texPath>OuterHediffNeck/VEInsector-m-gene-VRE_DetoxifierTubules</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
@@ -844,10 +844,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffNeck_VEInsector-s-gene-VRE_DetoxifierTubules</defName>
-		<portraitLayer>PR_MiddleHediffNeck</portraitLayer>
+		<defName>PR_OuterHediffNeck_VEInsector-s-gene-VRE_DetoxifierTubules</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffNeck/VEInsector-s-gene-VRE_DetoxifierTubules</texPath>
+			<texPath>OuterHediffNeck/VEInsector-s-gene-VRE_DetoxifierTubules</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -858,10 +858,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffNeck_VEInsector-xl-gene-VRE_VestigialTubules</defName>
-		<portraitLayer>PR_MiddleHediffNeck</portraitLayer>
+		<defName>PR_OuterHediffNeck_VEInsector-xl-gene-VRE_VestigialTubules</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffNeck/VEInsector-xl-gene-VRE_VestigialTubules</texPath>
+			<texPath>OuterHediffNeck/VEInsector-xl-gene-VRE_VestigialTubules</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -872,10 +872,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffNeck_VEInsector-l-gene-VRE_VestigialTubules</defName>
-		<portraitLayer>PR_MiddleHediffNeck</portraitLayer>
+		<defName>PR_OuterHediffNeck_VEInsector-l-gene-VRE_VestigialTubules</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffNeck/VEInsector-l-gene-VRE_VestigialTubules</texPath>
+			<texPath>OuterHediffNeck/VEInsector-l-gene-VRE_VestigialTubules</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
@@ -886,10 +886,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffNeck_VEInsector-m-gene-VRE_VestigialTubules</defName>
-		<portraitLayer>PR_MiddleHediffNeck</portraitLayer>
+		<defName>PR_OuterHediffNeck_VEInsector-m-gene-VRE_VestigialTubules</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffNeck/VEInsector-m-gene-VRE_VestigialTubules</texPath>
+			<texPath>OuterHediffNeck/VEInsector-m-gene-VRE_VestigialTubules</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
@@ -900,10 +900,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffNeck_VEInsector-s-gene-VRE_VestigialTubules</defName>
-		<portraitLayer>PR_MiddleHediffNeck</portraitLayer>
+		<defName>PR_OuterHediffNeck_VEInsector-s-gene-VRE_VestigialTubules</defName>
+		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffNeck/VEInsector-s-gene-VRE_VestigialTubules</texPath>
+			<texPath>OuterHediffNeck/VEInsector-s-gene-VRE_VestigialTubules</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>

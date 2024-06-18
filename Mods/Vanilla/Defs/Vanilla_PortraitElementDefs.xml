@@ -456,10 +456,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VESophian-an-Apparel_ArmorHelmetRecon-styleSophian</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<defName>PR_FullHeadgear_VESophian-an-Apparel_ArmorHelmetRecon-styleSophian</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VESophian-an-Apparel_ArmorHelmetRecon-styleSophian</texPath>
+			<texPath>FullHeadgear/VESophian-an-Apparel_ArmorHelmetRecon-styleSophian</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -619,10 +619,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VESophian-cn-Apparel_ArmorHelmetRecon-styleSophian</defName>
-		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<defName>PR_FullHeadgear_VESophian-cn-Apparel_ArmorHelmetRecon-styleSophian</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VESophian-cn-Apparel_ArmorHelmetRecon-styleSophian</texPath>
+			<texPath>FullHeadgear/VESophian-cn-Apparel_ArmorHelmetRecon-styleSophian</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>

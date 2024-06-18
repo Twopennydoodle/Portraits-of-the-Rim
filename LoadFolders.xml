@@ -169,6 +169,7 @@
     <li IfModActive="oskarpotocki.vfe.mechanoid_local">Mods/VEMechanoids</li>
     <li IfModActive="oskarpotocki.vfe.mechanoid_steam">Mods/VEMechanoids</li>
     <li IfModActive="OskarPotocki.VFE.Tribals">Mods/VETribals</li>
+    <li IfModActive="vanillaracesexpanded.insector">Mods/VEInsector</li>
     <li IfModActive="automatic.gradienthair">Mods/HairGrads</li>
     <li IfModActive="Erin.Hair2">Mods/ERNHairs2</li>
     <li IfModActive="Erin.Hairredux">Mods/ERNRedux</li>
@@ -179,6 +180,7 @@
     <li IfModActive="Erin.Corvyia">Mods/ERNCorvyia</li>
     <li IfModActive="Erin.BG3.Hair">Mods/ERNBG3</li>
     <li IfModActive="Erin.CottageCollection">Mods/ERNCottage</li>
+    <li IfModActive="MonteErin.Hair.Persona">Mods/ERNPersona5</li>
     <li IfModActive="Dubwise.DubsBadHygiene">Mods/DubsBadH</li>
     <li IfModActive="RH2.Faction.VOID">Mods/RH2FactionVOID</li>
     <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>
