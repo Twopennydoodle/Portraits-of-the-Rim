@@ -848,15 +848,25 @@ namespace PortraitsOfTheRim
                                 isHairRandomized = true;
                                 var pickedElement = GetHairTextureFrom(allTextures, elements);
                                 var middleHairs = new List<PortraitElementDef>();
-                                var baseName = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_MiddleHair.defName);
+                                var hairAccs = new List<PortraitElementDef>();
+
+                                var baseNameMiddle = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_MiddleHair.defName);
+                                var baseNameAcc = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_AccessoriesHair.defName);
+
                                 var postfix = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$2");
                                 foreach (var suffix in PortraitUtils.allSuffixes)
                                 {
-                                    var newDefName = baseName + "-" + suffix + "-" + postfix;
-                                    var def = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefName);
-                                    if (def != null)
+                                    var newDefNameMiddle = baseNameMiddle + "-" + suffix + "-" + postfix;
+                                    var newDefNameAcc = baseNameAcc + "-" + suffix + "-" + postfix;
+                                    var defMiddle = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefNameMiddle);
+                                    if (defMiddle != null)
                                     {
-                                        middleHairs.Add(def);
+                                        middleHairs.Add(defMiddle);
+                                    }
+                                    var defAcc = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefNameAcc);
+                                    if (defAcc != null)
+                                    {
+                                        hairAccs.Add(defAcc);
                                     }
                                 }
                                 if (middleHairs.Any())
@@ -866,6 +876,15 @@ namespace PortraitsOfTheRim
                                     if (middleHair != null)
                                     {
                                         GetTexture(allTextures, middleHair);
+                                    }
+                                }
+                                if (hairAccs.Any())
+                                {
+                                    var hairAcc = hairAccs.FirstOrDefault(x => x.requirements.ageRange is null
+                                    || x.requirements.ageRange.Value.Includes(pawn.ageTracker.AgeBiologicalYearsFloat));
+                                    if (hairAcc != null)
+                                    {
+                                        GetTexture(allTextures, hairAcc);
                                     }
                                 }
                             }

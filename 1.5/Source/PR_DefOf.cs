@@ -36,6 +36,7 @@ namespace PortraitsOfTheRim
         public static PortraitLayerDef PR_Beard;
         public static PortraitLayerDef PR_InnerHeadgear;
         public static PortraitLayerDef PR_OuterHair;
+        public static PortraitLayerDef PR_AccessoriesHair;
         public static PortraitLayerDef PR_OuterHeadgear;
         public static PortraitLayerDef PR_OuterHediffHeadHairColor;
         public static PortraitLayerDef PR_OuterHediffHeadSkinColor;
