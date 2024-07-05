@@ -150,35 +150,39 @@
 		<canGradient>true</canGradient>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
-		<defName>PR_OuterHeadgear</defName>
+		<defName>PR_AccessoriesHair</defName>
 		<layer>31</layer>
+	</PortraitsOfTheRim.PortraitLayerDef>
+	<PortraitsOfTheRim.PortraitLayerDef>
+		<defName>PR_OuterHeadgear</defName>
+		<layer>32</layer>
 		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterHediffHeadHairColor</defName>
-		<layer>32</layer>
+		<layer>33</layer>
 		<inheritsHairColor>true</inheritsHairColor>
 		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterHediffHeadSkinColor</defName>
-		<layer>33</layer>
+		<layer>34</layer>
 		<inheritsSkinColor>true</inheritsSkinColor>
 		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
 		<defName>PR_OuterHediffHeadNoColor</defName>
-		<layer>34</layer>
-		<acceptAllMatchingElements>true</acceptAllMatchingElements>
-	</PortraitsOfTheRim.PortraitLayerDef>
-	<PortraitsOfTheRim.PortraitLayerDef>
-		<defName>PR_FullHeadgear</defName>
 		<layer>35</layer>
 		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 	<PortraitsOfTheRim.PortraitLayerDef>
-		<defName>PR_OverHeadgear</defName>
+		<defName>PR_FullHeadgear</defName>
 		<layer>36</layer>
+		<acceptAllMatchingElements>true</acceptAllMatchingElements>
+	</PortraitsOfTheRim.PortraitLayerDef>
+	<PortraitsOfTheRim.PortraitLayerDef>
+		<defName>PR_OverHeadgear</defName>
+		<layer>37</layer>
 		<acceptAllMatchingElements>true</acceptAllMatchingElements>
 	</PortraitsOfTheRim.PortraitLayerDef>
 </Defs>
