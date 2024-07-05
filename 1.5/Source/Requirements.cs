@@ -308,6 +308,10 @@ namespace PortraitsOfTheRim
             }
             if (hair != null)
             {
+                if (elementDef.portraitLayer == PR_DefOf.PR_AccessoriesHair)
+                {
+                    return null;
+                }
                 return pawn.story.HairColor;
             }
             if (this.body != null || this.bodyType != null)
@@ -318,7 +322,7 @@ namespace PortraitsOfTheRim
             {
                 return pawn.story.SkinColor;
             }
-            else if (elementDef.portraitLayer.inheritsHairColor)
+            if (elementDef.portraitLayer.inheritsHairColor)
             {
                 return pawn.story.HairColor;
             }
