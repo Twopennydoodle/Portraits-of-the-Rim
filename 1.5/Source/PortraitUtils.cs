@@ -34,7 +34,7 @@ namespace PortraitsOfTheRim
         };
         public static HashSet<PortraitLayerDef> HairLayers = new HashSet<PortraitLayerDef>
         {
-            PR_DefOf.PR_UnderHair, PR_DefOf.PR_InnerHair, PR_DefOf.PR_OuterHair, PR_DefOf.PR_MiddleHair
+            PR_DefOf.PR_UnderHair, PR_DefOf.PR_InnerHair, PR_DefOf.PR_OuterHair, PR_DefOf.PR_MiddleHair, PR_DefOf.PR_AccessoriesHair
         };
         [NoTranslate]
         public static HashSet<string> validMasks = new HashSet<string>
