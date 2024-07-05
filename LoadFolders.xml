@@ -184,6 +184,7 @@
     <li IfModActive="Dubwise.DubsBadHygiene">Mods/DubsBadH</li>
     <li IfModActive="RH2.Faction.VOID">Mods/RH2FactionVOID</li>
     <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>
+    <li IfModActive="Rooboid.RoyalhairHD">Mods/RoosRoyaltyHD</li>
     <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>
 	</v1.5>
 </loadFolders>
