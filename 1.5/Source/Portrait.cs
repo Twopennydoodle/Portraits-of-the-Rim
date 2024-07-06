@@ -5,6 +5,7 @@ using System.Text.RegularExpressions;
 using UnityEngine;
 using Verse;
 using RimWorld;
+using static RimWorld.BaseGen.SymbolStack;
 
 namespace PortraitsOfTheRim
 {
@@ -846,46 +847,51 @@ namespace PortraitsOfTheRim
                             {
                                 // Turn on flag to say this is randomized; this should show the button
                                 isHairRandomized = true;
-                                var pickedElement = GetHairTextureFrom(allTextures, elements);
-                                var middleHairs = new List<PortraitElementDef>();
-                                var hairAccs = new List<PortraitElementDef>();
 
-                                var baseNameMiddle = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_MiddleHair.defName);
-                                var baseNameAcc = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_AccessoriesHair.defName);
+                                float pawnAge = this.pawn.ageTracker.AgeBiologicalYearsFloat;
+                                if (pawn.ageTracker.AgeBiologicalYearsFloat > 38f && pawn.genes.GenesListForReading.Exists(g => g.def.defName == "Ageless"))
+                                {
+                                    pawnAge = 21f;
+                                }
+                                
+                                var ageAppropriateHairs = elements.Where(x => x.requirements.ageRange.Value.Includes(pawnAge)).ToList();
+                                var pickedOuterHairElement = GetHairTextureFrom(allTextures, ageAppropriateHairs);
 
-                                var postfix = new Regex("(.*)-(.*)").Replace(pickedElement.defName, "$2");
-                                foreach (var suffix in PortraitUtils.allSuffixes)
+                                //var baseNameUnder = new Regex("(.*)-(.*)").Replace(pickedOuterHairElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_UnderHair.defName);
+                                var baseNameMiddle = new Regex("(.*)-(.*)").Replace(pickedOuterHairElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_MiddleHair.defName);
+                                var baseNameAcc = new Regex("(.*)-(.*)").Replace(pickedOuterHairElement.defName, "$1").Replace(layer.defName, PR_DefOf.PR_AccessoriesHair.defName);
+
+                                var postfix = new Regex("(.*)-(.*)").Replace(pickedOuterHairElement.defName, "$2");
+
+                                //var newDefNameUnder = baseNameUnder + "-" + postfix;
+                                var newDefNameMiddle = baseNameMiddle + "-" + postfix;
+                                var newDefNameAcc = baseNameAcc + "-" + postfix;
+
+                                // Temporarily disable underhairs - it breaks the layer order if we do it here.
+                                /*var defUnder = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefNameUnder);
+                                if (defUnder != null)
                                 {
-                                    var newDefNameMiddle = baseNameMiddle + "-" + suffix + "-" + postfix;
-                                    var newDefNameAcc = baseNameAcc + "-" + suffix + "-" + postfix;
-                                    var defMiddle = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefNameMiddle);
-                                    if (defMiddle != null)
-                                    {
-                                        middleHairs.Add(defMiddle);
-                                    }
-                                    var defAcc = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefNameAcc);
-                                    if (defAcc != null)
-                                    {
-                                        hairAccs.Add(defAcc);
-                                    }
+                                    GetTexture(allTextures, defUnder);
+                                }*/
+
+                                // Next, middle 
+                                var defMiddle = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefNameMiddle);
+                                if (defMiddle != null)
+                                {
+                                    GetTexture(allTextures, defMiddle);
                                 }
-                                if (middleHairs.Any())
+
+                                // Add Outer Hair textures above middle hair
+                                if (pickedOuterHairElement != null)
                                 {
-                                    var middleHair = middleHairs.FirstOrDefault(x => x.requirements.ageRange is null
-                                    || x.requirements.ageRange.Value.Includes(pawn.ageTracker.AgeBiologicalYearsFloat));
-                                    if (middleHair != null)
-                                    {
-                                        GetTexture(allTextures, middleHair);
-                                    }
+                                    GetTexture(allTextures, pickedOuterHairElement);
                                 }
-                                if (hairAccs.Any())
+
+                                // Finally, add accessories on top.
+                                var defAcc = DefDatabase<PortraitElementDef>.GetNamedSilentFail(newDefNameAcc);
+                                if (defAcc != null)
                                 {
-                                    var hairAcc = hairAccs.FirstOrDefault(x => x.requirements.ageRange is null
-                                    || x.requirements.ageRange.Value.Includes(pawn.ageTracker.AgeBiologicalYearsFloat));
-                                    if (hairAcc != null)
-                                    {
-                                        GetTexture(allTextures, hairAcc);
-                                    }
+                                    GetTexture(allTextures, defAcc);
                                 }
                             }
                         }
@@ -918,7 +924,7 @@ namespace PortraitsOfTheRim
             Rand.Seed = pawn.thingIDNumber + hairSeed;
             var element = elements.RandomElement();
             Rand.PopState();
-            GetTexture(allTextures, element);
+            //GetTexture(allTextures, element);  DO NOT ADD OUTER HAIR HERE - BREAKS ORDER
             return element;
         }
 
