@@ -11,15 +11,15 @@ namespace PortraitsOfTheRim
     {
         public static void Postfix(Pawn pawn, ref Graphic __result)
         {
-            if (PortraitUtils.GradientHairLoaded && pawn != null)
+            if (PortraitUtils.GradientHairLoaded && pawn != null && pawn.ageTracker.AgeBiologicalYearsFloat >= 7f)
             {
-                if (__result.MatSouth)
+                if (__result.MatSouth && __result.MatSouth.GetMaskTexture() != null)
                 {
-                    
-                    if (__result.MatSouth.GetMaskTexture() != null)
+                    string maskName = __result.MatSouth.GetMaskTexture().name;
+                    // If Mask texture exists AND verify that the mask is a PoTR approved mask
+                    if (PortraitUtils.validMasks.Contains(maskName))
                     {
-                        // If Mask texture exists
-                        PortraitUtils.gradientMaskTextures[pawn] = __result.MatSouth.GetMaskTexture().name;
+                        PortraitUtils.gradientMaskTextures[pawn] = maskName;
                         PortraitUtils.gradientMaskColors[pawn] = __result.MatSouth.GetColorTwo();
                     }
                     else
