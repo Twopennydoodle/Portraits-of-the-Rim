@@ -186,5 +186,6 @@
     <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>
     <li IfModActive="Rooboid.RoyalhairHD">Mods/RoosRoyaltyHD</li>
     <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>
+    <li IfModActive="rimsenal.hair">Mods/RimsenalHair</li>
 	</v1.5>
 </loadFolders>
