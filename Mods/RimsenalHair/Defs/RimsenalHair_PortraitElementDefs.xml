@@ -5,7 +5,7 @@
 		<defName>PR_UnderHair_RimsenalHair-cn-Blowzy</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/UnderHair_RimsenalHair-cn-Blowzy</texPath>
+			<texPath>UnderHair/RimsenalHair-cn-Blowzy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -17,7 +17,7 @@
 		<defName>PR_UnderHair_RimsenalHair-an-Blowzy</defName>
 		<portraitLayer>PR_UnderHair</portraitLayer>
 		<graphicData>
-			<texPath>UnderHair/UnderHair_RimsenalHair-an-Blowzy</texPath>
+			<texPath>UnderHair/RimsenalHair-an-Blowzy</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
