@@ -41,7 +41,11 @@ namespace PortraitsOfTheRim
             "MaskBHigh", "MaskBHigh2", "MaskBHigh3", "MaskBLow", "MaskBLow2", "MaskBLow3", "MaskBMidHigh", "MaskBMidLow",
             "MaskCHigh", "MaskCHigh2", "MaskCHigh3", "MaskCLow", "MaskCLow2", "MaskCLow3", "MaskCMidHigh", "MaskCMidLow"
         };
-
+        [NoTranslate]
+        public static HashSet<string> fallbackHeads = new HashSet<string>
+        {
+            "averagenormal", "averagepointy", "averagewide", "narrownormal", "narrowpointy", "narrowwide"
+        };
         public static HashSet<string> allStyles;
         public static FloatRange childAge = new FloatRange(7f, 13f);
         public static FloatRange teenAge = new FloatRange(13f, 19f);
