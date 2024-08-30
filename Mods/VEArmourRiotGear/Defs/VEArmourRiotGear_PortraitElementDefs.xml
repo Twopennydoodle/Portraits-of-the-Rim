@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEArmourRiotGear-l-VAE_Apparel_RiotArmor</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEArmourRiotGear-l-VAE_Apparel_RiotArmor</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VAE_Apparel_RiotArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEArmourRiotGear-m-VAE_Apparel_RiotArmor</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEArmourRiotGear-m-VAE_Apparel_RiotArmor</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VAE_Apparel_RiotArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEArmourRiotGear-s-VAE_Apparel_RiotArmor</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEArmourRiotGear-s-VAE_Apparel_RiotArmor</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VAE_Apparel_RiotArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEArmourRiotGear-xl-VAE_Apparel_RiotArmor</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEArmourRiotGear-xl-VAE_Apparel_RiotArmor</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VAE_Apparel_RiotArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VEArmourRiotGear-an-VAE_Apparel_RiotHelmet</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VEArmourRiotGear-an-VAE_Apparel_RiotHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>VAE_Apparel_RiotHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_FullHeadgear_VEArmourRiotGear-cn-VAE_Apparel_RiotHelmet</defName>
+		<portraitLayer>PR_FullHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>FullHeadgear/VEArmourRiotGear-cn-VAE_Apparel_RiotHelmet</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAE_Apparel_RiotHelmet</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+</Defs>

@@ -122,6 +122,9 @@
     <li IfModActive="vanillaexpanded.varme">Mods/VEArmour</li>
     <li IfModActive="vanillaexpanded.varme_local">Mods/VEArmour</li>
     <li IfModActive="vanillaexpanded.varme_steam">Mods/VEArmour</li>
+    <li IfModActive="vanillaexpanded.varme">Mods/VEArmourRiotGear</li>
+    <li IfModActive="vanillaexpanded.varme_local">Mods/VEArmourRiotGear</li>
+    <li IfModActive="vanillaexpanded.varme_steam">Mods/VEArmourRiotGear</li>
     <li IfModActive="vanillaexpanded.vappe">Mods/VEApparel</li>
     <li IfModActive="vanillaexpanded.vappe_local">Mods/VEApparel</li>
     <li IfModActive="vanillaexpanded.vappe_steam">Mods/VEApparel</li>
