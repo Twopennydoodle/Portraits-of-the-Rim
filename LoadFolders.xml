@@ -188,7 +188,9 @@
     <li IfModActive="RH2.Faction.VOID">Mods/RH2FactionVOID</li>
     <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>
     <li IfModActive="Rooboid.RoyalhairHD">Mods/RoosRoyaltyHD</li>
+    <li IfModActive="Rooboid.AccessoryHairsHD">Mods/RoosAccessoriesHD</li>
     <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>
     <li IfModActive="rimsenal.hair">Mods/RimsenalHair</li>
+    <li IfModActive="Arquebus.StagzMerfolk">Mods/GojiMerren</li>
 	</v1.5>
 </loadFolders>

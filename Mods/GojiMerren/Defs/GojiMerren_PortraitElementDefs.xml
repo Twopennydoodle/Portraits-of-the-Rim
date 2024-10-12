@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHeadSkinColor_GojiMerren-an-gene-Stagz_FinEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHeadSkinColor/GojiMerren-an-gene-Stagz_FinEars</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>Stagz_FinEars</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHeadSkinColor_GojiMerren-cn-gene-Stagz_FinEars</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHeadSkinColor/GojiMerren-cn-gene-Stagz_FinEars</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>Stagz_FinEars</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+</Defs>
