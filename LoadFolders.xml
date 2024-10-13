@@ -189,6 +189,11 @@
     <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>
     <li IfModActive="Rooboid.RoyalhairHD">Mods/RoosRoyaltyHD</li>
     <li IfModActive="Rooboid.AccessoryHairsHD">Mods/RoosAccessoriesHD</li>
+    <li IfModActive="Rooboid.Faun">Mods/RoosFauns</li>
+    <li IfModActive="Rooboid.Satyr">Mods/RoosSatyrs</li>
+    <li IfModActive="Rooboid.SatyrFaun.Expanded">Mods/RoosSaFExt</li>
+    <li IfModActive="Rooboid.Minotaur">Mods/RoosMinotaurs</li>
+    <li IfModActive="Rooboid.Minotaur.Expanded">Mods/RoosMExt</li>
     <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>
     <li IfModActive="rimsenal.hair">Mods/RimsenalHair</li>
     <li IfModActive="Arquebus.StagzMerfolk">Mods/GojiMerren</li>
