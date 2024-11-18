@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_VEInsanity-an-VAEI_Apparel_Gag</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/VEInsanity-an-VAEI_Apparel_Gag</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>VAEI_Apparel_Gag</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_VEInsanity-cn-VAEI_Apparel_Gag</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/VEInsanity-cn-VAEI_Apparel_Gag</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VAEI_Apparel_Gag</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleClothingTorso_VEInsanity-l-VAEI_Apparel_StraitJacket</defName>
+		<portraitLayer>PR_MiddleClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingTorso/VEInsanity-l-VAEI_Apparel_StraitJacket</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VAEI_Apparel_StraitJacket</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleClothingTorso_VEInsanity-m-VAEI_Apparel_StraitJacket</defName>
+		<portraitLayer>PR_MiddleClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingTorso/VEInsanity-m-VAEI_Apparel_StraitJacket</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VAEI_Apparel_StraitJacket</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleClothingTorso_VEInsanity-s-VAEI_Apparel_StraitJacket</defName>
+		<portraitLayer>PR_MiddleClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingTorso/VEInsanity-s-VAEI_Apparel_StraitJacket</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VAEI_Apparel_StraitJacket</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_MiddleClothingTorso_VEInsanity-xl-VAEI_Apparel_StraitJacket</defName>
+		<portraitLayer>PR_MiddleClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>MiddleClothingTorso/VEInsanity-xl-VAEI_Apparel_StraitJacket</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VAEI_Apparel_StraitJacket</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+</Defs>
