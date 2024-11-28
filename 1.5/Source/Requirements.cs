@@ -136,85 +136,141 @@ namespace PortraitsOfTheRim
                 return new BoolReport(false, "style fail");
 
             // Temporarily disabling Horns/Antlers/etc for Roo's until I can figure out graphics paths and such.
-            /*if (potrRand.NullOrEmpty() is false)
+            if (potrRand.NullOrEmpty() is false)
             {
                 // Determine if this def is dder ears, deer antlers, goat ears, or goat horns
                 if (genes.Exists(g => g.defName == "RBSF_GoatHorns"))
                 {
                     Gene hornGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBSF_GoatHorns");
-                    string hornType = hornGene.def.graphicData.GraphicPathFor(pawn);
-                    if (potrRand[0] != hornType[hornType.Length - 1])
+                    PawnRenderNode head = pawn.drawer.renderer.renderTree.nodesByTag[PawnRenderNodeTagDefOf.Head];
+                    foreach (PawnRenderNode node in head.children)
                     {
-                        return new BoolReport(false, "random type fail");
+                        if (node.gene == hornGene)
+                        {
+                            string hornType = node.TexPathFor(pawn);
+                            if (potrRand[0] != hornType[hornType.Length - 1])
+                            {
+                                return new BoolReport(false, "random type fail");
+                            }
+                        }
                     }
                 }
                 if (genes.Exists(g => g.defName == "RBSF_GoatEars"))
                 {
                     Gene earGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBSF_GoatEars");
-                    string earType = earGene.def.graphicData.GraphicPathFor(pawn);
-                    if (potrRand[0] != earType[earType.Length-1])
+                    PawnRenderNode head = pawn.drawer.renderer.renderTree.nodesByTag[PawnRenderNodeTagDefOf.Head];
+                    foreach (PawnRenderNode node in head.children)
                     {
-                        return new BoolReport(false, "random type fail");
+                        if (node.gene == earGene)
+                        {
+                            string earType = node.TexPathFor(pawn);
+                            if (potrRand[0] != earType[earType.Length - 1])
+                            {
+                                return new BoolReport(false, "random type fail");
+                            }
+                        }
                     }
                 }
                 if (genes.Exists(g => g.defName == "RBSF_DeerHorns"))
                 {
                     Gene hornGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBSF_DeerHorns");
-                    string hornType = hornGene.def.graphicData.GraphicPathFor(pawn);
-                    if (potrRand[0] != hornType[hornType.Length - 1])
+                    PawnRenderNode head = pawn.drawer.renderer.renderTree.nodesByTag[PawnRenderNodeTagDefOf.Head];
+                    foreach (PawnRenderNode node in head.children)
                     {
-                        return new BoolReport(false, "random type fail");
+                        if (node.gene == hornGene)
+                        {
+                            string hornType = node.TexPathFor(pawn);
+                            if (potrRand[0] != hornType[hornType.Length - 1])
+                            {
+                                return new BoolReport(false, "random type fail");
+                            }
+                        }
                     }
                 }
                 if (genes.Exists(g => g.defName == "RBSF_DeerEars"))
                 {
                     Gene earGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBSF_DeerEars");
-                    string earType = earGene.def.graphicData.GraphicPathFor(pawn);
-                    if (potrRand[0] != earType[earType.Length - 1])
+                    PawnRenderNode head = pawn.drawer.renderer.renderTree.nodesByTag[PawnRenderNodeTagDefOf.Head];
+                    foreach (PawnRenderNode node in head.children)
                     {
-                        return new BoolReport(false, "random type fail");
+                        if (node.gene == earGene)
+                        {
+                            string earType = node.TexPathFor(pawn);
+                            if (potrRand[0] != earType[earType.Length - 1])
+                            {
+                                return new BoolReport(false, "random type fail");
+                            }
+                        }
                     }
                 }
                 // More checks for genes - Roo's Minotaurs
                 if (genes.Exists(g => g.defName == "RBM_BovineEars"))
                 {
                     Gene earGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBM_BovineEars");
-                    string earType = earGene.def.graphicData.GraphicPathFor(pawn);
-                    if (potrRand[0] != earType[earType.Length - 1])
+                    PawnRenderNode head = pawn.drawer.renderer.renderTree.nodesByTag[PawnRenderNodeTagDefOf.Head];
+                    foreach (PawnRenderNode node in head.children)
                     {
-                        return new BoolReport(false, "Bovine ear fail");
+                        if (node.gene == earGene)
+                        {
+                            string earType = node.TexPathFor(pawn);
+                            if (potrRand[0] != earType[earType.Length - 1])
+                            {
+                                return new BoolReport(false, "random type fail");
+                            }
+                        }
                     }
                 }
                 if (genes.Exists(g => g.defName == "RBM_BovineHorns"))
                 {
                     Gene hornGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBM_BovineHorns");
-                    string hornType = hornGene.def.graphicData.GraphicPathFor(pawn);
-                    if (potrRand[0] != hornType[hornType.Length - 1])
+                    PawnRenderNode head = pawn.drawer.renderer.renderTree.nodesByTag[PawnRenderNodeTagDefOf.Head];
+                    foreach (PawnRenderNode node in head.children)
                     {
-                        return new BoolReport(false, "Bovine horn fail");
+                        if (node.gene == hornGene)
+                        {
+                            string hornType = node.TexPathFor(pawn);
+                            if (potrRand[0] != hornType[hornType.Length - 1])
+                            {
+                                return new BoolReport(false, "random type fail");
+                            }
+                        }
                     }
                 }
                 // Minotaur Markings
                 if (genes.Exists(g => g.defName == "RBM_BovineHead"))
                 {
                     Gene headGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "RBM_BovineHead");
-                    string headType = headGene.def.graphicData.GraphicPathFor(pawn);
-                    if (potrRand[0] != headType[headType.Length - 1])
+                    PawnRenderNode head = pawn.drawer.renderer.renderTree.nodesByTag[PawnRenderNodeTagDefOf.Head];
+                    foreach (PawnRenderNode node in head.children)
                     {
-                        return new BoolReport(false, "Bovine markings fail");
+                        if (node.gene == headGene)
+                        {
+                            string headType = node.TexPathFor(pawn);
+                            if (potrRand[0] != headType[headType.Length - 1])
+                            {
+                                return new BoolReport(false, "random type fail");
+                            }
+                        }
                     }
                 }
                 // Facial Spots
                 if (genes.Exists(g => g.defName == "VRE_FacialSpots"))
                 {
                     Gene spotsGene = pawn.genes.GenesListForReading.Find(g => g.def.defName == "VRE_FacialSpots");
-                    string spotType = spotsGene.def.graphicData.GraphicPathFor(pawn);
-                    if (potrRand[0] != spotType[spotType.Length - 1])
+                    PawnRenderNode head = pawn.drawer.renderer.renderTree.nodesByTag[PawnRenderNodeTagDefOf.Head];
+                    foreach (PawnRenderNode node in head.children)
                     {
-                        return new BoolReport(false, "Facial Spots markings fail");
+                        if (node.gene == spotsGene)
+                        {
+                            string spotsType = node.TexPathFor(pawn);
+                            if (potrRand[0] != spotsType[spotsType.Length - 1])
+                            {
+                                return new BoolReport(false, "random type fail");
+                            }
+                        }
                     }
                 }
-            }*/
+            }
 
             return new BoolReport(true);
         }
