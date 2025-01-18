@@ -34,6 +34,8 @@ namespace PortraitsOfTheRim
         public static bool showPortraitByDefault = true;
         public static bool showHeadgearByDefault = true;
         public static bool alwaysShowHeadgearWhenDrafted = false;
+        public static bool disablePortraitInQuests = false;
+
         public override void ExposeData()
         {
             base.ExposeData();
@@ -44,6 +46,8 @@ namespace PortraitsOfTheRim
             Scribe_Values.Look(ref showPortraitByDefault, "showPortraitsByDefault", true);
             Scribe_Values.Look(ref showHeadgearByDefault, "showHeadgearByDefault", true);
             Scribe_Values.Look(ref alwaysShowHeadgearWhenDrafted, "alwaysShowHeadgearWhenDrafted", false);
+            Scribe_Values.Look(ref disablePortraitInQuests, "disablePortraitInQuests", false);
+
         }
 
         public void DoSettingsWindowContents(Rect inRect)
@@ -57,6 +61,7 @@ namespace PortraitsOfTheRim
             ls.CheckboxLabeled("PR.ShowPortraitsByDefault".Translate(), ref showPortraitByDefault);
             ls.CheckboxLabeled("PR.ShowHeadgearByDefault".Translate(), ref showHeadgearByDefault);
             ls.CheckboxLabeled("PR.ShowHeadgearWhenDrafted".Translate(), ref alwaysShowHeadgearWhenDrafted);
+            ls.CheckboxLabeled("PR.DisablePortraitInQuests".Translate(), ref disablePortraitInQuests);
             ls.End();
         }
     }
