@@ -6,6 +6,7 @@
 	<PR.ShowPortraitsByDefault>Show Portraits by default (Toggling this in the main menu may reset all individual portrait show/hide settings)</PR.ShowPortraitsByDefault>
 	<PR.ShowHeadgearByDefault>Show Headgear by default (Preexisting pawns may need individual toggling)</PR.ShowHeadgearByDefault>
 	<PR.ShowHeadgearWhenDrafted>ALWAYS show headgear when Drafted</PR.ShowHeadgearWhenDrafted>
+	<PR.DisablePortraitInQuests>Disable Portraits on Quest panel</PR.DisablePortraitInQuests>
 	<PR.HidePortrait>Hide portrait</PR.HidePortrait>
 	<PR.ShowPortrait>Show portrait</PR.ShowPortrait>
 	<PR.HideHeadgear>Hide headgear</PR.HideHeadgear>

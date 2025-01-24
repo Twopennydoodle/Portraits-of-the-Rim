@@ -55,7 +55,7 @@ namespace PortraitsOfTheRim
 
         private static void DrawPortrait(Rect rect, ref float curY, Pawn pawn)
         {
-            if (pawn.ShouldShowPortrait())
+            if (pawn.ShouldShowPortrait() && !PortraitsOfTheRimSettings.disablePortraitInQuests)
             {
                 var portrait = pawn.GetPortrait();
                 portrait.RenderPortrait(rect.width - ITab_Pawn_Gear_FillTab_Patch.portraitSize, curY + 15,
