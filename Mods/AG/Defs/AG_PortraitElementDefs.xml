@@ -7364,6 +7364,20 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_InsectStinger</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
+		<graphicData>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_InsectStinger</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>AG_InsectStingerEndogenes</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_LongEars</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -7433,6 +7447,20 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_ParasiticStinger</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
+		<graphicData>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_ParasiticStinger</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>AG_ParasiticStingerEndogenes</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_PegasusWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
@@ -7756,6 +7784,20 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_InsectStinger</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
+		<graphicData>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_InsectStinger</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>AG_InsectStingerEndogenes</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_LongEars</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -7821,6 +7863,20 @@
 			<ageRange>7~13</ageRange>
 			<genes>
 				<li>AG_ParasiticStinger</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_ParasiticStinger</defName>
+		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
+		<graphicData>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_ParasiticStinger</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>AG_ParasiticStingerEndogenes</li>
 			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8703,7 +8759,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8716,7 +8772,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8729,7 +8785,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8742,7 +8798,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8755,7 +8811,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8833,7 +8889,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8846,7 +8902,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8859,7 +8915,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8872,7 +8928,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8885,7 +8941,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8963,7 +9019,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8976,7 +9032,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -8989,7 +9045,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9002,7 +9058,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9015,7 +9071,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9093,7 +9149,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9106,7 +9162,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9119,7 +9175,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9132,7 +9188,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9145,7 +9201,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9484,7 +9540,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9497,7 +9553,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9510,7 +9566,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9523,7 +9579,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9536,7 +9592,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_HalfSynthetic_Male</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9614,7 +9670,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9627,7 +9683,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9640,7 +9696,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9653,7 +9709,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9666,7 +9722,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticKillerMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9744,7 +9800,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9757,7 +9813,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9770,7 +9826,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9783,7 +9839,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9796,7 +9852,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9874,7 +9930,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9887,7 +9943,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>13~19</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9900,7 +9956,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>19~39</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9913,7 +9969,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>39~64</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -9926,7 +9982,7 @@
 		</graphicData>
 		<requirements>
 			<ageRange>64~999</ageRange>
-			<gender>Female</gender>
+			<gender>Male</gender>
 			<headType>AG_SyntheticServantMale</headType>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -10870,4 +10926,31 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHediffNoColor_AG-an-gene-AG_DrainerWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
+		<graphicData>
+			<texPath>UnderHediffNoColor/AG-an-gene-AG_DrainerWings</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>AG_DrainerWings</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_UnderHediffNoColor_AG-cn-gene-AG_DrainerWings</defName>
+		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
+		<graphicData>
+			<texPath>UnderHediffNoColor/AG-cn-gene-AG_DrainerWings</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>AG_DrainerWings</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
 </Defs>
