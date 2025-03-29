@@ -393,7 +393,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-s-gene-AG_GreaterFleshWhip</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -407,7 +407,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-m-gene-AG_GreaterFleshWhip</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -421,7 +421,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-l-gene-AG_GreaterFleshWhip</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -435,7 +435,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-xl-gene-AG_GreaterFleshWhip</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -449,7 +449,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-s-gene-AG_GreaterToughspikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -463,7 +463,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-m-gene-AG_GreaterToughspikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -477,7 +477,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-l-gene-AG_GreaterToughspikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -491,7 +491,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-xl-gene-AG_GreaterToughspikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -505,7 +505,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_Shambler_Exploding</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -519,7 +519,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_Shambler_Exploding</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -533,7 +533,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 		
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffHeadNoColor_AG1_5-an-gene-AG_TentacleHorns</defName>
 		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
@@ -547,7 +547,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 			
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffHeadNoColor_AG1_5-cn-gene-AG_TentacleHorns</defName>
 		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
 		<graphicData>
@@ -561,7 +561,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-s-gene-AG_FleshBulb</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -575,7 +575,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-m-gene-AG_FleshBulb</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -589,7 +589,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-l-gene-AG_FleshBulb</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -603,7 +603,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-xl-gene-AG_FleshBulb</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -617,7 +617,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 		
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-s-gene-AG_FleshSack</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -631,7 +631,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-m-gene-AG_FleshSack</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -645,7 +645,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-l-gene-AG_FleshSack</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -659,7 +659,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-xl-gene-AG_FleshSack</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -673,7 +673,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 			
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-s-gene-AG_Shambler_Armoured</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -687,7 +687,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-m-gene-AG_Shambler_Armoured</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -701,7 +701,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-l-gene-AG_Shambler_Armoured</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -715,7 +715,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-xl-gene-AG_Shambler_Armoured</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -729,7 +729,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 				
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-s-gene-AG_Shambler_Spiked</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -743,7 +743,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-m-gene-AG_Shambler_Spiked</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -757,7 +757,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-l-gene-AG_Shambler_Spiked</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -771,7 +771,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_OuterHediffNeck_AG1_5-xl-gene-AG_Shambler_Spiked</defName>
 		<portraitLayer>PR_OuterHediffNeck</portraitLayer>
 		<graphicData>
@@ -785,7 +785,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-s-gene-AG_FleshSpitter</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -799,7 +799,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-m-gene-AG_FleshSpitter</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -813,7 +813,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-l-gene-AG_FleshSpitter</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -827,7 +827,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-xl-gene-AG_FleshSpitter</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -841,7 +841,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 		
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-s-gene-AG_TwitchingFingerspike</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -855,7 +855,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-m-gene-AG_TwitchingFingerspike</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -869,7 +869,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-l-gene-AG_TwitchingFingerspike</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -883,7 +883,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-xl-gene-AG_TwitchingFingerspike</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -897,7 +897,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 			
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-s-gene-AG_TwitchingToughspikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -911,7 +911,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-m-gene-AG_TwitchingToughspikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -925,7 +925,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-l-gene-AG_TwitchingToughspikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -939,7 +939,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-xl-gene-AG_TwitchingToughspikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -953,7 +953,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 				
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-s-gene-AG_TwitchingTrispikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -967,7 +967,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-m-gene-AG_TwitchingTrispikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -981,7 +981,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-l-gene-AG_TwitchingTrispikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -995,7 +995,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef IfModActive="Ludeon.RimWorld.Anomaly">
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="Ludeon.RimWorld.Anomaly">
 		<defName>PR_UnderHediffSkinColor_AG1_5-xl-gene-AG_TwitchingTrispikes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -1149,7 +1149,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_BeeMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1163,7 +1163,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_BeeMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1177,7 +1177,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_BeetleMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1191,7 +1191,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_BeetleMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1205,7 +1205,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_CompoundEyes</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1219,7 +1219,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_CompoundEyes</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1234,10 +1234,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>				
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_CompoundEyes</defName>
+		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_VFEI_SegmentedEyes</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG1_5-an-gene-AG_GenelineCosmetic_CompoundEyes</texPath>
+			<texPath>MiddleHediffHead/AG1_5-an-gene-AG_VFEI_SegmentedEyes</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1248,10 +1248,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_CompoundEyes</defName>
+		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_VFEI_SegmentedEyes</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG1_5-cn-gene-AG_GenelineCosmetic_CompoundEyes</texPath>
+			<texPath>MiddleHediffHead/AG1_5-cn-gene-AG_VFEI_SegmentedEyes</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1261,7 +1261,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_InsectMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1275,7 +1275,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_InsectMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1290,10 +1290,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>				
 			
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_InsectMandibles</defName>
+		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_VFEI_InsectoidMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG1_5-an-gene-AG_GenelineCosmetic_InsectMandibles</texPath>
+			<texPath>MiddleHediffHead/AG1_5-an-gene-AG_VFEI_InsectoidMandibles</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1304,10 +1304,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_InsectMandibles</defName>
+		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_VFEI_InsectoidMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
-			<texPath>MiddleHediffHead/AG1_5-cn-gene-AG_GenelineCosmetic_InsectMandibles</texPath>
+			<texPath>MiddleHediffHead/AG1_5-cn-gene-AG_VFEI_InsectoidMandibles</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1317,7 +1317,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 				
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_LowerAntennae</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1331,7 +1331,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_LowerAntennae</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1345,7 +1345,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>			
 					
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_PincerMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1359,7 +1359,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_PincerMandibles</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1373,7 +1373,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>		
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_GenelineCosmetic_Proboscis</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1387,7 +1387,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_GenelineCosmetic_Proboscis</defName>
 		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
 		<graphicData>
@@ -1401,34 +1401,6 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG1_5-an-gene-AG_Shambler_Exploding</defName>
-		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
-		<graphicData>
-			<texPath>MiddleHediffHead/AG1_5-an-gene-AG_Shambler_Exploding</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<genes>
-				<li>AG_Shambler_Exploding</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-	
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_MiddleHediffHead_AG1_5-cn-gene-AG_Shambler_Exploding</defName>
-		<portraitLayer>PR_MiddleHediffHead</portraitLayer>
-		<graphicData>
-			<texPath>MiddleHediffHead/AG1_5-cn-gene-AG_Shambler_Exploding</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<genes>
-				<li>AG_Shambler_Exploding</li>
-			</genes>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>	
-			
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_OuterHediffHeadNoColor_AG1_5-an-gene-AG_ForsakenHornsBull</defName>
 		<portraitLayer>PR_OuterHediffHeadNoColor</portraitLayer>
@@ -1625,7 +1597,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_BeeAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
@@ -1639,7 +1611,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_BeeAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
@@ -1653,7 +1625,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 			
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_FormicAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
@@ -1667,7 +1639,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_FormicAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
@@ -1681,7 +1653,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 				
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_InsectoidAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
@@ -1695,7 +1667,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_InsectoidAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
@@ -1710,10 +1682,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 					
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_InsectoidAntennae</defName>
+		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_VFEI_Antennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHeadSkinColor/AG1_5-cn-gene-AG_GenelineCosmetic_InsectoidAntennae</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG1_5-cn-gene-AG_VFEI_Antennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -1724,10 +1696,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_InsectoidAntennae</defName>
+		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_VFEI_Antennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHeadSkinColor/AG1_5-an-gene-AG_GenelineCosmetic_InsectoidAntennae</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG1_5-an-gene-AG_VFEI_Antennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -1737,35 +1709,35 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_MothWings</defName>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
+		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_MothAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHeadSkinColor/AG1_5-cn-gene-AG_GenelineCosmetic_MothWings</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG1_5-cn-gene-AG_GenelineCosmetic_MothAntennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
 			<genes>
-				<li>AG_GenelineCosmetic_MothWings</li>
+				<li>AG_GenelineCosmetic_MothAntennae</li>
 			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_MothWings</defName>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
+		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_MothAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>OuterHediffHeadSkinColor/AG1_5-an-gene-AG_GenelineCosmetic_MothWings</texPath>
+			<texPath>OuterHediffHeadSkinColor/AG1_5-an-gene-AG_GenelineCosmetic_MothAntennae</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
 			<genes>
-				<li>AG_GenelineCosmetic_MothWings</li>
+				<li>AG_GenelineCosmetic_MothAntennae</li>
 			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_WaspAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
@@ -1779,7 +1751,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 		
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_WaspAntennae</defName>
 		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
 		<graphicData>
@@ -1961,7 +1933,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 				
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffNoColor_AG1_5-an-gene-AG_GenelineCosmetic_BumbledroneWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
@@ -1975,7 +1947,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffNoColor_AG1_5-cn-gene-AG_GenelineCosmetic_BumbledroneWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
@@ -1989,7 +1961,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 					
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffNoColor_AG1_5-an-gene-AG_GenelineCosmetic_DrainerWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
@@ -2003,7 +1975,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffNoColor_AG1_5-cn-gene-AG_GenelineCosmetic_DrainerWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
@@ -2017,7 +1989,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 						
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffNoColor_AG1_5-an-gene-AG_GenelineCosmetic_MothWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
@@ -2031,7 +2003,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffNoColor_AG1_5-cn-gene-AG_GenelineCosmetic_MothWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
@@ -2045,7 +2017,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 							
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffNoColor_AG1_5-an-gene-AG_GenelineCosmetic_WaspWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
@@ -2059,7 +2031,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffNoColor_AG1_5-cn-gene-AG_GenelineCosmetic_WaspWings</defName>
 		<portraitLayer>PR_UnderHediffNoColor</portraitLayer>
 		<graphicData>
@@ -2073,7 +2045,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 						
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_FormicAntennae</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -2087,7 +2059,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_FormicAntennae</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -2101,7 +2073,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
 							
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffSkinColor_AG1_5-an-gene-AG_GenelineCosmetic_WaspAntennae</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
@@ -2115,7 +2087,7 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 	
-	<PortraitsOfTheRim.PortraitElementDef>
+	<PortraitsOfTheRim.PortraitElementDef MayRequire="vanillaracesexpanded.insector">
 		<defName>PR_UnderHediffSkinColor_AG1_5-cn-gene-AG_GenelineCosmetic_WaspAntennae</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>

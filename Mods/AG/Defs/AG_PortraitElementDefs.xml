@@ -7364,10 +7364,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_InsectStinger</defName>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_InsectStingerEndogenes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediffSkinColor/AG-an-gene-AG_InsectStinger</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_InsectStingerEndogenes</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7448,10 +7448,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_ParasiticStinger</defName>
+		<defName>PR_UnderHediffSkinColor_AG-an-gene-AG_ParasiticStingerEndogenes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediffSkinColor/AG-an-gene-AG_ParasiticStinger</texPath>
+			<texPath>UnderHediffSkinColor/AG-an-gene-AG_ParasiticStingerEndogenes</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -7784,10 +7784,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_InsectStinger</defName>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_InsectStingerEndogenes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_InsectStinger</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_InsectStingerEndogenes</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -7868,10 +7868,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_ParasiticStinger</defName>
+		<defName>PR_UnderHediffSkinColor_AG-cn-gene-AG_ParasiticStingerEndogenes</defName>
 		<portraitLayer>PR_UnderHediffSkinColor</portraitLayer>
 		<graphicData>
-			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_ParasiticStinger</texPath>
+			<texPath>UnderHediffSkinColor/AG-cn-gene-AG_ParasiticStingerEndogenes</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
