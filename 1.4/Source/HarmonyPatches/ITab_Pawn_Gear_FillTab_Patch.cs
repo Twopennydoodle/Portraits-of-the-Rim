@@ -37,7 +37,7 @@ namespace PortraitsOfTheRim
         public static float FixedWidth(ref Rect rect, ITab_Pawn_Gear tab)
         {
             var portrait = tab.SelPawnForGear.GetPortrait();
-            if (portrait.ShouldShow && tab.SelPawnForGear.ShouldShowPortrait())
+            if (portrait.ShouldShow && tab.SelPawnForGear.ShouldShowPortrait() && !tab.SelPawnForGear.Dead)
             {
                 return rect.width - portraitSize - 7;
             }
@@ -53,7 +53,7 @@ namespace PortraitsOfTheRim
         }
         public static void DrawPortraitArea(Pawn pawn, float xPos, float yPos, float portraitSize, bool putShowPortraitToLeft = false)
         {
-            if (pawn.ShouldShowPortrait())
+            if (pawn.ShouldShowPortrait() && !pawn.Dead)
             {
                 var portrait = pawn.GetPortrait();
                 if (portrait.ShouldShow)
