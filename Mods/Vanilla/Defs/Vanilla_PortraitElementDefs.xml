@@ -33986,4 +33986,64 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-Apparel_SimpleHelmet-styleviking</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEMedieval2-an-Apparel_SimpleHelmet-styleviking</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>viking</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-Apparel_SimpleHelmet-styleviking</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEMedieval2-cn-Apparel_SimpleHelmet-styleviking</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_SimpleHelmet</li>
+			</apparels>
+			<style>viking</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-Apparel_WarMask-styleviking</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEMedieval2-an-Apparel_WarMask-styleviking</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_WarMask</li>
+			</apparels>
+			<style>viking</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-Apparel_WarMask-styleviking</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEMedieval2-cn-Apparel_WarMask-styleviking</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_WarMask</li>
+			</apparels>
+			<style>viking</style>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
 </Defs>

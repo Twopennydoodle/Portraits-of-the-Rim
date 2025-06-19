@@ -29,6 +29,7 @@
     <li IfModActive="oskarpotocki.vfe.pirates">Mods/VEPirates</li>
     <li IfModActive="oskarpotocki.vfe.vikings">Mods/VEVikings</li>
     <li IfModActive="oskarpotocki.vfe.empire">Mods/VEEmpire</li>
+    <li IfModActive="OskarPotocki.VFE.Medieval2">Mods/VEMedieval2</li>
     <li IfModActive="vanillaracesexpanded.android">Mods/VEAndroids</li>
     <li IfModActive="vanillaracesexpanded.sanguophage">Mods/VESang</li>
     <li IfModActive="vanillaexpanded.vaeaccessories">Mods/VEAccessories</li>
