@@ -1,5 +1,6 @@
 ﻿using HarmonyLib;
 using RimWorld;
+using RimWorld.QuestGen;
 using System.Linq;
 using UnityEngine;
 using Verse;
@@ -13,6 +14,7 @@ namespace PortraitsOfTheRim
         {
             foreach (var part in __instance.selected.PartsListForReading)
             {
+                // QuestPart_Hyperlinks is part of RimWorld.QuestGen now
                 if (part is QuestPart_Hyperlinks hyperlinks)
                 {
                     var pawn = hyperlinks.pawns?.FirstOrDefault();
