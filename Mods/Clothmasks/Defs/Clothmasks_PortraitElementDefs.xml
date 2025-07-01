@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_Clothmasks-an-Apparel_ClothMask</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/Clothmasks-an-Apparel_ClothMask</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>Apparel_ClothMask</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerHeadgear_Clothmasks-cn-Apparel_ClothMask</defName>
+		<portraitLayer>PR_InnerHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>InnerHeadgear/Clothmasks-cn-Apparel_ClothMask</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>Apparel_ClothMask</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+</Defs>
