@@ -225,6 +225,9 @@
     <li IfModActive="vanillaexpanded.vaeaccessories_local">Mods/VEAccessories</li>
     <li IfModActive="vanillaexpanded.vaeaccessories_steam">Mods/VEAccessories</li>
     <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">Mods/VESettlers</li>
+    <li IfModActive="vanillaexpanded.vanillatraitsexpanded">Mods/VETraits</li>
+    <li IfModActive="vanillaexpanded.vanillatraitsexpanded_local">Mods/VETraits</li>
+    <li IfModActive="vanillaexpanded.vanillatraitsexpanded_steam">Mods/VETraits</li>
     <li IfModActive="vanillaexpanded.vhe">Mods/VEHair</li>
     <li IfModActive="vanillaexpanded.vappe">Mods/VEApparel</li>
     <li IfModActive="vanillaexpanded.varme">Mods/VEArmour</li>
