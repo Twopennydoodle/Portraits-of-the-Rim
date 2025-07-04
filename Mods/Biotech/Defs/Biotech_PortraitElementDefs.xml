@@ -2376,20 +2376,6 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHeadgear_Biotech-an-Apparel_ClothMask</defName>
-		<portraitLayer>PR_InnerHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>InnerHeadgear/Biotech-an-Apparel_ClothMask</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>13~999</ageRange>
-			<apparels>
-				<li>Apparel_ClothMask</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_InnerHeadgear_Biotech-an-Apparel_GasMask</defName>
 		<portraitLayer>PR_InnerHeadgear</portraitLayer>
 		<graphicData>
@@ -2443,20 +2429,6 @@
 			<ageRange>13~999</ageRange>
 			<apparels>
 				<li>Apparel_IntegratorHeadset</li>
-			</apparels>
-		</requirements>
-	</PortraitsOfTheRim.PortraitElementDef>
-
-	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_InnerHeadgear_Biotech-cn-Apparel_ClothMask</defName>
-		<portraitLayer>PR_InnerHeadgear</portraitLayer>
-		<graphicData>
-			<texPath>InnerHeadgear/Biotech-cn-Apparel_ClothMask</texPath>
-		</graphicData>
-		<requirements>
-			<ageRange>7~13</ageRange>
-			<apparels>
-				<li>Apparel_ClothMask</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
