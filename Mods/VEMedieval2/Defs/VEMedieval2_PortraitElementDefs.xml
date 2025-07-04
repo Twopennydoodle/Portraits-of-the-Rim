@@ -142,6 +142,34 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEMedieval2-xl-VFEM2_Apparel_DameDress</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEMedieval2-xl-VFEM2_Apparel_DameDress</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VFEM2_Apparel_DameDress</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_InnerClothingTorso_VEMedieval2-xl-VFEM2_Apparel_JesterOutfit</defName>
+		<portraitLayer>PR_InnerClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>InnerClothingTorso/VEMedieval2-xl-VFEM2_Apparel_JesterOutfit</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VFEM2_Apparel_JesterOutfit</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleClothingShoulder_VEMedieval2-l-VFEM2_Apparel_KingsRobes</defName>
 		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
 		<graphicData>
@@ -253,7 +281,6 @@
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
 
-
 	<PortraitsOfTheRim.PortraitElementDef>
 		<defName>PR_MiddleClothingShoulder_VEMedieval2-l-VFEM2_Apparel_Tabard</defName>
 		<portraitLayer>PR_MiddleClothingShoulder</portraitLayer>
@@ -339,10 +366,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEMedieval-s-VFEM2_Apparel_HeavyLeatherArmor</defName>
+		<defName>PR_OuterClothingTorso_VEMedieval2-s-VFEM2_Apparel_HeavyLeatherArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingTorso/VEMedieval-s-VFEM2_Apparel_HeavyLeatherArmor</texPath>
+			<texPath>OuterClothingTorso/VEMedieval2-s-VFEM2_Apparel_HeavyLeatherArmor</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -353,15 +380,71 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEMedieval-xl-VFEM2_Apparel_HeavyLeatherArmor</defName>
+		<defName>PR_OuterClothingTorso_VEMedieval2-xl-VFEM2_Apparel_HeavyLeatherArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingTorso/VEMedieval-xl-VFEM2_Apparel_HeavyLeatherArmor</texPath>
+			<texPath>OuterClothingTorso/VEMedieval2-xl-VFEM2_Apparel_HeavyLeatherArmor</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
 			<apparels>
 				<li>VFEM2_Apparel_HeavyLeatherArmor</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEMedieval2-l-VFEM2_Apparel_PlateArmorHeavy</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEMedieval2-l-VFEM2_Apparel_PlateArmorHeavy</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VFEM2_Apparel_PlateArmorHeavy</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEMedieval2-m-VFEM2_Apparel_PlateArmorHeavy</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEMedieval2-m-VFEM2_Apparel_PlateArmorHeavy</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VFEM2_Apparel_PlateArmorHeavy</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEMedieval2-s-VFEM2_Apparel_PlateArmorHeavy</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEMedieval2-s-VFEM2_Apparel_PlateArmorHeavy</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VFEM2_Apparel_PlateArmorHeavy</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEMedieval2-xl-VFEM2_Apparel_PlateArmorHeavy</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEMedieval2-xl-VFEM2_Apparel_PlateArmorHeavy</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VFEM2_Apparel_PlateArmorHeavy</li>
 			</apparels>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>
@@ -395,10 +478,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEMedieval-s-VFEM2_Apparel_LeatherArmor</defName>
+		<defName>PR_OuterClothingTorso_VEMedieval2-s-VFEM2_Apparel_LeatherArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingTorso/VEMedieval-s-VFEM2_Apparel_LeatherArmor</texPath>
+			<texPath>OuterClothingTorso/VEMedieval2-s-VFEM2_Apparel_LeatherArmor</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -409,10 +492,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEMedieval-xl-VFEM2_Apparel_LeatherArmor</defName>
+		<defName>PR_OuterClothingTorso_VEMedieval2-xl-VFEM2_Apparel_LeatherArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingTorso/VEMedieval-xl-VFEM2_Apparel_LeatherArmor</texPath>
+			<texPath>OuterClothingTorso/VEMedieval2-xl-VFEM2_Apparel_LeatherArmor</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -451,10 +534,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEMedieval-s-VFEM2_Apparel_PaddedArmor</defName>
+		<defName>PR_OuterClothingTorso_VEMedieval2-s-VFEM2_Apparel_PaddedArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingTorso/VEMedieval-s-VFEM2_Apparel_PaddedArmor</texPath>
+			<texPath>OuterClothingTorso/VEMedieval2-s-VFEM2_Apparel_PaddedArmor</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -465,10 +548,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingTorso_VEMedieval-xl-VFEM2_Apparel_PaddedArmor</defName>
+		<defName>PR_OuterClothingTorso_VEMedieval2-xl-VFEM2_Apparel_PaddedArmor</defName>
 		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingTorso/VEMedieval-xl-VFEM2_Apparel_PaddedArmor</texPath>
+			<texPath>OuterClothingTorso/VEMedieval2-xl-VFEM2_Apparel_PaddedArmor</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -479,10 +562,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_Cap</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_Cap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_Cap</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_Cap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -493,10 +576,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_Cap</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_Cap</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_Cap</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_Cap</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -507,10 +590,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_Chaperon</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_Chaperon</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_Chaperon</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_Chaperon</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -521,10 +604,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_Chaperon</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_Chaperon</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_Chaperon</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_Chaperon</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -535,10 +618,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_DameHat</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_DameHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_DameHat</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_DameHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -549,10 +632,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_DameHat</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_DameHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_DameHat</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_DameHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -563,10 +646,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_JesterHat</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_JesterHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_JesterHat</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_JesterHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -577,10 +660,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_JesterHat</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_JesterHat</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_JesterHat</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_JesterHat</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -591,10 +674,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_KingsCrown</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_KingsCrown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_KingsCrown</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_KingsCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -605,10 +688,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_KingsCrown</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_KingsCrown</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_KingsCrown</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_KingsCrown</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -619,10 +702,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_LeatherHelmet</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_LeatherHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_LeatherHelmet</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_LeatherHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -633,10 +716,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_LeatherHelmet</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_LeatherHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_LeatherHelmet</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_LeatherHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -647,10 +730,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_PaddedHelmet</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_PaddedHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_PaddedHelmet</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_PaddedHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -661,10 +744,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_PaddedHelmet</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_PaddedHelmet</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_PaddedHelmet</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_PaddedHelmet</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -675,10 +758,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_PlagueMask</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_PlagueMask</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_PlagueMask</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_PlagueMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -689,10 +772,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_PlagueMask</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_PlagueMask</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_PlagueMask</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_PlagueMask</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -703,10 +786,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-an-VFEM2_Apparel_PaddedHelmet-styleViking</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-an-VFEM2_Apparel_PaddedHelmet-styleViking</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-an-VFEM2_Apparel_PaddedHelmet-styleViking</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-an-VFEM2_Apparel_PaddedHelmet-styleViking</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -718,10 +801,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterHeadgear_VEMedieval-cn-VFEM2_Apparel_PaddedHelmet-styleViking</defName>
+		<defName>PR_OuterHeadgear_VEMedieval2-cn-VFEM2_Apparel_PaddedHelmet-styleViking</defName>
 		<portraitLayer>PR_OuterHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>OuterHeadgear/VEMedieval-cn-VFEM2_Apparel_PaddedHelmet-styleViking</texPath>
+			<texPath>OuterHeadgear/VEMedieval2-cn-VFEM2_Apparel_PaddedHelmet-styleViking</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
@@ -733,10 +816,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_VEMedieval-an-VFEM2_Apparel_Chaperon</defName>
+		<defName>PR_UnderHeadgear_VEMedieval2-an-VFEM2_Apparel_Chaperon</defName>
 		<portraitLayer>PR_UnderHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/VEMedieval-an-VFEM2_Apparel_Chaperon</texPath>
+			<texPath>UnderHeadgear/VEMedieval2-an-VFEM2_Apparel_Chaperon</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>13~999</ageRange>
@@ -747,10 +830,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_UnderHeadgear_VEMedieval-cn-VFEM2_Apparel_Chaperon</defName>
+		<defName>PR_UnderHeadgear_VEMedieval2-cn-VFEM2_Apparel_Chaperon</defName>
 		<portraitLayer>PR_UnderHeadgear</portraitLayer>
 		<graphicData>
-			<texPath>UnderHeadgear/VEMedieval-cn-VFEM2_Apparel_Chaperon</texPath>
+			<texPath>UnderHeadgear/VEMedieval2-cn-VFEM2_Apparel_Chaperon</texPath>
 		</graphicData>
 		<requirements>
 			<ageRange>7~13</ageRange>
