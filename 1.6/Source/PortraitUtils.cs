@@ -223,6 +223,11 @@ namespace PortraitsOfTheRim
                     pawn = pawn,
                 };
             }
+            // Fix for 1.6 adjusting how pawns get changed per game session
+            if (pawn != portrait.pawn)
+            {
+                portrait.pawn = pawn;
+            }
             return portrait;
         }
         public static void RenderElement(this RenderTexture renderTexture, PortraitElementDef def, Pawn pawn, Vector3 offset, float zoom = 1f)
