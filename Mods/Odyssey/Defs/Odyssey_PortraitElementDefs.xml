@@ -86,10 +86,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_Odyssey-l-Apparel_Vacsuit</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<defName>PR_OuterClothingTorso_Odyssey-l-Apparel_Vacsuit</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingShoulder/Odyssey-l-Apparel_Vacsuit</texPath>
+			<texPath>OuterClothingTorso/Odyssey-l-Apparel_Vacsuit</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Large</bodyType>
@@ -100,10 +100,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_Odyssey-m-Apparel_Vacsuit</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<defName>PR_OuterClothingTorso_Odyssey-m-Apparel_Vacsuit</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingShoulder/Odyssey-m-Apparel_Vacsuit</texPath>
+			<texPath>OuterClothingTorso/Odyssey-m-Apparel_Vacsuit</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Medium</bodyType>
@@ -114,10 +114,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_Odyssey-s-Apparel_Vacsuit</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<defName>PR_OuterClothingTorso_Odyssey-s-Apparel_Vacsuit</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingShoulder/Odyssey-s-Apparel_Vacsuit</texPath>
+			<texPath>OuterClothingTorso/Odyssey-s-Apparel_Vacsuit</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
@@ -128,10 +128,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_Odyssey-xl-Apparel_Vacsuit</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<defName>PR_OuterClothingTorso_Odyssey-xl-Apparel_Vacsuit</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingShoulder/Odyssey-xl-Apparel_Vacsuit</texPath>
+			<texPath>OuterClothingTorso/Odyssey-xl-Apparel_Vacsuit</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>ExtraLarge</bodyType>
@@ -142,10 +142,10 @@
 	</PortraitsOfTheRim.PortraitElementDef>
 	
 	<PortraitsOfTheRim.PortraitElementDef>
-		<defName>PR_OuterClothingShoulder_Odyssey-s-Apparel_VacsuitChildren</defName>
-		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<defName>PR_OuterClothingTorso_Odyssey-s-Apparel_VacsuitChildren</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
 		<graphicData>
-			<texPath>OuterClothingShoulder/Odyssey-s-Apparel_VacsuitChildren</texPath>
+			<texPath>OuterClothingTorso/Odyssey-s-Apparel_VacsuitChildren</texPath>
 		</graphicData>
 		<requirements>
 			<bodyType>Small</bodyType>
