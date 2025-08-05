@@ -286,5 +286,12 @@
     <li IfModActive="Dubwise.DubsBadHygiene">Mods/DubsBadH</li>
     <li IfModActive="FS.ReviaRaceBiotech">Mods/Revia</li>
     <li IfModActive="rimsenal.hair">Mods/RimsenalHair</li>
+    <li IfModActive="Rooboid.Dreadlockhair">Mods/RoosDreadlocks</li>
+    <li IfModActive="Rooboid.DreadlockHairsHD">Mods/RoosDreadlocksHD</li>
+    <li IfModActive="Rooboid.Glasseshair">Mods/RoosGlasses</li>
+    <li IfModActive="Rooboid.GlasseshairHD">Mods/RoosGlassesHD</li>
+    <li IfModActive="Rooboid.RoyalhairHD">Mods/RoosRoyaltyHD</li>
+    <li IfModActive="Rooboid.Accessoryhair">Mods/RoosAccessories</li>
+    <li IfModActive="Rooboid.AccessoryHairsHD">Mods/RoosAccessoriesHD</li>
   </v1.6>
 </loadFolders>
