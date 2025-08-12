@@ -52,7 +52,13 @@ namespace PortraitsOfTheRim
             {
                 pawnAge = 21f;
             }
-            
+            else if (ageRange != null 
+                && pawn.ageTracker.AgeBiologicalYearsFloat > 998f
+                )
+            {
+                pawnAge = 998f;
+            }
+
             List<string> failReports = new List<string>();
             if (bodyParts.NullOrEmpty() is false && bodyParts.Exists(delegate (BodyPartType x)
             {
@@ -280,7 +286,7 @@ namespace PortraitsOfTheRim
         {
             var pawn = portrait.pawn;
 
-            // Override pawn age if the pawn has the Ageless gene
+            // Override pawn age if the pawn has the Ageless gene 
             float pawnAge = pawn.ageTracker.AgeBiologicalYearsFloat;
             if (ageRange != null
                 && pawn.ageTracker.AgeBiologicalYearsFloat > 38f
@@ -288,6 +294,12 @@ namespace PortraitsOfTheRim
                 )
             {
                 pawnAge = 21f;
+            }
+            else if (ageRange != null
+                && pawn.ageTracker.AgeBiologicalYearsFloat > 998f
+                )
+            {
+                pawnAge = 998f;
             }
             // Re-resolve gender
             if (gender != null && pawn.gender != gender.Value)
@@ -313,6 +325,12 @@ namespace PortraitsOfTheRim
                 )
             {
                 pawnAge = 21f;
+            }
+            else if (ageRange != null
+                && pawn.ageTracker.AgeBiologicalYearsFloat > 998f
+                )
+            {
+                pawnAge = 998f;
             }
             // Re-resolve gender
             if (gender != null && pawn.gender != gender.Value)
