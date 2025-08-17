@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEDeadlife-l-VQED_Apparel_GeneralsInsignia</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEDeadlife-l-VQED_Apparel_GeneralsInsignia</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VQED_Apparel_GeneralsInsignia</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEDeadlife-m-VQED_Apparel_GeneralsInsignia</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEDeadlife-m-VQED_Apparel_GeneralsInsignia</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VQED_Apparel_GeneralsInsignia</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEDeadlife-s-VQED_Apparel_GeneralsInsignia</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEDeadlife-s-VQED_Apparel_GeneralsInsignia</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VQED_Apparel_GeneralsInsignia</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingShoulder_VEDeadlife-xl-VQED_Apparel_GeneralsInsignia</defName>
+		<portraitLayer>PR_OuterClothingShoulder</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingShoulder/VEDeadlife-xl-VQED_Apparel_GeneralsInsignia</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VQED_Apparel_GeneralsInsignia</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEDeadlife-l-VQED_Apparel_MilitaryCoat</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEDeadlife-l-VQED_Apparel_MilitaryCoat</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Large</bodyType>
+			<apparels>
+				<li>VQED_Apparel_MilitaryCoat</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEDeadlife-m-VQED_Apparel_MilitaryCoat</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEDeadlife-m-VQED_Apparel_MilitaryCoat</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Medium</bodyType>
+			<apparels>
+				<li>VQED_Apparel_MilitaryCoat</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEDeadlife-s-VQED_Apparel_MilitaryCoat</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEDeadlife-s-VQED_Apparel_MilitaryCoat</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>Small</bodyType>
+			<apparels>
+				<li>VQED_Apparel_MilitaryCoat</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterClothingTorso_VEDeadlife-xl-VQED_Apparel_MilitaryCoat</defName>
+		<portraitLayer>PR_OuterClothingTorso</portraitLayer>
+		<graphicData>
+			<texPath>OuterClothingTorso/VEDeadlife-xl-VQED_Apparel_MilitaryCoat</texPath>
+		</graphicData>
+		<requirements>
+			<bodyType>ExtraLarge</bodyType>
+			<apparels>
+				<li>VQED_Apparel_MilitaryCoat</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEDeadlife-an-VQED_Apparel_GeneralsCap</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEDeadlife-an-VQED_Apparel_GeneralsCap</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<apparels>
+				<li>VQED_Apparel_GeneralsCap</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+		
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHeadgear_VEDeadlife-cn-VQED_Apparel_GeneralsCap</defName>
+		<portraitLayer>PR_OuterHeadgear</portraitLayer>
+		<graphicData>
+			<texPath>OuterHeadgear/VEDeadlife-cn-VQED_Apparel_GeneralsCap</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<apparels>
+				<li>VQED_Apparel_GeneralsCap</li>
+			</apparels>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
+</Defs>
