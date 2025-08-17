@@ -105,8 +105,8 @@ namespace PortraitsOfTheRim
         public static FloatRange middleAged = new FloatRange(39f, 64f);
         public static FloatRange elderAge = new FloatRange(64, 999f);
         public static FloatRange totalChildAge = new FloatRange(7f, 13f);
-        public static FloatRange totalAdultAge = new FloatRange(13f, 999);
-        public static FloatRange teenAdultAge = new FloatRange(19f, 999);
+        public static FloatRange totalAdultAge = new FloatRange(13f, 999f);
+        public static FloatRange teenAdultAge = new FloatRange(19f, 999f);
         static PortraitUtils()
         {
             new Harmony("PortraitsOfTheRimMod").PatchAll();
@@ -199,7 +199,13 @@ namespace PortraitsOfTheRim
         }
         public static bool IsAdult(this Pawn pawn)
         {
-            return totalAdultAge.Includes(pawn.ageTracker.AgeBiologicalYearsFloat);
+            // In case of trolls and such with 999+ years
+            float pawnAgeToCheck = pawn.ageTracker.AgeBiologicalYearsFloat;
+            if (pawn.ageTracker.AgeBiologicalYearsFloat > 999f)
+            {
+                pawnAgeToCheck = 998f;
+            }
+            return totalAdultAge.Includes(pawnAgeToCheck);
         }
         public static bool IsTeen(this Pawn pawn)
         {
