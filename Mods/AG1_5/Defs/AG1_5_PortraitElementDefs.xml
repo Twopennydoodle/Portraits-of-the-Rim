@@ -2100,4 +2100,32 @@
 			</genes>
 		</requirements>
 	</PortraitsOfTheRim.PortraitElementDef>	
+	
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHeadSkinColor_AG1_5-cn-gene-AG_NereidFins</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHeadSkinColor/AG1_5-cn-gene-AG_NereidFins</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>7~13</ageRange>
+			<genes>
+				<li>AG_NereidFins</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>	
+		
+	<PortraitsOfTheRim.PortraitElementDef>
+		<defName>PR_OuterHediffHeadSkinColor_AG1_5-an-gene-AG_NereidFins</defName>
+		<portraitLayer>PR_OuterHediffHeadSkinColor</portraitLayer>
+		<graphicData>
+			<texPath>OuterHediffHeadSkinColor/AG1_5-an-gene-AG_NereidFins</texPath>
+		</graphicData>
+		<requirements>
+			<ageRange>13~999</ageRange>
+			<genes>
+				<li>AG_NereidFins</li>
+			</genes>
+		</requirements>
+	</PortraitsOfTheRim.PortraitElementDef>
 </Defs>

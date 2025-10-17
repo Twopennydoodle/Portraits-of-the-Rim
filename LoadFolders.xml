@@ -294,5 +294,8 @@
     <li IfModActive="Rooboid.RoyalhairHD">Mods/RoosRoyaltyHD</li>
     <li IfModActive="Rooboid.Accessoryhair">Mods/RoosAccessories</li>
     <li IfModActive="Rooboid.AccessoryHairsHD">Mods/RoosAccessoriesHD</li>
+    <li IfModActive="tug.Minotaur">Mods/RoosMinotaurs</li>
+    <li IfModActive="V.Rooboid.Faun">Mods/RoosFauns</li>
+    <li IfModActive="tug.Satyr">Mods/RoosSatyrs</li>
   </v1.6>
 </loadFolders>
