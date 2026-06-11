@@ -24,6 +24,7 @@ namespace PortraitsOfTheRim
         public static bool CELoaded = ModsConfig.IsActive("CETeam.CombatExtended");
         public static bool AppearanceClothesLoaded = ModsConfig.IsActive("tammybee.appearanceclothes");
         public static bool GradientHairLoaded = ModsConfig.IsActive("automatic.gradienthair");
+        public static bool NiceInventoryTabLoaded = ModsConfig.IsActive("andromeda.niceinventorytab");
         public static Type gradientCompType = null;
         public static MethodInfo getGradientHairComp = null;
         public static MethodInfo getGradientHairSettings = null;

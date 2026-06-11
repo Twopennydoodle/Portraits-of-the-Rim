@@ -33,6 +33,12 @@ namespace PortraitsOfTheRim
             }
         }
 
+        public static bool Prepare()
+        {
+            // Disable the gear tab with Nice Inventory so it does not overlap
+            return !PortraitUtils.NiceInventoryTabLoaded;
+        }
+
         public static float FixedWidth(ref Rect rect, ITab_Pawn_Gear tab)
         {
             var portrait = tab.SelPawnForGear.GetPortrait();

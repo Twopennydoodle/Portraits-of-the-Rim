@@ -11,9 +11,14 @@ namespace PortraitsOfTheRim
         public static MethodInfo target;
         public static bool Prepare()
         {
+            if (PortraitUtils.NiceInventoryTabLoaded)
+            {
+                return false;
+            }
             if (PortraitUtils.CELoaded)
             {
                 target = AccessTools.Method("CombatExtended.ITab_Inventory:FillTab");
+
                 return target != null;
             }
             return false;
