@@ -297,5 +297,7 @@
     <li IfModActive="tug.Minotaur">Mods/RoosMinotaurs</li>
     <li IfModActive="V.Rooboid.Faun">Mods/RoosFauns</li>
     <li IfModActive="tug.Satyr">Mods/RoosSatyrs</li>
+    <li IfModActive="Arquebus.StagzMerfolk">Mods/GojiMerren</li>
+    <li IfModActive="Mlie.FashionRIMsta">Mods/FashionRIMsta</li>
   </v1.6>
 </loadFolders>
